@@ -3,6 +3,12 @@
   <advance width="1183"/>
   <outline>
     <component base="LtnSmG.SngBowl"/>
+    <contour>
+      <point x="440" y="-500" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="865" y="1100" type="move" name="U"/>
+    </contour>
   </outline>
   <lib>
     <dict>

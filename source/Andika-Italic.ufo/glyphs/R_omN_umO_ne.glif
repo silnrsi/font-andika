@@ -4,6 +4,9 @@
   <unicode hex="2160"/>
   <outline>
     <component base="LtnCapI"/>
+    <contour>
+      <point x="785" y="1530" type="move" name="U"/>
+    </contour>
   </outline>
   <lib>
     <dict>

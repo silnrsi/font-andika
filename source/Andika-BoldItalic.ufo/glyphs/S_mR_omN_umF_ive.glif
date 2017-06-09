@@ -4,6 +4,9 @@
   <unicode hex="2174"/>
   <outline>
     <component base="LtnSmV"/>
+    <contour>
+      <point x="695" y="1100" type="move" name="U"/>
+    </contour>
   </outline>
   <lib>
     <dict>

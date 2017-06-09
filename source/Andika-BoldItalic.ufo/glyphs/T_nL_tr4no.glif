@@ -5,5 +5,8 @@
     <component base="TnLtrSpcPointLeft"/>
     <component base="TnLtrSeg44" xOffset="159"/>
     <component base="TnLtrSpcFlatRight" xOffset="639"/>
+    <contour>
+      <point x="160" y="1164" type="move" name="_TL"/>
+    </contour>
   </outline>
 </glyph>

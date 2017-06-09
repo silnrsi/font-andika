@@ -4,6 +4,12 @@
   <unicode hex="0351"/>
   <outline>
     <component base="CombLftHalfRingBlw" yOffset="1695"/>
+    <contour>
+      <point x="-580" y="1635" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="-580" y="1100" type="move" name="_U"/>
+    </contour>
   </outline>
   <lib>
     <dict>

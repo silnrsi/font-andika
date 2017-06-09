@@ -4,6 +4,12 @@
   <unicode hex="1DCA"/>
   <outline>
     <component base="LtnSmR" xScale="0.7" yScale="0.65" xOffset="-1128" yOffset="-797"/>
+    <contour>
+      <point x="-801" y="-765" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="-635" y="-100" type="move" name="_L"/>
+    </contour>
   </outline>
   <lib>
     <dict>

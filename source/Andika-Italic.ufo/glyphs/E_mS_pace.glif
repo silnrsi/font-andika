@@ -2,7 +2,23 @@
 <glyph name="EmSpace" format="1">
   <advance width="2028"/>
   <unicode hex="2003"/>
-  <outline/>
+  <outline>
+    <contour>
+      <point x="964" y="0" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="939" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="1014" y="0" type="move" name="O"/>
+    </contour>
+    <contour>
+      <point x="2238" y="1000" type="move" name="R"/>
+    </contour>
+    <contour>
+      <point x="1346" y="1530" type="move" name="U"/>
+    </contour>
+  </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.mark</key>

@@ -3,5 +3,11 @@
   <advance width="579"/>
   <outline>
     <component base="LtnSmT.NoTailT" xScale="0.7" yScale="0.65" xOffset="20" yOffset="680"/>
+    <contour>
+      <point x="255" y="615" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="460" y="1605" type="move" name="U"/>
+    </contour>
   </outline>
 </glyph>

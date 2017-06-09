@@ -5,6 +5,12 @@
   <outline>
     <component base="CyCapI" xOffset="-60"/>
     <component base="CombBreve.CyShortMrkAlt.UCHt" xOffset="1548" yOffset="85"/>
+    <contour>
+      <point x="737" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="737" y="2025" type="move" name="U"/>
+    </contour>
   </outline>
   <lib>
     <dict>

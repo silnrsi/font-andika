@@ -3,6 +3,12 @@
   <advance width="730"/>
   <outline>
     <component base="CombInvBreve" xOffset="885"/>
+    <contour>
+      <point x="697" y="1530" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="43" y="1100" type="move" name="_U"/>
+    </contour>
   </outline>
   <lib>
     <dict>

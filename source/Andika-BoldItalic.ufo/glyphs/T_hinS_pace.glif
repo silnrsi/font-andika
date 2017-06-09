@@ -2,7 +2,23 @@
 <glyph name="ThinSpace" format="1">
   <advance width="390"/>
   <unicode hex="2009"/>
-  <outline/>
+  <outline>
+    <contour>
+      <point x="145" y="0" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="120" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="195" y="0" type="move" name="O"/>
+    </contour>
+    <contour>
+      <point x="600" y="1000" type="move" name="R"/>
+    </contour>
+    <contour>
+      <point x="525" y="1530" type="move" name="U"/>
+    </contour>
+  </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.mark</key>

@@ -5,6 +5,12 @@
   <outline>
     <component base="LtnSmU" xOffset="-60"/>
     <component base="CombOgonek" xOffset="1480"/>
+    <contour>
+      <point x="750" y="-500" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="804" y="1100" type="move" name="U"/>
+    </contour>
   </outline>
   <lib>
     <dict>

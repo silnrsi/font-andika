@@ -3,6 +3,12 @@
   <advance width="655"/>
   <outline>
     <component base="CombDiaer" xOffset="847"/>
+    <contour>
+      <point x="659" y="1530" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="234" y="1100" type="move" name="_U"/>
+    </contour>
   </outline>
   <lib>
     <dict>

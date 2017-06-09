@@ -4,5 +4,11 @@
   <unicode hex="1D5D"/>
   <outline>
     <component base="GrSmBeta" xScale="0.7" yScale="0.65" xOffset="5" yOffset="680"/>
+    <contour>
+      <point x="529" y="345" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="492" y="1802" type="move" name="U"/>
+    </contour>
   </outline>
 </glyph>

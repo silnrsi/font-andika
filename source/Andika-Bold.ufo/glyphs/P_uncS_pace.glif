@@ -2,7 +2,23 @@
 <glyph name="PuncSpace" format="1">
   <advance width="645"/>
   <unicode hex="2008"/>
-  <outline/>
+  <outline>
+    <contour>
+      <point x="322" y="0" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="322" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="372" y="0" type="move" name="O"/>
+    </contour>
+    <contour>
+      <point x="645" y="1000" type="move" name="R"/>
+    </contour>
+    <contour>
+      <point x="322" y="1530" type="move" name="U"/>
+    </contour>
+  </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.mark</key>

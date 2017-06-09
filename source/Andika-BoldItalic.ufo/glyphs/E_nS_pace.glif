@@ -2,7 +2,23 @@
 <glyph name="EnSpace" format="1">
   <advance width="1004"/>
   <unicode hex="2002"/>
-  <outline/>
+  <outline>
+    <contour>
+      <point x="450" y="0" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="425" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="500" y="0" type="move" name="O"/>
+    </contour>
+    <contour>
+      <point x="1215" y="1000" type="move" name="R"/>
+    </contour>
+    <contour>
+      <point x="835" y="1530" type="move" name="U"/>
+    </contour>
+  </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.mark</key>

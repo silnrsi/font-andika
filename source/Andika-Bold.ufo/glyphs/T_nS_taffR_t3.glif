@@ -4,5 +4,8 @@
   <outline>
     <component base="TnLtrBar"/>
     <component base="TnLtrSpcFlatRight"/>
+    <contour>
+      <point x="-20" y="787" type="move" name="_TL"/>
+    </contour>
   </outline>
 </glyph>

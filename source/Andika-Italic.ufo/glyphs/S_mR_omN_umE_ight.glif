@@ -7,6 +7,9 @@
     <component base="LtnSmI" xOffset="1010"/>
     <component base="LtnSmI" xOffset="1575"/>
     <component base="LtnSmI" xOffset="2140"/>
+    <contour>
+      <point x="1550" y="1505" type="move" name="U"/>
+    </contour>
   </outline>
   <lib>
     <dict>

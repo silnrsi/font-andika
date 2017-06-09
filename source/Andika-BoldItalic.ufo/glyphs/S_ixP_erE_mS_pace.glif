@@ -2,7 +2,23 @@
 <glyph name="SixPerEmSpace" format="1">
   <advance width="321"/>
   <unicode hex="2006"/>
-  <outline/>
+  <outline>
+    <contour>
+      <point x="110" y="0" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="85" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="160" y="0" type="move" name="O"/>
+    </contour>
+    <contour>
+      <point x="530" y="1000" type="move" name="R"/>
+    </contour>
+    <contour>
+      <point x="490" y="1530" type="move" name="U"/>
+    </contour>
+  </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.mark</key>

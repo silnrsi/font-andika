@@ -5,6 +5,15 @@
   <outline>
     <component base="LtnCapL"/>
     <component base="LtnSmJ" xOffset="1080"/>
+    <contour>
+      <point x="592" y="0" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="1205" y="-500" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="1430" y="1590" type="move" name="U"/>
+    </contour>
   </outline>
   <lib>
     <dict>

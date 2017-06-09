@@ -4,6 +4,12 @@
   <unicode hex="1DFD"/>
   <outline>
     <component base="CombAlmostEqToAbv" xOffset="-486" yOffset="-1741"/>
+    <contour>
+      <point x="-792" y="-650" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="-655" y="-100" type="move" name="_L"/>
+    </contour>
   </outline>
   <lib>
     <dict>

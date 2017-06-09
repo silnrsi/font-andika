@@ -6,6 +6,9 @@
     <component base="LtnSmI" xOffset="-60"/>
     <component base="LtnSmI" xOffset="505"/>
     <component base="LtnSmI" xOffset="1070"/>
+    <contour>
+      <point x="1020" y="1505" type="move" name="U"/>
+    </contour>
   </outline>
   <lib>
     <dict>

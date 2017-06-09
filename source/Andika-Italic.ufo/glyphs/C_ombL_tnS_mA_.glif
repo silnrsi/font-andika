@@ -3,6 +3,12 @@
   <advance width="0"/>
   <outline>
     <component base="LtnSupSmA" xOffset="-883" yOffset="549"/>
+    <contour>
+      <point x="-141" y="1955" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="-336" y="1175" type="move" name="_U"/>
+    </contour>
   </outline>
   <lib>
     <dict>

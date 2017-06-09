@@ -4,5 +4,14 @@
   <unicode hex="2071"/>
   <outline>
     <component base="LtnSmI" xScale="0.7" yScale="0.65" xOffset="5" yOffset="680"/>
+    <contour>
+      <point x="230" y="615" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="440" y="1320" type="move" name="R"/>
+    </contour>
+    <contour>
+      <point x="230" y="1675" type="move" name="U"/>
+    </contour>
   </outline>
 </glyph>

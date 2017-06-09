@@ -3,6 +3,12 @@
   <advance width="826"/>
   <outline>
     <component base="LtnSmVHook.StraightLftHighHook" xScale="0.7" yScale="0.65" xOffset="22" yOffset="680"/>
+    <contour>
+      <point x="401" y="615" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="409" y="1395" type="move" name="U"/>
+    </contour>
   </outline>
   <lib>
     <dict>

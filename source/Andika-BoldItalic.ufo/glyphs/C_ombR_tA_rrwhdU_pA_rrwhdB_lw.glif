@@ -5,6 +5,12 @@
   <outline>
     <component base="ModRtArrwhd" xOffset="-1983" yOffset="-1749"/>
     <component base="ModUpArrwhd" xOffset="-1125" yOffset="-1737"/>
+    <contour>
+      <point x="-824" y="-850" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="-637" y="-100" type="move" name="_L"/>
+    </contour>
   </outline>
   <lib>
     <dict>

@@ -6,6 +6,15 @@
     <component base="LtnSmD"/>
     <component base="LtnSmZ" xOffset="1190"/>
     <component base="CombCaron" xOffset="2285"/>
+    <contour>
+      <point x="1715" y="0" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="1715" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="1715" y="1635" type="move" name="U"/>
+    </contour>
   </outline>
   <lib>
     <dict>

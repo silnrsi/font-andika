@@ -2,7 +2,23 @@
 <glyph name="HairSpace" format="1">
   <advance width="185"/>
   <unicode hex="200A"/>
-  <outline/>
+  <outline>
+    <contour>
+      <point x="40" y="0" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="15" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="95" y="0" type="move" name="O"/>
+    </contour>
+    <contour>
+      <point x="395" y="1000" type="move" name="R"/>
+    </contour>
+    <contour>
+      <point x="425" y="1530" type="move" name="U"/>
+    </contour>
+  </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.mark</key>

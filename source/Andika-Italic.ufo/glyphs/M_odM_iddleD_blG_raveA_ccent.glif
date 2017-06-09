@@ -4,6 +4,9 @@
   <unicode hex="02F5"/>
   <outline>
     <component base="CombDblGrave" xOffset="838" yOffset="-568"/>
+    <contour>
+      <point x="610" y="1100" type="move" name="U"/>
+    </contour>
   </outline>
   <lib>
     <dict>
