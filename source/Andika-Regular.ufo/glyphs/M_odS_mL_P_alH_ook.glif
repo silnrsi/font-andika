@@ -4,6 +4,12 @@
   <unicode hex="1DAA"/>
   <outline>
     <component base="LtnSmLPalHook" xScale="0.7" yScale="0.65" xOffset="5" yOffset="680"/>
+    <contour>
+      <point x="180" y="345" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="185" y="1745" type="move" name="U"/>
+    </contour>
   </outline>
   <lib>
     <dict>

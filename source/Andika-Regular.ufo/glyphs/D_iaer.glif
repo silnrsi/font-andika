@@ -4,5 +4,8 @@
   <unicode hex="00A8"/>
   <outline>
     <component base="CombDiaer" xOffset="910"/>
+    <contour>
+      <point x="340" y="1505" type="move" name="U"/>
+    </contour>
   </outline>
 </glyph>

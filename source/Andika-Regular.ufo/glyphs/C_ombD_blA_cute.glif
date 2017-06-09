@@ -4,5 +4,11 @@
   <unicode hex="030B"/>
   <outline>
     <component base="DblAcuteAccent" xOffset="-900"/>
+    <contour>
+      <point x="-570" y="1635" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="-570" y="1100" type="move" name="_U"/>
+    </contour>
   </outline>
 </glyph>

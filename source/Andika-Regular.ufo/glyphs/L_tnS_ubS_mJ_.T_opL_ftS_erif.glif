@@ -3,5 +3,11 @@
   <advance width="522"/>
   <outline>
     <component base="ModSmJ.TopLftSerif" yOffset="-980"/>
+    <contour>
+      <point x="175" y="-645" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="335" y="700" type="move" name="U"/>
+    </contour>
   </outline>
 </glyph>

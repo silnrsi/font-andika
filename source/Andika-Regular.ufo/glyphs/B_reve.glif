@@ -4,5 +4,8 @@
   <unicode hex="02D8"/>
   <outline>
     <component base="CombBreve" xOffset="945"/>
+    <contour>
+      <point x="375" y="1635" type="move" name="U"/>
+    </contour>
   </outline>
 </glyph>

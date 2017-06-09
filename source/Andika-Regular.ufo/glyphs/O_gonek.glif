@@ -4,5 +4,8 @@
   <unicode hex="02DB"/>
   <outline>
     <component base="CombOgonek" xOffset="770"/>
+    <contour>
+      <point x="355" y="-400" type="move" name="L"/>
+    </contour>
   </outline>
 </glyph>

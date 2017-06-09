@@ -4,6 +4,12 @@
   <unicode hex="02BE"/>
   <outline>
     <component base="ModCntrdRtHalfRing" yOffset="850"/>
+    <contour>
+      <point x="250" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="250" y="1635" type="move" name="U"/>
+    </contour>
   </outline>
   <lib>
     <dict>

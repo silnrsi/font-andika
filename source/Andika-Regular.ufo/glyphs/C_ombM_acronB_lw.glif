@@ -4,5 +4,11 @@
   <unicode hex="0331"/>
   <outline>
     <component base="ModLowMacron" xOffset="-940"/>
+    <contour>
+      <point x="-565" y="-500" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="-565" y="-100" type="move" name="_L"/>
+    </contour>
   </outline>
 </glyph>

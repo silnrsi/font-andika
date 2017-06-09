@@ -4,5 +4,11 @@
   <unicode hex="1DFD"/>
   <outline>
     <component base="CombAlmostEqToAbv" yOffset="-1809"/>
+    <contour>
+      <point x="-570" y="-650" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="-570" y="-100" type="move" name="_L"/>
+    </contour>
   </outline>
 </glyph>

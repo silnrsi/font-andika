@@ -3,6 +3,12 @@
   <advance width="521"/>
   <outline>
     <component base="LtnSmT.NoTailT" xScale="0.65" yScale="0.65" xOffset="7" yOffset="680"/>
+    <contour>
+      <point x="255" y="615" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="255" y="1605" type="move" name="U"/>
+    </contour>
   </outline>
   <lib>
     <dict>

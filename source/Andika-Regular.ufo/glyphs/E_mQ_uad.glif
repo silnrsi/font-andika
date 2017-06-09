@@ -2,5 +2,21 @@
 <glyph name="EmQuad" format="1">
   <advance width="2048"/>
   <unicode hex="2001"/>
-  <outline/>
+  <outline>
+    <contour>
+      <point x="1024" y="0" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="1024" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="1074" y="0" type="move" name="O"/>
+    </contour>
+    <contour>
+      <point x="2048" y="1000" type="move" name="R"/>
+    </contour>
+    <contour>
+      <point x="1024" y="1530" type="move" name="U"/>
+    </contour>
+  </outline>
 </glyph>

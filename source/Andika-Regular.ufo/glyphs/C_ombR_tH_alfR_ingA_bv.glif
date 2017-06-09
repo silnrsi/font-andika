@@ -4,5 +4,11 @@
   <unicode hex="0357"/>
   <outline>
     <component base="CombRtHalfRingBlw" yOffset="1695"/>
+    <contour>
+      <point x="-550" y="1635" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="-550" y="1100" type="move" name="_U"/>
+    </contour>
   </outline>
 </glyph>

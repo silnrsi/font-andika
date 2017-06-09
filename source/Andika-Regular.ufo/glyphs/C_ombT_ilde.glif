@@ -4,5 +4,11 @@
   <unicode hex="0303"/>
   <outline>
     <component base="SmTilde" xOffset="-925"/>
+    <contour>
+      <point x="-575" y="1475" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="-575" y="1100" type="move" name="_U"/>
+    </contour>
   </outline>
 </glyph>

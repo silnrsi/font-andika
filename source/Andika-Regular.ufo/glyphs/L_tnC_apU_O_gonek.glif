@@ -5,5 +5,17 @@
   <outline>
     <component base="LtnCapU"/>
     <component base="CombOgonek" xOffset="1258"/>
+    <contour>
+      <point x="707" y="0" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="775" y="-500" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="1400" y="1200" type="move" name="R"/>
+    </contour>
+    <contour>
+      <point x="707" y="1530" type="move" name="U"/>
+    </contour>
   </outline>
 </glyph>

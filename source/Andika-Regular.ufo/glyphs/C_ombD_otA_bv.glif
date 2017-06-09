@@ -4,5 +4,11 @@
   <unicode hex="0307"/>
   <outline>
     <component base="DotAbv" xOffset="-705"/>
+    <contour>
+      <point x="-570" y="1505" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="-570" y="1100" type="move" name="_U"/>
+    </contour>
   </outline>
 </glyph>

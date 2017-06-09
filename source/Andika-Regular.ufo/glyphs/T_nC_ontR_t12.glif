@@ -4,5 +4,11 @@
   <outline>
     <component base="TnLtrSpcPointLeft"/>
     <component base="TnLtrSeg12" xOffset="159"/>
+    <contour>
+      <point x="639" y="411" type="move" name="TL"/>
+    </contour>
+    <contour>
+      <point x="160" y="35" type="move" name="_TL"/>
+    </contour>
   </outline>
 </glyph>

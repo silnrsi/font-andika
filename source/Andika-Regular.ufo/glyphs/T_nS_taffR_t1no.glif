@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="TnStaffRt1no" format="1">
   <advance width="220"/>
-  <outline/>
+  <outline>
+    <contour>
+      <point x="-20" y="35" type="move" name="_TL"/>
+    </contour>
+  </outline>
 </glyph>

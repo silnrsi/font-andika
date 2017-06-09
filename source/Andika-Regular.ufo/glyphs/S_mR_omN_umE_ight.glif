@@ -7,5 +7,8 @@
     <component base="LtnSmI" xOffset="1070"/>
     <component base="LtnSmI" xOffset="1635"/>
     <component base="LtnSmI" xOffset="2200"/>
+    <contour>
+      <point x="1400" y="1505" type="move" name="U"/>
+    </contour>
   </outline>
 </glyph>

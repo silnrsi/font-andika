@@ -4,5 +4,8 @@
   <unicode hex="02CE"/>
   <outline>
     <component base="CombGraveBlw" xOffset="930"/>
+    <contour>
+      <point x="280" y="-645" type="move" name="L"/>
+    </contour>
   </outline>
 </glyph>

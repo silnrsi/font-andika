@@ -3,5 +3,14 @@
   <advance width="371"/>
   <outline>
     <component base="LtnSmDotlessI" xScale="0.7" yScale="0.65" xOffset="-15" yOffset="680"/>
+    <contour>
+      <point x="190" y="615" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="371" y="1320" type="move" name="R"/>
+    </contour>
+    <contour>
+      <point x="190" y="1395" type="move" name="U"/>
+    </contour>
   </outline>
 </glyph>

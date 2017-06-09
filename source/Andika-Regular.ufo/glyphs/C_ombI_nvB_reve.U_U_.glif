@@ -3,5 +3,11 @@
   <advance width="750"/>
   <outline>
     <component base="CombInvBreve" xOffset="945"/>
+    <contour>
+      <point x="375" y="1530" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="-522" y="1100" type="move" name="_U"/>
+    </contour>
   </outline>
 </glyph>
