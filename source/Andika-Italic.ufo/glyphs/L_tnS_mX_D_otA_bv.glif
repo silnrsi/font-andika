@@ -4,17 +4,15 @@
   <unicode hex="1E8B"/>
   <outline>
     <component base="LtnSmX"/>
-    <component base="CombDotAbv" xOffset="1057"/>
+    <component base="CombDotAbv" xOffset="1055"/>
+    <contour>
+      <point x="840" y="0" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="457" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="758" y="1505" type="move" name="U"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.807</real>
-        <integer>1</integer>
-        <real>0.6</real>
-        <integer>1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

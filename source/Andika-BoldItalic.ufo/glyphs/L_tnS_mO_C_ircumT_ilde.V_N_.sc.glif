@@ -4,16 +4,20 @@
   <outline>
     <component base="LtnSmO.sc"/>
     <component base="CombCircumTilde.VN" xOffset="1000" yOffset="193"/>
+    <contour>
+      <point x="670" y="8" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="670" y="-76" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="890" y="8" type="move" name="O"/>
+    </contour>
+    <contour>
+      <point x="1353" y="1016" type="move" name="R"/>
+    </contour>
+    <contour>
+      <point x="840" y="2113" type="move" name="U"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.807</real>
-        <integer>1</integer>
-        <real>0.6</real>
-        <integer>1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

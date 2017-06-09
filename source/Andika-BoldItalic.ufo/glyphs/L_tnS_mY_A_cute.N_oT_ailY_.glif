@@ -4,16 +4,14 @@
   <outline>
     <component base="LtnSmY.NoTailY"/>
     <component base="CombAcute" xOffset="1025"/>
+    <contour>
+      <point x="830" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="1355" y="1000" type="move" name="R"/>
+    </contour>
+    <contour>
+      <point x="774" y="1635" type="move" name="U"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.807</real>
-        <integer>1</integer>
-        <real>0.6</real>
-        <integer>1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

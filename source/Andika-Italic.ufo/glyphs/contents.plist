@@ -2126,6 +2126,8 @@
   <string>L_tnC_apJ_.S_ophia.glif</string>
   <key>LtnCapJCircum</key>
   <string>L_tnC_apJ_C_ircum.glif</string>
+  <key>LtnCapJCircum.BarTop</key>
+  <string>L_tnC_apJ_C_ircum.B_arT_op.glif</string>
   <key>LtnCapJCrossedTail</key>
   <string>L_tnC_apJ_C_rossedT_ail.glif</string>
   <key>LtnCapJStrk</key>
@@ -4234,6 +4236,8 @@
   <string>L_tnS_mI_s.sc.glif</string>
   <key>LtnSmJ</key>
   <string>L_tnS_mJ_.glif</string>
+  <key>LtnSmJ.BarTop</key>
+  <string>L_tnS_mJ_.B_arT_op.glif</string>
   <key>LtnSmJ.Dotless</key>
   <string>L_tnS_mJ_.D_otless.glif</string>
   <key>LtnSmJ.TopLftSerif</key>
@@ -4246,12 +4250,18 @@
   <string>L_tnS_mJ_C_aron.T_opL_ftS_erif.glif</string>
   <key>LtnSmJCircum</key>
   <string>L_tnS_mJ_C_ircum.glif</string>
+  <key>LtnSmJCircum.BarTop</key>
+  <string>L_tnS_mJ_C_ircum.B_arT_op.glif</string>
+  <key>LtnSmJCircum.BarTop.sc</key>
+  <string>L_tnS_mJ_C_ircum.B_arT_op.sc.glif</string>
   <key>LtnSmJCircum.TopLftSerif</key>
   <string>L_tnS_mJ_C_ircum.T_opL_ftS_erif.glif</string>
   <key>LtnSmJCircum.sc</key>
   <string>L_tnS_mJ_C_ircum.sc.glif</string>
   <key>LtnSmJCrossedTail</key>
   <string>L_tnS_mJ_C_rossedT_ail.glif</string>
+  <key>LtnSmJCrossedTail.BarTop</key>
+  <string>L_tnS_mJ_C_rossedT_ail.B_arT_op.glif</string>
   <key>LtnSmJCrossedTail.Dotless</key>
   <string>L_tnS_mJ_C_rossedT_ail.D_otless.glif</string>
   <key>LtnSmJCrossedTail.Dotless.TopLftSerif</key>
@@ -4260,6 +4270,8 @@
   <string>L_tnS_mJ_C_rossedT_ail.T_opL_ftS_erif.glif</string>
   <key>LtnSmJStrk</key>
   <string>L_tnS_mJ_S_trk.glif</string>
+  <key>LtnSmJStrk.BarTop</key>
+  <string>L_tnS_mJ_S_trk.B_arT_op.glif</string>
   <key>LtnSmJStrk.Dotless</key>
   <string>L_tnS_mJ_S_trk.D_otless.glif</string>
   <key>LtnSmJStrk.TopLftSerif</key>

@@ -4,16 +4,20 @@
   <outline>
     <component base="LtnSmAe.2StorySItal"/>
     <component base="CombAcute" xOffset="1435"/>
+    <contour>
+      <point x="866" y="0" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="865" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="1465" y="0" type="move" name="O"/>
+    </contour>
+    <contour>
+      <point x="1745" y="1000" type="move" name="R"/>
+    </contour>
+    <contour>
+      <point x="865" y="1635" type="move" name="U"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.807</real>
-        <integer>1</integer>
-        <real>0.6</real>
-        <integer>1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

@@ -4,16 +4,20 @@
   <outline>
     <component base="LtnSmU.sc"/>
     <component base="CombGrave" xOffset="1075" yOffset="193"/>
+    <contour>
+      <point x="660" y="8" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="660" y="-76" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="861" y="8" type="move" name="O"/>
+    </contour>
+    <contour>
+      <point x="1298" y="1016" type="move" name="R"/>
+    </contour>
+    <contour>
+      <point x="834" y="1828" type="move" name="U"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.807</real>
-        <integer>1</integer>
-        <real>0.6</real>
-        <integer>1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

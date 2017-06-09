@@ -3,17 +3,12 @@
   <advance width="1060"/>
   <unicode hex="1D78"/>
   <outline>
-    <component base="LtnCapH" xScale="0.7" yScale="0.65" xOffset="5" yOffset="680"/>
+    <component base="LtnCapH" xOffset="5" yOffset="680"/>
+    <contour>
+      <point x="512" y="615" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="512" y="1675" type="move" name="U"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.807</real>
-        <integer>1</integer>
-        <real>0.6</real>
-        <integer>1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

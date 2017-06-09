@@ -9,24 +9,4 @@
     <component base="TnLtrBar" xOffset="560"/>
     <component base="TnLtrSpcFlatRight" xOffset="560"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="lsb">
-            <hstem pos="-25" width="180"/>
-            <vstem pos="120" width="180"/>
-          </hintset>
-        </hintSetList>
-      </data>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.807</real>
-        <integer>1</integer>
-        <real>0.6</real>
-        <integer>1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

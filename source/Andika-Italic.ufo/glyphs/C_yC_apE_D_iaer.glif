@@ -4,17 +4,12 @@
   <unicode hex="04EC"/>
   <outline>
     <component base="CyCapE"/>
-    <component base="CombDiaer" xOffset="1284" yOffset="430"/>
+    <component base="CombDiaer" xOffset="1200" yOffset="430"/>
+    <contour>
+      <point x="525" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="947" y="1935" type="move" name="U"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.807</real>
-        <integer>1</integer>
-        <real>0.6</real>
-        <integer>1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

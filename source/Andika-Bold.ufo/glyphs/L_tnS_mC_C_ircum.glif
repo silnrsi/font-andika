@@ -5,16 +5,17 @@
   <outline>
     <component base="LtnSmC"/>
     <component base="CombCircum" xOffset="1155" yOffset="1"/>
+    <contour>
+      <point x="555" y="1" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="575" y="-99" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="1020" y="1001" type="move" name="R"/>
+    </contour>
+    <contour>
+      <point x="567" y="1636" type="move" name="U"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.807</real>
-        <integer>1</integer>
-        <real>0.6</real>
-        <integer>1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

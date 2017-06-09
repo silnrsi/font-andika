@@ -4,18 +4,22 @@
   <unicode hex="1E15"/>
   <outline>
     <component base="LtnSmE"/>
-    <component base="CombMacron" xOffset="1139"/>
-    <component base="CombGrave" xOffset="1119" yOffset="350"/>
+    <component base="CombMacron" xOffset="1140"/>
+    <component base="CombGrave" xOffset="1120" yOffset="350"/>
+    <contour>
+      <point x="545" y="0" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="570" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="925" y="0" type="move" name="O"/>
+    </contour>
+    <contour>
+      <point x="1095" y="1000" type="move" name="R"/>
+    </contour>
+    <contour>
+      <point x="570" y="1985" type="move" name="U"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.807</real>
-        <integer>1</integer>
-        <real>0.6</real>
-        <integer>1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

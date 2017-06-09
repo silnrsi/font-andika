@@ -4,17 +4,12 @@
   <unicode hex="04D0"/>
   <outline>
     <component base="CyCapA"/>
-    <component base="CombBreve.CyShortMrkAlt.UCHt" xOffset="1380" yOffset="85"/>
+    <component base="CombBreve.CyShortMrkAlt.UCHt" xOffset="1378" yOffset="85"/>
+    <contour>
+      <point x="600" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="1101" y="2045" type="move" name="U"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.807</real>
-        <integer>1</integer>
-        <real>0.6</real>
-        <integer>1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

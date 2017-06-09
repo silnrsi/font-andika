@@ -6,16 +6,20 @@
     <component base="LtnCapE"/>
     <component base="CombCircum" xOffset="1262" yOffset="430"/>
     <component base="CombAcute" xOffset="1348" yOffset="965"/>
+    <contour>
+      <point x="550" y="0" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="525" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="944" y="0" type="move" name="O"/>
+    </contour>
+    <contour>
+      <point x="1487" y="1200" type="move" name="R"/>
+    </contour>
+    <contour>
+      <point x="1097" y="2600" type="move" name="U"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.807</real>
-        <integer>1</integer>
-        <real>0.6</real>
-        <integer>1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

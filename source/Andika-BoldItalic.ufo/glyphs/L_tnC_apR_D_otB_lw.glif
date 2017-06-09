@@ -5,16 +5,14 @@
   <outline>
     <component base="LtnCapR"/>
     <component base="CombDotBlw" xOffset="1270"/>
+    <contour>
+      <point x="630" y="0" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="505" y="-500" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="980" y="1530" type="move" name="U"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.807</real>
-        <integer>1</integer>
-        <real>0.6</real>
-        <integer>1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

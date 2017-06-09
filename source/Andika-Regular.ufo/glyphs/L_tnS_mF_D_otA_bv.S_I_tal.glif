@@ -4,16 +4,14 @@
   <outline>
     <component base="LtnSmF.SItal"/>
     <component base="DotAbv" xOffset="425" yOffset="535"/>
+    <contour>
+      <point x="370" y="0" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="335" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="560" y="2040" type="move" name="U"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.807</real>
-        <integer>1</integer>
-        <real>0.6</real>
-        <integer>1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

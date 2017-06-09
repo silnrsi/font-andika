@@ -4,16 +4,17 @@
   <outline>
     <component base="LtnSmG"/>
     <component base="CombTrndCommaAbv" xOffset="1137"/>
+    <contour>
+      <point x="585" y="-465" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="585" y="-535" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="1187" y="1000" type="move" name="R"/>
+    </contour>
+    <contour>
+      <point x="565" y="1530" type="move" name="U"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.807</real>
-        <integer>1</integer>
-        <real>0.6</real>
-        <integer>1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

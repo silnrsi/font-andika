@@ -6,16 +6,20 @@
     <component base="LtnCapO"/>
     <component base="CombDotAbv" xOffset="1439" yOffset="430"/>
     <component base="CombMacron" xOffset="1452" yOffset="835"/>
+    <contour>
+      <point x="657" y="0" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="632" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="896" y="0" type="move" name="O"/>
+    </contour>
+    <contour>
+      <point x="1700" y="1200" type="move" name="R"/>
+    </contour>
+    <contour>
+      <point x="1185" y="2285" type="move" name="U"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.807</real>
-        <integer>1</integer>
-        <real>0.6</real>
-        <integer>1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

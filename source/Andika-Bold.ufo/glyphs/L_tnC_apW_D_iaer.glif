@@ -5,16 +5,11 @@
   <outline>
     <component base="LtnCapW"/>
     <component base="CombDiaer" xOffset="1632" yOffset="430"/>
+    <contour>
+      <point x="1052" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="1052" y="2015" type="move" name="U"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.807</real>
-        <integer>1</integer>
-        <real>0.6</real>
-        <integer>1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

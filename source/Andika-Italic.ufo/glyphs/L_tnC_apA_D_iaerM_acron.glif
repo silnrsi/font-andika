@@ -4,18 +4,19 @@
   <unicode hex="01DE"/>
   <outline>
     <component base="LtnCapA"/>
-    <component base="CombDiaer" xOffset="1359" yOffset="430"/>
-    <component base="CombMacron" xOffset="1416" yOffset="835"/>
+    <component base="CombDiaer" xOffset="1350" yOffset="430"/>
+    <component base="CombMacron" xOffset="1407" yOffset="835"/>
+    <contour>
+      <point x="1170" y="0" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="600" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="1390" y="0" type="move" name="O"/>
+    </contour>
+    <contour>
+      <point x="1140" y="2285" type="move" name="U"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.807</real>
-        <integer>1</integer>
-        <real>0.6</real>
-        <integer>1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

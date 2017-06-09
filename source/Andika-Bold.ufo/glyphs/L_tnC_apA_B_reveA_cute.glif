@@ -6,16 +6,17 @@
     <component base="LtnCapA"/>
     <component base="CombBreve" xOffset="1312" yOffset="430"/>
     <component base="CombAcute" xOffset="1272" yOffset="965"/>
+    <contour>
+      <point x="1275" y="0" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="732" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="1495" y="0" type="move" name="O"/>
+    </contour>
+    <contour>
+      <point x="672" y="2600" type="move" name="U"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.807</real>
-        <integer>1</integer>
-        <real>0.6</real>
-        <integer>1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>
