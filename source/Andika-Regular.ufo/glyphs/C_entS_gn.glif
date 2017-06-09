@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CentSgn" format="1">
+  <advance width="1200"/>
+  <unicode hex="00A2"/>
+  <outline>
+    <contour>
+      <point x="699" y="1062" type="curve" smooth="yes" name="hr00"/>
+      <point x="397" y="1062"/>
+      <point x="205" y="826"/>
+      <point x="205" y="540" type="curve" smooth="yes"/>
+      <point x="205" y="236"/>
+      <point x="411" y="50"/>
+      <point x="666" y="50" type="curve" smooth="yes"/>
+      <point x="808" y="50"/>
+      <point x="898" y="83"/>
+      <point x="994" y="155" type="curve"/>
+      <point x="975" y="321" type="line"/>
+      <point x="892" y="248"/>
+      <point x="799" y="207"/>
+      <point x="685" y="207" type="curve" smooth="yes"/>
+      <point x="501" y="207"/>
+      <point x="386" y="345"/>
+      <point x="386" y="549" type="curve" smooth="yes"/>
+      <point x="386" y="773"/>
+      <point x="516" y="905"/>
+      <point x="685" y="905" type="curve" smooth="yes"/>
+      <point x="783" y="905"/>
+      <point x="865" y="873"/>
+      <point x="951" y="810" type="curve"/>
+      <point x="984" y="981" type="line"/>
+      <point x="915" y="1029"/>
+      <point x="826" y="1062"/>
+    </contour>
+    <contour>
+      <point x="605" y="1320" type="line"/>
+      <point x="605" y="-210" type="line"/>
+      <point x="735" y="-210" type="line"/>
+      <point x="735" y="1320" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="50" width="157"/>
+            <hstem pos="905" width="157"/>
+            <vstem pos="205" width="181"/>
+            <vstem pos="605" width="130"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

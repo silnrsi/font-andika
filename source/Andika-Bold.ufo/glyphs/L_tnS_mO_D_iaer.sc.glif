@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmODiaer.sc" format="1">
+  <advance width="1363"/>
+  <outline>
+    <component base="LtnSmO.sc"/>
+    <component base="CombDiaer" xOffset="1250" yOffset="193"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.807</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

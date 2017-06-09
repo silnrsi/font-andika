@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnBidentalPercussive" format="1">
+  <advance width="1415"/>
+  <unicode hex="02AD"/>
+  <outline>
+    <contour>
+      <point x="1456" y="807" type="line" name="hr00"/>
+      <point x="1615" y="1445" type="line"/>
+      <point x="420" y="1445" type="line"/>
+      <point x="261" y="807" type="line"/>
+      <point x="496" y="807" type="line"/>
+      <point x="586" y="1168" type="line"/>
+      <point x="1311" y="1168" type="line"/>
+      <point x="1221" y="807" type="line"/>
+    </contour>
+    <contour>
+      <point x="1255" y="0" type="line"/>
+      <point x="1414" y="639" type="line"/>
+      <point x="219" y="639" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="295" y="0" type="line"/>
+      <point x="385" y="361" type="line"/>
+      <point x="1110" y="361" type="line"/>
+      <point x="1020" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="632" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="1055" y="1595" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="21" width="-21"/>
+            <hstem pos="426" width="183"/>
+            <hstem pos="1262" width="183"/>
+            <vstem pos="120" width="165"/>
+            <vstem pos="1030" width="165"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>1055</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.986</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

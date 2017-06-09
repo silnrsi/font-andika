@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="YenSgn" format="1">
+  <advance width="1180"/>
+  <unicode hex="00A5"/>
+  <outline>
+    <contour>
+      <point x="613" y="554" type="line"/>
+      <point x="823" y="648" type="line"/>
+      <point x="597" y="1445" type="line"/>
+      <point x="285" y="1445" type="line"/>
+      <point x="360" y="1298"/>
+      <point x="398" y="1185"/>
+      <point x="442" y="1054" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="744" y="554" type="line"/>
+      <point x="1167" y="1054" type="line" smooth="yes"/>
+      <point x="1275" y="1183"/>
+      <point x="1355" y="1278"/>
+      <point x="1515" y="1445" type="curve"/>
+      <point x="1179" y="1445" type="line"/>
+      <point x="560" y="648" type="line"/>
+    </contour>
+    <contour>
+      <point x="225" y="663" type="line"/>
+      <point x="1185" y="663" type="line"/>
+      <point x="1237" y="871" type="line"/>
+      <point x="277" y="871" type="line"/>
+    </contour>
+    <contour>
+      <point x="147" y="350" type="line"/>
+      <point x="1107" y="350" type="line"/>
+      <point x="1159" y="558" type="line"/>
+      <point x="199" y="558" type="line"/>
+    </contour>
+    <contour>
+      <point x="569" y="688" type="line"/>
+      <point x="505" y="431" type="line" smooth="yes"/>
+      <point x="456" y="236"/>
+      <point x="416" y="79"/>
+      <point x="383" y="0" type="curve" name="hr01"/>
+      <point x="698" y="0" type="line"/>
+      <point x="702" y="79"/>
+      <point x="741" y="236"/>
+      <point x="790" y="431" type="curve" smooth="yes"/>
+      <point x="854" y="688" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="0" width="460"/>
+            <hstem pos="564" width="89"/>
+            <hstem pos="1373" width="-20"/>
+            <vstem pos="140" width="482"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.732</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

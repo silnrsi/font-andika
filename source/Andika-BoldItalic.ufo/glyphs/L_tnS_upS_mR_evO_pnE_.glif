@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSupSmRevOpnE" format="1">
+  <advance width="665"/>
+  <unicode hex="1D9F"/>
+  <outline>
+    <component base="LtnSmRevOpnE" xScale="0.7" yScale="0.65" xOffset="-2" yOffset="680"/>
+  </outline>
+</glyph>

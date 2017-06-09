@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSubSmT.NoTailT" format="1">
+  <advance width="497"/>
+  <outline>
+    <contour>
+      <point x="331" y="-310" type="line"/>
+      <point x="331" y="564" type="line"/>
+      <point x="163" y="564" type="line"/>
+      <point x="163" y="-310" type="line"/>
+    </contour>
+    <contour>
+      <point x="25" y="343" type="line"/>
+      <point x="25" y="210" type="line"/>
+      <point x="472" y="210" type="line"/>
+      <point x="472" y="343" type="line"/>
+    </contour>
+    <contour>
+      <point x="245" y="-365" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="240" y="597" type="move" name="U"/>
+    </contour>
+  </outline>
+</glyph>

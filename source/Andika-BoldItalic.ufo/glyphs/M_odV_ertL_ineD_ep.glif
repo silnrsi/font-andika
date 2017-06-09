@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModVertLineDep" format="1">
+  <advance width="440"/>
+  <unicode hex="F196"/>
+  <outline>
+    <contour>
+      <point x="140" y="900" type="line" name="hr00"/>
+      <point x="300" y="900" type="line"/>
+      <point x="300" y="1650" type="line"/>
+      <point x="140" y="1650" type="line"/>
+    </contour>
+    <contour>
+      <point x="170" y="930" type="line"/>
+      <point x="170" y="1620" type="line"/>
+      <point x="270" y="1620" type="line"/>
+      <point x="270" y="930" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="900" width="30"/>
+            <hstem pos="1620" width="30"/>
+            <vstem pos="140" width="30"/>
+            <vstem pos="270" width="30"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

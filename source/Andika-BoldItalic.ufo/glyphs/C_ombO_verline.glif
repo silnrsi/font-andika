@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombOverline" format="1">
+  <advance width="0"/>
+  <unicode hex="0305"/>
+  <outline>
+    <contour>
+      <point x="-1043" y="1450" type="line" name="hr00"/>
+      <point x="506" y="1450" type="line"/>
+      <point x="555" y="1648" type="line"/>
+      <point x="-994" y="1648" type="line"/>
+    </contour>
+    <contour>
+      <point x="-221" y="1635" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="-355" y="1100" type="move" name="_U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="1693" width="148"/>
+            <hstem pos="1841" width="149"/>
+            <vstem pos="-1120" width="2120"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.986</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

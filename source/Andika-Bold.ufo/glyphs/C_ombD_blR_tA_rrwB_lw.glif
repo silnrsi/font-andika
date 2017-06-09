@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombDblRtArrwBlw" format="1">
+  <advance width="0"/>
+  <unicode hex="0362"/>
+  <outline>
+    <contour>
+      <point x="920" y="-675" type="line" name="hr00"/>
+      <point x="920" y="-555" type="line"/>
+      <point x="345" y="-295" type="line"/>
+      <point x="310" y="-390" type="line"/>
+      <point x="715" y="-560" type="line"/>
+      <point x="-920" y="-560" type="line"/>
+      <point x="-920" y="-670" type="line"/>
+      <point x="715" y="-670" type="line"/>
+      <point x="310" y="-840" type="line"/>
+      <point x="345" y="-935" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="-1000" type="move" name="L"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="1710" width="150"/>
+            <hstem pos="1860" width="150"/>
+            <vstem pos="-1060" width="2120"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.92</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

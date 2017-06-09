@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmJStrk.TopLftSerif" format="1">
+  <advance width="910"/>
+  <outline>
+    <contour>
+      <point x="330" y="1385" type="curve" smooth="yes"/>
+      <point x="330" y="1281"/>
+      <point x="404" y="1210"/>
+      <point x="505" y="1210" type="curve" smooth="yes"/>
+      <point x="607" y="1210"/>
+      <point x="680" y="1281"/>
+      <point x="680" y="1385" type="curve" smooth="yes"/>
+      <point x="680" y="1487"/>
+      <point x="607" y="1560"/>
+      <point x="505" y="1560" type="curve" smooth="yes"/>
+      <point x="404" y="1560"/>
+      <point x="330" y="1487"/>
+    </contour>
+    <contour>
+      <point x="60" y="815" type="line"/>
+      <point x="362" y="815" type="line"/>
+      <point x="365" y="715"/>
+      <point x="365" y="574"/>
+      <point x="365" y="450" type="curve" smooth="yes" name="hr01"/>
+      <point x="365" y="20" type="line" smooth="yes"/>
+      <point x="365" y="-150"/>
+      <point x="310" y="-232"/>
+      <point x="193" y="-232" type="curve" smooth="yes"/>
+      <point x="125" y="-232"/>
+      <point x="44" y="-195"/>
+      <point x="0" y="-152" type="curve"/>
+      <point x="-45" y="-389" type="line"/>
+      <point x="-3" y="-421"/>
+      <point x="108" y="-470"/>
+      <point x="201" y="-470" type="curve" smooth="yes"/>
+      <point x="451" y="-470"/>
+      <point x="645" y="-348"/>
+      <point x="645" y="25" type="curve"/>
+      <point x="645" y="1020" type="line"/>
+      <point x="60" y="1020" type="line"/>
+    </contour>
+    <contour>
+      <point x="85" y="669" type="line"/>
+      <point x="85" y="469" type="line"/>
+      <point x="850" y="469" type="line"/>
+      <point x="850" y="669" type="line"/>
+    </contour>
+    <contour>
+      <point x="290" y="-500" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="520" y="1100" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="-470" width="170"/>
+            <hstem pos="475" width="145"/>
+            <hstem pos="875" width="145"/>
+            <hstem pos="1210" width="270"/>
+            <vstem pos="365" width="280"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.92</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

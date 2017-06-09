@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmTcDigraphCurl" format="1">
+  <advance width="1758"/>
+  <unicode hex="02A8"/>
+  <outline>
+    <contour>
+      <point x="210" y="270" type="line" smooth="yes"/>
+      <point x="210" y="39"/>
+      <point x="364" y="-25"/>
+      <point x="553" y="-25" type="curve" smooth="yes"/>
+      <point x="667" y="-25"/>
+      <point x="835" y="46"/>
+      <point x="912" y="116" type="curve"/>
+      <point x="820" y="291" type="line"/>
+      <point x="761" y="235"/>
+      <point x="688" y="200"/>
+      <point x="617" y="200" type="curve" smooth="yes"/>
+      <point x="527" y="200"/>
+      <point x="490" y="235"/>
+      <point x="490" y="462" type="curve" smooth="yes"/>
+      <point x="490" y="1320" type="line"/>
+      <point x="210" y="1320" type="line" name="hr01"/>
+    </contour>
+    <contour>
+      <point x="775" y="805" type="line"/>
+      <point x="775" y="1005" type="line"/>
+      <point x="20" y="1005" type="line"/>
+      <point x="20" y="805" type="line"/>
+    </contour>
+    <contour>
+      <point x="1668" y="289" type="curve" smooth="yes"/>
+      <point x="1668" y="434"/>
+      <point x="1549" y="552"/>
+      <point x="1388" y="552" type="curve" smooth="yes"/>
+      <point x="1297" y="552"/>
+      <point x="1156" y="518"/>
+      <point x="1073" y="375" type="curve"/>
+      <point x="1061" y="412"/>
+      <point x="1055" y="454"/>
+      <point x="1055" y="500" type="curve" smooth="yes"/>
+      <point x="1055" y="694"/>
+      <point x="1163" y="810"/>
+      <point x="1302" y="810" type="curve" smooth="yes"/>
+      <point x="1405" y="810"/>
+      <point x="1473" y="779"/>
+      <point x="1563" y="717" type="curve"/>
+      <point x="1607" y="969" type="line"/>
+      <point x="1534" y="1007"/>
+      <point x="1429" y="1040"/>
+      <point x="1297" y="1040" type="curve" smooth="yes"/>
+      <point x="980" y="1040"/>
+      <point x="775" y="802"/>
+      <point x="775" y="490" type="curve" smooth="yes"/>
+      <point x="775" y="275"/>
+      <point x="868" y="122"/>
+      <point x="1007" y="41" type="curve"/>
+      <point x="1011" y="-42"/>
+      <point x="1027" y="-112"/>
+      <point x="1043" y="-175" type="curve"/>
+      <point x="1218" y="-195" type="line" name="hr02"/>
+      <point x="1201" y="-128"/>
+      <point x="1191" y="-72"/>
+      <point x="1185" y="-19" type="curve"/>
+      <point x="1211" y="-24"/>
+      <point x="1238" y="-25"/>
+      <point x="1263" y="-25" type="curve" smooth="yes"/>
+      <point x="1514" y="-25"/>
+      <point x="1668" y="100"/>
+    </contour>
+    <contour>
+      <point x="1378" y="385" type="curve" smooth="yes"/>
+      <point x="1429" y="385"/>
+      <point x="1468" y="355"/>
+      <point x="1468" y="304" type="curve" smooth="yes"/>
+      <point x="1468" y="230"/>
+      <point x="1366" y="196"/>
+      <point x="1299" y="196" type="curve" smooth="yes"/>
+      <point x="1247" y="196"/>
+      <point x="1215" y="209"/>
+      <point x="1192" y="221" type="curve"/>
+      <point x="1222" y="337"/>
+      <point x="1299" y="385"/>
+    </contour>
+    <contour>
+      <point x="840" y="-200" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="921" y="1360" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="6" width="-21"/>
+            <hstem pos="390" width="115"/>
+            <hstem pos="875" width="165"/>
+            <vstem pos="280" width="185"/>
+            <vstem pos="740" width="190"/>
+            <vstem pos="1460" width="140"/>
+          </hintset>
+          <hintset pointTag="hr02">
+            <hstem pos="-25" width="165"/>
+            <hstem pos="390" width="115"/>
+            <hstem pos="850" width="145"/>
+            <vstem pos="280" width="185"/>
+            <vstem pos="740" width="190"/>
+            <vstem pos="1460" width="140"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.92</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

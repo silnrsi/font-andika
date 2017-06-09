@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSupSmIStrk" format="1">
+  <advance width="549"/>
+  <unicode hex="1DA4"/>
+  <outline>
+    <component base="LtnSmIStrk" xScale="0.7" yScale="0.65" xOffset="5" yOffset="680"/>
+  </outline>
+</glyph>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnCapAVDigraph" format="1">
+  <advance width="2030"/>
+  <unicode hex="A738"/>
+  <outline>
+    <contour>
+      <point x="1685" y="1460" type="line" name="hr00"/>
+      <point x="1290" y="271" type="line"/>
+      <point x="886" y="1460" type="line"/>
+      <point x="530" y="1460" type="line"/>
+      <point x="160" y="355" type="line" smooth="yes"/>
+      <point x="97" y="166"/>
+      <point x="66" y="81"/>
+      <point x="30" y="0" type="curve"/>
+      <point x="328" y="0" type="line"/>
+      <point x="438" y="355" type="line"/>
+      <point x="982" y="355" type="line"/>
+      <point x="1093" y="0" type="line"/>
+      <point x="1455" y="0" type="line"/>
+      <point x="1845" y="1095" type="line" smooth="yes"/>
+      <point x="1914" y="1289"/>
+      <point x="1949" y="1378"/>
+      <point x="1985" y="1460" type="curve"/>
+    </contour>
+    <contour>
+      <point x="914" y="570" type="line"/>
+      <point x="504" y="570" type="line"/>
+      <point x="708" y="1228" type="line"/>
+    </contour>
+    <contour>
+      <point x="1005" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="1005" y="1530" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="21" width="-21"/>
+            <hstem pos="355" width="215"/>
+            <hstem pos="1460" width="-20"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.92</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

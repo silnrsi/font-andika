@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmSAcuteDotAbv" format="1">
+  <advance width="1015"/>
+  <unicode hex="1E65"/>
+  <outline>
+    <component base="LtnSmS"/>
+    <component base="CombAcute" xOffset="1070"/>
+    <component base="CombDotAbv" xOffset="1139" yOffset="535"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.807</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

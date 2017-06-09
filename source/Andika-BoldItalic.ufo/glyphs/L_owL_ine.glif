@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LowLine" format="1">
+  <advance width="1254"/>
+  <unicode hex="005F"/>
+  <outline>
+    <contour>
+      <point x="-146" y="-347" type="line" name="hr00"/>
+      <point x="1127" y="-347" type="line"/>
+      <point x="1179" y="-139" type="line"/>
+      <point x="-94" y="-139" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="-317" width="149"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.732</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

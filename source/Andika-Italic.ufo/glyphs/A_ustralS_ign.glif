@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AustralSign" format="1">
+  <advance width="1180"/>
+  <unicode hex="20B3"/>
+  <outline>
+    <contour>
+      <point x="896" y="0" type="line" name="hr01"/>
+      <point x="1090" y="0" type="line"/>
+      <point x="1078" y="78"/>
+      <point x="1055" y="146"/>
+      <point x="1045" y="328" type="curve" smooth="yes"/>
+      <point x="983" y="1431" type="line"/>
+      <point x="790" y="1431" type="line"/>
+      <point x="177" y="328" type="line" smooth="yes"/>
+      <point x="75" y="144"/>
+      <point x="21" y="79"/>
+      <point x="-30" y="0" type="curve"/>
+      <point x="184" y="0" type="line"/>
+      <point x="844" y="1230" type="line"/>
+    </contour>
+    <contour>
+      <point x="116" y="387" type="line" name="hr02"/>
+      <point x="1156" y="387" type="line"/>
+      <point x="1189" y="519" type="line"/>
+      <point x="149" y="519" type="line"/>
+    </contour>
+    <contour>
+      <point x="183" y="657" type="line"/>
+      <point x="1223" y="657" type="line"/>
+      <point x="1256" y="789" type="line"/>
+      <point x="216" y="789" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="0" width="519"/>
+            <hstem pos="657" width="132"/>
+            <hstem pos="1431" width="-20"/>
+            <vstem pos="-20" width="1120"/>
+          </hintset>
+          <hintset pointTag="hr02">
+            <hstem pos="387" width="132"/>
+            <hstem pos="657" width="132"/>
+            <hstem pos="1431" width="-20"/>
+            <vstem pos="-20" width="1120"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.92</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

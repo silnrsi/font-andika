@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnCapZDescDep" format="1">
+  <advance width="1230"/>
+  <unicode hex="F265"/>
+  <outline>
+    <contour>
+      <point x="45" y="-490" type="line" name="hr00"/>
+      <point x="1165" y="-490" type="line"/>
+      <point x="1165" y="1490" type="line"/>
+      <point x="45" y="1490" type="line"/>
+    </contour>
+    <contour>
+      <point x="1135" y="-460" type="line"/>
+      <point x="970" y="-460" type="line"/>
+      <point x="970" y="-334"/>
+      <point x="965" y="-127"/>
+      <point x="935" y="0" type="curve"/>
+      <point x="75" y="0" type="line"/>
+      <point x="75" y="125" type="line"/>
+      <point x="870" y="1295" type="line"/>
+      <point x="530" y="1295" type="line" smooth="yes"/>
+      <point x="333" y="1295"/>
+      <point x="215" y="1292"/>
+      <point x="135" y="1275" type="curve"/>
+      <point x="135" y="1460" type="line"/>
+      <point x="1105" y="1460" type="line"/>
+      <point x="1105" y="1330" type="line"/>
+      <point x="310" y="165" type="line"/>
+      <point x="1135" y="165" type="line"/>
+    </contour>
+    <contour>
+      <point x="530" y="-500" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="605" y="1530" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="-490" width="30"/>
+            <hstem pos="1460" width="30"/>
+            <vstem pos="45" width="30"/>
+            <vstem pos="1135" width="30"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

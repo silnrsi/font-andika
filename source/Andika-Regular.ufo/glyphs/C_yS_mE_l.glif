@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CySmEl" format="1">
+  <advance width="1175"/>
+  <unicode hex="043B"/>
+  <outline>
+    <contour>
+      <point x="840" y="875" type="line" name="hr01"/>
+      <point x="840" y="0" type="line"/>
+      <point x="1035" y="0" type="line"/>
+      <point x="1025" y="52"/>
+      <point x="1025" y="146"/>
+      <point x="1025" y="300" type="curve" smooth="yes"/>
+      <point x="1025" y="720" type="line" smooth="yes"/>
+      <point x="1025" y="857"/>
+      <point x="1025" y="964"/>
+      <point x="1035" y="1020" type="curve"/>
+      <point x="390" y="1020" type="line"/>
+      <point x="363" y="585"/>
+      <point x="328" y="426"/>
+      <point x="265" y="305" type="curve" smooth="yes"/>
+      <point x="211" y="201"/>
+      <point x="132" y="170"/>
+      <point x="55" y="170" type="curve" name="hr02"/>
+      <point x="55" y="-10" type="line"/>
+      <point x="204" y="-10"/>
+      <point x="320" y="60"/>
+      <point x="405" y="220" type="curve" smooth="yes"/>
+      <point x="478" y="359"/>
+      <point x="529" y="563"/>
+      <point x="555" y="875" type="curve"/>
+    </contour>
+    <contour>
+      <point x="545" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="685" y="1100" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="21" width="-21"/>
+            <hstem pos="875" width="145"/>
+            <vstem pos="840" width="185"/>
+          </hintset>
+          <hintset pointTag="hr02">
+            <hstem pos="-10" width="180"/>
+            <hstem pos="875" width="145"/>
+            <vstem pos="840" width="185"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

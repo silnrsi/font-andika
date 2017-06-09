@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombLftHalfRingBlw" format="1">
+  <advance width="0"/>
+  <unicode hex="031C"/>
+  <outline>
+    <contour>
+      <point x="-643" y="-436" type="line" name="hr00"/>
+      <point x="-709" y="-436"/>
+      <point x="-746" y="-384"/>
+      <point x="-746" y="-329" type="curve" smooth="yes"/>
+      <point x="-746" y="-249"/>
+      <point x="-666" y="-196"/>
+      <point x="-593" y="-196" type="curve"/>
+      <point x="-574" y="-118" type="line"/>
+      <point x="-724" y="-118"/>
+      <point x="-839" y="-207"/>
+      <point x="-839" y="-341" type="curve" smooth="yes"/>
+      <point x="-839" y="-430"/>
+      <point x="-771" y="-515"/>
+      <point x="-663" y="-515" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-775" y="-500" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="-675" y="-100" type="move" name="_L"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="-515" width="79"/>
+            <hstem pos="-196" width="78"/>
+            <vstem pos="-755" width="90"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.92</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

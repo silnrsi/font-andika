@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnCapAYDigraph" format="1">
+  <advance width="2030"/>
+  <unicode hex="A73C"/>
+  <outline>
+    <contour>
+      <point x="1685" y="1460" type="line"/>
+      <point x="1290" y="271" type="line"/>
+      <point x="886" y="1460" type="line"/>
+      <point x="530" y="1460" type="line"/>
+      <point x="160" y="355" type="line" smooth="yes"/>
+      <point x="97" y="166"/>
+      <point x="66" y="81"/>
+      <point x="30" y="0" type="curve"/>
+      <point x="328" y="0" type="line"/>
+      <point x="438" y="355" type="line"/>
+      <point x="982" y="355" type="line"/>
+      <point x="1128" y="-62" type="line"/>
+      <point x="1051" y="-213"/>
+      <point x="988" y="-239"/>
+      <point x="930" y="-239" type="curve" smooth="yes"/>
+      <point x="857" y="-239"/>
+      <point x="772" y="-199"/>
+      <point x="726" y="-164" type="curve"/>
+      <point x="648" y="-385" type="line"/>
+      <point x="730" y="-439"/>
+      <point x="830" y="-470"/>
+      <point x="930" y="-470" type="curve" smooth="yes"/>
+      <point x="1130" y="-470"/>
+      <point x="1303" y="-390"/>
+      <point x="1445" y="0" type="curve" smooth="yes"/>
+      <point x="1845" y="1095" type="line" smooth="yes"/>
+      <point x="1916" y="1288"/>
+      <point x="1949" y="1378"/>
+      <point x="1985" y="1460" type="curve"/>
+    </contour>
+    <contour>
+      <point x="914" y="570" type="line"/>
+      <point x="504" y="570" type="line"/>
+      <point x="708" y="1228" type="line"/>
+    </contour>
+    <contour>
+      <point x="1005" y="-500" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="1005" y="1530" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.92</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

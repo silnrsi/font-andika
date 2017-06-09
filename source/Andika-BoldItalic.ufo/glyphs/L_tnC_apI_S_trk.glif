@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnCapIStrk" format="1">
+  <advance width="1015"/>
+  <unicode hex="0197"/>
+  <outline>
+    <contour>
+      <point x="430" y="1445" type="line"/>
+      <point x="379" y="1242" type="line"/>
+      <point x="619" y="1242" type="line" name="hr01"/>
+      <point x="360" y="203" type="line"/>
+      <point x="120" y="203" type="line" name="hr02"/>
+      <point x="70" y="0" type="line"/>
+      <point x="835" y="0" type="line" name="hr03"/>
+      <point x="885" y="203" type="line"/>
+      <point x="645" y="203" type="line" name="hr04"/>
+      <point x="904" y="1242" type="line"/>
+      <point x="1144" y="1242" type="line" name="hr05"/>
+      <point x="1195" y="1445" type="line"/>
+    </contour>
+    <contour>
+      <point x="274" y="843" type="line"/>
+      <point x="223" y="641" type="line"/>
+      <point x="998" y="641" type="line"/>
+      <point x="1049" y="843" type="line"/>
+    </contour>
+    <contour>
+      <point x="422" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="829" y="1530" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="0" width="203"/>
+            <hstem pos="638" width="207"/>
+            <hstem pos="1242" width="203"/>
+            <vstem pos="310" width="285"/>
+          </hintset>
+          <hintset pointTag="hr02">
+            <hstem pos="0" width="203"/>
+            <hstem pos="638" width="207"/>
+            <hstem pos="1242" width="203"/>
+            <vstem pos="70" width="525"/>
+          </hintset>
+          <hintset pointTag="hr03">
+            <hstem pos="0" width="203"/>
+            <hstem pos="638" width="207"/>
+            <hstem pos="1242" width="203"/>
+            <vstem pos="310" width="525"/>
+          </hintset>
+          <hintset pointTag="hr04">
+            <hstem pos="0" width="203"/>
+            <hstem pos="638" width="207"/>
+            <hstem pos="1242" width="203"/>
+            <vstem pos="70" width="525"/>
+          </hintset>
+          <hintset pointTag="hr05">
+            <hstem pos="0" width="203"/>
+            <hstem pos="638" width="207"/>
+            <hstem pos="1242" width="203"/>
+            <vstem pos="310" width="525"/>
+          </hintset>
+          <hintset pointTag="hr05">
+            <hstem pos="0" width="203"/>
+            <hstem pos="638" width="207"/>
+            <hstem pos="1242" width="203"/>
+            <vstem pos="70" width="525"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>451</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.732</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

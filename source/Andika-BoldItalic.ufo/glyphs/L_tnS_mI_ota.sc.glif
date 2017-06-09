@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmIota.sc" format="1">
+  <advance width="751"/>
+  <outline>
+    <contour>
+      <point x="349" y="1221" type="line" name="hr00"/>
+      <point x="146" y="1221" type="line"/>
+      <point x="157" y="1126"/>
+      <point x="165" y="999"/>
+      <point x="165" y="849" type="curve" smooth="yes"/>
+      <point x="165" y="247" type="line" smooth="yes"/>
+      <point x="165" y="88"/>
+      <point x="286" y="-21"/>
+      <point x="456" y="-21" type="curve" smooth="yes"/>
+      <point x="522" y="-21"/>
+      <point x="595" y="3"/>
+      <point x="685" y="62" type="curve"/>
+      <point x="665" y="241" type="line"/>
+      <point x="599" y="173"/>
+      <point x="536" y="143"/>
+      <point x="484" y="143" type="curve" smooth="yes"/>
+      <point x="382" y="143"/>
+      <point x="349" y="196"/>
+      <point x="349" y="321" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="419" y="-76" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="258" y="1293" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="-21" width="164"/>
+            <vstem pos="165" width="184"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

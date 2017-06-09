@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModSmDelta" format="1">
+  <advance width="791"/>
+  <unicode hex="1D5F"/>
+  <outline>
+    <component base="GrSmDelta" xScale="0.7" yScale="0.65" xOffset="4" yOffset="680"/>
+  </outline>
+</glyph>

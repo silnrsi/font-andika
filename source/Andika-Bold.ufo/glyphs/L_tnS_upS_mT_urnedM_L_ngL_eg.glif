@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSupSmTurnedMLngLeg" format="1">
+  <advance width="1202"/>
+  <unicode hex="1DAD"/>
+  <outline>
+    <component base="LtnSmTurnedMLngLeg" xScale="0.7" yScale="0.65" xOffset="-13" yOffset="680"/>
+  </outline>
+</glyph>

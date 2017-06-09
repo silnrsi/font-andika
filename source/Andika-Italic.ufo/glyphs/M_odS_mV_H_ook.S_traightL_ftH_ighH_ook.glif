@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModSmVHook.StraightLftHighHook" format="1">
+  <advance width="809"/>
+  <outline>
+    <component base="LtnSmVHook.StraightLftHighHook" xScale="0.7" yScale="0.65" xOffset="111" yOffset="680"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="lsb">
+            <hstem pos="21" width="-21"/>
+            <hstem pos="1020" width="-20"/>
+            <hstem pos="1165" width="155"/>
+            <vstem pos="857" width="185"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

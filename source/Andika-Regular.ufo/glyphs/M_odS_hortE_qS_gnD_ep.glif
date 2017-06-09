@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModShortEqSgnDep" format="1">
+  <advance width="655"/>
+  <unicode hex="F1EA"/>
+  <outline>
+    <contour>
+      <point x="60" y="250" type="line" name="hr00"/>
+      <point x="595" y="250" type="line"/>
+      <point x="595" y="760" type="line"/>
+      <point x="60" y="760" type="line"/>
+    </contour>
+    <contour>
+      <point x="90" y="580" type="line"/>
+      <point x="90" y="730" type="line"/>
+      <point x="565" y="730" type="line"/>
+      <point x="565" y="580" type="line"/>
+    </contour>
+    <contour>
+      <point x="90" y="280" type="line"/>
+      <point x="90" y="430" type="line"/>
+      <point x="565" y="430" type="line"/>
+      <point x="565" y="280" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem3 stem3List="250,30,430,150,730,30"/>
+            <vstem pos="60" width="30"/>
+            <vstem pos="565" width="30"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

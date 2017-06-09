@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnCapI" format="1">
+  <advance width="955"/>
+  <unicode hex="0049"/>
+  <outline>
+    <contour>
+      <point x="436" y="1431" type="line" name="hr00"/>
+      <point x="401" y="1289" type="line"/>
+      <point x="641" y="1289" type="line"/>
+      <point x="355" y="142" type="line"/>
+      <point x="115" y="142" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="755" y="0" type="line"/>
+      <point x="790" y="142" type="line"/>
+      <point x="545" y="142" type="line"/>
+      <point x="831" y="1289" type="line"/>
+      <point x="1076" y="1289" type="line"/>
+      <point x="1111" y="1431" type="line"/>
+    </contour>
+    <contour>
+      <point x="417" y="0" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="392" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="613" y="0" type="move" name="O"/>
+    </contour>
+    <contour>
+      <point x="1215" y="1200" type="move" name="R"/>
+    </contour>
+    <contour>
+      <point x="799" y="1530" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="0" width="142"/>
+            <hstem pos="1289" width="142"/>
+            <vstem pos="320" width="190"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.732</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

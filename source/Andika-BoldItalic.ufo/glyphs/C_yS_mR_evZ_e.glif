@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CySmRevZe" format="1">
+  <advance width="1037"/>
+  <unicode hex="0511"/>
+  <outline>
+    <contour>
+      <point x="928" y="287" type="line" name="hr00"/>
+      <point x="813" y="219"/>
+      <point x="682" y="188"/>
+      <point x="558" y="188" type="curve" smooth="yes"/>
+      <point x="435" y="188"/>
+      <point x="376" y="247"/>
+      <point x="376" y="308" type="curve" smooth="yes"/>
+      <point x="376" y="404"/>
+      <point x="511" y="436"/>
+      <point x="615" y="436" type="curve" smooth="yes"/>
+      <point x="820" y="436" type="line"/>
+      <point x="868" y="629" type="line"/>
+      <point x="683" y="629" type="line" smooth="yes"/>
+      <point x="570" y="629"/>
+      <point x="518" y="677"/>
+      <point x="518" y="729" type="curve" smooth="yes"/>
+      <point x="518" y="793"/>
+      <point x="595" y="822"/>
+      <point x="716" y="822" type="curve" smooth="yes"/>
+      <point x="804" y="822"/>
+      <point x="900" y="805"/>
+      <point x="987" y="752" type="curve"/>
+      <point x="1075" y="955" type="line"/>
+      <point x="979" y="1008"/>
+      <point x="829" y="1030"/>
+      <point x="693" y="1030" type="curve" smooth="yes"/>
+      <point x="466" y="1030"/>
+      <point x="246" y="942"/>
+      <point x="246" y="731" type="curve" smooth="yes"/>
+      <point x="246" y="620"/>
+      <point x="306" y="575"/>
+      <point x="407" y="544" type="curve"/>
+      <point x="246" y="522"/>
+      <point x="90" y="406"/>
+      <point x="90" y="265" type="curve" smooth="yes"/>
+      <point x="90" y="83"/>
+      <point x="242" y="-25"/>
+      <point x="505" y="-25" type="curve" smooth="yes"/>
+      <point x="640" y="-25"/>
+      <point x="822" y="7"/>
+      <point x="926" y="59" type="curve"/>
+    </contour>
+    <contour>
+      <point x="541" y="0" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="500" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="732" y="0" type="move" name="O"/>
+    </contour>
+    <contour>
+      <point x="1232" y="1000" type="move" name="R"/>
+    </contour>
+    <contour>
+      <point x="756" y="1100" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="-25" width="154"/>
+            <hstem pos="465" width="139"/>
+            <hstem pos="876" width="154"/>
+            <vstem pos="27" width="180"/>
+            <vstem pos="62" width="175"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>76.43</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>25</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>76.43</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>63</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>76.43</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>299</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>76.43</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>340</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.986</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

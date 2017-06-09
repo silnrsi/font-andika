@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SqrRoot" format="1">
+  <advance width="1200"/>
+  <unicode hex="221A"/>
+  <outline>
+    <contour>
+      <point x="1325" y="1490" type="line" name="hr00"/>
+      <point x="1325" y="1600" type="line"/>
+      <point x="1085" y="1600" type="line"/>
+      <point x="650" y="250" type="line"/>
+      <point x="245" y="965" type="line"/>
+      <point x="0" y="825" type="line"/>
+      <point x="50" y="730" type="line"/>
+      <point x="170" y="800" type="line"/>
+      <point x="620" y="0" type="line"/>
+      <point x="705" y="0" type="line"/>
+      <point x="1180" y="1490" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="21" width="-21"/>
+            <hstem pos="1490" width="110"/>
+            <vstem pos="0" width="1325"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

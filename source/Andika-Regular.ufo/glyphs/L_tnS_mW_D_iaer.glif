@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmWDiaer" format="1">
+  <advance width="1550"/>
+  <unicode hex="1E85"/>
+  <outline>
+    <component base="LtnSmW"/>
+    <component base="CombDiaer" xOffset="1345"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.807</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

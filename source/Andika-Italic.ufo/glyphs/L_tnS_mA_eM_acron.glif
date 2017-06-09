@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmAeMacron" format="1">
+  <advance width="1689"/>
+  <unicode hex="01E3"/>
+  <outline>
+    <component base="LtnSmAe"/>
+    <component base="CombMacron" xOffset="1405"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.807</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

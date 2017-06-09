@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="TnLtr4no" format="1">
+  <advance width="859"/>
+  <outline>
+    <component base="TnLtrSpcPointLeft"/>
+    <component base="TnLtrSeg44" xOffset="159"/>
+    <component base="TnLtrSpcFlatRight" xOffset="639"/>
+  </outline>
+</glyph>

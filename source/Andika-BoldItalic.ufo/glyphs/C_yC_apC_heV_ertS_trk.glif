@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CyCapCheVertStrk" format="1">
+  <advance width="1415"/>
+  <unicode hex="04B8"/>
+  <outline>
+    <contour>
+      <point x="1003" y="1138" type="line" name="hr00"/>
+      <point x="798" y="1138" type="line"/>
+      <point x="596" y="327" type="line"/>
+      <point x="801" y="327" type="line"/>
+    </contour>
+    <contour>
+      <point x="1260" y="1445" type="line"/>
+      <point x="1118" y="876" type="line"/>
+      <point x="1039" y="834"/>
+      <point x="914" y="797"/>
+      <point x="778" y="797" type="curve" smooth="yes"/>
+      <point x="670" y="797"/>
+      <point x="591" y="878"/>
+      <point x="591" y="990" type="curve" smooth="yes"/>
+      <point x="591" y="1041"/>
+      <point x="700" y="1422"/>
+      <point x="700" y="1445" type="curve"/>
+      <point x="400" y="1445" type="line"/>
+      <point x="400" y="1365"/>
+      <point x="294" y="987"/>
+      <point x="294" y="915" type="curve" smooth="yes"/>
+      <point x="294" y="704"/>
+      <point x="488" y="579"/>
+      <point x="684" y="579" type="curve" smooth="yes"/>
+      <point x="867" y="579"/>
+      <point x="966" y="616"/>
+      <point x="1064" y="658" type="curve"/>
+      <point x="900" y="0" type="line"/>
+      <point x="900" y="0"/>
+      <point x="1200" y="0"/>
+      <point x="1200" y="0" type="curve"/>
+      <point x="1204" y="79"/>
+      <point x="1243" y="236"/>
+      <point x="1292" y="431" type="curve" smooth="yes"/>
+      <point x="1438" y="1015" type="line" smooth="yes"/>
+      <point x="1486" y="1210"/>
+      <point x="1525" y="1366"/>
+      <point x="1560" y="1445" type="curve"/>
+    </contour>
+    <contour>
+      <point x="640" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="992" y="1530" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="21" width="-21"/>
+            <hstem pos="21" width="-21"/>
+            <hstem pos="579" width="159"/>
+            <hstem pos="1445" width="-20"/>
+            <hstem pos="1445" width="-20"/>
+            <vstem pos="70" width="190"/>
+            <vstem pos="85" width="190"/>
+            <vstem pos="495" width="145"/>
+            <vstem pos="880" width="190"/>
+            <vstem pos="895" width="190"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.986</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

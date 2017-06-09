@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModSmTrndOpnE" format="1">
+  <advance width="667"/>
+  <unicode hex="1D4C"/>
+  <outline>
+    <component base="LtnSmTrndOpnE" xScale="0.7" yScale="0.65" xOffset="5" yOffset="680"/>
+  </outline>
+</glyph>

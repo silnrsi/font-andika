@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmTDiagStrk.NoTailT" format="1">
+  <advance width="885"/>
+  <outline>
+    <contour>
+      <point x="466" y="0" type="line"/>
+      <point x="477" y="360"/>
+      <point x="721" y="1136"/>
+      <point x="744" y="1348" type="curve"/>
+      <point x="554" y="1348" type="line"/>
+      <point x="534" y="1145"/>
+      <point x="280" y="248"/>
+      <point x="266" y="0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="183" y="858" type="line"/>
+      <point x="898" y="858" type="line"/>
+      <point x="934" y="1000" type="line"/>
+      <point x="219" y="1000" type="line"/>
+    </contour>
+    <contour>
+      <point x="946" y="1107" type="line" name="hr01"/>
+      <point x="61" y="-113" type="line"/>
+      <point x="216" y="-113" type="line"/>
+      <point x="1101" y="1107" type="line"/>
+    </contour>
+    <contour>
+      <point x="350" y="0" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="350" y="-180" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="1095" y="1000" type="move" name="R"/>
+    </contour>
+    <contour>
+      <point x="680" y="1415" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="21" width="-21"/>
+            <hstem pos="857" width="250"/>
+            <vstem pos="235" width="185"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.92</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

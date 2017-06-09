@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombAlmostEqToAbv" format="1">
+  <advance width="0"/>
+  <unicode hex="034C"/>
+  <outline>
+    <contour>
+      <point x="170" y="1440" type="line" name="hr00"/>
+      <point x="75" y="1362"/>
+      <point x="-19" y="1317"/>
+      <point x="-94" y="1317" type="curve" smooth="yes"/>
+      <point x="-211" y="1317"/>
+      <point x="-340" y="1413"/>
+      <point x="-466" y="1413" type="curve" smooth="yes"/>
+      <point x="-557" y="1413"/>
+      <point x="-676" y="1376"/>
+      <point x="-745" y="1307" type="curve"/>
+      <point x="-790" y="1124" type="line"/>
+      <point x="-693" y="1212"/>
+      <point x="-602" y="1247"/>
+      <point x="-526" y="1247" type="curve" smooth="yes"/>
+      <point x="-409" y="1247"/>
+      <point x="-280" y="1151"/>
+      <point x="-154" y="1151" type="curve" smooth="yes"/>
+      <point x="-63" y="1151"/>
+      <point x="47" y="1187"/>
+      <point x="124" y="1257" type="curve"/>
+    </contour>
+    <contour>
+      <point x="234" y="1704" type="line"/>
+      <point x="140" y="1626"/>
+      <point x="45" y="1575"/>
+      <point x="-31" y="1575" type="curve" smooth="yes"/>
+      <point x="-147" y="1575"/>
+      <point x="-276" y="1661"/>
+      <point x="-402" y="1661" type="curve" smooth="yes"/>
+      <point x="-493" y="1661"/>
+      <point x="-612" y="1634"/>
+      <point x="-680" y="1565" type="curve"/>
+      <point x="-726" y="1382" type="line"/>
+      <point x="-629" y="1470"/>
+      <point x="-537" y="1496"/>
+      <point x="-461" y="1496" type="curve" smooth="yes"/>
+      <point x="-344" y="1496"/>
+      <point x="-215" y="1410"/>
+      <point x="-89" y="1410" type="curve" smooth="yes"/>
+      <point x="1" y="1410"/>
+      <point x="112" y="1450"/>
+      <point x="188" y="1521" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-196" y="1735" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="-355" y="1100" type="move" name="_U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="1160" width="129"/>
+            <hstem pos="1276" width="129"/>
+            <hstem pos="1419" width="128"/>
+            <hstem pos="1534" width="129"/>
+            <vstem pos="-1060" width="860"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.986</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

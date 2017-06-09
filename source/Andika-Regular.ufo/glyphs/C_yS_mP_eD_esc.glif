@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CySmPeDesc" format="1">
+  <advance width="1230"/>
+  <unicode hex="0525"/>
+  <outline>
+    <contour>
+      <point x="1180" y="145" type="line" name="hr01"/>
+      <point x="1020" y="145" type="line" name="hr02"/>
+      <point x="1020" y="1020" type="line"/>
+      <point x="170" y="1020" type="line"/>
+      <point x="170" y="0" type="line"/>
+      <point x="355" y="0" type="line"/>
+      <point x="355" y="875" type="line"/>
+      <point x="835" y="875" type="line"/>
+      <point x="835" y="0" type="line"/>
+      <point x="835" y="0"/>
+      <point x="1005" y="0"/>
+      <point x="1005" y="0" type="curve"/>
+      <point x="1030" y="-125"/>
+      <point x="1035" y="-313"/>
+      <point x="1035" y="-440" type="curve" name="hr03"/>
+      <point x="1180" y="-440" type="line"/>
+    </contour>
+    <contour>
+      <point x="595" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="600" y="1100" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="0" width="145"/>
+            <hstem pos="875" width="145"/>
+            <vstem pos="170" width="185"/>
+            <vstem pos="835" width="185"/>
+            <vstem pos="1035" width="145"/>
+          </hintset>
+          <hintset pointTag="hr02">
+            <hstem pos="0" width="145"/>
+            <hstem pos="875" width="145"/>
+            <vstem pos="170" width="185"/>
+            <vstem pos="835" width="185"/>
+          </hintset>
+          <hintset pointTag="hr03">
+            <hstem pos="0" width="145"/>
+            <hstem pos="875" width="145"/>
+            <vstem pos="170" width="185"/>
+            <vstem pos="835" width="185"/>
+            <vstem pos="1035" width="145"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

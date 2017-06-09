@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModShortEqSgn" format="1">
+  <advance width="715"/>
+  <unicode hex="A78A"/>
+  <outline>
+    <contour>
+      <point x="635" y="580" type="line" name="hr00"/>
+      <point x="635" y="790" type="line"/>
+      <point x="80" y="790" type="line"/>
+      <point x="80" y="580" type="line"/>
+    </contour>
+    <contour>
+      <point x="635" y="220" type="line"/>
+      <point x="635" y="430" type="line"/>
+      <point x="80" y="430" type="line"/>
+      <point x="80" y="220" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="280" width="150"/>
+            <hstem pos="580" width="150"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.732</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

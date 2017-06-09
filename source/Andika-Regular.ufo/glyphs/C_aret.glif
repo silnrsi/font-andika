@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Caret" format="1">
+  <advance width="530"/>
+  <unicode hex="2038"/>
+  <outline>
+    <contour>
+      <point x="530" y="-265" type="line" name="hr00"/>
+      <point x="325" y="30" type="line"/>
+      <point x="205" y="30" type="line"/>
+      <point x="0" y="-265" type="line"/>
+      <point x="125" y="-265" type="line"/>
+      <point x="265" y="-95" type="line"/>
+      <point x="405" y="-265" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="-265" width="295"/>
+            <vstem pos="0" width="530"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

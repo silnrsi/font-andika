@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSupSmUpsilon" format="1">
+  <advance width="845"/>
+  <unicode hex="1DB7"/>
+  <outline>
+    <component base="LtnSmUpsilon" xScale="0.7" yScale="0.65" xOffset="-86" yOffset="680"/>
+  </outline>
+</glyph>

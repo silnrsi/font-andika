@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmYRingAbv.NoTailY" format="1">
+  <advance width="1060"/>
+  <outline>
+    <component base="LtnSmY.NoTailY"/>
+    <component base="CombRingAbv" xOffset="1102"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SupplRtRaisedOmBrac" format="1">
+  <advance width="787"/>
+  <unicode hex="2E0D"/>
+  <outline>
+    <contour>
+      <point x="351" y="838" type="line"/>
+      <point x="991" y="1342" type="line"/>
+      <point x="893" y="1470" type="line"/>
+      <point x="257" y="967" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.986</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

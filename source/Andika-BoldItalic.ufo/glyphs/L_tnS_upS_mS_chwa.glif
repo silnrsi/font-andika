@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSupSmSchwa" format="1">
+  <advance width="766"/>
+  <unicode hex="1D4A"/>
+  <outline>
+    <component base="LtnSmSchwa" xScale="0.7" yScale="0.65" xOffset="4" yOffset="680"/>
+  </outline>
+</glyph>

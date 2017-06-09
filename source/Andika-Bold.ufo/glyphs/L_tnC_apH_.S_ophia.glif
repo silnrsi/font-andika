@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnCapH.Sophia" format="1">
+  <advance width="522"/>
+  <outline>
+    <contour>
+      <point x="464" y="0" type="line" name="hr01"/>
+      <point x="464" y="533" type="line"/>
+      <point x="389" y="533" type="line"/>
+      <point x="389" y="305" type="line" name="hr02"/>
+      <point x="134" y="305" type="line"/>
+      <point x="134" y="533" type="line"/>
+      <point x="59" y="533" type="line"/>
+      <point x="59" y="0" type="line" name="hr03"/>
+      <point x="134" y="0" type="line"/>
+      <point x="134" y="241" type="line" name="hr04"/>
+      <point x="389" y="241" type="line"/>
+      <point x="389" y="0" type="line" name="hr05"/>
+    </contour>
+    <contour>
+      <point x="262" y="266" type="move" name="_C"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="0" width="305"/>
+            <vstem pos="59" width="75"/>
+            <vstem pos="389" width="75"/>
+          </hintset>
+          <hintset pointTag="hr02">
+            <hstem pos="241" width="64"/>
+            <vstem pos="59" width="75"/>
+            <vstem pos="389" width="75"/>
+          </hintset>
+          <hintset pointTag="hr03">
+            <hstem pos="0" width="305"/>
+            <vstem pos="59" width="75"/>
+            <vstem pos="389" width="75"/>
+          </hintset>
+          <hintset pointTag="hr04">
+            <hstem pos="241" width="64"/>
+            <vstem pos="59" width="75"/>
+            <vstem pos="389" width="75"/>
+          </hintset>
+          <hintset pointTag="hr05">
+            <hstem pos="0" width="305"/>
+            <vstem pos="59" width="75"/>
+            <vstem pos="389" width="75"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

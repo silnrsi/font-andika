@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmUCircum" format="1">
+  <advance width="1185"/>
+  <unicode hex="00FB"/>
+  <outline>
+    <component base="LtnSmU"/>
+    <component base="CombCircum" xOffset="1159"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.807</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

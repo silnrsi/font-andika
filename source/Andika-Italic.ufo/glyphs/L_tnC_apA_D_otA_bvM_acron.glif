@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnCapADotAbvMacron" format="1">
+  <advance width="1395"/>
+  <unicode hex="01E0"/>
+  <outline>
+    <component base="LtnCapA"/>
+    <component base="CombDotAbv" xOffset="1409" yOffset="430"/>
+    <component base="CombMacron" xOffset="1422" yOffset="835"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.807</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

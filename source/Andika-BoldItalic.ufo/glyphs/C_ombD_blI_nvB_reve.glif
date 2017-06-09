@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombDblInvBreve" format="1">
+  <advance width="0"/>
+  <unicode hex="0361"/>
+  <outline>
+    <contour>
+      <point x="1386" y="1772" type="line"/>
+      <point x="1173" y="1930"/>
+      <point x="796" y="1990"/>
+      <point x="416" y="1990" type="curve" smooth="yes" name="hr01"/>
+      <point x="36" y="1990"/>
+      <point x="-336" y="1940"/>
+      <point x="-623" y="1772" type="curve"/>
+      <point x="-612" y="1594" type="line"/>
+      <point x="-380" y="1723"/>
+      <point x="1" y="1772"/>
+      <point x="381" y="1772" type="curve" smooth="yes"/>
+      <point x="761" y="1772"/>
+      <point x="1109" y="1713"/>
+      <point x="1287" y="1594" type="curve"/>
+    </contour>
+    <contour>
+      <point x="430" y="1960" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="1841" width="149"/>
+            <vstem pos="-1120" width="2120"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.986</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="KayahLiSignCwi" format="1">
+  <advance width="1380"/>
+  <unicode hex="A92E"/>
+  <outline>
+    <contour>
+      <point x="1419" y="498" type="line" name="hr00"/>
+      <point x="1246" y="615"/>
+      <point x="988" y="676"/>
+      <point x="798" y="676" type="curve" smooth="yes"/>
+      <point x="611" y="676"/>
+      <point x="334" y="625"/>
+      <point x="109" y="498" type="curve"/>
+      <point x="138" y="315" type="line"/>
+      <point x="297" y="387"/>
+      <point x="549" y="458"/>
+      <point x="764" y="458" type="curve" smooth="yes"/>
+      <point x="977" y="458"/>
+      <point x="1175" y="387"/>
+      <point x="1298" y="315" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="-25" width="159"/>
+            <hstem pos="21" width="-21"/>
+            <hstem pos="21" width="-21"/>
+            <hstem pos="787" width="243"/>
+            <hstem pos="856" width="174"/>
+            <hstem pos="871" width="159"/>
+            <hstem pos="1010" width="-20"/>
+            <hstem pos="1010" width="-20"/>
+            <hstem pos="1693" width="148"/>
+            <hstem pos="1841" width="149"/>
+            <vstem pos="-1029" width="2120"/>
+            <vstem pos="-977" width="185"/>
+            <vstem pos="-212" width="185"/>
+            <vstem pos="139" width="278"/>
+            <vstem pos="186" width="185"/>
+            <vstem pos="834" width="278"/>
+            <vstem pos="896" width="185"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>498</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.986</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

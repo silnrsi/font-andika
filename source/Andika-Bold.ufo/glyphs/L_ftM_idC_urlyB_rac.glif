@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LftMidCurlyBrac" format="1">
+  <advance width="1006"/>
+  <unicode hex="23A8"/>
+  <outline>
+    <contour>
+      <point x="610" y="112" type="line" name="hr00"/>
+      <point x="610" y="149"/>
+      <point x="610" y="557"/>
+      <point x="590" y="595" type="curve" smooth="yes"/>
+      <point x="571" y="631"/>
+      <point x="434" y="703"/>
+      <point x="430" y="725" type="curve"/>
+      <point x="434" y="747"/>
+      <point x="571" y="819"/>
+      <point x="590" y="855" type="curve" smooth="yes"/>
+      <point x="610" y="893"/>
+      <point x="611" y="1290"/>
+      <point x="610" y="1340" type="curve"/>
+      <point x="610" y="2600" type="line"/>
+      <point x="420" y="2600" type="line"/>
+      <point x="420" y="1340" type="line" smooth="yes"/>
+      <point x="420" y="1274"/>
+      <point x="434" y="922"/>
+      <point x="410" y="890" type="curve" smooth="yes"/>
+      <point x="383" y="854"/>
+      <point x="210" y="757"/>
+      <point x="210" y="725" type="curve" smooth="yes"/>
+      <point x="210" y="693"/>
+      <point x="383" y="596"/>
+      <point x="410" y="560" type="curve" smooth="yes"/>
+      <point x="434" y="528"/>
+      <point x="420" y="201"/>
+      <point x="420" y="112" type="curve"/>
+      <point x="420" y="-1148" type="line"/>
+      <point x="610" y="-1148" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="-1148" width="3748"/>
+            <vstem pos="420" width="190"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

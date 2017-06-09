@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModSmCapIStrkDep" format="1">
+  <advance width="634"/>
+  <unicode hex="F1CB"/>
+  <outline>
+    <contour>
+      <point x="77" y="650" type="line" name="hr00"/>
+      <point x="552" y="650" type="line"/>
+      <point x="552" y="1373" type="line"/>
+      <point x="77" y="1373" type="line"/>
+    </contour>
+    <contour>
+      <point x="513" y="1343" type="line"/>
+      <point x="513" y="1258" type="line"/>
+      <point x="382" y="1258" type="line"/>
+      <point x="382" y="1059" type="line"/>
+      <point x="522" y="1059" type="line"/>
+      <point x="522" y="993" type="line"/>
+      <point x="382" y="993" type="line"/>
+      <point x="382" y="765" type="line"/>
+      <point x="513" y="765" type="line"/>
+      <point x="513" y="680" type="line"/>
+      <point x="121" y="680" type="line"/>
+      <point x="121" y="765" type="line"/>
+      <point x="251" y="765" type="line"/>
+      <point x="251" y="993" type="line"/>
+      <point x="107" y="993" type="line"/>
+      <point x="107" y="1059" type="line"/>
+      <point x="251" y="1059" type="line"/>
+      <point x="251" y="1258" type="line"/>
+      <point x="121" y="1258" type="line"/>
+      <point x="121" y="1343" type="line"/>
+    </contour>
+    <contour>
+      <point x="315" y="615" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="315" y="1395" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="650" width="30"/>
+            <hstem pos="765" width="228"/>
+            <hstem pos="1059" width="199"/>
+            <hstem pos="1343" width="30"/>
+            <vstem pos="77" width="44"/>
+            <vstem pos="513" width="39"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

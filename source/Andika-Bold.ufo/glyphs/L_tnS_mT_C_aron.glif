@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmTCaron" format="1">
+  <advance width="885"/>
+  <unicode hex="0165"/>
+  <outline>
+    <contour>
+      <point x="220" y="270" type="line" name="hr01"/>
+      <point x="220" y="39"/>
+      <point x="374" y="-25"/>
+      <point x="563" y="-25" type="curve" smooth="yes"/>
+      <point x="635" y="-25"/>
+      <point x="725" y="-3"/>
+      <point x="820" y="57" type="curve"/>
+      <point x="820" y="281" type="line"/>
+      <point x="741" y="232"/>
+      <point x="678" y="206"/>
+      <point x="627" y="206" type="curve" smooth="yes"/>
+      <point x="537" y="206"/>
+      <point x="500" y="235"/>
+      <point x="500" y="462" type="curve" smooth="yes"/>
+      <point x="500" y="1320" type="line"/>
+      <point x="220" y="1320" type="line" name="hr02"/>
+    </contour>
+    <contour>
+      <point x="805" y="805" type="line"/>
+      <point x="805" y="1005" type="line" name="hr03"/>
+      <point x="30" y="1005" type="line"/>
+      <point x="30" y="805" type="line" name="hr05"/>
+    </contour>
+    <contour>
+      <point x="725" y="1600" type="line" name="hr04"/>
+      <point x="660" y="1170" type="line" name="hr06"/>
+      <point x="830" y="1170" type="line"/>
+      <point x="960" y="1600" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="0" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="500" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="360" y="1360" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="-25" width="231"/>
+            <hstem pos="807" width="513"/>
+            <vstem pos="41" width="478"/>
+          </hintset>
+          <hintset pointTag="hr02">
+            <hstem pos="-25" width="231"/>
+            <hstem pos="807" width="513"/>
+            <vstem pos="241" width="278"/>
+          </hintset>
+          <hintset pointTag="hr03">
+            <hstem pos="-25" width="231"/>
+            <hstem pos="807" width="203"/>
+            <vstem pos="41" width="478"/>
+          </hintset>
+          <hintset pointTag="hr05">
+            <hstem pos="1600" width="-20"/>
+            <vstem pos="680" width="250"/>
+          </hintset>
+          <hintset pointTag="hr06">
+            <hstem pos="1170" width="430"/>
+            <vstem pos="680" width="250"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.92</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

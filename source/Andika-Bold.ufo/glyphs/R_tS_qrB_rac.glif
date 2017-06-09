@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="RtSqrBrac" format="1">
+  <advance width="850"/>
+  <unicode hex="005D"/>
+  <outline>
+    <contour>
+      <point x="660" y="-410" type="line" name="hr00"/>
+      <point x="660" y="1600" type="line"/>
+      <point x="140" y="1600" type="line"/>
+      <point x="140" y="1390" type="line"/>
+      <point x="380" y="1390" type="line"/>
+      <point x="380" y="-200" type="line"/>
+      <point x="140" y="-200" type="line"/>
+      <point x="140" y="-410" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="-410" width="210"/>
+            <hstem pos="1390" width="210"/>
+            <vstem pos="150" width="500"/>
+            <vstem pos="405" width="245"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.732</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

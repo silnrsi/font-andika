@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModVoicing" format="1">
+  <advance width="830"/>
+  <unicode hex="02EC"/>
+  <outline>
+    <contour>
+      <point x="-96" y="-147" type="line" name="hr00"/>
+      <point x="158" y="-568" type="line"/>
+      <point x="328" y="-568" type="line"/>
+      <point x="753" y="-147" type="line"/>
+      <point x="603" y="-147" type="line"/>
+      <point x="260" y="-421" type="line"/>
+      <point x="53" y="-147" type="line"/>
+    </contour>
+    <contour>
+      <point x="240" y="-600" type="move" name="L"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="-568" width="147"/>
+            <vstem pos="-60" width="850"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.92</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

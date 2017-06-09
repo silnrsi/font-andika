@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CySmPe" format="1">
+  <advance width="1205"/>
+  <unicode hex="043F"/>
+  <outline>
+    <contour>
+      <point x="1020" y="1020" type="line" name="hr00"/>
+      <point x="170" y="1020" type="line"/>
+      <point x="170" y="0" type="line"/>
+      <point x="355" y="0" type="line"/>
+      <point x="355" y="875" type="line"/>
+      <point x="835" y="875" type="line"/>
+      <point x="835" y="0" type="line"/>
+      <point x="1035" y="0" type="line"/>
+      <point x="1022" y="105"/>
+      <point x="1020" y="295"/>
+      <point x="1020" y="490" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="602" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="600" y="1100" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="21" width="-21"/>
+            <hstem pos="875" width="145"/>
+            <vstem pos="170" width="185"/>
+            <vstem pos="835" width="185"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

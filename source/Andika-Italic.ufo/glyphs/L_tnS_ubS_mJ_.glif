@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSubSmJ" format="1">
+  <advance width="416"/>
+  <unicode hex="2C7C"/>
+  <outline>
+    <component base="LtnSmJ" xScale="0.7" yScale="0.65" xOffset="5" yOffset="-300"/>
+  </outline>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnCapSaltillo.Lrg" format="1">
+  <advance width="766"/>
+  <outline>
+    <contour>
+      <point x="535" y="527" type="line"/>
+      <point x="541" y="867"/>
+      <point x="536" y="1202"/>
+      <point x="575" y="1711" type="curve" name="hr01"/>
+      <point x="240" y="1711" type="line"/>
+      <point x="278" y="1202"/>
+      <point x="273" y="867"/>
+      <point x="280" y="527" type="curve" name="hr02"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="548" width="-21"/>
+            <hstem pos="1711" width="-20"/>
+            <vstem pos="240" width="335"/>
+          </hintset>
+          <hintset pointTag="hr02">
+            <hstem pos="548" width="-21"/>
+            <hstem pos="1711" width="-20"/>
+            <vstem pos="280" width="255"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.732</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LTOrEqTo" format="1">
+  <advance width="1200"/>
+  <unicode hex="2264"/>
+  <outline>
+    <contour>
+      <point x="100" y="-20" type="line" name="hr00"/>
+      <point x="1080" y="-20" type="line"/>
+      <point x="1080" y="180" type="line"/>
+      <point x="100" y="180" type="line"/>
+    </contour>
+    <contour>
+      <point x="1080" y="505" type="line"/>
+      <point x="390" y="750" type="line"/>
+      <point x="1080" y="1005" type="line"/>
+      <point x="1080" y="1235" type="line"/>
+      <point x="100" y="845" type="line"/>
+      <point x="100" y="655" type="line"/>
+      <point x="1080" y="275" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="0" width="150"/>
+            <hstem pos="1215" width="-20"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.732</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

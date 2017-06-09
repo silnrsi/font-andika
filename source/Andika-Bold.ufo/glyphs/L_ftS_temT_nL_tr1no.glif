@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LftStemTnLtr1no" format="1">
+  <advance width="859"/>
+  <outline>
+    <component base="TnLtrSpcFlatLeft"/>
+    <component base="TnLtrSeg11" xOffset="180"/>
+    <component base="TnLtrSpcPointRight" xOffset="660"/>
+  </outline>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnCapLCaron" format="1">
+  <advance width="1130"/>
+  <unicode hex="013D"/>
+  <outline>
+    <component base="LtnCapL"/>
+    <component base="CombCommaAbvRt" xOffset="620" yOffset="-115"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>1600</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <integer>1</integer>
+        <real>0.732</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

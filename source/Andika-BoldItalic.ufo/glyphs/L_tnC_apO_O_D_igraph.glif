@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnCapOODigraph" format="1">
+  <advance width="2500"/>
+  <unicode hex="A74E"/>
+  <outline>
+    <contour>
+      <point x="2539" y="911" type="curve" smooth="yes" name="hr00"/>
+      <point x="2539" y="1249"/>
+      <point x="2370" y="1470"/>
+      <point x="2046" y="1470" type="curve" smooth="yes"/>
+      <point x="1803" y="1470"/>
+      <point x="1604" y="1368"/>
+      <point x="1461" y="1211" type="curve"/>
+      <point x="1386" y="1373"/>
+      <point x="1240" y="1470"/>
+      <point x="1026" y="1470" type="curve" smooth="yes"/>
+      <point x="510" y="1470"/>
+      <point x="191" y="1010"/>
+      <point x="191" y="539" type="curve" smooth="yes"/>
+      <point x="191" y="199"/>
+      <point x="401" y="-25"/>
+      <point x="693" y="-25" type="curve" smooth="yes"/>
+      <point x="912" y="-25"/>
+      <point x="1123" y="70"/>
+      <point x="1277" y="239" type="curve"/>
+      <point x="1361" y="74"/>
+      <point x="1519" y="-25"/>
+      <point x="1713" y="-25" type="curve" smooth="yes"/>
+      <point x="2141" y="-25"/>
+      <point x="2539" y="337"/>
+    </contour>
+    <contour>
+      <point x="754" y="218" type="curve" smooth="yes"/>
+      <point x="580" y="218"/>
+      <point x="471" y="345"/>
+      <point x="471" y="568" type="curve" smooth="yes"/>
+      <point x="471" y="922"/>
+      <point x="664" y="1228"/>
+      <point x="966" y="1228" type="curve" smooth="yes"/>
+      <point x="1134" y="1228"/>
+      <point x="1237" y="1106"/>
+      <point x="1237" y="891" type="curve" smooth="yes"/>
+      <point x="1237" y="540"/>
+      <point x="1060" y="218"/>
+    </contour>
+    <contour>
+      <point x="1774" y="218" type="curve" smooth="yes"/>
+      <point x="1600" y="218"/>
+      <point x="1491" y="345"/>
+      <point x="1491" y="568" type="curve" smooth="yes"/>
+      <point x="1491" y="922"/>
+      <point x="1684" y="1228"/>
+      <point x="1986" y="1228" type="curve" smooth="yes"/>
+      <point x="2154" y="1228"/>
+      <point x="2257" y="1106"/>
+      <point x="2257" y="891" type="curve" smooth="yes"/>
+      <point x="2257" y="540"/>
+      <point x="2080" y="218"/>
+    </contour>
+    <contour>
+      <point x="1699" y="0" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="1210" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="1931" y="0" type="move" name="O"/>
+    </contour>
+    <contour>
+      <point x="2753" y="1200" type="move" name="R"/>
+    </contour>
+    <contour>
+      <point x="1567" y="1530" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="-25" width="173"/>
+            <hstem pos="1297" width="173"/>
+            <vstem3 stem3List="38,195,1088,195,2138,195"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>1189</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.986</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

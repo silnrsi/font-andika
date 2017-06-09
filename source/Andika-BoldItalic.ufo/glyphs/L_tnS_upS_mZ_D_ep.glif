@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSupSmZDep" format="1">
+  <advance width="728"/>
+  <unicode hex="F1B6"/>
+  <outline>
+    <contour>
+      <point x="48" y="650" type="line" name="hr00"/>
+      <point x="696" y="650" type="line"/>
+      <point x="696" y="1373" type="line"/>
+      <point x="48" y="1373" type="line"/>
+    </contour>
+    <contour>
+      <point x="656" y="1343" type="line"/>
+      <point x="656" y="1281" type="line"/>
+      <point x="239" y="777" type="line"/>
+      <point x="540" y="777" type="line" smooth="yes"/>
+      <point x="581" y="777"/>
+      <point x="624" y="777"/>
+      <point x="666" y="787" type="curve"/>
+      <point x="666" y="680" type="line"/>
+      <point x="78" y="680" type="line"/>
+      <point x="78" y="751" type="line"/>
+      <point x="481" y="1245" type="line"/>
+      <point x="208" y="1245" type="line" smooth="yes"/>
+      <point x="167" y="1245"/>
+      <point x="125" y="1245"/>
+      <point x="99" y="1236" type="curve"/>
+      <point x="99" y="1343" type="line"/>
+    </contour>
+    <contour>
+      <point x="372" y="615" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="372" y="1395" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="650" width="30"/>
+            <hstem pos="777" width="468"/>
+            <hstem pos="1343" width="30"/>
+            <vstem pos="48" width="30"/>
+            <vstem pos="666" width="30"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

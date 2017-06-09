@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="NairaSgn" format="1">
+  <advance width="1220"/>
+  <unicode hex="20A6"/>
+  <outline>
+    <contour>
+      <point x="534" y="1341" type="line" name="hr01"/>
+      <point x="748" y="0" type="line"/>
+      <point x="944" y="99" type="line"/>
+      <point x="732" y="1445" type="line"/>
+    </contour>
+    <contour>
+      <point x="1108" y="1445" type="line"/>
+      <point x="748" y="0" type="line"/>
+      <point x="990" y="0" type="line"/>
+      <point x="1241" y="1010" type="line" smooth="yes"/>
+      <point x="1290" y="1205"/>
+      <point x="1331" y="1366"/>
+      <point x="1362" y="1445" type="curve"/>
+    </contour>
+    <contour>
+      <point x="372" y="0" type="line"/>
+      <point x="732" y="1445" type="line"/>
+      <point x="478" y="1445" type="line"/>
+      <point x="470" y="1366"/>
+      <point x="430" y="1205"/>
+      <point x="381" y="1010" type="curve" smooth="yes"/>
+      <point x="237" y="431" type="line" smooth="yes"/>
+      <point x="188" y="236"/>
+      <point x="148" y="79"/>
+      <point x="118" y="0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="110" y="485" type="line"/>
+      <point x="1250" y="485" type="line"/>
+      <point x="1295" y="663" type="line"/>
+      <point x="155" y="663" type="line"/>
+    </contour>
+    <contour>
+      <point x="184" y="782" type="line"/>
+      <point x="1324" y="782" type="line"/>
+      <point x="1369" y="960" type="line"/>
+      <point x="229" y="960" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="21" width="-21"/>
+            <hstem pos="540" width="128"/>
+            <hstem pos="787" width="129"/>
+            <hstem pos="1341" width="104"/>
+            <vstem pos="140" width="162"/>
+            <vstem pos="818" width="162"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.986</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

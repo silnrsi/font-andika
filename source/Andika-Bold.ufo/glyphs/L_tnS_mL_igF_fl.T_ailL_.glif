@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmLigFfl.TailL" format="1">
+  <advance width="2184"/>
+  <outline>
+    <contour>
+      <point x="1884" y="1565" type="line"/>
+      <point x="1605" y="1565" type="line"/>
+      <point x="1536" y="1596"/>
+      <point x="1441" y="1620"/>
+      <point x="1372" y="1620" type="curve" smooth="yes"/>
+      <point x="1232" y="1620"/>
+      <point x="1119" y="1585"/>
+      <point x="1039" y="1514" type="curve"/>
+      <point x="972" y="1562"/>
+      <point x="832" y="1620"/>
+      <point x="711" y="1620" type="curve" smooth="yes"/>
+      <point x="397" y="1620"/>
+      <point x="210" y="1470"/>
+      <point x="210" y="1170" type="curve" smooth="yes"/>
+      <point x="210" y="1005" type="line"/>
+      <point x="10" y="1005" type="line"/>
+      <point x="10" y="805" type="line"/>
+      <point x="210" y="805" type="line"/>
+      <point x="210" y="0" type="line"/>
+      <point x="520" y="0" type="line"/>
+      <point x="498" y="105"/>
+      <point x="490" y="300"/>
+      <point x="490" y="494" type="curve" smooth="yes"/>
+      <point x="490" y="805" type="line" name="hr01"/>
+      <point x="907" y="805" type="line"/>
+      <point x="907" y="0" type="line"/>
+      <point x="1217" y="0" type="line"/>
+      <point x="1195" y="105"/>
+      <point x="1187" y="300"/>
+      <point x="1187" y="494" type="curve" smooth="yes"/>
+      <point x="1187" y="805" type="line"/>
+      <point x="1442" y="805" type="line"/>
+      <point x="1442" y="1005" type="line"/>
+      <point x="1187" y="1005" type="line"/>
+      <point x="1187" y="1159" type="line" smooth="yes"/>
+      <point x="1187" y="1322"/>
+      <point x="1250" y="1387"/>
+      <point x="1395" y="1387" type="curve" smooth="yes"/>
+      <point x="1458" y="1387"/>
+      <point x="1543" y="1361"/>
+      <point x="1604" y="1320" type="curve"/>
+      <point x="1604" y="290" type="line" smooth="yes"/>
+      <point x="1604" y="69"/>
+      <point x="1747" y="-25"/>
+      <point x="1889" y="-25" type="curve" smooth="yes"/>
+      <point x="1994" y="-25"/>
+      <point x="2070" y="-12"/>
+      <point x="2139" y="28" type="curve"/>
+      <point x="2139" y="268" type="line" name="hr02"/>
+      <point x="2092" y="242"/>
+      <point x="2046" y="230"/>
+      <point x="1999" y="230" type="curve" smooth="yes"/>
+      <point x="1925" y="230"/>
+      <point x="1884" y="268"/>
+      <point x="1884" y="455" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="490" y="1005" type="line"/>
+      <point x="490" y="1159" type="line" smooth="yes"/>
+      <point x="490" y="1322"/>
+      <point x="562" y="1387"/>
+      <point x="728" y="1387" type="curve" smooth="yes"/>
+      <point x="795" y="1387"/>
+      <point x="873" y="1357"/>
+      <point x="924" y="1319" type="curve"/>
+      <point x="913" y="1274"/>
+      <point x="907" y="1224"/>
+      <point x="907" y="1170" type="curve" smooth="yes"/>
+      <point x="907" y="1005" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="-25" width="165"/>
+            <hstem pos="850" width="145"/>
+            <hstem pos="1460" width="160"/>
+            <vstem pos="411" width="185"/>
+            <vstem pos="976" width="185"/>
+            <vstem pos="1596" width="185"/>
+          </hintset>
+          <hintset pointTag="hr02">
+            <hstem pos="21" width="-21"/>
+            <hstem pos="850" width="145"/>
+            <hstem pos="1460" width="160"/>
+            <vstem pos="411" width="185"/>
+            <vstem pos="976" width="185"/>
+            <vstem pos="1596" width="185"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.92</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

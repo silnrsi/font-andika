@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="TriangularBullet" format="1">
+  <advance width="985"/>
+  <unicode hex="2023"/>
+  <outline>
+    <contour>
+      <point x="900" y="510" type="line" name="hr00"/>
+      <point x="95" y="915" type="line"/>
+      <point x="95" y="105" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="105" width="810"/>
+            <vstem pos="95" width="805"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

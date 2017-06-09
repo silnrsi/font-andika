@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModChinantecTnMrkDotVertBarDep" format="1">
+  <advance width="465"/>
+  <unicode hex="F198"/>
+  <outline>
+    <contour>
+      <point x="15" y="975" type="line" name="hr00"/>
+      <point x="450" y="975" type="line"/>
+      <point x="450" y="1675" type="line"/>
+      <point x="15" y="1675" type="line"/>
+    </contour>
+    <contour>
+      <point x="290" y="1005" type="line"/>
+      <point x="290" y="1645" type="line"/>
+      <point x="420" y="1645" type="line"/>
+      <point x="420" y="1005" type="line"/>
+    </contour>
+    <contour>
+      <point x="200" y="1325" type="curve" smooth="yes"/>
+      <point x="200" y="1282"/>
+      <point x="168" y="1245"/>
+      <point x="125" y="1245" type="curve" smooth="yes"/>
+      <point x="82" y="1245"/>
+      <point x="45" y="1282"/>
+      <point x="45" y="1325" type="curve" smooth="yes"/>
+      <point x="45" y="1368"/>
+      <point x="82" y="1405"/>
+      <point x="125" y="1405" type="curve" smooth="yes"/>
+      <point x="168" y="1405"/>
+      <point x="200" y="1368"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="975" width="30"/>
+            <hstem pos="1645" width="30"/>
+            <vstem pos="15" width="30"/>
+            <vstem pos="200" width="90"/>
+            <vstem pos="420" width="30"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

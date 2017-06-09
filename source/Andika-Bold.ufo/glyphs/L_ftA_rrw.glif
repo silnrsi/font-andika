@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LftArrw" format="1">
+  <advance width="2050"/>
+  <unicode hex="2190"/>
+  <outline>
+    <contour>
+      <point x="710" y="405" type="line" name="hr00"/>
+      <point x="745" y="500" type="line"/>
+      <point x="340" y="670" type="line"/>
+      <point x="1915" y="670" type="line"/>
+      <point x="1915" y="780" type="line"/>
+      <point x="340" y="780" type="line"/>
+      <point x="745" y="950" type="line"/>
+      <point x="710" y="1045" type="line"/>
+      <point x="135" y="785" type="line"/>
+      <point x="135" y="665" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="665" width="120"/>
+            <vstem pos="135" width="1780"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.92</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

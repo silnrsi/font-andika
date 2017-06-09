@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnCapILonga" format="1">
+  <advance width="975"/>
+  <unicode hex="A7FE"/>
+  <outline>
+    <contour>
+      <point x="140" y="1600" type="line" name="hr00"/>
+      <point x="140" y="1455" type="line"/>
+      <point x="380" y="1455" type="line"/>
+      <point x="380" y="145" type="line"/>
+      <point x="140" y="145" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="815" y="0" type="line"/>
+      <point x="815" y="145" type="line"/>
+      <point x="570" y="145" type="line"/>
+      <point x="570" y="1455" type="line"/>
+      <point x="815" y="1455" type="line"/>
+      <point x="815" y="1600" type="line"/>
+    </contour>
+    <contour>
+      <point x="477" y="0" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="477" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="672" y="0" type="move" name="O"/>
+    </contour>
+    <contour>
+      <point x="760" y="1100" type="move" name="R"/>
+    </contour>
+    <contour>
+      <point x="477" y="1635" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="0" width="145"/>
+            <hstem pos="1455" width="145"/>
+            <vstem pos="380" width="190"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

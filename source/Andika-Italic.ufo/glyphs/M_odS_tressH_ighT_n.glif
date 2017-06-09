@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModStressHighTn" format="1">
+  <advance width="1145"/>
+  <unicode hex="A720"/>
+  <outline>
+    <contour>
+      <point x="1382" y="1313" type="line" name="hr00"/>
+      <point x="1411" y="1431" type="line"/>
+      <point x="346" y="1431" type="line"/>
+      <point x="241" y="1009" type="line"/>
+      <point x="361" y="1009" type="line"/>
+      <point x="437" y="1313" type="line"/>
+      <point x="717" y="1313" type="line"/>
+      <point x="641" y="1009" type="line"/>
+      <point x="761" y="1009" type="line"/>
+      <point x="837" y="1313" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="1313" width="118"/>
+            <vstem pos="-10" width="120"/>
+            <vstem pos="390" width="120"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.92</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

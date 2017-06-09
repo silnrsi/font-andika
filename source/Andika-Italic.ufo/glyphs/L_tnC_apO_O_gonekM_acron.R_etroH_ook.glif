@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnCapOOgonekMacron.RetroHook" format="1">
+  <advance width="1447"/>
+  <outline>
+    <component base="LtnCapO"/>
+    <component base="CombMacron" xOffset="1349" yOffset="430"/>
+    <component base="CombOgonek.RetroHook" xOffset="1287"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.807</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

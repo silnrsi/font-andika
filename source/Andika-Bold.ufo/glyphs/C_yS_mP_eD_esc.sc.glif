@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CySmPeDesc.sc" format="1">
+  <advance width="1474"/>
+  <outline>
+    <contour>
+      <point x="1018" y="0" type="line" name="hr00"/>
+      <point x="1177" y="0" type="line"/>
+      <point x="1204" y="-105"/>
+      <point x="1209" y="-275"/>
+      <point x="1209" y="-380" type="curve"/>
+      <point x="1371" y="-380" type="line"/>
+      <point x="1371" y="151" type="line"/>
+      <point x="1203" y="151" type="line"/>
+      <point x="1203" y="853" type="line"/>
+      <point x="1203" y="1016"/>
+      <point x="1203" y="1145"/>
+      <point x="1219" y="1221" type="curve"/>
+      <point x="189" y="1221" type="line"/>
+      <point x="205" y="1145"/>
+      <point x="205" y="1016"/>
+      <point x="205" y="853" type="curve"/>
+      <point x="205" y="363" type="line"/>
+      <point x="205" y="201"/>
+      <point x="205" y="75"/>
+      <point x="189" y="0" type="curve"/>
+      <point x="389" y="0" type="line"/>
+      <point x="389" y="1069" type="line"/>
+      <point x="1018" y="1069" type="line"/>
+    </contour>
+    <contour>
+      <point x="709" y="-76" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="709" y="1293" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="0" width="151"/>
+            <hstem pos="1069" width="152"/>
+            <vstem pos="205" width="184"/>
+            <vstem pos="1018" width="185"/>
+            <vstem pos="1209" width="162"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

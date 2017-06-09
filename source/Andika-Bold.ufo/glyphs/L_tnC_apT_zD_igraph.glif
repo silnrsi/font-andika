@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnCapTzDigraph" format="1">
+  <advance width="1761"/>
+  <unicode hex="A728"/>
+  <outline>
+    <contour>
+      <point x="773" y="1020" type="line"/>
+      <point x="773" y="1230" type="line"/>
+      <point x="989" y="1230" type="line" smooth="yes"/>
+      <point x="1070" y="1230"/>
+      <point x="1148" y="1227"/>
+      <point x="1220" y="1210" type="curve"/>
+      <point x="1220" y="1460" type="line"/>
+      <point x="45" y="1460" type="line"/>
+      <point x="45" y="1210" type="line"/>
+      <point x="117" y="1227"/>
+      <point x="196" y="1230"/>
+      <point x="276" y="1230" type="curve" smooth="yes"/>
+      <point x="488" y="1230" type="line"/>
+      <point x="488" y="413" type="line" smooth="yes"/>
+      <point x="488" y="226"/>
+      <point x="485" y="76"/>
+      <point x="468" y="0" type="curve" name="hr01"/>
+      <point x="793" y="0" type="line"/>
+      <point x="776" y="76"/>
+      <point x="773" y="226"/>
+      <point x="773" y="413" type="curve" smooth="yes"/>
+      <point x="773" y="805" type="line"/>
+      <point x="1305" y="805" type="line"/>
+      <point x="929" y="392" type="line"/>
+      <point x="929" y="210" type="line"/>
+      <point x="1003" y="217"/>
+      <point x="1092" y="221"/>
+      <point x="1152" y="221" type="curve" smooth="yes"/>
+      <point x="1327" y="221"/>
+      <point x="1441" y="131"/>
+      <point x="1441" y="-12" type="curve" smooth="yes"/>
+      <point x="1441" y="-152"/>
+      <point x="1319" y="-244"/>
+      <point x="1149" y="-244" type="curve" smooth="yes"/>
+      <point x="1017" y="-244"/>
+      <point x="863" y="-212"/>
+      <point x="761" y="-155" type="curve"/>
+      <point x="761" y="-396" type="line"/>
+      <point x="839" y="-446"/>
+      <point x="1008" y="-470"/>
+      <point x="1141" y="-470" type="curve" smooth="yes"/>
+      <point x="1439" y="-470"/>
+      <point x="1721" y="-270"/>
+      <point x="1721" y="-2" type="curve" smooth="yes"/>
+      <point x="1721" y="161"/>
+      <point x="1649" y="251"/>
+      <point x="1587" y="312" type="curve" smooth="yes"/>
+      <point x="1517" y="380"/>
+      <point x="1379" y="429"/>
+      <point x="1233" y="430" type="curve"/>
+      <point x="1640" y="884" type="line"/>
+      <point x="1640" y="1020" type="line"/>
+    </contour>
+    <contour>
+      <point x="1139" y="-500" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="641" y="1530" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="21" width="-21"/>
+            <hstem pos="705" width="150"/>
+            <hstem pos="1295" width="165"/>
+            <vstem pos="584" width="190"/>
+            <vstem pos="1654" width="180"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.92</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

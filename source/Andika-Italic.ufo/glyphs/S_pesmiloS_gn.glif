@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SpesmiloSgn" format="1">
+  <advance width="1180"/>
+  <unicode hex="20B7"/>
+  <outline>
+    <contour>
+      <point x="1260" y="1347" type="line" name="hr00"/>
+      <point x="1146" y="1419"/>
+      <point x="1021" y="1455"/>
+      <point x="867" y="1455" type="curve" smooth="yes"/>
+      <point x="549" y="1455"/>
+      <point x="320" y="1323"/>
+      <point x="320" y="1060" type="curve" smooth="yes"/>
+      <point x="320" y="921"/>
+      <point x="441" y="829"/>
+      <point x="622" y="721" type="curve" smooth="yes"/>
+      <point x="877" y="569"/>
+      <point x="914" y="481"/>
+      <point x="914" y="398" type="curve" smooth="yes"/>
+      <point x="914" y="258"/>
+      <point x="791" y="160"/>
+      <point x="514" y="160" type="curve" smooth="yes"/>
+      <point x="340" y="160"/>
+      <point x="171" y="230"/>
+      <point x="171" y="309" type="curve" smooth="yes"/>
+      <point x="171" y="342"/>
+      <point x="192" y="363"/>
+      <point x="215" y="363" type="curve" smooth="yes"/>
+      <point x="234" y="363"/>
+      <point x="243" y="352"/>
+      <point x="243" y="328" type="curve" smooth="yes"/>
+      <point x="243" y="313"/>
+      <point x="239" y="294"/>
+      <point x="233" y="268" type="curve" smooth="yes"/>
+      <point x="167" y="0" type="line"/>
+      <point x="267" y="0" type="line"/>
+      <point x="335" y="275" type="line" smooth="yes"/>
+      <point x="351" y="339"/>
+      <point x="402" y="368"/>
+      <point x="429" y="368" type="curve" smooth="yes"/>
+      <point x="461" y="368"/>
+      <point x="476" y="354"/>
+      <point x="476" y="318" type="curve" smooth="yes"/>
+      <point x="476" y="299"/>
+      <point x="471" y="273"/>
+      <point x="463" y="240" type="curve" smooth="yes"/>
+      <point x="403" y="0" type="line"/>
+      <point x="501" y="0" type="line"/>
+      <point x="565" y="275" type="line" smooth="yes"/>
+      <point x="580" y="339"/>
+      <point x="633" y="368"/>
+      <point x="659" y="368" type="curve" smooth="yes"/>
+      <point x="692" y="368"/>
+      <point x="708" y="353"/>
+      <point x="708" y="315" type="curve" smooth="yes"/>
+      <point x="708" y="296"/>
+      <point x="704" y="272"/>
+      <point x="696" y="240" type="curve" smooth="yes"/>
+      <point x="637" y="0" type="line"/>
+      <point x="737" y="0" type="line"/>
+      <point x="807" y="288" type="line" smooth="yes"/>
+      <point x="812" y="309"/>
+      <point x="815" y="329"/>
+      <point x="815" y="347" type="curve" smooth="yes"/>
+      <point x="815" y="409"/>
+      <point x="785" y="453"/>
+      <point x="718" y="453" type="curve" smooth="yes"/>
+      <point x="661" y="453"/>
+      <point x="603" y="426"/>
+      <point x="568" y="368" type="curve"/>
+      <point x="563" y="407"/>
+      <point x="550" y="453"/>
+      <point x="475" y="453" type="curve" smooth="yes"/>
+      <point x="434" y="453"/>
+      <point x="367" y="422"/>
+      <point x="336" y="364" type="curve"/>
+      <point x="331" y="413"/>
+      <point x="317" y="453"/>
+      <point x="249" y="453" type="curve" smooth="yes"/>
+      <point x="161" y="453"/>
+      <point x="99" y="376"/>
+      <point x="99" y="289" type="curve" smooth="yes"/>
+      <point x="99" y="145"/>
+      <point x="303" y="61"/>
+      <point x="500" y="61" type="curve" smooth="yes"/>
+      <point x="864" y="61"/>
+      <point x="1114" y="199"/>
+      <point x="1114" y="434" type="curve" smooth="yes"/>
+      <point x="1114" y="546"/>
+      <point x="1057" y="689"/>
+      <point x="800" y="858" type="curve" smooth="yes"/>
+      <point x="603" y="987"/>
+      <point x="510" y="1025"/>
+      <point x="510" y="1099" type="curve" smooth="yes"/>
+      <point x="510" y="1230"/>
+      <point x="659" y="1284"/>
+      <point x="845" y="1284" type="curve" smooth="yes"/>
+      <point x="959" y="1284"/>
+      <point x="1075" y="1240"/>
+      <point x="1173" y="1156" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="0" width="158"/>
+            <hstem pos="1203" width="158"/>
+            <hstem pos="1568" width="-20"/>
+            <vstem3 stem3List="130,175,493,130,811,175"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>76.38</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>24</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>76.38</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>95</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.92</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

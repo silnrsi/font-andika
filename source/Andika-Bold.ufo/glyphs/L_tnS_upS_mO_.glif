@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSupSmO" format="1">
+  <advance width="811"/>
+  <unicode hex="1D52"/>
+  <outline>
+    <component base="LtnSmO" xScale="0.7" yScale="0.65" xOffset="62" yOffset="680"/>
+  </outline>
+</glyph>

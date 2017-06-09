@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModApos.Lrg" format="1">
+  <advance width="556"/>
+  <outline>
+    <component base="ModApos" xScale="1.25" yScale="1.25" yOffset="-396"/>
+  </outline>
+</glyph>

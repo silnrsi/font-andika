@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmSAcute.sc" format="1">
+  <advance width="1101"/>
+  <outline>
+    <component base="LtnSmS.sc"/>
+    <component base="CombAcute" xOffset="1114" yOffset="193"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.807</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

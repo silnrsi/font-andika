@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombDblGrave" format="1">
+  <advance width="0"/>
+  <unicode hex="030F"/>
+  <outline>
+    <contour>
+      <point x="-719" y="1568" type="line" name="hr00"/>
+      <point x="-499" y="1127" type="line"/>
+      <point x="-369" y="1127" type="line"/>
+      <point x="-519" y="1568" type="line"/>
+    </contour>
+    <contour>
+      <point x="-379" y="1568" type="line"/>
+      <point x="-159" y="1127" type="line"/>
+      <point x="-30" y="1127" type="line"/>
+      <point x="-179" y="1568" type="line"/>
+    </contour>
+    <contour>
+      <point x="-223" y="1635" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="-300" y="1100" type="move" name="_U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="1127" width="441"/>
+            <vstem pos="-1100" width="790"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.732</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

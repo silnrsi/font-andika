@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombRtArrwhdDwnArrwhdBlw" format="1">
+  <advance width="0"/>
+  <unicode hex="1DFF"/>
+  <outline>
+    <contour>
+      <point x="158" y="-134" type="line" name="hr00"/>
+      <point x="21" y="-134" type="line"/>
+      <point x="-380" y="-703" type="line"/>
+      <point x="-498" y="-134" type="line"/>
+      <point x="-621" y="-134" type="line"/>
+      <point x="-467" y="-861" type="line"/>
+      <point x="-357" y="-861" type="line"/>
+    </contour>
+    <contour>
+      <point x="-699" y="-551" type="line"/>
+      <point x="-672" y="-443" type="line"/>
+      <point x="-1483" y="-146" type="line"/>
+      <point x="-1514" y="-262" type="line"/>
+      <point x="-880" y="-490" type="line"/>
+      <point x="-1627" y="-718" type="line"/>
+      <point x="-1658" y="-848" type="line"/>
+    </contour>
+    <contour>
+      <point x="-824" y="-850" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="-637" y="-100" type="move" name="_L"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="1693" width="148"/>
+            <hstem pos="1841" width="149"/>
+            <vstem pos="-1120" width="2120"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.986</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

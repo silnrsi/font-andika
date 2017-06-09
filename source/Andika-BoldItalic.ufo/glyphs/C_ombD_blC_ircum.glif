@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombDblCircum" format="1">
+  <advance width="0"/>
+  <unicode hex="1DCD"/>
+  <outline>
+    <contour>
+      <point x="-455" y="1564" type="line"/>
+      <point x="414" y="1822" type="line"/>
+      <point x="1114" y="1564" type="line"/>
+      <point x="1384" y="1564" type="line"/>
+      <point x="551" y="1990" type="line" name="hr01"/>
+      <point x="321" y="1990" type="line"/>
+      <point x="-725" y="1564" type="line"/>
+    </contour>
+    <contour>
+      <point x="348" y="1635" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="1841" width="149"/>
+            <vstem pos="-1120" width="2120"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.986</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

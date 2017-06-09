@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnCapVend" format="1">
+  <advance width="1114"/>
+  <unicode hex="A768"/>
+  <outline>
+    <contour>
+      <point x="456" y="1431" type="line" name="hr00"/>
+      <point x="450" y="1352"/>
+      <point x="411" y="1187"/>
+      <point x="363" y="995" type="curve" smooth="yes"/>
+      <point x="125" y="44" type="line" smooth="yes"/>
+      <point x="77" y="-149"/>
+      <point x="26" y="-353"/>
+      <point x="-20" y="-480" type="curve"/>
+      <point x="195" y="-480" type="line"/>
+      <point x="211" y="-356"/>
+      <point x="256" y="-175"/>
+      <point x="323" y="93" type="curve" smooth="yes"/>
+      <point x="656" y="1431" type="line"/>
+    </contour>
+    <contour>
+      <point x="1160" y="1431" type="line"/>
+      <point x="313" y="215" type="line"/>
+      <point x="291" y="215" type="line"/>
+      <point x="148" y="-69" type="line"/>
+      <point x="279" y="-79" type="line"/>
+      <point x="1095" y="1048" type="line" smooth="yes"/>
+      <point x="1171" y="1152"/>
+      <point x="1268" y="1278"/>
+      <point x="1375" y="1431" type="curve"/>
+    </contour>
+    <contour>
+      <point x="83" y="-500" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="923" y="1530" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="-460" width="-21"/>
+            <hstem pos="1294" width="161"/>
+            <hstem pos="1431" width="-20"/>
+            <vstem pos="115" width="185"/>
+            <vstem pos="865" width="190"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.92</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

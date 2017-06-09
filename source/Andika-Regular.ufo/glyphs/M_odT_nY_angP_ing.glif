@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModTnYangPing" format="1">
+  <advance width="450"/>
+  <unicode hex="A701"/>
+  <outline>
+    <contour>
+      <point x="415" y="-395" type="line" name="hr01"/>
+      <point x="415" y="-320" type="line"/>
+      <point x="45" y="-320" type="line"/>
+      <point x="45" y="-395" type="line"/>
+    </contour>
+    <contour>
+      <point x="415" y="-195" type="line"/>
+      <point x="415" y="-120" type="line"/>
+      <point x="260" y="-120" type="line" smooth="yes"/>
+      <point x="129" y="-120"/>
+      <point x="100" y="-83"/>
+      <point x="100" y="0" type="curve" smooth="yes" name="hr02"/>
+      <point x="100" y="83"/>
+      <point x="129" y="120"/>
+      <point x="260" y="120" type="curve" smooth="yes"/>
+      <point x="415" y="120" type="line"/>
+      <point x="415" y="195" type="line"/>
+      <point x="275" y="195" type="line" smooth="yes"/>
+      <point x="82" y="195"/>
+      <point x="25" y="125"/>
+      <point x="25" y="0" type="curve" smooth="yes"/>
+      <point x="25" y="-125"/>
+      <point x="82" y="-195"/>
+      <point x="275" y="-195" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="-395" width="75"/>
+            <hstem pos="-195" width="75"/>
+            <hstem pos="120" width="75"/>
+            <vstem pos="45" width="370"/>
+          </hintset>
+          <hintset pointTag="hr02">
+            <hstem pos="-395" width="75"/>
+            <hstem pos="-195" width="75"/>
+            <hstem pos="120" width="75"/>
+            <vstem pos="25" width="75"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

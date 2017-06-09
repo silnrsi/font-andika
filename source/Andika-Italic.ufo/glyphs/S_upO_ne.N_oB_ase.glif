@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SupOne.NoBase" format="1">
+  <advance width="820"/>
+  <outline>
+    <contour>
+      <point x="836" y="1596" type="line" name="hr00"/>
+      <point x="703" y="1596" type="line"/>
+      <point x="448" y="1465" type="line"/>
+      <point x="434" y="1350" type="line"/>
+      <point x="669" y="1469" type="line"/>
+      <point x="454" y="666" type="line"/>
+      <point x="601" y="666" type="line"/>
+      <point x="610" y="736"/>
+      <point x="646" y="886"/>
+      <point x="668" y="969" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="533" y="615" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="758" y="1675" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="680" width="-14"/>
+            <hstem pos="1596" width="-13"/>
+            <vstem pos="454" width="133"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.732</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

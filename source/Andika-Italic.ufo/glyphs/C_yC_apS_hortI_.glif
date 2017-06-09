@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CyCapShortI" format="1">
+  <advance width="1480"/>
+  <unicode hex="0419"/>
+  <outline>
+    <component base="CyCapI"/>
+    <component base="CombBreve.CyShortMrkAlt.UCHt" xOffset="1460" yOffset="83"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <integer>1</integer>
+        <real>0.732</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

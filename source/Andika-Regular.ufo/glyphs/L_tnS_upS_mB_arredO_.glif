@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSupSmBarredO" format="1">
+  <advance width="798"/>
+  <unicode hex="1DB1"/>
+  <outline>
+    <component base="LtnSmBarredO" xScale="0.7" yScale="0.65" xOffset="5" yOffset="680"/>
+  </outline>
+</glyph>

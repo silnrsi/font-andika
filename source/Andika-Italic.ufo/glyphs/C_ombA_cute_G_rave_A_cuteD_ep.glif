@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombAcute_Grave_AcuteDep" format="1">
+  <advance width="0"/>
+  <unicode hex="F179"/>
+  <outline>
+    <contour>
+      <point x="-1115" y="1139" type="line" name="hr01"/>
+      <point x="-25" y="1139" type="line"/>
+      <point x="-25" y="1630" type="line"/>
+      <point x="-1115" y="1630" type="line"/>
+    </contour>
+    <contour>
+      <point x="-506" y="1169" type="line" name="hr02"/>
+      <point x="-724" y="1467" type="line"/>
+      <point x="-925" y="1170" type="line" name="hr03"/>
+      <point x="-1085" y="1170" type="line"/>
+      <point x="-835" y="1600" type="line"/>
+      <point x="-635" y="1600" type="line"/>
+      <point x="-415" y="1303" type="line"/>
+      <point x="-215" y="1600" type="line"/>
+      <point x="-55" y="1600" type="line"/>
+      <point x="-306" y="1169" type="line" name="hr04"/>
+    </contour>
+    <contour>
+      <point x="-570" y="1100" type="move" name="_U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="1139" width="31"/>
+            <hstem pos="1467" width="-20"/>
+            <hstem pos="1600" width="30"/>
+            <vstem pos="-1115" width="30"/>
+            <vstem pos="-55" width="30"/>
+          </hintset>
+          <hintset pointTag="hr02">
+            <hstem pos="1139" width="30"/>
+            <hstem pos="1467" width="-20"/>
+            <hstem pos="1600" width="30"/>
+            <vstem pos="-1115" width="30"/>
+            <vstem pos="-55" width="30"/>
+          </hintset>
+          <hintset pointTag="hr03">
+            <hstem pos="1139" width="31"/>
+            <hstem pos="1467" width="-20"/>
+            <hstem pos="1600" width="30"/>
+            <vstem pos="-1115" width="30"/>
+            <vstem pos="-55" width="30"/>
+          </hintset>
+          <hintset pointTag="hr04">
+            <hstem pos="1139" width="30"/>
+            <hstem pos="1467" width="-20"/>
+            <hstem pos="1600" width="30"/>
+            <vstem pos="-1115" width="30"/>
+            <vstem pos="-55" width="30"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

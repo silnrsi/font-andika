@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="PlusMinusSgn" format="1">
+  <advance width="1180"/>
+  <unicode hex="00B1"/>
+  <outline>
+    <contour>
+      <point x="298" y="818" type="line" name="hr00"/>
+      <point x="665" y="818" type="line"/>
+      <point x="576" y="461" type="line"/>
+      <point x="731" y="461" type="line"/>
+      <point x="820" y="818" type="line"/>
+      <point x="1188" y="818" type="line"/>
+      <point x="1225" y="965" type="line"/>
+      <point x="857" y="965" type="line"/>
+      <point x="950" y="1338" type="line"/>
+      <point x="795" y="1338" type="line"/>
+      <point x="702" y="965" type="line"/>
+      <point x="335" y="965" type="line"/>
+    </contour>
+    <contour>
+      <point x="143" y="196" type="line"/>
+      <point x="1033" y="196" type="line"/>
+      <point x="1070" y="343" type="line"/>
+      <point x="180" y="343" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="196" width="147"/>
+            <hstem pos="818" width="147"/>
+            <vstem pos="465" width="150"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.732</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

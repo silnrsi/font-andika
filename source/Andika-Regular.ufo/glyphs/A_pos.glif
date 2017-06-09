@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Apos" format="1">
+  <advance width="605"/>
+  <unicode hex="0027"/>
+  <outline>
+    <contour>
+      <point x="365" y="1045" type="line" name="hr00"/>
+      <point x="370" y="1186"/>
+      <point x="376" y="1339"/>
+      <point x="405" y="1585" type="curve"/>
+      <point x="200" y="1585" type="line"/>
+      <point x="231" y="1339"/>
+      <point x="236" y="1186"/>
+      <point x="240" y="1045" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="1045" width="540"/>
+            <vstem pos="240" width="125"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

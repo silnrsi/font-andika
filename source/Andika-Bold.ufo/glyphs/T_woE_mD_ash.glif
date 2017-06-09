@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="TwoEmDash" format="1">
+  <advance width="3310"/>
+  <unicode hex="2E3A"/>
+  <outline>
+    <contour>
+      <point x="80" y="530" type="line" name="hr00"/>
+      <point x="3230" y="530" type="line"/>
+      <point x="3230" y="730" type="line"/>
+      <point x="80" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="555" width="150"/>
+            <vstem pos="80" width="1575"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.92</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

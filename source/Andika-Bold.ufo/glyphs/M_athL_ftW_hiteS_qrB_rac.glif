@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="MathLftWhiteSqrBrac" format="1">
+  <advance width="1068"/>
+  <unicode hex="27E6"/>
+  <outline>
+    <contour>
+      <point x="915" y="-410" type="line" name="hr00"/>
+      <point x="915" y="-240" type="line"/>
+      <point x="670" y="-240" type="line"/>
+      <point x="670" y="1430" type="line"/>
+      <point x="915" y="1430" type="line"/>
+      <point x="915" y="1600" type="line"/>
+      <point x="150" y="1600" type="line"/>
+      <point x="150" y="-410" type="line"/>
+    </contour>
+    <contour>
+      <point x="325" y="1430" type="line"/>
+      <point x="495" y="1430" type="line"/>
+      <point x="495" y="-240" type="line"/>
+      <point x="325" y="-240" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="-410" width="150"/>
+            <hstem pos="1450" width="150"/>
+            <vstem pos="150" width="155"/>
+            <vstem pos="475" width="155"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.92</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModYinDepartingTnMrk" format="1">
+  <advance width="910"/>
+  <unicode hex="02EA"/>
+  <outline>
+    <contour>
+      <point x="220" y="800" type="line" name="hr00"/>
+      <point x="120" y="800" type="line"/>
+      <point x="120" y="230" type="line"/>
+      <point x="590" y="230" type="line"/>
+      <point x="590" y="330" type="line"/>
+      <point x="220" y="330" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="230" width="100"/>
+            <vstem pos="120" width="100"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

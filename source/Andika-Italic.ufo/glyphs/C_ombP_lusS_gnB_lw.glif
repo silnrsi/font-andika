@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombPlusSgnBlw" format="1">
+  <advance width="0"/>
+  <unicode hex="031F"/>
+  <outline>
+    <contour>
+      <point x="-523" y="-397" type="line" name="hr00"/>
+      <point x="-499" y="-299" type="line"/>
+      <point x="-654" y="-299" type="line"/>
+      <point x="-616" y="-147" type="line"/>
+      <point x="-716" y="-147" type="line"/>
+      <point x="-754" y="-299" type="line"/>
+      <point x="-909" y="-299" type="line"/>
+      <point x="-933" y="-397" type="line"/>
+      <point x="-778" y="-397" type="line"/>
+      <point x="-816" y="-549" type="line"/>
+      <point x="-716" y="-549" type="line"/>
+      <point x="-678" y="-397" type="line"/>
+    </contour>
+    <contour>
+      <point x="-775" y="-580" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="-655" y="-100" type="move" name="_L"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="-397" width="98"/>
+            <vstem pos="-680" width="100"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.92</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

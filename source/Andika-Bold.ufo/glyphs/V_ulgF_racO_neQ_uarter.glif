@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="VulgFracOneQuarter" format="1">
+  <advance width="1726"/>
+  <unicode hex="00BC"/>
+  <outline>
+    <contour>
+      <point x="1676" y="220" type="line"/>
+      <point x="1676" y="363" type="line"/>
+      <point x="1135" y="363" type="line"/>
+      <point x="1405" y="731" type="line"/>
+      <point x="1405" y="0" type="line" name="hr01"/>
+      <point x="1574" y="0" type="line"/>
+      <point x="1574" y="932" type="line"/>
+      <point x="1383" y="932" type="line"/>
+      <point x="979" y="363" type="line"/>
+      <point x="979" y="220" type="line"/>
+    </contour>
+    <contour>
+      <point x="1358" y="1600" type="line"/>
+      <point x="287" y="-50" type="line"/>
+      <point x="457" y="-50" type="line"/>
+      <point x="1529" y="1600" type="line"/>
+    </contour>
+    <contour>
+      <point x="255" y="820" type="line"/>
+      <point x="60" y="820" type="line"/>
+      <point x="60" y="670" type="line"/>
+      <point x="596" y="670" type="line"/>
+      <point x="596" y="820" type="line"/>
+      <point x="420" y="820" type="line"/>
+      <point x="420" y="1590" type="line"/>
+      <point x="255" y="1590" type="line"/>
+      <point x="50" y="1474" type="line"/>
+      <point x="77" y="1308" type="line"/>
+      <point x="255" y="1405" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="-29" width="-21"/>
+            <hstem pos="0" width="365"/>
+            <hstem pos="710" width="105"/>
+            <hstem pos="1600" width="-20"/>
+            <vstem pos="300" width="130"/>
+            <vstem pos="1255" width="135"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.732</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

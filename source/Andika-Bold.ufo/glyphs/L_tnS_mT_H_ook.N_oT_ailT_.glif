@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmTHook.NoTailT" format="1">
+  <advance width="822"/>
+  <outline>
+    <contour>
+      <point x="37" y="1020" type="line"/>
+      <point x="37" y="815" type="line"/>
+      <point x="782" y="815" type="line" name="hr01"/>
+      <point x="782" y="1020" type="line"/>
+    </contour>
+    <contour>
+      <point x="901" y="1550" type="line"/>
+      <point x="842" y="1588"/>
+      <point x="735" y="1620"/>
+      <point x="661" y="1620" type="curve" smooth="yes"/>
+      <point x="414" y="1620"/>
+      <point x="266" y="1482"/>
+      <point x="266" y="1210" type="curve" smooth="yes" name="hr03"/>
+      <point x="266" y="0" type="line"/>
+      <point x="546" y="0" type="line"/>
+      <point x="546" y="1199" type="line" smooth="yes"/>
+      <point x="546" y="1334"/>
+      <point x="598" y="1387"/>
+      <point x="684" y="1387" type="curve" smooth="yes"/>
+      <point x="733" y="1387"/>
+      <point x="801" y="1362"/>
+      <point x="844" y="1322" type="curve"/>
+    </contour>
+    <contour>
+      <point x="420" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="530" y="1635" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="21" width="-21"/>
+            <hstem pos="815" width="205"/>
+            <hstem pos="1450" width="170"/>
+            <vstem pos="266" width="516"/>
+          </hintset>
+          <hintset pointTag="hr01">
+            <hstem pos="21" width="-21"/>
+            <hstem pos="815" width="205"/>
+            <hstem pos="1450" width="170"/>
+            <vstem pos="37" width="509"/>
+          </hintset>
+          <hintset pointTag="hr03">
+            <hstem pos="21" width="-21"/>
+            <hstem pos="875" width="145"/>
+            <hstem pos="1450" width="170"/>
+            <vstem pos="266" width="280"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.92</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

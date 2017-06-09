@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombGrave_Acute_Grave" format="1">
+  <advance width="0"/>
+  <unicode hex="1DC8"/>
+  <outline>
+    <contour>
+      <point x="-356" y="1157" type="line"/>
+      <point x="-133" y="1400" type="line"/>
+      <point x="-47" y="1157" type="line"/>
+      <point x="173" y="1157" type="line"/>
+      <point x="38" y="1584" type="line" name="hr01"/>
+      <point x="-221" y="1584" type="line"/>
+      <point x="-442" y="1339" type="line"/>
+      <point x="-530" y="1583" type="line" name="hr02"/>
+      <point x="-750" y="1583" type="line"/>
+      <point x="-616" y="1157" type="line"/>
+    </contour>
+    <contour>
+      <point x="-355" y="1100" type="move" name="_U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="1451" width="133"/>
+            <vstem pos="-1145" width="1030"/>
+          </hintset>
+          <hintset pointTag="hr02">
+            <hstem pos="1157" width="426"/>
+            <vstem pos="-1145" width="1030"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.986</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

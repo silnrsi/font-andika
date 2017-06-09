@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CyCapElMiddleHook" format="1">
+  <advance width="2320"/>
+  <unicode hex="0520"/>
+  <outline>
+    <contour>
+      <point x="1504" y="559" type="line"/>
+      <point x="1583" y="604"/>
+      <point x="1683" y="648"/>
+      <point x="1816" y="648" type="curve" smooth="yes"/>
+      <point x="1950" y="648"/>
+      <point x="1991" y="532"/>
+      <point x="1991" y="401" type="curve" smooth="yes"/>
+      <point x="1991" y="81"/>
+      <point x="1817" y="-228"/>
+      <point x="1638" y="-228" type="curve" smooth="yes"/>
+      <point x="1591" y="-228"/>
+      <point x="1544" y="-220"/>
+      <point x="1524" y="-203" type="curve"/>
+      <point x="1383" y="-426" type="line"/>
+      <point x="1411" y="-447"/>
+      <point x="1515" y="-465"/>
+      <point x="1579" y="-465" type="curve" smooth="yes"/>
+      <point x="2032" y="-465"/>
+      <point x="2282" y="68"/>
+      <point x="2282" y="445" type="curve" smooth="yes"/>
+      <point x="2282" y="680"/>
+      <point x="2183" y="896"/>
+      <point x="1898" y="896" type="curve" smooth="yes"/>
+      <point x="1737" y="896"/>
+      <point x="1655" y="855"/>
+      <point x="1566" y="807" type="curve"/>
+      <point x="1725" y="1445" type="line"/>
+      <point x="795" y="1445" type="line"/>
+      <point x="644" y="906"/>
+      <point x="520" y="628"/>
+      <point x="389" y="460" type="curve" smooth="yes"/>
+      <point x="279" y="319"/>
+      <point x="160" y="267"/>
+      <point x="36" y="267" type="curve"/>
+      <point x="-34" y="-15" type="line"/>
+      <point x="163" y="-15"/>
+      <point x="411" y="66"/>
+      <point x="577" y="274" type="curve" smooth="yes"/>
+      <point x="736" y="473"/>
+      <point x="831" y="730"/>
+      <point x="998" y="1218" type="curve"/>
+      <point x="1383" y="1218" type="line"/>
+      <point x="1080" y="0" type="line" name="hr01"/>
+      <point x="1365" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="625" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="1250" y="1530" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="-465" width="168"/>
+            <hstem pos="21" width="-21"/>
+            <hstem pos="718" width="178"/>
+            <hstem pos="1282" width="163"/>
+            <vstem pos="475" width="180"/>
+            <vstem pos="1045" width="190"/>
+            <vstem pos="1852" width="194"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.986</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

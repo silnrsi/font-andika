@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombBreveHook.VN" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-195" y="1550" type="curve" name="hr01"/>
+      <point x="-317" y="1550" type="line"/>
+      <point x="-337" y="1415"/>
+      <point x="-439" y="1300"/>
+      <point x="-570" y="1300" type="curve" smooth="yes"/>
+      <point x="-700" y="1300"/>
+      <point x="-809" y="1415"/>
+      <point x="-825" y="1550" type="curve"/>
+      <point x="-945" y="1550" type="line"/>
+      <point x="-945" y="1356"/>
+      <point x="-805" y="1150"/>
+      <point x="-570" y="1150" type="curve" smooth="yes"/>
+      <point x="-337" y="1150"/>
+      <point x="-195" y="1356"/>
+    </contour>
+    <contour>
+      <point x="-520" y="1475" type="line"/>
+      <point x="-520" y="1592"/>
+      <point x="-513" y="1624"/>
+      <point x="-480" y="1660" type="curve" smooth="yes"/>
+      <point x="-449" y="1694"/>
+      <point x="-390" y="1730"/>
+      <point x="-390" y="1814" type="curve" smooth="yes" name="hr02"/>
+      <point x="-390" y="1899"/>
+      <point x="-481" y="1960"/>
+      <point x="-570" y="1960" type="curve" smooth="yes"/>
+      <point x="-640" y="1960"/>
+      <point x="-700" y="1938"/>
+      <point x="-745" y="1900" type="curve"/>
+      <point x="-725" y="1810" type="line"/>
+      <point x="-685" y="1846"/>
+      <point x="-632" y="1865"/>
+      <point x="-590" y="1865" type="curve" smooth="yes"/>
+      <point x="-537" y="1865"/>
+      <point x="-505" y="1831"/>
+      <point x="-505" y="1803" type="curve" smooth="yes"/>
+      <point x="-505" y="1750"/>
+      <point x="-564" y="1709"/>
+      <point x="-585" y="1680" type="curve" smooth="yes"/>
+      <point x="-616" y="1638"/>
+      <point x="-630" y="1595"/>
+      <point x="-630" y="1475" type="curve" name="hr03"/>
+    </contour>
+    <contour>
+      <point x="-570" y="1987" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="-570" y="1100" type="move" name="_U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="1150" width="150"/>
+            <hstem pos="1865" width="95"/>
+            <vstem pos="-630" width="110"/>
+          </hintset>
+          <hintset pointTag="hr02">
+            <hstem pos="1150" width="150"/>
+            <hstem pos="1865" width="95"/>
+            <vstem pos="-630" width="110"/>
+            <vstem pos="-505" width="115"/>
+          </hintset>
+          <hintset pointTag="hr03">
+            <hstem pos="1150" width="150"/>
+            <hstem pos="1865" width="95"/>
+            <vstem pos="-630" width="110"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombDblLowLine" format="1">
+  <advance width="0"/>
+  <unicode hex="0333"/>
+  <outline>
+    <contour>
+      <point x="-873" y="-356" type="line" name="hr00"/>
+      <point x="576" y="-356" type="line"/>
+      <point x="623" y="-168" type="line"/>
+      <point x="-826" y="-168" type="line"/>
+    </contour>
+    <contour>
+      <point x="-945" y="-644" type="line"/>
+      <point x="504" y="-644" type="line"/>
+      <point x="551" y="-455" type="line"/>
+      <point x="-898" y="-455" type="line"/>
+    </contour>
+    <contour>
+      <point x="-185" y="-500" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="-85" y="-100" type="move" name="_L"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="1693" width="148"/>
+            <hstem pos="1841" width="149"/>
+            <vstem pos="-1120" width="2120"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.986</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

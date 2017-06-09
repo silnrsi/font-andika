@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnCapSdwysI" format="1">
+  <advance width="1743"/>
+  <unicode hex="A7F7"/>
+  <outline>
+    <contour>
+      <point x="1814" y="1101" type="line" name="hr01"/>
+      <point x="1609" y="1101" type="line"/>
+      <point x="1550" y="863" type="line"/>
+      <point x="500" y="863" type="line"/>
+      <point x="559" y="1101" type="line"/>
+      <point x="354" y="1101" type="line"/>
+      <point x="165" y="344" type="line"/>
+      <point x="370" y="344" type="line"/>
+      <point x="429" y="581" type="line"/>
+      <point x="1479" y="581" type="line"/>
+      <point x="1420" y="344" type="line"/>
+      <point x="1625" y="344" type="line"/>
+    </contour>
+    <contour>
+      <point x="882" y="297" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="1065" y="1141" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="0" width="203"/>
+            <hstem pos="1267" width="203"/>
+            <vstem pos="290" width="335"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.986</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

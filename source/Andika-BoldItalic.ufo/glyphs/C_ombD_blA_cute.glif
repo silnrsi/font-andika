@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombDblAcute" format="1">
+  <advance width="0"/>
+  <unicode hex="030B"/>
+  <outline>
+    <contour>
+      <point x="-463" y="1584" type="line" name="hr01"/>
+      <point x="-741" y="1188" type="line"/>
+      <point x="-521" y="1188" type="line"/>
+      <point x="-143" y="1584" type="line"/>
+    </contour>
+    <contour>
+      <point x="-53" y="1584" type="line"/>
+      <point x="-331" y="1188" type="line"/>
+      <point x="-111" y="1188" type="line"/>
+      <point x="267" y="1584" type="line"/>
+    </contour>
+    <contour>
+      <point x="-239" y="1635" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="-395" y="1100" type="move" name="_U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="1188" width="396"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>76</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>-669</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.732</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

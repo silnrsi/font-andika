@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModChinantecTnMrkLowRtCorner" format="1">
+  <advance width="800"/>
+  <unicode hex="A71A"/>
+  <outline>
+    <contour>
+      <point x="755" y="1175" type="line" name="hr01"/>
+      <point x="755" y="1600" type="line" name="hr02"/>
+      <point x="625" y="1600" type="line"/>
+      <point x="625" y="1305" type="line" name="hr03"/>
+      <point x="45" y="1305" type="line"/>
+      <point x="45" y="1175" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="1175" width="130"/>
+            <vstem pos="625" width="130"/>
+          </hintset>
+          <hintset pointTag="hr02">
+            <hstem pos="1175" width="425"/>
+            <vstem pos="625" width="130"/>
+          </hintset>
+          <hintset pointTag="hr03">
+            <hstem pos="1175" width="130"/>
+            <vstem pos="625" width="130"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

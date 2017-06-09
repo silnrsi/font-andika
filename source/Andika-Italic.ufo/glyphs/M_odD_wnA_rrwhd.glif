@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModDwnArrwhd" format="1">
+  <advance width="960"/>
+  <unicode hex="02C5"/>
+  <outline>
+    <contour>
+      <point x="1215" y="1588" type="line" name="hr00"/>
+      <point x="1100" y="1588" type="line"/>
+      <point x="670" y="985" type="line"/>
+      <point x="540" y="1588" type="line"/>
+      <point x="435" y="1588" type="line"/>
+      <point x="591" y="867" type="line"/>
+      <point x="701" y="867" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="1556" width="-20"/>
+            <vstem pos="-20" width="780"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.92</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

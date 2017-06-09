@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CySmElTail.sc" format="1">
+  <advance width="1474"/>
+  <outline>
+    <contour>
+      <point x="1023" y="1069" type="line" name="hr01"/>
+      <point x="1023" y="0" type="line"/>
+      <point x="1207" y="0" type="line"/>
+      <point x="1207" y="853" type="line" smooth="yes"/>
+      <point x="1207" y="1016"/>
+      <point x="1207" y="1145"/>
+      <point x="1223" y="1221" type="curve"/>
+      <point x="494" y="1221" type="line"/>
+      <point x="466" y="703"/>
+      <point x="411" y="459"/>
+      <point x="332" y="320" type="curve" smooth="yes"/>
+      <point x="266" y="206"/>
+      <point x="160" y="164"/>
+      <point x="46" y="164" type="curve" name="hr02"/>
+      <point x="46" y="-13" type="line"/>
+      <point x="228" y="-13"/>
+      <point x="379" y="61"/>
+      <point x="482" y="233" type="curve" smooth="yes"/>
+      <point x="581" y="398"/>
+      <point x="644" y="672"/>
+      <point x="668" y="1069" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1132" y="151" type="line" name="hr03"/>
+      <point x="1171" y="8" type="line"/>
+      <point x="977" y="-380" type="line"/>
+      <point x="1131" y="-380" type="line"/>
+      <point x="1370" y="6" type="line"/>
+      <point x="1370" y="151" type="line"/>
+    </contour>
+    <contour>
+      <point x="714" y="-412" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="838" y="1293" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="0" width="151"/>
+            <hstem pos="1069" width="152"/>
+            <vstem pos="1023" width="184"/>
+          </hintset>
+          <hintset pointTag="hr02">
+            <hstem pos="-13" width="177"/>
+            <hstem pos="1069" width="152"/>
+            <vstem pos="1023" width="184"/>
+          </hintset>
+          <hintset pointTag="hr03">
+            <hstem pos="0" width="151"/>
+            <hstem pos="1069" width="152"/>
+            <vstem pos="1023" width="184"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

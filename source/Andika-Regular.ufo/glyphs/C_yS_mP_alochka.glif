@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CySmPalochka" format="1">
+  <advance width="745"/>
+  <unicode hex="04CF"/>
+  <outline>
+    <contour>
+      <point x="595" y="145" type="line" name="hr00"/>
+      <point x="465" y="145" type="line"/>
+      <point x="465" y="1455" type="line"/>
+      <point x="595" y="1455" type="line"/>
+      <point x="595" y="1600" type="line"/>
+      <point x="150" y="1600" type="line"/>
+      <point x="150" y="1455" type="line"/>
+      <point x="280" y="1455" type="line"/>
+      <point x="280" y="145" type="line"/>
+      <point x="150" y="145" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="595" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="372" y="0" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="372" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="645" y="1000" type="move" name="R"/>
+    </contour>
+    <contour>
+      <point x="372" y="1635" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="0" width="145"/>
+            <hstem pos="1455" width="145"/>
+            <vstem pos="280" width="185"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

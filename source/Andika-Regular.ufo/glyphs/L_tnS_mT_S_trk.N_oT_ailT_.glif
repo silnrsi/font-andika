@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmTStrk.NoTailT" format="1">
+  <advance width="795"/>
+  <outline>
+    <contour>
+      <point x="30" y="475" type="line" name="hr00"/>
+      <point x="745" y="475" type="line"/>
+      <point x="745" y="620" type="line"/>
+      <point x="30" y="620" type="line"/>
+    </contour>
+    <contour>
+      <point x="480" y="0" type="line"/>
+      <point x="480" y="1375" type="line"/>
+      <point x="295" y="1375" type="line"/>
+      <point x="295" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="875" type="line"/>
+      <point x="745" y="875" type="line"/>
+      <point x="745" y="1020" type="line"/>
+      <point x="30" y="1020" type="line"/>
+    </contour>
+    <contour>
+      <point x="397" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="386" y="1415" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="21" width="-21"/>
+            <hstem pos="475" width="145"/>
+            <hstem pos="875" width="145"/>
+            <vstem pos="295" width="185"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

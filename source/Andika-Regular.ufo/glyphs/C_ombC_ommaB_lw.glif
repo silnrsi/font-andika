@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombCommaBlw" format="1">
+  <advance width="0"/>
+  <unicode hex="0326"/>
+  <outline>
+    <contour>
+      <point x="-678" y="-280" type="line" name="hr00"/>
+      <point x="-568" y="-280" type="line"/>
+      <point x="-568" y="-361"/>
+      <point x="-628" y="-458"/>
+      <point x="-674" y="-504" type="curve"/>
+      <point x="-594" y="-536" type="line"/>
+      <point x="-500" y="-448"/>
+      <point x="-454" y="-350"/>
+      <point x="-454" y="-252" type="curve" smooth="yes"/>
+      <point x="-454" y="-171"/>
+      <point x="-506" y="-120"/>
+      <point x="-570" y="-120" type="curve" smooth="yes"/>
+      <point x="-616" y="-120"/>
+      <point x="-668" y="-150"/>
+      <point x="-678" y="-200" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-567" y="-500" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="-567" y="-100" type="move" name="_L"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="-470" width="-21"/>
+            <hstem pos="-281" width="151"/>
+            <vstem pos="-567" width="105"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

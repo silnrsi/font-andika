@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CySmEnTail" format="1">
+  <advance width="1435"/>
+  <unicode hex="04CA"/>
+  <outline>
+    <contour>
+      <point x="105" y="0" type="line"/>
+      <point x="385" y="0" type="line"/>
+      <point x="493" y="436" type="line"/>
+      <point x="963" y="436" type="line"/>
+      <point x="855" y="0" type="line"/>
+      <point x="1135" y="0" type="line"/>
+      <point x="1386" y="1010" type="line"/>
+      <point x="1106" y="1010" type="line"/>
+      <point x="1013" y="634" type="line"/>
+      <point x="543" y="634" type="line"/>
+      <point x="636" y="1010" type="line"/>
+      <point x="341" y="1010" type="line"/>
+      <point x="328" y="906"/>
+      <point x="283" y="718"/>
+      <point x="235" y="525" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1073" y="213" type="line"/>
+      <point x="1080" y="0" type="line"/>
+      <point x="756" y="-436" type="line"/>
+      <point x="1001" y="-436" type="line" name="hr01"/>
+      <point x="1355" y="0" type="line"/>
+      <point x="1408" y="213" type="line"/>
+    </contour>
+    <contour>
+      <point x="540" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="900" y="1100" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="0" width="144"/>
+            <hstem pos="470" width="144"/>
+            <hstem pos="1010" width="-20"/>
+            <vstem pos="115" width="185"/>
+            <vstem pos="925" width="185"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.986</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

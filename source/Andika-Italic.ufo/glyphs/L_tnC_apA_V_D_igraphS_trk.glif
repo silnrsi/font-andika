@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnCapAVDigraphStrk" format="1">
+  <advance width="1944"/>
+  <unicode hex="A73A"/>
+  <outline>
+    <contour>
+      <point x="1990" y="1431" type="line"/>
+      <point x="1240" y="195" type="line"/>
+      <point x="1095" y="1431" type="line"/>
+      <point x="876" y="1431" type="line"/>
+      <point x="206" y="348" type="line" smooth="yes"/>
+      <point x="93" y="165"/>
+      <point x="35" y="79"/>
+      <point x="-20" y="0" type="curve"/>
+      <point x="195" y="0" type="line"/>
+      <point x="427" y="387" type="line"/>
+      <point x="1036" y="387" type="line"/>
+      <point x="1080" y="0" type="line"/>
+      <point x="1314" y="0" type="line"/>
+      <point x="1976" y="1073" type="line" smooth="yes"/>
+      <point x="2093" y="1262"/>
+      <point x="2149" y="1350"/>
+      <point x="2205" y="1431" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1020" y="539" type="line"/>
+      <point x="519" y="539" type="line"/>
+      <point x="944" y="1240" type="line"/>
+    </contour>
+    <contour>
+      <point x="1146" y="539" type="line"/>
+      <point x="1108" y="387" type="line"/>
+      <point x="1907" y="387" type="line"/>
+      <point x="1945" y="539" type="line"/>
+    </contour>
+    <contour>
+      <point x="902" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="1309" y="1530" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.92</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

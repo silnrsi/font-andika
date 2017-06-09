@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModChinantecTnMrkLowRtCorner" format="1">
+  <advance width="780"/>
+  <unicode hex="A71A"/>
+  <outline>
+    <contour>
+      <point x="35" y="1156" type="line"/>
+      <point x="745" y="1156" type="line"/>
+      <point x="745" y="1600" type="line" name="hr01"/>
+      <point x="565" y="1600" type="line"/>
+      <point x="565" y="1321" type="line"/>
+      <point x="35" y="1321" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="1175" width="425"/>
+            <vstem pos="615" width="130"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.92</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

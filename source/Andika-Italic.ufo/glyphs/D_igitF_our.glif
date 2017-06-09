@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="DigitFour" format="1">
+  <advance width="1180"/>
+  <unicode hex="0034"/>
+  <outline>
+    <contour>
+      <point x="1161" y="387" type="line" name="hr00"/>
+      <point x="1199" y="539" type="line"/>
+      <point x="1009" y="539" type="line"/>
+      <point x="1236" y="1450" type="line"/>
+      <point x="1026" y="1450" type="line"/>
+      <point x="144" y="539" type="line"/>
+      <point x="106" y="387" type="line"/>
+      <point x="781" y="387" type="line"/>
+      <point x="685" y="0" type="line"/>
+      <point x="875" y="0" type="line"/>
+      <point x="971" y="387" type="line"/>
+    </contour>
+    <contour>
+      <point x="985" y="1205" type="line"/>
+      <point x="819" y="539" type="line"/>
+      <point x="337" y="539" type="line"/>
+    </contour>
+    <contour>
+      <point x="522" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="929" y="1530" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="21" width="-21"/>
+            <hstem pos="387" width="152"/>
+            <hstem pos="1450" width="-20"/>
+            <vstem pos="685" width="190"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.732</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

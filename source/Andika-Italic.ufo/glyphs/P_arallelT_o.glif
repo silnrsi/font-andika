@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ParallelTo" format="1">
+  <advance width="1170"/>
+  <unicode hex="2225"/>
+  <outline>
+    <contour>
+      <point x="890" y="-540" type="line" name="hr00"/>
+      <point x="890" y="1650" type="line"/>
+      <point x="740" y="1650" type="line"/>
+      <point x="740" y="-540" type="line"/>
+    </contour>
+    <contour>
+      <point x="430" y="-540" type="line"/>
+      <point x="430" y="1650" type="line"/>
+      <point x="280" y="1650" type="line"/>
+      <point x="280" y="-540" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="-540" width="2190"/>
+            <vstem pos="280" width="150"/>
+            <vstem pos="740" width="150"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

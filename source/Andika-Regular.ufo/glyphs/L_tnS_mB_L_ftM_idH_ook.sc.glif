@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmBLftMidHook.sc" format="1">
+  <advance width="1395"/>
+  <outline>
+    <contour>
+      <point x="542" y="1082" type="line" name="hr00"/>
+      <point x="579" y="1084"/>
+      <point x="668" y="1086"/>
+      <point x="739" y="1086" type="curve" smooth="yes"/>
+      <point x="916" y="1086"/>
+      <point x="985" y="1026"/>
+      <point x="985" y="907" type="curve" smooth="yes"/>
+      <point x="985" y="797"/>
+      <point x="901" y="721"/>
+      <point x="712" y="721" type="curve"/>
+      <point x="542" y="721" type="line"/>
+    </contour>
+    <contour>
+      <point x="357" y="383" type="line"/>
+      <point x="357" y="221"/>
+      <point x="357" y="76"/>
+      <point x="342" y="1" type="curve"/>
+      <point x="395" y="-4"/>
+      <point x="569" y="-8"/>
+      <point x="752" y="-8" type="curve" smooth="yes"/>
+      <point x="1103" y="-8"/>
+      <point x="1243" y="150"/>
+      <point x="1243" y="354" type="curve" smooth="yes"/>
+      <point x="1243" y="554"/>
+      <point x="1106" y="633"/>
+      <point x="971" y="669" type="curve"/>
+      <point x="1087" y="715"/>
+      <point x="1175" y="799"/>
+      <point x="1175" y="932" type="curve" smooth="yes"/>
+      <point x="1175" y="1153"/>
+      <point x="1020" y="1229"/>
+      <point x="748" y="1229" type="curve" smooth="yes"/>
+      <point x="595" y="1229"/>
+      <point x="421" y="1225"/>
+      <point x="342" y="1220" type="curve"/>
+      <point x="357" y="1144"/>
+      <point x="357" y="994"/>
+      <point x="357" y="833" type="curve"/>
+    </contour>
+    <contour>
+      <point x="542" y="578" type="line"/>
+      <point x="748" y="578" type="line"/>
+      <point x="954" y="578"/>
+      <point x="1053" y="501"/>
+      <point x="1053" y="354" type="curve" smooth="yes"/>
+      <point x="1053" y="188"/>
+      <point x="908" y="139"/>
+      <point x="757" y="139" type="curve" smooth="yes"/>
+      <point x="662" y="139"/>
+      <point x="579" y="140"/>
+      <point x="542" y="142" type="curve"/>
+    </contour>
+    <contour>
+      <point x="482" y="714" type="line"/>
+      <point x="434" y="719"/>
+      <point x="384" y="722"/>
+      <point x="329" y="722" type="curve" smooth="yes"/>
+      <point x="161" y="722"/>
+      <point x="-5" y="594"/>
+      <point x="-5" y="422" type="curve" smooth="yes"/>
+      <point x="-5" y="343"/>
+      <point x="27" y="267"/>
+      <point x="81" y="213" type="curve"/>
+      <point x="234" y="286" type="line"/>
+      <point x="188" y="332"/>
+      <point x="162" y="381"/>
+      <point x="162" y="429" type="curve" smooth="yes"/>
+      <point x="162" y="501"/>
+      <point x="211" y="578"/>
+      <point x="319" y="578" type="curve"/>
+      <point x="387" y="578" type="line"/>
+      <point x="430" y="578"/>
+      <point x="471" y="585"/>
+      <point x="471" y="585" type="curve"/>
+      <point x="484" y="585" type="line"/>
+    </contour>
+    <contour>
+      <point x="769" y="-76" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="769" y="1293" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="-8" width="147"/>
+            <hstem pos="18" width="-21"/>
+            <hstem pos="578" width="143"/>
+            <hstem pos="1086" width="143"/>
+            <vstem pos="357" width="185"/>
+            <vstem pos="985" width="190"/>
+            <vstem pos="1053" width="190"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>-347</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>-347</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>-347</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>-347</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmVDiagStrk" format="1">
+  <advance width="1070"/>
+  <unicode hex="A75F"/>
+  <outline>
+    <contour>
+      <point x="840" y="1020" type="line" name="hr00"/>
+      <point x="535" y="200" type="line"/>
+      <point x="230" y="1020" type="line"/>
+      <point x="20" y="1020" type="line"/>
+      <point x="75" y="905"/>
+      <point x="143" y="746"/>
+      <point x="175" y="665" type="curve" smooth="yes"/>
+      <point x="237" y="510"/>
+      <point x="440" y="0"/>
+      <point x="440" y="0" type="curve"/>
+      <point x="630" y="0" type="line"/>
+      <point x="630" y="0"/>
+      <point x="842" y="536"/>
+      <point x="895" y="665" type="curve" smooth="yes"/>
+      <point x="928" y="744"/>
+      <point x="993" y="905"/>
+      <point x="1050" y="1020" type="curve"/>
+    </contour>
+    <contour>
+      <point x="550" y="1130" type="line"/>
+      <point x="100" y="-115" type="line"/>
+      <point x="245" y="-115" type="line"/>
+      <point x="695" y="1130" type="line"/>
+    </contour>
+    <contour>
+      <point x="535" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="535" y="1150" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="21" width="-21"/>
+            <hstem pos="1020" width="-20"/>
+            <vstem pos="20" width="1030"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SmRomNumThree" format="1">
+  <advance width="1675"/>
+  <unicode hex="2172"/>
+  <outline>
+    <component base="LtnSmI" xOffset="-60"/>
+    <component base="LtnSmI" xOffset="505"/>
+    <component base="LtnSmI" xOffset="1070"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <integer>1</integer>
+        <real>0.732</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

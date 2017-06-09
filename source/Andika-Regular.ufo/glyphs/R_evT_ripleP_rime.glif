@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="RevTriplePrime" format="1">
+  <advance width="1200"/>
+  <unicode hex="2037"/>
+  <outline>
+    <contour>
+      <point x="720" y="1460" type="line" name="hr01"/>
+      <point x="1060" y="910" type="line" name="hr02"/>
+      <point x="1200" y="910" type="line"/>
+      <point x="960" y="1460" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="1460" type="line"/>
+      <point x="340" y="910" type="line"/>
+      <point x="480" y="910" type="line"/>
+      <point x="240" y="1460" type="line"/>
+    </contour>
+    <contour>
+      <point x="360" y="1460" type="line"/>
+      <point x="710" y="910" type="line"/>
+      <point x="840" y="910" type="line"/>
+      <point x="600" y="1460" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="1460" width="-20"/>
+            <vstem pos="0" width="1200"/>
+          </hintset>
+          <hintset pointTag="hr02">
+            <hstem pos="910" width="550"/>
+            <vstem pos="0" width="1200"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

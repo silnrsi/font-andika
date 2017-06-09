@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmIStrk.sc" format="1">
+  <advance width="972"/>
+  <outline>
+    <contour>
+      <point x="162" y="1221" type="line" name="hr00"/>
+      <point x="162" y="1086" type="line"/>
+      <point x="378" y="1086" type="line"/>
+      <point x="378" y="134" type="line"/>
+      <point x="162" y="134" type="line"/>
+      <point x="162" y="0" type="line"/>
+      <point x="785" y="0" type="line"/>
+      <point x="785" y="134" type="line"/>
+      <point x="563" y="134" type="line"/>
+      <point x="563" y="1086" type="line"/>
+      <point x="785" y="1086" type="line"/>
+      <point x="785" y="1221" type="line"/>
+    </contour>
+    <contour>
+      <point x="143" y="704" type="line"/>
+      <point x="143" y="570" type="line"/>
+      <point x="802" y="570" type="line"/>
+      <point x="802" y="704" type="line"/>
+    </contour>
+    <contour>
+      <point x="476" y="-76" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="476" y="1293" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="0" width="134"/>
+            <hstem pos="570" width="134"/>
+            <hstem pos="1086" width="135"/>
+            <vstem pos="378" width="185"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

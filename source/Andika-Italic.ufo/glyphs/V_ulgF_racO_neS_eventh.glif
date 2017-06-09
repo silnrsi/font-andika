@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="VulgFracOneSeventh" format="1">
+  <advance width="1690"/>
+  <unicode hex="2150"/>
+  <outline>
+    <contour>
+      <point x="1589" y="1568" type="line"/>
+      <point x="116" y="-49" type="line"/>
+      <point x="256" y="-49" type="line"/>
+      <point x="1729" y="1568" type="line"/>
+    </contour>
+    <contour>
+      <point x="414" y="799" type="line"/>
+      <point x="229" y="799" type="line"/>
+      <point x="203" y="696" type="line"/>
+      <point x="688" y="696" type="line"/>
+      <point x="714" y="799" type="line"/>
+      <point x="534" y="799" type="line"/>
+      <point x="725" y="1568" type="line"/>
+      <point x="620" y="1568" type="line"/>
+      <point x="380" y="1445" type="line"/>
+      <point x="373" y="1338" type="line"/>
+      <point x="574" y="1441" type="line"/>
+    </contour>
+    <contour>
+      <point x="1195" y="0" type="line"/>
+      <point x="1342" y="274"/>
+      <point x="1531" y="531"/>
+      <point x="1772" y="774" type="curve" name="hr01"/>
+      <point x="1797" y="872" type="line"/>
+      <point x="1182" y="872" type="line"/>
+      <point x="1154" y="749" type="line"/>
+      <point x="1203" y="759"/>
+      <point x="1272" y="764"/>
+      <point x="1387" y="764" type="curve" smooth="yes"/>
+      <point x="1617" y="764" type="line"/>
+      <point x="1403" y="535"/>
+      <point x="1255" y="338"/>
+      <point x="1070" y="0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="-25" width="103"/>
+            <hstem pos="421" width="103"/>
+            <hstem pos="774" width="103"/>
+            <hstem pos="1568" width="-20"/>
+            <vstem pos="215" width="130"/>
+            <vstem pos="885" width="120"/>
+            <vstem pos="1380" width="120"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.92</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

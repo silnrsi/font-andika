@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModCircumAccent" format="1">
+  <advance width="850"/>
+  <unicode hex="02C6"/>
+  <outline>
+    <contour>
+      <point x="385" y="1147" type="line" name="hr01"/>
+      <point x="729" y="1421" type="line" name="hr02"/>
+      <point x="935" y="1147" type="line"/>
+      <point x="1085" y="1147" type="line"/>
+      <point x="830" y="1568" type="line"/>
+      <point x="660" y="1568" type="line"/>
+      <point x="235" y="1147" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="1568" width="-20"/>
+            <vstem pos="-50" width="850"/>
+          </hintset>
+          <hintset pointTag="hr02">
+            <hstem pos="1421" width="147"/>
+            <vstem pos="-50" width="850"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.732</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

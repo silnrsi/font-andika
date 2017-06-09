@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Caron" format="1">
+  <advance width="860"/>
+  <unicode hex="02C7"/>
+  <outline>
+    <contour>
+      <point x="974" y="1584" type="line" name="hr00"/>
+      <point x="718" y="1356" type="line"/>
+      <point x="574" y="1584" type="line"/>
+      <point x="334" y="1584" type="line"/>
+      <point x="546" y="1188" type="line"/>
+      <point x="846" y="1188" type="line"/>
+      <point x="1214" y="1584" type="line"/>
+    </contour>
+    <contour>
+      <point x="788" y="1635" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="1179" width="-21"/>
+            <hstem pos="1584" width="-20"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>348</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.732</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

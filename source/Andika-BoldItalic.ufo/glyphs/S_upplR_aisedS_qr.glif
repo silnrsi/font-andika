@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SupplRaisedSqr" format="1">
+  <advance width="780"/>
+  <unicode hex="2E0B"/>
+  <outline>
+    <contour>
+      <point x="1010" y="1445" type="line"/>
+      <point x="390" y="1445" type="line"/>
+      <point x="238" y="835" type="line"/>
+      <point x="858" y="835" type="line"/>
+    </contour>
+    <contour>
+      <point x="412" y="973" type="line"/>
+      <point x="496" y="1308" type="line"/>
+      <point x="836" y="1308" type="line"/>
+      <point x="752" y="973" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.986</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

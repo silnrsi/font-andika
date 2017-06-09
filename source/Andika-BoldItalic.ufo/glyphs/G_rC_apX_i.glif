@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="GrCapXi" format="1">
+  <advance width="1207"/>
+  <unicode hex="039E"/>
+  <outline>
+    <contour>
+      <point x="1133" y="243" type="line"/>
+      <point x="1053" y="229"/>
+      <point x="800" y="228"/>
+      <point x="606" y="228" type="curve" smooth="yes"/>
+      <point x="409" y="228"/>
+      <point x="142" y="229"/>
+      <point x="65" y="243" type="curve"/>
+      <point x="5" y="0" type="line" name="hr01"/>
+      <point x="1073" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1432" y="1440" type="line"/>
+      <point x="364" y="1440" type="line"/>
+      <point x="304" y="1203" type="line"/>
+      <point x="388" y="1217"/>
+      <point x="656" y="1218"/>
+      <point x="853" y="1218" type="curve" smooth="yes"/>
+      <point x="1047" y="1218"/>
+      <point x="1299" y="1217"/>
+      <point x="1372" y="1203" type="curve"/>
+    </contour>
+    <contour>
+      <point x="415" y="646" type="line"/>
+      <point x="985" y="646" type="line"/>
+      <point x="1040" y="869" type="line"/>
+      <point x="470" y="869" type="line"/>
+    </contour>
+    <contour>
+      <point x="550" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="927" y="1530" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="0" width="163"/>
+            <hstem pos="1297" width="173"/>
+            <vstem pos="-60" width="195"/>
+            <vstem pos="1090" width="195"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.986</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmCuatrilloDep" format="1">
+  <advance width="1200"/>
+  <unicode hex="F246"/>
+  <outline>
+    <contour>
+      <point x="1225" y="-520" type="line" name="hr00"/>
+      <point x="1225" y="1050" type="line"/>
+      <point x="60" y="1050" type="line"/>
+      <point x="60" y="-520" type="line"/>
+    </contour>
+    <contour>
+      <point x="1195" y="0" type="line"/>
+      <point x="925" y="0" type="line"/>
+      <point x="925" y="-20" type="line" smooth="yes"/>
+      <point x="925" y="-297"/>
+      <point x="784" y="-490"/>
+      <point x="470" y="-490" type="curve" smooth="yes"/>
+      <point x="389" y="-490"/>
+      <point x="301" y="-474"/>
+      <point x="205" y="-415" type="curve"/>
+      <point x="285" y="-265" type="line"/>
+      <point x="355" y="-306"/>
+      <point x="412" y="-325"/>
+      <point x="485" y="-325" type="curve" smooth="yes"/>
+      <point x="656" y="-325"/>
+      <point x="740" y="-202"/>
+      <point x="740" y="-20" type="curve" smooth="yes"/>
+      <point x="740" y="0" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="90" y="145" type="line"/>
+      <point x="740" y="1020" type="line"/>
+      <point x="925" y="1020" type="line"/>
+      <point x="925" y="145" type="line"/>
+      <point x="1195" y="145" type="line"/>
+    </contour>
+    <contour>
+      <point x="270" y="145" type="line"/>
+      <point x="740" y="145" type="line"/>
+      <point x="740" y="775" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="-520" width="30"/>
+            <hstem pos="-325" width="325"/>
+            <hstem pos="1020" width="30"/>
+            <vstem pos="60" width="30"/>
+            <vstem pos="1195" width="30"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

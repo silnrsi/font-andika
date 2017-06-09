@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CySmYu" format="1">
+  <advance width="1682"/>
+  <unicode hex="044E"/>
+  <outline>
+    <contour>
+      <point x="646" y="1010" type="line"/>
+      <point x="351" y="1010" type="line"/>
+      <point x="338" y="906"/>
+      <point x="293" y="718"/>
+      <point x="245" y="525" type="curve" smooth="yes"/>
+      <point x="197" y="333"/>
+      <point x="115" y="0"/>
+      <point x="115" y="0" type="curve"/>
+      <point x="415" y="0" type="line"/>
+      <point x="428" y="106"/>
+      <point x="480" y="343"/>
+      <point x="512" y="470" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="705" y="355" type="curve" smooth="yes"/>
+      <point x="705" y="118"/>
+      <point x="847" y="-25"/>
+      <point x="1068" y="-25" type="curve" smooth="yes" name="hr01"/>
+      <point x="1442" y="-25"/>
+      <point x="1687" y="306"/>
+      <point x="1687" y="641" type="curve" smooth="yes"/>
+      <point x="1687" y="882"/>
+      <point x="1536" y="1030"/>
+      <point x="1311" y="1030" type="curve" smooth="yes" name="hr02"/>
+      <point x="934" y="1030"/>
+      <point x="705" y="686"/>
+    </contour>
+    <contour>
+      <point x="1256" y="807" type="curve" smooth="yes"/>
+      <point x="1356" y="807"/>
+      <point x="1403" y="730"/>
+      <point x="1403" y="614" type="curve" smooth="yes"/>
+      <point x="1403" y="441"/>
+      <point x="1323" y="198"/>
+      <point x="1124" y="198" type="curve" smooth="yes"/>
+      <point x="1024" y="198"/>
+      <point x="977" y="276"/>
+      <point x="977" y="391" type="curve" smooth="yes"/>
+      <point x="977" y="600"/>
+      <point x="1087" y="807"/>
+    </contour>
+    <contour>
+      <point x="747" y="450" type="line"/>
+      <point x="796" y="648" type="line"/>
+      <point x="346" y="648" type="line"/>
+      <point x="297" y="450" type="line"/>
+    </contour>
+    <contour>
+      <point x="730" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="1030" y="1100" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="-25" width="159"/>
+            <hstem pos="470" width="144"/>
+            <hstem pos="827" width="227"/>
+            <vstem pos="120" width="185"/>
+            <vstem pos="515" width="165"/>
+            <vstem pos="1220" width="185"/>
+          </hintset>
+          <hintset pointTag="hr02">
+            <hstem pos="21" width="-21"/>
+            <hstem pos="470" width="144"/>
+            <hstem pos="871" width="159"/>
+            <vstem pos="120" width="185"/>
+            <vstem pos="515" width="165"/>
+            <vstem pos="1220" width="185"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>76.43</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>599</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>76.43</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>867</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>76.43</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>1270</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>76.43</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>1551</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.986</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

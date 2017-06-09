@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CySmUkrainIe" format="1">
+  <advance width="1047"/>
+  <unicode hex="0454"/>
+  <outline>
+    <contour>
+      <point x="922" y="979" type="line" name="hr00"/>
+      <point x="849" y="1017"/>
+      <point x="744" y="1040"/>
+      <point x="612" y="1040" type="curve" smooth="yes"/>
+      <point x="295" y="1040"/>
+      <point x="90" y="802"/>
+      <point x="90" y="490" type="curve" smooth="yes"/>
+      <point x="90" y="161"/>
+      <point x="309" y="-25"/>
+      <point x="578" y="-25" type="curve" smooth="yes"/>
+      <point x="727" y="-25"/>
+      <point x="841" y="8"/>
+      <point x="942" y="70" type="curve"/>
+      <point x="902" y="304" type="line"/>
+      <point x="815" y="235"/>
+      <point x="727" y="195"/>
+      <point x="607" y="195" type="curve" smooth="yes"/>
+      <point x="467" y="195"/>
+      <point x="350" y="314"/>
+      <point x="350" y="500" type="curve" smooth="yes"/>
+      <point x="350" y="694"/>
+      <point x="468" y="820"/>
+      <point x="607" y="820" type="curve" smooth="yes"/>
+      <point x="710" y="820"/>
+      <point x="768" y="809"/>
+      <point x="858" y="747" type="curve"/>
+    </contour>
+    <contour>
+      <point x="785" y="430" type="line"/>
+      <point x="785" y="630" type="line"/>
+      <point x="260" y="630" type="line"/>
+      <point x="260" y="430" type="line"/>
+    </contour>
+    <contour>
+      <point x="571" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="571" y="1100" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="-25" width="160"/>
+            <hstem pos="460" width="145"/>
+            <hstem pos="885" width="155"/>
+            <vstem pos="205" width="65"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.92</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

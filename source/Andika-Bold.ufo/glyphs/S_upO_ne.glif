@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SupOne" format="1">
+  <advance width="840"/>
+  <unicode hex="00B9"/>
+  <outline>
+    <contour>
+      <point x="735" y="680" type="line" name="hr00"/>
+      <point x="735" y="833" type="line"/>
+      <point x="519" y="833" type="line"/>
+      <point x="519" y="1629" type="line"/>
+      <point x="326" y="1629" type="line"/>
+      <point x="106" y="1511" type="line"/>
+      <point x="130" y="1342" type="line"/>
+      <point x="326" y="1440" type="line"/>
+      <point x="326" y="833" type="line"/>
+      <point x="111" y="833" type="line"/>
+      <point x="111" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="420" y="615" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="420" y="1675" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="680" width="110"/>
+            <hstem pos="1642" width="-13"/>
+            <vstem pos="357" width="133"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.732</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="RtPtngDblAngQuotMrk" format="1">
+  <advance width="1280"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <contour>
+      <point x="807" y="0" type="line" name="hr00"/>
+      <point x="1351" y="507" type="line"/>
+      <point x="1031" y="1010" type="line"/>
+      <point x="796" y="1010" type="line"/>
+      <point x="1061" y="507" type="line"/>
+      <point x="545" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="317" y="0" type="line"/>
+      <point x="861" y="507" type="line"/>
+      <point x="541" y="1010" type="line"/>
+      <point x="306" y="1010" type="line"/>
+      <point x="571" y="507" type="line"/>
+      <point x="55" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="21" width="-21"/>
+            <hstem pos="1010" width="-20"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.732</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

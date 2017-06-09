@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Caret" format="1">
+  <advance width="530"/>
+  <unicode hex="2038"/>
+  <outline>
+    <contour>
+      <point x="422" y="-272" type="line" name="hr00"/>
+      <point x="277" y="30" type="line"/>
+      <point x="137" y="30" type="line"/>
+      <point x="-127" y="-272" type="line"/>
+      <point x="7" y="-272" type="line"/>
+      <point x="189" y="-104" type="line"/>
+      <point x="287" y="-272" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="-262" width="292"/>
+            <vstem pos="-50" width="530"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.986</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="DblAcuteAccent" format="1">
+  <advance width="770"/>
+  <unicode hex="02DD"/>
+  <outline>
+    <contour>
+      <point x="880" y="1568" type="line" name="hr00"/>
+      <point x="560" y="1127" type="line"/>
+      <point x="710" y="1127" type="line"/>
+      <point x="1110" y="1568" type="line"/>
+    </contour>
+    <contour>
+      <point x="540" y="1568" type="line"/>
+      <point x="220" y="1127" type="line"/>
+      <point x="370" y="1127" type="line"/>
+      <point x="770" y="1568" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="1127" width="441"/>
+            <vstem pos="-60" width="790"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.732</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

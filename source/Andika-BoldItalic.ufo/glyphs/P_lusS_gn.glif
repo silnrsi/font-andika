@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="PlusSgn" format="1">
+  <advance width="1180"/>
+  <unicode hex="002B"/>
+  <outline>
+    <contour>
+      <point x="722" y="1168" type="line"/>
+      <point x="500" y="282" type="line" name="hr01"/>
+      <point x="715" y="282" type="line"/>
+      <point x="936" y="1168" type="line" name="hr02"/>
+    </contour>
+    <contour>
+      <point x="250" y="624" type="line" name="hr03"/>
+      <point x="1140" y="624" type="line" name="hr04"/>
+      <point x="1192" y="832" type="line"/>
+      <point x="302" y="832" type="line" name="hr05"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="282" width="520"/>
+            <vstem pos="465" width="150"/>
+          </hintset>
+          <hintset pointTag="hr02">
+            <hstem pos="653" width="515"/>
+            <vstem pos="465" width="150"/>
+          </hintset>
+          <hintset pointTag="hr03">
+            <hstem pos="653" width="149"/>
+            <vstem pos="95" width="520"/>
+          </hintset>
+          <hintset pointTag="hr04">
+            <hstem pos="653" width="149"/>
+            <vstem pos="465" width="520"/>
+          </hintset>
+          <hintset pointTag="hr05">
+            <hstem pos="653" width="149"/>
+            <vstem pos="95" width="520"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.732</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

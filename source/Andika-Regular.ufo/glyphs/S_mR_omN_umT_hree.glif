@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SmRomNumThree" format="1">
+  <advance width="1695"/>
+  <unicode hex="2172"/>
+  <outline>
+    <component base="LtnSmI"/>
+    <component base="LtnSmI" xOffset="565"/>
+    <component base="LtnSmI" xOffset="1130"/>
+  </outline>
+</glyph>

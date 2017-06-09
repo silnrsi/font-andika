@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnCapInsularG" format="1">
+  <advance width="1100"/>
+  <unicode hex="A77D"/>
+  <outline>
+    <contour>
+      <point x="1083" y="451" type="curve" smooth="yes" name="hr00"/>
+      <point x="1083" y="740"/>
+      <point x="742" y="794"/>
+      <point x="742" y="995" type="curve" smooth="yes"/>
+      <point x="742" y="1199"/>
+      <point x="1015" y="1259"/>
+      <point x="1166" y="1293" type="curve"/>
+      <point x="997" y="1337" type="line"/>
+      <point x="782" y="1276"/>
+      <point x="564" y="1196"/>
+      <point x="564" y="952" type="curve" smooth="yes"/>
+      <point x="564" y="696"/>
+      <point x="894" y="643"/>
+      <point x="894" y="413" type="curve" smooth="yes"/>
+      <point x="894" y="212"/>
+      <point x="720" y="132"/>
+      <point x="547" y="132" type="curve" smooth="yes"/>
+      <point x="379" y="132"/>
+      <point x="282" y="234"/>
+      <point x="282" y="353" type="curve" smooth="yes"/>
+      <point x="282" y="594"/>
+      <point x="503" y="649"/>
+      <point x="736" y="710" type="curve"/>
+      <point x="649" y="803" type="line"/>
+      <point x="398" y="729"/>
+      <point x="96" y="612"/>
+      <point x="96" y="323" type="curve" smooth="yes"/>
+      <point x="96" y="119"/>
+      <point x="296" y="-25"/>
+      <point x="518" y="-25" type="curve" smooth="yes"/>
+      <point x="807" y="-25"/>
+      <point x="1083" y="159"/>
+    </contour>
+    <contour>
+      <point x="411" y="1431" type="line"/>
+      <point x="370" y="1269" type="line"/>
+      <point x="434" y="1279"/>
+      <point x="504" y="1284"/>
+      <point x="589" y="1284" type="curve" smooth="yes"/>
+      <point x="1204" y="1284" type="line"/>
+      <point x="1241" y="1431" type="line"/>
+    </contour>
+    <contour>
+      <point x="476" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="883" y="1530" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="-461" width="157"/>
+            <hstem pos="853" width="147"/>
+            <vstem pos="5" width="185"/>
+            <vstem pos="315" width="175"/>
+            <vstem pos="800" width="185"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.92</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnCapOpnO" format="1">
+  <advance width="1235"/>
+  <unicode hex="0186"/>
+  <outline>
+    <contour>
+      <point x="80" y="184" type="line" name="hr00"/>
+      <point x="140" y="69"/>
+      <point x="332" y="-25"/>
+      <point x="503" y="-25" type="curve" smooth="yes"/>
+      <point x="963" y="-25"/>
+      <point x="1280" y="372"/>
+      <point x="1280" y="916" type="curve" smooth="yes"/>
+      <point x="1280" y="1249"/>
+      <point x="1072" y="1455"/>
+      <point x="802" y="1455" type="curve" smooth="yes"/>
+      <point x="629" y="1455"/>
+      <point x="462" y="1393"/>
+      <point x="341" y="1289" type="curve"/>
+      <point x="328" y="1078" type="line"/>
+      <point x="461" y="1206"/>
+      <point x="611" y="1284"/>
+      <point x="760" y="1284" type="curve" smooth="yes"/>
+      <point x="970" y="1284"/>
+      <point x="1079" y="1108"/>
+      <point x="1079" y="875" type="curve" smooth="yes"/>
+      <point x="1079" y="542"/>
+      <point x="876" y="147"/>
+      <point x="556" y="147" type="curve" smooth="yes"/>
+      <point x="405" y="147"/>
+      <point x="273" y="216"/>
+      <point x="223" y="344" type="curve"/>
+    </contour>
+    <contour>
+      <point x="515" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="922" y="1530" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="-25" width="172"/>
+            <hstem pos="1284" width="171"/>
+            <vstem pos="885" width="195"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>76.35</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>1086</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.732</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

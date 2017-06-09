@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="QuadruplePrime" format="1">
+  <advance width="1870"/>
+  <unicode hex="2057"/>
+  <outline>
+    <contour>
+      <point x="230" y="1460" type="line" name="hr00"/>
+      <point x="0" y="910" type="line"/>
+      <point x="210" y="910" type="line"/>
+      <point x="550" y="1460" type="line"/>
+    </contour>
+    <contour>
+      <point x="670" y="1460" type="line"/>
+      <point x="440" y="910" type="line"/>
+      <point x="650" y="910" type="line"/>
+      <point x="990" y="1460" type="line"/>
+    </contour>
+    <contour>
+      <point x="1110" y="1460" type="line"/>
+      <point x="880" y="910" type="line"/>
+      <point x="1090" y="910" type="line"/>
+      <point x="1430" y="1460" type="line"/>
+    </contour>
+    <contour>
+      <point x="1550" y="1460" type="line"/>
+      <point x="1320" y="910" type="line"/>
+      <point x="1530" y="910" type="line"/>
+      <point x="1870" y="1460" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="910" width="550"/>
+            <vstem pos="0" width="1560"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.92</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSupSmCapIDep" format="1">
+  <advance width="588"/>
+  <unicode hex="F1A8"/>
+  <outline>
+    <contour>
+      <point x="76" y="650" type="line" name="hr00"/>
+      <point x="528" y="650" type="line"/>
+      <point x="528" y="1373" type="line"/>
+      <point x="76" y="1373" type="line"/>
+    </contour>
+    <contour>
+      <point x="498" y="1343" type="line"/>
+      <point x="498" y="1258" type="line"/>
+      <point x="367" y="1258" type="line"/>
+      <point x="367" y="765" type="line"/>
+      <point x="498" y="765" type="line"/>
+      <point x="498" y="680" type="line"/>
+      <point x="106" y="680" type="line"/>
+      <point x="106" y="765" type="line"/>
+      <point x="236" y="765" type="line"/>
+      <point x="236" y="1258" type="line"/>
+      <point x="106" y="1258" type="line"/>
+      <point x="106" y="1343" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="615" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="300" y="1395" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem3 stem3List="650,30,765,493,1343,30"/>
+            <vstem pos="76" width="30"/>
+            <vstem pos="498" width="30"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

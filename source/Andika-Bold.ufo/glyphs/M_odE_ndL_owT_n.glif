@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModEndLowTn" format="1">
+  <advance width="630"/>
+  <unicode hex="02FC"/>
+  <outline>
+    <contour>
+      <point x="580" y="-305" type="line" name="hr00"/>
+      <point x="580" y="350" type="line"/>
+      <point x="480" y="350" type="line"/>
+      <point x="480" y="-205" type="line"/>
+      <point x="50" y="-205" type="line"/>
+      <point x="50" y="-305" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="-305" width="100"/>
+            <vstem pos="480" width="100"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

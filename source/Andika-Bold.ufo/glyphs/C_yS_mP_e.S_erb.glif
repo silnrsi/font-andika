@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CySmPe.Serb" format="1">
+  <advance width="1355"/>
+  <outline>
+    <contour>
+      <point x="1180" y="1020" type="line"/>
+      <point x="160" y="1020" type="line"/>
+      <point x="160" y="0" type="line"/>
+      <point x="440" y="0" type="line"/>
+      <point x="440" y="810" type="line"/>
+      <point x="900" y="810" type="line"/>
+      <point x="900" y="0" type="line"/>
+      <point x="1195" y="0" type="line"/>
+      <point x="1182" y="105"/>
+      <point x="1180" y="295"/>
+      <point x="1180" y="490" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="685" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="685" y="1100" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.92</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

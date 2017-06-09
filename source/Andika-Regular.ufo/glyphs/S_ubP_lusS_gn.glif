@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SubPlusSgn" format="1">
+  <advance width="840"/>
+  <unicode hex="208A"/>
+  <outline>
+    <component base="PlusSgn" xScale="0.7" yScale="0.65" xOffset="5" yOffset="-330"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="lsb">
+            <hstem pos="-405" width="100"/>
+            <vstem pos="370" width="100"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

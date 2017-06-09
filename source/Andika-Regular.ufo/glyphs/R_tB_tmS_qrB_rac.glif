@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="RtBtmSqrBrac" format="1">
+  <advance width="790"/>
+  <unicode hex="23A6"/>
+  <outline>
+    <contour>
+      <point x="405" y="-297" type="line" name="hr00"/>
+      <point x="150" y="-297" type="line"/>
+      <point x="150" y="-447" type="line"/>
+      <point x="590" y="-447" type="line"/>
+      <point x="590" y="2504" type="line"/>
+      <point x="405" y="2504" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="-447" width="150"/>
+            <vstem pos="405" width="185"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

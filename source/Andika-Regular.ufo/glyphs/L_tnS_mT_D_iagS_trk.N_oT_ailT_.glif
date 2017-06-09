@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmTDiagStrk.NoTailT" format="1">
+  <advance width="905"/>
+  <outline>
+    <contour>
+      <point x="480" y="0" type="line" name="hr01"/>
+      <point x="480" y="1375" type="line"/>
+      <point x="295" y="1375" type="line"/>
+      <point x="295" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="875" type="line"/>
+      <point x="670" y="875" type="line"/>
+      <point x="745" y="1020" type="line"/>
+      <point x="30" y="1020" type="line"/>
+    </contour>
+    <contour>
+      <point x="730" y="1130" type="line" name="hr02"/>
+      <point x="150" y="-115" type="line"/>
+      <point x="295" y="-115" type="line"/>
+      <point x="875" y="1130" type="line"/>
+    </contour>
+    <contour>
+      <point x="397" y="0" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="397" y="-200" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="905" y="1000" type="move" name="R"/>
+    </contour>
+    <contour>
+      <point x="386" y="1415" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="21" width="-21"/>
+            <hstem pos="875" width="145"/>
+            <vstem pos="295" width="185"/>
+          </hintset>
+          <hintset pointTag="hr02">
+            <hstem pos="21" width="-21"/>
+            <hstem pos="875" width="255"/>
+            <vstem pos="295" width="185"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

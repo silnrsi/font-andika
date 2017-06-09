@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmCCedilla" format="1">
+  <advance width="989"/>
+  <unicode hex="00E7"/>
+  <outline>
+    <component base="LtnSmC"/>
+    <component base="CombCedilla" xOffset="1010"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.807</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

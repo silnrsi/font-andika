@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LftDblArrw" format="1">
+  <advance width="2000"/>
+  <unicode hex="21D0"/>
+  <outline>
+    <contour>
+      <point x="2009" y="470" type="line" name="hr00"/>
+      <point x="2033" y="564" type="line"/>
+      <point x="508" y="564" type="line"/>
+      <point x="334" y="708" type="line"/>
+      <point x="578" y="846" type="line"/>
+      <point x="2103" y="846" type="line"/>
+      <point x="2126" y="940" type="line"/>
+      <point x="752" y="940" type="line"/>
+      <point x="966" y="1059" type="line"/>
+      <point x="934" y="1163" type="line"/>
+      <point x="198" y="757" type="line"/>
+      <point x="177" y="673" type="line"/>
+      <point x="712" y="272" type="line"/>
+      <point x="790" y="351" type="line"/>
+      <point x="635" y="470" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="480" width="94"/>
+            <hstem pos="856" width="94"/>
+            <vstem pos="10" width="1880"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.986</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

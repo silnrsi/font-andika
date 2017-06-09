@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombMacron" format="1">
+  <advance width="0"/>
+  <unicode hex="0304"/>
+  <outline>
+    <contour>
+      <point x="-738" y="1228" type="line" name="hr00"/>
+      <point x="91" y="1228" type="line"/>
+      <point x="142" y="1435" type="line"/>
+      <point x="-687" y="1435" type="line"/>
+    </contour>
+    <contour>
+      <point x="-267" y="1450" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="-355" y="1100" type="move" name="_U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="1228" width="148"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>76</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>-629</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.732</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

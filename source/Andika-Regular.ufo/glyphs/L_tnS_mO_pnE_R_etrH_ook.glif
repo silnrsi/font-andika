@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmOpnERetrHook" format="1">
+  <advance width="970"/>
+  <unicode hex="1D93"/>
+  <outline>
+    <contour>
+      <point x="850" y="960" type="line" name="hr01"/>
+      <point x="775" y="1011"/>
+      <point x="672" y="1040"/>
+      <point x="530" y="1040" type="curve" smooth="yes"/>
+      <point x="241" y="1040"/>
+      <point x="150" y="885"/>
+      <point x="150" y="755" type="curve" smooth="yes" name="hr02"/>
+      <point x="150" y="663"/>
+      <point x="227" y="570"/>
+      <point x="342" y="535" type="curve"/>
+      <point x="204" y="508"/>
+      <point x="90" y="417"/>
+      <point x="90" y="280" type="curve" smooth="yes" name="hr03"/>
+      <point x="90" y="141"/>
+      <point x="210" y="-25"/>
+      <point x="500" y="-25" type="curve" smooth="yes"/>
+      <point x="630" y="-25"/>
+      <point x="739" y="4"/>
+      <point x="870" y="70" type="curve"/>
+      <point x="870" y="245" type="line"/>
+      <point x="748" y="171"/>
+      <point x="644" y="130"/>
+      <point x="535" y="130" type="curve" smooth="yes"/>
+      <point x="400" y="130"/>
+      <point x="275" y="178"/>
+      <point x="275" y="295" type="curve" smooth="yes"/>
+      <point x="275" y="452"/>
+      <point x="500" y="465"/>
+      <point x="660" y="465" type="curve"/>
+      <point x="660" y="605" type="line"/>
+      <point x="483" y="605"/>
+      <point x="335" y="641"/>
+      <point x="335" y="750" type="curve" smooth="yes" name="hr04"/>
+      <point x="335" y="820"/>
+      <point x="385" y="890"/>
+      <point x="525" y="890" type="curve" smooth="yes"/>
+      <point x="621" y="890"/>
+      <point x="719" y="857"/>
+      <point x="815" y="790" type="curve"/>
+    </contour>
+    <contour>
+      <point x="975" y="-335" type="curve" smooth="yes"/>
+      <point x="918" y="-335"/>
+      <point x="870" y="-285"/>
+      <point x="870" y="-210" type="curve" smooth="yes"/>
+      <point x="870" y="245" type="line"/>
+      <point x="735" y="30" type="line"/>
+      <point x="735" y="-220" type="line" smooth="yes"/>
+      <point x="735" y="-373"/>
+      <point x="820" y="-470"/>
+      <point x="940" y="-470" type="curve" smooth="yes"/>
+      <point x="1009" y="-470"/>
+      <point x="1077" y="-453"/>
+      <point x="1130" y="-415" type="curve"/>
+      <point x="1115" y="-290" type="line"/>
+      <point x="1072" y="-318"/>
+      <point x="1031" y="-335"/>
+    </contour>
+    <contour>
+      <point x="410" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="525" y="1100" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="-470" width="135"/>
+            <hstem pos="-25" width="155"/>
+            <hstem pos="465" width="140"/>
+            <hstem pos="890" width="150"/>
+            <vstem pos="90" width="185"/>
+            <vstem pos="735" width="135"/>
+          </hintset>
+          <hintset pointTag="hr02">
+            <hstem pos="-470" width="135"/>
+            <hstem pos="-25" width="155"/>
+            <hstem pos="465" width="140"/>
+            <hstem pos="890" width="150"/>
+            <vstem pos="150" width="185"/>
+            <vstem pos="735" width="135"/>
+          </hintset>
+          <hintset pointTag="hr03">
+            <hstem pos="-470" width="135"/>
+            <hstem pos="-25" width="155"/>
+            <hstem pos="465" width="140"/>
+            <hstem pos="890" width="150"/>
+            <vstem pos="90" width="185"/>
+            <vstem pos="735" width="135"/>
+          </hintset>
+          <hintset pointTag="hr04">
+            <hstem pos="-470" width="135"/>
+            <hstem pos="-25" width="155"/>
+            <hstem pos="465" width="140"/>
+            <hstem pos="890" width="150"/>
+            <vstem pos="150" width="185"/>
+            <vstem pos="735" width="135"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

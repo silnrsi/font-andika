@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LftSglQuotMrk" format="1">
+  <advance width="765"/>
+  <unicode hex="2018"/>
+  <outline>
+    <contour>
+      <point x="580" y="1290" type="line" name="hr00"/>
+      <point x="420" y="1290" type="line"/>
+      <point x="420" y="1374"/>
+      <point x="475" y="1493"/>
+      <point x="580" y="1605" type="curve"/>
+      <point x="435" y="1675" type="line"/>
+      <point x="311" y="1568"/>
+      <point x="205" y="1389"/>
+      <point x="205" y="1210" type="curve" smooth="yes"/>
+      <point x="205" y="1086"/>
+      <point x="276" y="1000"/>
+      <point x="390" y="1000" type="curve" smooth="yes"/>
+      <point x="503" y="1000"/>
+      <point x="580" y="1085"/>
+      <point x="580" y="1160" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="974" width="290"/>
+            <hstem pos="1623" width="-20"/>
+            <vstem pos="100" width="360"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.732</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

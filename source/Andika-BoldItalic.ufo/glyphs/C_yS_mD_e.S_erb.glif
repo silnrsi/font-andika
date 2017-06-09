@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CySmDe.Serb" format="1">
+  <advance width="1183"/>
+  <outline>
+    <component base="LtnSmG.SngBowl"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="lsb">
+            <hstem pos="-206" width="-21"/>
+            <hstem pos="-205" width="-21"/>
+            <hstem pos="16" width="-16"/>
+            <hstem pos="0" width="42"/>
+            <hstem pos="0" width="79"/>
+            <hstem pos="841" width="80"/>
+            <hstem pos="868" width="60"/>
+            <vstem pos="105" width="132"/>
+            <vstem pos="278" width="105"/>
+            <vstem pos="699" width="132"/>
+            <vstem pos="700" width="150"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.986</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

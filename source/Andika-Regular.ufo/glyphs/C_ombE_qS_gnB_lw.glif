@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombEqSgnBlw" format="1">
+  <advance width="0"/>
+  <unicode hex="0347"/>
+  <outline>
+    <contour>
+      <point x="-125" y="-320" type="line" name="hr00"/>
+      <point x="-125" y="-170" type="line"/>
+      <point x="-1015" y="-170" type="line"/>
+      <point x="-1015" y="-320" type="line"/>
+    </contour>
+    <contour>
+      <point x="-125" y="-570" type="line"/>
+      <point x="-125" y="-420" type="line"/>
+      <point x="-1015" y="-420" type="line"/>
+      <point x="-1015" y="-570" type="line"/>
+    </contour>
+    <contour>
+      <point x="-570" y="-500" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="-570" y="-100" type="move" name="_L"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="-570" width="150"/>
+            <hstem pos="-320" width="150"/>
+            <vstem pos="-1015" width="890"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

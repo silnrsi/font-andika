@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModRaisedExclamationMrk" format="1">
+  <advance width="570"/>
+  <unicode hex="A71D"/>
+  <outline>
+    <component base="ExclamationMrk" xScale="0.7" yScale="0.65" xOffset="-9" yOffset="680"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.92</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnCapInvM" format="1">
+  <advance width="1775"/>
+  <unicode hex="A7FD"/>
+  <outline>
+    <contour>
+      <point x="1260" y="0" type="line" name="hr00"/>
+      <point x="1417" y="0" type="line"/>
+      <point x="1271" y="1431" type="line"/>
+      <point x="1076" y="1431" type="line"/>
+      <point x="215" y="0" type="line"/>
+      <point x="395" y="0" type="line"/>
+      <point x="1131" y="1230" type="line"/>
+    </contour>
+    <contour>
+      <point x="345" y="0" type="line"/>
+      <point x="379" y="250" type="line"/>
+      <point x="641" y="1431" type="line"/>
+      <point x="456" y="1431" type="line"/>
+      <point x="434" y="1237"/>
+      <point x="170" y="0"/>
+      <point x="170" y="0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1721" y="1431" type="line"/>
+      <point x="1399" y="250" type="line"/>
+      <point x="1305" y="0" type="line"/>
+      <point x="1480" y="0" type="line"/>
+      <point x="1480" y="0"/>
+      <point x="1829" y="1237"/>
+      <point x="1906" y="1431" type="curve"/>
+    </contour>
+    <contour>
+      <point x="800" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="1190" y="1530" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="21" width="-21"/>
+            <hstem pos="1431" width="-20"/>
+            <vstem pos="100" width="1450"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.92</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

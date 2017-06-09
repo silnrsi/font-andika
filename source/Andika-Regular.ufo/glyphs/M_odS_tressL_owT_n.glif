@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModStressLowTn" format="1">
+  <advance width="1165"/>
+  <unicode hex="A721"/>
+  <outline>
+    <contour>
+      <point x="570" y="1150" type="line" name="hr01"/>
+      <point x="570" y="1460" type="line" name="hr02"/>
+      <point x="450" y="1460" type="line"/>
+      <point x="450" y="1150" type="line" name="hr03"/>
+      <point x="170" y="1150" type="line"/>
+      <point x="170" y="1460" type="line" name="hr04"/>
+      <point x="50" y="1460" type="line"/>
+      <point x="50" y="1030" type="line" name="hr05"/>
+      <point x="1115" y="1030" type="line"/>
+      <point x="1115" y="1150" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="1030" width="120"/>
+            <vstem pos="50" width="120"/>
+            <vstem pos="450" width="120"/>
+          </hintset>
+          <hintset pointTag="hr02">
+            <hstem pos="1030" width="430"/>
+            <vstem pos="50" width="120"/>
+            <vstem pos="450" width="120"/>
+          </hintset>
+          <hintset pointTag="hr03">
+            <hstem pos="1030" width="120"/>
+            <vstem pos="50" width="120"/>
+            <vstem pos="450" width="120"/>
+          </hintset>
+          <hintset pointTag="hr04">
+            <hstem pos="1030" width="430"/>
+            <vstem pos="50" width="120"/>
+            <vstem pos="450" width="120"/>
+          </hintset>
+          <hintset pointTag="hr05">
+            <hstem pos="1030" width="120"/>
+            <vstem pos="50" width="120"/>
+            <vstem pos="450" width="120"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

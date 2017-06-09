@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="PilcrowSgn" format="1">
+  <advance width="1105"/>
+  <unicode hex="00B6"/>
+  <outline>
+    <contour>
+      <point x="1045" y="1315" type="line"/>
+      <point x="1045" y="1460" type="line"/>
+      <point x="460" y="1460" type="line" smooth="yes"/>
+      <point x="282" y="1460"/>
+      <point x="50" y="1382"/>
+      <point x="50" y="1103" type="curve" smooth="yes" name="hr01"/>
+      <point x="50" y="825"/>
+      <point x="283" y="745"/>
+      <point x="440" y="745" type="curve"/>
+      <point x="440" y="0" type="line"/>
+      <point x="605" y="0" type="line"/>
+      <point x="605" y="1315" type="line"/>
+      <point x="765" y="1315" type="line"/>
+      <point x="765" y="0" type="line"/>
+      <point x="930" y="0" type="line"/>
+      <point x="930" y="1315" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="21" width="-21"/>
+            <hstem pos="1345" width="115"/>
+            <vstem pos="50" width="505"/>
+            <vstem pos="715" width="135"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.732</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

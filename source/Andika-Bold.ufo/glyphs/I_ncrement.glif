@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Increment" format="1">
+  <advance width="1435"/>
+  <unicode hex="2206"/>
+  <outline>
+    <contour>
+      <point x="60" y="0" type="line" name="hr00"/>
+      <point x="1355" y="0" type="line"/>
+      <point x="1355" y="145" type="line"/>
+      <point x="845" y="1460" type="line"/>
+      <point x="570" y="1460" type="line"/>
+      <point x="60" y="145" type="line"/>
+    </contour>
+    <contour>
+      <point x="705" y="1245" type="line"/>
+      <point x="1100" y="210" type="line"/>
+      <point x="314" y="210" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="0" width="165"/>
+            <hstem pos="1460" width="-20"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.732</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

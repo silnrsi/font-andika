@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSupSmDotlessJStrk.TopLftSerif" format="1">
+  <advance width="568"/>
+  <outline>
+    <component base="LtnSmDotlessJStrk.TopLftSerif" xScale="0.7" yScale="0.65" xOffset="7" yOffset="680"/>
+  </outline>
+</glyph>

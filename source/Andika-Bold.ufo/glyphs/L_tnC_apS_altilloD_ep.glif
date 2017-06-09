@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnCapSaltilloDep" format="1">
+  <advance width="750"/>
+  <unicode hex="F26A"/>
+  <outline>
+    <contour>
+      <point x="205" y="610" type="line" name="hr00"/>
+      <point x="520" y="610" type="line"/>
+      <point x="520" y="1740" type="line"/>
+      <point x="205" y="1740" type="line"/>
+    </contour>
+    <contour>
+      <point x="270" y="640" type="line"/>
+      <point x="263" y="930"/>
+      <point x="273" y="1276"/>
+      <point x="235" y="1710" type="curve"/>
+      <point x="490" y="1710" type="line"/>
+      <point x="451" y="1276"/>
+      <point x="461" y="930"/>
+      <point x="455" y="640" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="610" width="30"/>
+            <hstem pos="1710" width="30"/>
+            <vstem pos="205" width="65"/>
+            <vstem pos="490" width="30"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

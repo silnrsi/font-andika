@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmPStrk" format="1">
+  <advance width="1296"/>
+  <unicode hex="1D7D"/>
+  <outline>
+    <contour>
+      <point x="123" y="599" type="line"/>
+      <point x="75" y="406" type="line"/>
+      <point x="220" y="406" type="line"/>
+      <point x="75" y="-180" type="line" smooth="yes"/>
+      <point x="49" y="-286"/>
+      <point x="25" y="-403"/>
+      <point x="25" y="-485" type="curve"/>
+      <point x="314" y="-485" type="line"/>
+      <point x="314" y="-393"/>
+      <point x="328" y="-287"/>
+      <point x="362" y="-149" type="curve" smooth="yes"/>
+      <point x="415" y="64" type="line"/>
+      <point x="495" y="10"/>
+      <point x="562" y="-25"/>
+      <point x="667" y="-25" type="curve" smooth="yes"/>
+      <point x="750" y="-25"/>
+      <point x="833" y="-2"/>
+      <point x="909" y="40" type="curve" smooth="yes"/>
+      <point x="1042" y="113"/>
+      <point x="1154" y="244"/>
+      <point x="1216" y="406" type="curve"/>
+      <point x="1367" y="406" type="line"/>
+      <point x="1415" y="599" type="line"/>
+      <point x="1262" y="599" type="line"/>
+      <point x="1265" y="627"/>
+      <point x="1267" y="656"/>
+      <point x="1267" y="685" type="curve" smooth="yes"/>
+      <point x="1267" y="884"/>
+      <point x="1176" y="1030"/>
+      <point x="1004" y="1030" type="curve" smooth="yes"/>
+      <point x="849" y="1030"/>
+      <point x="677" y="901"/>
+      <point x="565" y="752" type="curve"/>
+      <point x="574" y="808"/>
+      <point x="579" y="875"/>
+      <point x="579" y="933" type="curve" smooth="yes"/>
+      <point x="579" y="962"/>
+      <point x="578" y="988"/>
+      <point x="575" y="1010" type="curve" name="hr01"/>
+      <point x="300" y="1010" type="line"/>
+      <point x="300" y="962" type="line" smooth="yes"/>
+      <point x="300" y="859"/>
+      <point x="290" y="685"/>
+      <point x="271" y="609" type="curve" smooth="yes"/>
+      <point x="268" y="599" type="line"/>
+    </contour>
+    <contour>
+      <point x="823" y="258" type="curve" smooth="yes"/>
+      <point x="778" y="224"/>
+      <point x="723" y="204"/>
+      <point x="658" y="204" type="curve" smooth="yes"/>
+      <point x="589" y="204"/>
+      <point x="517" y="243"/>
+      <point x="473" y="297" type="curve"/>
+      <point x="500" y="406" type="line"/>
+      <point x="934" y="406" type="line"/>
+      <point x="908" y="347"/>
+      <point x="871" y="294"/>
+    </contour>
+    <contour>
+      <point x="854" y="794" type="curve" smooth="yes" name="hr02"/>
+      <point x="932" y="794"/>
+      <point x="975" y="719"/>
+      <point x="975" y="609" type="curve" smooth="yes"/>
+      <point x="975" y="599" type="line"/>
+      <point x="588" y="599" type="line"/>
+      <point x="673" y="707"/>
+      <point x="785" y="794"/>
+    </contour>
+    <contour>
+      <point x="484" y="-500" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="865" y="1100" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="-464" width="-21"/>
+            <hstem pos="-25" width="229"/>
+            <hstem pos="470" width="144"/>
+            <hstem pos="1010" width="-20"/>
+            <vstem pos="174" width="185"/>
+            <vstem pos="908" width="316"/>
+          </hintset>
+          <hintset pointTag="hr02">
+            <hstem pos="-464" width="-21"/>
+            <hstem pos="-25" width="164"/>
+            <hstem pos="470" width="144"/>
+            <hstem pos="794" width="236"/>
+            <vstem pos="174" width="185"/>
+            <vstem pos="908" width="316"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.986</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

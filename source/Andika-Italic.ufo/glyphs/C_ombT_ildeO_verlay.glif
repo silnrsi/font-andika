@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombTildeOverlay" format="1">
+  <advance width="0"/>
+  <unicode hex="0334"/>
+  <outline>
+    <contour>
+      <point x="-782" y="392" type="line" name="hr00"/>
+      <point x="-765" y="440"/>
+      <point x="-725" y="480"/>
+      <point x="-676" y="480" type="curve" smooth="yes"/>
+      <point x="-639" y="480"/>
+      <point x="-602" y="464"/>
+      <point x="-534" y="429" type="curve" smooth="yes"/>
+      <point x="-480" y="401"/>
+      <point x="-432" y="382"/>
+      <point x="-379" y="382" type="curve" smooth="yes"/>
+      <point x="-256" y="382"/>
+      <point x="-151" y="497"/>
+      <point x="-120" y="622" type="curve"/>
+      <point x="-225" y="622" type="line"/>
+      <point x="-243" y="577"/>
+      <point x="-283" y="534"/>
+      <point x="-330" y="534" type="curve" smooth="yes"/>
+      <point x="-372" y="534"/>
+      <point x="-409" y="553"/>
+      <point x="-474" y="581" type="curve" smooth="yes"/>
+      <point x="-537" y="608"/>
+      <point x="-578" y="632"/>
+      <point x="-634" y="632" type="curve" smooth="yes"/>
+      <point x="-753" y="632"/>
+      <point x="-857" y="511"/>
+      <point x="-887" y="392" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="377" width="162"/>
+            <hstem pos="475" width="162"/>
+            <vstem pos="-985" width="105"/>
+            <vstem pos="-380" width="105"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.92</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

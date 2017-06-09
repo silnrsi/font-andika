@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombDblMacronBlw" format="1">
+  <advance width="0"/>
+  <unicode hex="035F"/>
+  <outline>
+    <contour>
+      <point x="790" y="-370" type="line" name="hr00"/>
+      <point x="790" y="-170" type="line"/>
+      <point x="-790" y="-170" type="line"/>
+      <point x="-790" y="-370" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="-500" type="move" name="L"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="-320" width="150"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.732</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

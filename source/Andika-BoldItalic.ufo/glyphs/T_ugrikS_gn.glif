@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="TugrikSgn" format="1">
+  <advance width="1220"/>
+  <unicode hex="20AE"/>
+  <outline>
+    <contour>
+      <point x="363" y="1445" type="line" name="hr00"/>
+      <point x="301" y="1198" type="line"/>
+      <point x="377" y="1215"/>
+      <point x="457" y="1218"/>
+      <point x="537" y="1218" type="curve" smooth="yes"/>
+      <point x="729" y="1218" type="line"/>
+      <point x="527" y="409" type="line" smooth="yes"/>
+      <point x="481" y="224"/>
+      <point x="441" y="75"/>
+      <point x="406" y="0" type="curve"/>
+      <point x="711" y="0" type="line"/>
+      <point x="712" y="75"/>
+      <point x="746" y="224"/>
+      <point x="792" y="409" type="curve" smooth="yes"/>
+      <point x="994" y="1218" type="line"/>
+      <point x="1190" y="1218" type="line" smooth="yes"/>
+      <point x="1271" y="1218"/>
+      <point x="1348" y="1215"/>
+      <point x="1416" y="1198" type="curve"/>
+      <point x="1478" y="1445" type="line"/>
+    </contour>
+    <contour>
+      <point x="352" y="559" type="line"/>
+      <point x="1189" y="968" type="line"/>
+      <point x="1181" y="1149" type="line"/>
+      <point x="345" y="742" type="line"/>
+    </contour>
+    <contour>
+      <point x="278" y="223" type="line"/>
+      <point x="1115" y="632" type="line"/>
+      <point x="1107" y="813" type="line"/>
+      <point x="270" y="405" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr00">
+            <hstem pos="21" width="-21"/>
+            <hstem pos="1282" width="163"/>
+            <vstem pos="473" width="171"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.986</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

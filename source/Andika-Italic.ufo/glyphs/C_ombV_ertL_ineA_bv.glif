@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombVertLineAbv" format="1">
+  <advance width="0"/>
+  <unicode hex="030D"/>
+  <outline>
+    <contour>
+      <point x="-294" y="1147" type="line" name="hr01"/>
+      <point x="-189" y="1568" type="line"/>
+      <point x="-289" y="1568" type="line"/>
+      <point x="-394" y="1147" type="line"/>
+    </contour>
+    <contour>
+      <point x="-221" y="1635" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="-355" y="1100" type="move" name="_U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="1147" width="421"/>
+            <vstem pos="-680" width="100"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.92</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

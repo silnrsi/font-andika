@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmLHighBar.SItal" format="1">
+  <advance width="925"/>
+  <outline>
+    <contour>
+      <point x="505" y="1600" type="line"/>
+      <point x="300" y="1600" type="line"/>
+      <point x="313" y="1485"/>
+      <point x="320" y="1324"/>
+      <point x="320" y="1130" type="curve" smooth="yes"/>
+      <point x="320" y="0" type="line"/>
+      <point x="525" y="0" type="line"/>
+      <point x="512" y="109"/>
+      <point x="505" y="346"/>
+      <point x="505" y="475" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="100" y="1175" type="line"/>
+      <point x="725" y="1175" type="line"/>
+      <point x="725" y="1320" type="line"/>
+      <point x="100" y="1320" type="line"/>
+    </contour>
+    <contour>
+      <point x="415" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="415" y="1635" type="move" name="U"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSupSmTurnedA" format="1">
+  <advance width="805"/>
+  <unicode hex="1D44"/>
+  <outline>
+    <component base="LtnSmTurnedA" xScale="0.7" yScale="0.65" xOffset="5" yOffset="680"/>
+  </outline>
+</glyph>

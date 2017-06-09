@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombCircumGrave.VN" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-845" y="1170" type="line" name="hr01"/>
+      <point x="-570" y="1450" type="line" name="hr02"/>
+      <point x="-295" y="1170" type="line"/>
+      <point x="-145" y="1170" type="line"/>
+      <point x="-485" y="1600" type="line"/>
+      <point x="-655" y="1600" type="line"/>
+      <point x="-995" y="1170" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1114" y="1663" type="line"/>
+      <point x="-892" y="1429" type="line"/>
+      <point x="-825" y="1499" type="line"/>
+      <point x="-1023" y="1746" type="line"/>
+    </contour>
+    <contour>
+      <point x="-570" y="1100" type="move" name="_U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="1600" width="-20"/>
+            <vstem pos="-1114" width="969"/>
+          </hintset>
+          <hintset pointTag="hr02">
+            <hstem pos="1450" width="150"/>
+            <vstem pos="-1114" width="969"/>
+          </hintset>
+        </hintSetList>
+      </data>
+    </dict>
+  </lib>
+</glyph>

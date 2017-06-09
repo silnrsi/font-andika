@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmLCaron" format="1">
+  <advance width="880"/>
+  <unicode hex="013E"/>
+  <outline>
+    <contour>
+      <point x="460" y="1600" type="line" name="hr01"/>
+      <point x="160" y="1600" type="line"/>
+      <point x="173" y="1485"/>
+      <point x="180" y="1324"/>
+      <point x="180" y="1130" type="curve" smooth="yes"/>
+      <point x="180" y="0" type="line"/>
+      <point x="480" y="0" type="line"/>
+      <point x="467" y="109"/>
+      <point x="460" y="346"/>
+      <point x="460" y="475" type="curve" smooth="yes" name="hr05"/>
+    </contour>
+    <contour>
+      <point x="655" y="1600" type="line" name="hr04"/>
+      <point x="590" y="1170" type="line" name="hr02"/>
+      <point x="760" y="1170" type="line"/>
+      <point x="890" y="1600" type="line"/>
+    </contour>
+    <contour>
+      <point x="335" y="0" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="335" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="320" y="1635" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="21" width="-21"/>
+            <hstem pos="1600" width="-20"/>
+            <vstem pos="190" width="185"/>
+          </hintset>
+          <hintset pointTag="hr02">
+            <hstem pos="21" width="-21"/>
+            <hstem pos="1170" width="430"/>
+            <vstem pos="190" width="185"/>
+          </hintset>
+          <hintset pointTag="hr01">
+            <hstem pos="21" width="-21"/>
+            <hstem pos="1600" width="-20"/>
+            <vstem pos="180" width="320"/>
+          </hintset>
+          <hintset pointTag="hr05">
+            <hstem pos="1600" width="-20"/>
+            <vstem pos="620" width="250"/>
+          </hintset>
+          <hintset pointTag="hr02">
+            <hstem pos="1170" width="430"/>
+            <vstem pos="620" width="250"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.92</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

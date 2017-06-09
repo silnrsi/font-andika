@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CyCapEmTail" format="1">
+  <advance width="2005"/>
+  <unicode hex="04CD"/>
+  <outline>
+    <contour>
+      <point x="917" y="272" type="line"/>
+      <point x="890" y="1445" type="line"/>
+      <point x="662" y="1445" type="line"/>
+      <point x="720" y="0" type="line"/>
+      <point x="1005" y="0" type="line"/>
+      <point x="1779" y="1445" type="line"/>
+      <point x="1535" y="1445" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="1445" type="line"/>
+      <point x="500" y="1445"/>
+      <point x="154" y="196"/>
+      <point x="80" y="0" type="curve"/>
+      <point x="365" y="0" type="line"/>
+      <point x="678" y="1277" type="line"/>
+      <point x="750" y="1445" type="line"/>
+    </contour>
+    <contour>
+      <point x="1650" y="0" type="line"/>
+      <point x="1669" y="196"/>
+      <point x="1940" y="1445"/>
+      <point x="1940" y="1445" type="curve"/>
+      <point x="1670" y="1445" type="line"/>
+      <point x="1685" y="1287" type="line" name="hr01"/>
+      <point x="1365" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1596" y="228" type="line"/>
+      <point x="1610" y="0" type="line"/>
+      <point x="1286" y="-436" type="line"/>
+      <point x="1531" y="-436" type="line"/>
+      <point x="1885" y="0" type="line"/>
+      <point x="1941" y="228" type="line"/>
+    </contour>
+    <contour>
+      <point x="840" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="1247" y="1530" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="0" width="163"/>
+            <hstem pos="1445" width="-20"/>
+            <vstem pos="145" width="147"/>
+            <vstem pos="1365" width="370"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.986</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

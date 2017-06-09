@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CySmPe.Serb" format="1">
+  <advance width="1205"/>
+  <outline>
+    <contour>
+      <point x="1020" y="1020" type="line"/>
+      <point x="170" y="1020" type="line"/>
+      <point x="170" y="0" type="line"/>
+      <point x="355" y="0" type="line"/>
+      <point x="355" y="875" type="line"/>
+      <point x="835" y="875" type="line"/>
+      <point x="835" y="0" type="line"/>
+      <point x="1035" y="0" type="line"/>
+      <point x="1022" y="105"/>
+      <point x="1020" y="295"/>
+      <point x="1020" y="490" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="576" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="576" y="1100" type="move" name="U"/>
+    </contour>
+  </outline>
+</glyph>

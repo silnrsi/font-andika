@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmYStrk" format="1">
+  <advance width="1140"/>
+  <unicode hex="024F"/>
+  <outline>
+    <contour>
+      <point x="975" y="665" type="line" smooth="yes"/>
+      <point x="1008" y="758"/>
+      <point x="1051" y="865"/>
+      <point x="1120" y="1020" type="curve" name="hr01"/>
+      <point x="807" y="1020" type="line"/>
+      <point x="807" y="1020"/>
+      <point x="676" y="529"/>
+      <point x="603" y="273" type="curve"/>
+      <point x="363" y="1020" type="line"/>
+      <point x="50" y="1020" type="line"/>
+      <point x="127" y="864"/>
+      <point x="174" y="757"/>
+      <point x="210" y="665" type="curve" smooth="yes"/>
+      <point x="475" y="-18" type="line"/>
+      <point x="396" y="-209"/>
+      <point x="334" y="-242"/>
+      <point x="275" y="-242" type="curve" smooth="yes"/>
+      <point x="209" y="-242"/>
+      <point x="132" y="-202"/>
+      <point x="90" y="-167" type="curve"/>
+      <point x="20" y="-385" type="line"/>
+      <point x="93" y="-439"/>
+      <point x="184" y="-470"/>
+      <point x="275" y="-470" type="curve" smooth="yes"/>
+      <point x="457" y="-470"/>
+      <point x="595" y="-387"/>
+      <point x="735" y="0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="80" y="474" type="line"/>
+      <point x="1120" y="474" type="line"/>
+      <point x="1120" y="669" type="line"/>
+      <point x="80" y="669" type="line"/>
+    </contour>
+    <contour>
+      <point x="910" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="603" y="1100" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+        <hintSetList>
+          <hintset pointTag="hr01">
+            <hstem pos="-470" width="170"/>
+            <hstem pos="475" width="545"/>
+            <vstem pos="60" width="1060"/>
+          </hintset>
+        </hintSetList>
+      </data>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>873</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.92</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

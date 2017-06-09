@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmLHighBar.SItal" format="1">
+  <advance width="905"/>
+  <outline>
+    <contour>
+      <point x="835" y="1568" type="line"/>
+      <point x="630" y="1568" type="line"/>
+      <point x="615" y="1455"/>
+      <point x="583" y="1298"/>
+      <point x="536" y="1107" type="curve" smooth="yes"/>
+      <point x="260" y="0" type="line"/>
+      <point x="465" y="0" type="line"/>
+      <point x="478" y="107"/>
+      <point x="529" y="339"/>
+      <point x="560" y="465" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="326" y="1151" type="line"/>
+      <point x="951" y="1151" type="line"/>
+      <point x="987" y="1294" type="line"/>
+      <point x="362" y="1294" type="line"/>
+    </contour>
+    <contour>
+      <point x="355" y="-98" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="720" y="1602" type="move" name="U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.92</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>
