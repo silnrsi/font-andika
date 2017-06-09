@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmJCircum.BarTop.sc" format="1">
+  <advance width="0"/>
+  <outline>
+    <component base="CombCircum" xOffset="330" yOffset="-1100"/>
+    <contour>
+      <point x="91" y="535" type="move" name="U"/>
+    </contour>
+  </outline>
+</glyph>
