@@ -3341,6 +3341,10 @@
     <string>LtnSmIDotBlw.TailI</string>
     <string>LtnSmIOgonek.TailI</string>
     <string>LtnSubSmJ.TopLftSerif</string>
+    <string>LtnSmJ.BarTop</string>
+    <string>LtnSmJCircum.BarTop</string>
+    <string>LtnSmJStrk.BarTop</string>
+    <string>LtnSmJCrossedTail.BarTop</string>
     <string>ModSmJ.Dotless.TopLftSerif</string>
     <string>LtnSmJCrossedTail.Dotless.TopLftSerif</string>
     <string>ModSmJCrossedTail.Dotless.TopLftSerif</string>
@@ -3354,6 +3358,12 @@
     <string>ModSmJCrossedTail.TopLftSerif</string>
     <string>LtnSmJCrossedTail.TopLftSerif</string>
     <string>LtnSmDotlessJStrk.TopLftSerif</string>
+    <string>LtnCapJ.BarTop</string>
+    <string>ModCapJ.BarTop</string>
+    <string>LtnSmCapJ.BarTop</string>
+    <string>LtnCapJCircum.BarTop</string>
+    <string>LtnCapJStrk.BarTop</string>
+    <string>LtnCapJCrossedTail.BarTop</string>
     <string>LtnSubSmL.TailL</string>
     <string>LtnSmLCaron.Caron.TailL</string>
     <string>LtnSmLHighBar.TailL</string>
@@ -3767,6 +3777,10 @@
     <string>LtnSmJ.sc</string>
     <string>CySmJe.sc</string>
     <string>LtnSmJCircum.sc</string>
+    <string>LtnSmJ.BarTop.sc</string>
+    <string>LtnSmJCircum.BarTop.sc</string>
+    <string>LtnSmJStrk.BarTop.sc</string>
+    <string>LtnSmJCrossedTail.BarTop.sc</string>
     <string>LtnSmJStrk.sc</string>
     <string>LtnSmIs.sc</string>
     <string>CySmEl.sc</string>
@@ -4318,7 +4332,6 @@
     <string>ModTnYangPingDep</string>
     <string>ModTnYangQuDep</string>
     <string>ModTnYangRuDep</string>
-    <string>LtnCapJ.BarTop</string>
   </array>
 </dict>
 </plist>
