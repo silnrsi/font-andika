@@ -104,6 +104,8 @@
           <integer>-471</integer>
         </dict>
       </array>
+      <key>public.postscriptname</key>
+      <string>uniF256</string>
     </dict>
   </lib>
 </glyph>

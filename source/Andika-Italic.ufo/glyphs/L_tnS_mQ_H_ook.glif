@@ -111,6 +111,8 @@
         <integer>1</integer>
         <integer>1</integer>
       </array>
+      <key>public.postscriptname</key>
+      <string>uni02A0</string>
     </dict>
   </lib>
 </glyph>

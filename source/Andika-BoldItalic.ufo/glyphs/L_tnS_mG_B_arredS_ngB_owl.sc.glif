@@ -10,4 +10,10 @@
       <point x="760" y="1293" type="move" name="U"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>uni01E5.BarBowl.SngBowl.sc</string>
+    </dict>
+  </lib>
 </glyph>

@@ -91,6 +91,8 @@
           <integer>1376</integer>
         </dict>
       </array>
+      <key>public.postscriptname</key>
+      <string>uni1D9A</string>
     </dict>
   </lib>
 </glyph>

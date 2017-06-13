@@ -10,4 +10,10 @@
       <point x="360" y="700" type="move" name="U"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>uni2C7C.TopLftSerif</string>
+    </dict>
+  </lib>
 </glyph>

@@ -75,6 +75,8 @@
           <integer>950</integer>
         </dict>
       </array>
+      <key>public.postscriptname</key>
+      <string>m.sc</string>
     </dict>
   </lib>
 </glyph>

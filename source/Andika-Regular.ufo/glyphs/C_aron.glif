@@ -28,6 +28,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>caron</string>
     </dict>
   </lib>
 </glyph>

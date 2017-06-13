@@ -17,4 +17,10 @@
       <point x="642" y="1683" type="move" name="U"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>atilde.SngStory.sc</string>
+    </dict>
+  </lib>
 </glyph>

@@ -44,6 +44,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>seven.Bar</string>
     </dict>
   </lib>
 </glyph>

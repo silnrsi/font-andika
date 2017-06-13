@@ -16,4 +16,10 @@
       <point x="642" y="1293" type="move" name="U"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>uni2C65.SngStory.sc</string>
+    </dict>
+  </lib>
 </glyph>

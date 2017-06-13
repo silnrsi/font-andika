@@ -17,4 +17,10 @@
       <point x="1285" y="1000" type="move" name="R"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>uni1EC1.VN</string>
+    </dict>
+  </lib>
 </glyph>

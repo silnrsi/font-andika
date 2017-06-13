@@ -89,6 +89,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>ohorn.sc</string>
     </dict>
   </lib>
 </glyph>

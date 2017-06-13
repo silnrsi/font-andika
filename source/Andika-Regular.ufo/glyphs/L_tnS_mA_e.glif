@@ -133,6 +133,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>ae</string>
     </dict>
   </lib>
 </glyph>

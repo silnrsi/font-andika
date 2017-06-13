@@ -70,6 +70,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>uni04FD</string>
     </dict>
   </lib>
 </glyph>

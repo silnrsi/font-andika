@@ -172,6 +172,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>fiveeighths</string>
     </dict>
   </lib>
 </glyph>

@@ -78,6 +78,8 @@
           <integer>0</integer>
         </dict>
       </array>
+      <key>public.postscriptname</key>
+      <string>uniA75C</string>
     </dict>
   </lib>
 </glyph>

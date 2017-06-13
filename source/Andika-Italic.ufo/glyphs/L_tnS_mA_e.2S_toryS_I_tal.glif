@@ -194,6 +194,8 @@
         <integer>1</integer>
         <integer>1</integer>
       </array>
+      <key>public.postscriptname</key>
+      <string>ae.2StorySItal</string>
     </dict>
   </lib>
 </glyph>

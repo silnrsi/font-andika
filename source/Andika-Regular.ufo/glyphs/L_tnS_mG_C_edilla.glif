@@ -17,4 +17,10 @@
       <point x="515" y="1635" type="move" name="U"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>gcommaaccent</string>
+    </dict>
+  </lib>
 </glyph>

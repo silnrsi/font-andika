@@ -62,6 +62,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>uni04BB.UCStyle</string>
     </dict>
   </lib>
 </glyph>

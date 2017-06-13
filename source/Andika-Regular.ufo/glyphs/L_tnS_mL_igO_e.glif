@@ -126,6 +126,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>oe</string>
     </dict>
   </lib>
 </glyph>

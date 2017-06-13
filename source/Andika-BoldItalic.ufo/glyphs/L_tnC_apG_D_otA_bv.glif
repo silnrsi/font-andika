@@ -15,4 +15,10 @@
       <point x="1209" y="1985" type="move" name="U"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>Gdotaccent</string>
+    </dict>
+  </lib>
 </glyph>

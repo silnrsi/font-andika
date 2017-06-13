@@ -14,4 +14,10 @@
       <point x="1645" y="1293" type="move" name="U"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>germandbls.sc</string>
+    </dict>
+  </lib>
 </glyph>

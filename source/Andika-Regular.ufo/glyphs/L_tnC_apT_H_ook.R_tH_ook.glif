@@ -53,6 +53,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>uni01AC.RtHook</string>
     </dict>
   </lib>
 </glyph>

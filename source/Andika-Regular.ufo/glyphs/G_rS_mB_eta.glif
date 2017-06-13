@@ -93,6 +93,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>beta</string>
     </dict>
   </lib>
 </glyph>

@@ -42,6 +42,8 @@
           <integer>0</integer>
         </dict>
       </array>
+      <key>public.postscriptname</key>
+      <string>gravecomb</string>
     </dict>
   </lib>
 </glyph>

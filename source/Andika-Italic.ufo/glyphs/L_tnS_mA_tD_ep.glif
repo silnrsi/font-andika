@@ -130,6 +130,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>uniF247</string>
     </dict>
   </lib>
 </glyph>

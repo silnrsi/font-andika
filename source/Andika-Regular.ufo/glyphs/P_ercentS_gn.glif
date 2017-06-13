@@ -109,6 +109,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>percent</string>
     </dict>
   </lib>
 </glyph>

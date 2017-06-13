@@ -33,6 +33,8 @@
         <integer>1</integer>
         <integer>1</integer>
       </array>
+      <key>public.postscriptname</key>
+      <string>uni0304.Short</string>
     </dict>
   </lib>
 </glyph>

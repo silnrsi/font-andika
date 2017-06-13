@@ -73,6 +73,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>uniF23D</string>
     </dict>
   </lib>
 </glyph>

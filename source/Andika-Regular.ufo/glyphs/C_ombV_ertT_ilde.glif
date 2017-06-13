@@ -80,6 +80,8 @@
           <integer>1620</integer>
         </dict>
       </array>
+      <key>public.postscriptname</key>
+      <string>uni033E</string>
     </dict>
   </lib>
 </glyph>

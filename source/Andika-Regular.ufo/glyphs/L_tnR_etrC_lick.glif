@@ -64,6 +64,8 @@
           <integer>1568</integer>
         </dict>
       </array>
+      <key>public.postscriptname</key>
+      <string>uni01C3</string>
     </dict>
   </lib>
 </glyph>

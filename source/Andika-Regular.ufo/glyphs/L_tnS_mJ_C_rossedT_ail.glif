@@ -96,6 +96,8 @@
           <integer>-470</integer>
         </dict>
       </array>
+      <key>public.postscriptname</key>
+      <string>uni029D</string>
     </dict>
   </lib>
 </glyph>

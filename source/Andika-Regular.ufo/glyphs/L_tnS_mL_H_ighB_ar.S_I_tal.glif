@@ -27,4 +27,10 @@
       <point x="415" y="1635" type="move" name="U"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>uniA749.SItal</string>
+    </dict>
+  </lib>
 </glyph>

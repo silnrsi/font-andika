@@ -87,6 +87,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>section</string>
     </dict>
   </lib>
 </glyph>

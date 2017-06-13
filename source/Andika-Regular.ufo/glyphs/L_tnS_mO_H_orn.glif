@@ -77,6 +77,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>ohorn</string>
     </dict>
   </lib>
 </glyph>

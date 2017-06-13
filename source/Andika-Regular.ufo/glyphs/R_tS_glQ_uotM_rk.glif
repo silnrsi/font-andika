@@ -32,6 +32,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>quoteright</string>
     </dict>
   </lib>
 </glyph>

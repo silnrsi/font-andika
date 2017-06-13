@@ -15,4 +15,10 @@
       <point x="1159" y="2065" type="move" name="U"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>Gcaron</string>
+    </dict>
+  </lib>
 </glyph>

@@ -74,6 +74,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>g.SngBowl</string>
     </dict>
   </lib>
 </glyph>

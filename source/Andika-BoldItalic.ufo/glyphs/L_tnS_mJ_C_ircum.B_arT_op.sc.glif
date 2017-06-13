@@ -7,4 +7,10 @@
       <point x="91" y="535" type="move" name="U"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>jcircumflex.BarTop.sc</string>
+    </dict>
+  </lib>
 </glyph>

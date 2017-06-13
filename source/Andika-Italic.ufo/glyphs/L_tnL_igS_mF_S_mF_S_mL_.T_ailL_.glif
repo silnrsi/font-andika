@@ -4,4 +4,10 @@
   <outline>
     <component base="LtnSmLigFfl.TailL"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>f_f_l.TailL</string>
+    </dict>
+  </lib>
 </glyph>

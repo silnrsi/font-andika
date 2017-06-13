@@ -28,6 +28,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>uni1DCD</string>
     </dict>
   </lib>
 </glyph>

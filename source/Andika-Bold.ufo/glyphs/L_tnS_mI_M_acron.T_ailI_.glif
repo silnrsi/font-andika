@@ -20,4 +20,10 @@
       <point x="310" y="1450" type="move" name="U"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>imacron.TailI</string>
+    </dict>
+  </lib>
 </glyph>

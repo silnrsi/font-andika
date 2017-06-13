@@ -20,4 +20,10 @@
       <point x="562" y="1293" type="move" name="U"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>eogonek.RetroHook.sc</string>
+    </dict>
+  </lib>
 </glyph>

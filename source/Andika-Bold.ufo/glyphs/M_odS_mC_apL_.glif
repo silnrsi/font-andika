@@ -38,6 +38,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>uni1DAB</string>
     </dict>
   </lib>
 </glyph>

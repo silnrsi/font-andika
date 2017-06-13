@@ -53,6 +53,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>rho</string>
     </dict>
   </lib>
 </glyph>

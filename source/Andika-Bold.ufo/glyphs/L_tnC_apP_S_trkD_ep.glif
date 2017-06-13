@@ -80,6 +80,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>uniF25C</string>
     </dict>
   </lib>
 </glyph>

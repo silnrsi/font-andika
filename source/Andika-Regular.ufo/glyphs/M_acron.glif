@@ -21,6 +21,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>macron</string>
     </dict>
   </lib>
 </glyph>

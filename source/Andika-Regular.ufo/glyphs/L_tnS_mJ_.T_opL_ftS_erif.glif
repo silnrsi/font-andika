@@ -65,6 +65,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>j.TopLftSerif</string>
     </dict>
   </lib>
 </glyph>

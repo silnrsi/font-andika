@@ -43,6 +43,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>exclamdown</string>
     </dict>
   </lib>
 </glyph>

@@ -53,6 +53,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>uni04CA.sc</string>
     </dict>
   </lib>
 </glyph>

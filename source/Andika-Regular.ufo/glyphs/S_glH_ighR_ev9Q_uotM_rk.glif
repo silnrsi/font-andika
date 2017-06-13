@@ -32,6 +32,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>quotereversed</string>
     </dict>
   </lib>
 </glyph>

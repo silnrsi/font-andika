@@ -15,4 +15,10 @@
       <point x="737" y="2065" type="move" name="U"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>Nacute</string>
+    </dict>
+  </lib>
 </glyph>

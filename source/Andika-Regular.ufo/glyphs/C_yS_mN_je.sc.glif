@@ -96,6 +96,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>uni045A.sc</string>
     </dict>
   </lib>
 </glyph>

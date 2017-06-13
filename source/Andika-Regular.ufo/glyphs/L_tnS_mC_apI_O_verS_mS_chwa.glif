@@ -101,6 +101,8 @@
           <integer>1300</integer>
         </dict>
       </array>
+      <key>public.postscriptname</key>
+      <string>uniF258</string>
     </dict>
   </lib>
 </glyph>

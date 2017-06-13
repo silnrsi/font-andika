@@ -127,6 +127,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>seveneighths</string>
     </dict>
   </lib>
 </glyph>

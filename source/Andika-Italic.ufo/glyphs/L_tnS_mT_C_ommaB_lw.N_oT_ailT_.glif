@@ -17,4 +17,10 @@
       <point x="680" y="1415" type="move" name="U"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>uni021B.NoTailT</string>
+    </dict>
+  </lib>
 </glyph>

@@ -18,4 +18,10 @@
       <point x="1097" y="1935" type="move" name="U"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>Adieresis</string>
+    </dict>
+  </lib>
 </glyph>

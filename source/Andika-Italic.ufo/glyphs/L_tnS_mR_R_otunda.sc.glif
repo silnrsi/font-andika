@@ -70,6 +70,8 @@
           <integer>1729</integer>
         </dict>
       </array>
+      <key>public.postscriptname</key>
+      <string>uniA75B.sc</string>
     </dict>
   </lib>
 </glyph>

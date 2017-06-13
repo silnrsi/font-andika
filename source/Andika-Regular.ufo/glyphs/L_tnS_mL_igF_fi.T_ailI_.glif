@@ -106,6 +106,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>ffi.TailI</string>
     </dict>
   </lib>
 </glyph>

@@ -61,6 +61,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>compDigitSix</string>
     </dict>
   </lib>
 </glyph>

@@ -69,6 +69,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>uni0180.BarBowl</string>
     </dict>
   </lib>
 </glyph>

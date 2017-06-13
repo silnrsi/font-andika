@@ -17,4 +17,10 @@
       <point x="774" y="1895" type="move" name="U"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>tcaron.Caron</string>
+    </dict>
+  </lib>
 </glyph>

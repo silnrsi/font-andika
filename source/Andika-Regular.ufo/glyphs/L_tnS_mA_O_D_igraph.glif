@@ -159,6 +159,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>uniA735</string>
     </dict>
   </lib>
 </glyph>

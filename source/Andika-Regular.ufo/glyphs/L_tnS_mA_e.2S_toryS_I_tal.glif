@@ -132,6 +132,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>ae.2StorySItal</string>
     </dict>
   </lib>
 </glyph>

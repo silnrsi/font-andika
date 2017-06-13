@@ -76,6 +76,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>eng.BaselineHook.sc</string>
     </dict>
   </lib>
 </glyph>

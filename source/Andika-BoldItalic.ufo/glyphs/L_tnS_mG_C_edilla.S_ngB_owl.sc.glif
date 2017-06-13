@@ -14,4 +14,10 @@
       <point x="803" y="1723" type="move" name="U"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>gcommaaccent.SngBowl.sc</string>
+    </dict>
+  </lib>
 </glyph>

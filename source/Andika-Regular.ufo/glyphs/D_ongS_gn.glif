@@ -129,6 +129,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>dong</string>
     </dict>
   </lib>
 </glyph>

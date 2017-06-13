@@ -76,6 +76,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>eng.UCStyle.sc</string>
     </dict>
   </lib>
 </glyph>

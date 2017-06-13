@@ -58,6 +58,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>six.Diag</string>
     </dict>
   </lib>
 </glyph>

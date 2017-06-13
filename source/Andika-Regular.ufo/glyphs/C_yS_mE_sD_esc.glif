@@ -88,6 +88,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>uni04AB</string>
     </dict>
   </lib>
 </glyph>

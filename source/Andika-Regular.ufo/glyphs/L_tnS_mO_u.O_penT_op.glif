@@ -112,6 +112,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>uni0223.OpenTop</string>
     </dict>
   </lib>
 </glyph>

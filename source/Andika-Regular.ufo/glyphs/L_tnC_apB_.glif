@@ -156,6 +156,8 @@
           <integer>0</integer>
         </dict>
       </array>
+      <key>public.postscriptname</key>
+      <string>B</string>
     </dict>
   </lib>
 </glyph>

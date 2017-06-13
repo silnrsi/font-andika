@@ -38,6 +38,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>seven</string>
     </dict>
   </lib>
 </glyph>

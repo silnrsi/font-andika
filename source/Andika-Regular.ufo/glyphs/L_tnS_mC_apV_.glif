@@ -60,6 +60,8 @@
           <integer>210</integer>
         </dict>
       </array>
+      <key>public.postscriptname</key>
+      <string>uni1D20</string>
     </dict>
   </lib>
 </glyph>

@@ -21,6 +21,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>emptyset.SlashZero</string>
     </dict>
   </lib>
 </glyph>

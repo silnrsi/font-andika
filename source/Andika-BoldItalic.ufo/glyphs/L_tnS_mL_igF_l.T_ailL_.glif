@@ -111,6 +111,8 @@
         <integer>1</integer>
         <integer>1</integer>
       </array>
+      <key>public.postscriptname</key>
+      <string>fl.TailL</string>
     </dict>
   </lib>
 </glyph>

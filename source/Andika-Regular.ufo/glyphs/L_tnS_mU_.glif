@@ -83,6 +83,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>u</string>
     </dict>
   </lib>
 </glyph>

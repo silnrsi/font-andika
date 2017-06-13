@@ -43,6 +43,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>compDigitFour</string>
     </dict>
   </lib>
 </glyph>

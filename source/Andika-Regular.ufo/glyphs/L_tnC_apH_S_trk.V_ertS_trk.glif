@@ -60,6 +60,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>Hbar.VertStrk</string>
     </dict>
   </lib>
 </glyph>

@@ -44,6 +44,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>colon</string>
     </dict>
   </lib>
 </glyph>

@@ -134,6 +134,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>uni214F</string>
     </dict>
   </lib>
 </glyph>

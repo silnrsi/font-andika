@@ -21,4 +21,10 @@
       <point x="602" y="1635" type="move" name="U"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>ohungarumlaut</string>
+    </dict>
+  </lib>
 </glyph>

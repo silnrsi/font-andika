@@ -23,6 +23,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>compComma</string>
     </dict>
   </lib>
 </glyph>

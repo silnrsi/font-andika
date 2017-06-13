@@ -28,6 +28,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>uni02ED</string>
     </dict>
   </lib>
 </glyph>

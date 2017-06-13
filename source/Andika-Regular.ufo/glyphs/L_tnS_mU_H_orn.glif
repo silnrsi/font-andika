@@ -95,6 +95,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>uhorn</string>
     </dict>
   </lib>
 </glyph>

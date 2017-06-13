@@ -27,6 +27,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>compDigitSeven</string>
     </dict>
   </lib>
 </glyph>

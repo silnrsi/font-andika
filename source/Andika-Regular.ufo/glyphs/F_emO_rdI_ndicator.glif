@@ -62,6 +62,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>ordfeminine</string>
     </dict>
   </lib>
 </glyph>

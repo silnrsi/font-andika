@@ -85,6 +85,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>approxequal</string>
     </dict>
   </lib>
 </glyph>

@@ -10,4 +10,10 @@
       <point x="705" y="1100" type="move" name="U"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>uni04E1.RevSigmaStyle</string>
+    </dict>
+  </lib>
 </glyph>

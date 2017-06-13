@@ -25,6 +25,8 @@
           <integer>0</integer>
         </dict>
       </array>
+      <key>public.postscriptname</key>
+      <string>grave</string>
     </dict>
   </lib>
 </glyph>

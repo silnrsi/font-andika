@@ -5,4 +5,10 @@
   <outline>
     <component base="Colon" xOffset="-65" yOffset="680"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>uni02F8</string>
+    </dict>
+  </lib>
 </glyph>

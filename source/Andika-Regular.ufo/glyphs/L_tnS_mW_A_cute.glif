@@ -12,4 +12,10 @@
       <point x="775" y="1635" type="move" name="U"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>wacute</string>
+    </dict>
+  </lib>
 </glyph>

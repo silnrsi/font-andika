@@ -65,6 +65,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>questiondown</string>
     </dict>
   </lib>
 </glyph>

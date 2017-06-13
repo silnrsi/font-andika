@@ -487,6 +487,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>uniF1F1F1F6.Lines</string>
     </dict>
   </lib>
 </glyph>

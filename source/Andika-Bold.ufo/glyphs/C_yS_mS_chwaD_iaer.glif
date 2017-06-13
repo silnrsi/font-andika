@@ -18,4 +18,10 @@
       <point x="529" y="1585" type="move" name="U"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>uni04DB</string>
+    </dict>
+  </lib>
 </glyph>

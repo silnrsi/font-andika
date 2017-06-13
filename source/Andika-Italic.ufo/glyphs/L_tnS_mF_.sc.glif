@@ -43,6 +43,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>f.sc</string>
     </dict>
   </lib>
 </glyph>

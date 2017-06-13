@@ -21,4 +21,10 @@
       <point x="580" y="1585" type="move" name="U"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>odieresis</string>
+    </dict>
+  </lib>
 </glyph>

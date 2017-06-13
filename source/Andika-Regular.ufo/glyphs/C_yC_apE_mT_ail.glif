@@ -76,6 +76,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>uni04CD</string>
     </dict>
   </lib>
 </glyph>

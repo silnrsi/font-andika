@@ -29,6 +29,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>radical</string>
     </dict>
   </lib>
 </glyph>

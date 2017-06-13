@@ -29,6 +29,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>compTnLtrDot2</string>
     </dict>
   </lib>
 </glyph>

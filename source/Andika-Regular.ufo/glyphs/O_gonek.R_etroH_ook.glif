@@ -32,6 +32,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>ogonek.RetroHook</string>
     </dict>
   </lib>
 </glyph>

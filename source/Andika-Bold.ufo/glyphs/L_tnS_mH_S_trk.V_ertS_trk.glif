@@ -10,4 +10,10 @@
       <point x="670" y="1635" type="move" name="U"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>hbar.VertStrk</string>
+    </dict>
+  </lib>
 </glyph>

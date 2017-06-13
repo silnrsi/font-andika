@@ -54,6 +54,8 @@
         <integer>1</integer>
         <integer>1</integer>
       </array>
+      <key>public.postscriptname</key>
+      <string>uni030B</string>
     </dict>
   </lib>
 </glyph>

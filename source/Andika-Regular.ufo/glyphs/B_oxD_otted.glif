@@ -232,6 +232,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>compBoxDotted</string>
     </dict>
   </lib>
 </glyph>

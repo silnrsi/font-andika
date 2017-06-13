@@ -53,6 +53,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>lcaron.TailL</string>
     </dict>
   </lib>
 </glyph>

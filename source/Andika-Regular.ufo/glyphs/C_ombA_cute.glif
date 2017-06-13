@@ -27,6 +27,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>acutecomb</string>
     </dict>
   </lib>
 </glyph>

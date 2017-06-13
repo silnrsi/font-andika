@@ -37,6 +37,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>guillemotleft</string>
     </dict>
   </lib>
 </glyph>

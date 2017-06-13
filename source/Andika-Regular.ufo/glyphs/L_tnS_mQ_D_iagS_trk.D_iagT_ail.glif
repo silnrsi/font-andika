@@ -26,4 +26,10 @@
       <point x="555" y="1100" type="move" name="U"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>uniA759.DiagTail</string>
+    </dict>
+  </lib>
 </glyph>

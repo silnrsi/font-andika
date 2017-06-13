@@ -21,4 +21,10 @@
       <point x="542" y="2170" type="move" name="U"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>aringacute.2StorySItal</string>
+    </dict>
+  </lib>
 </glyph>

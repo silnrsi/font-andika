@@ -97,6 +97,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>ffl.TailL</string>
     </dict>
   </lib>
 </glyph>

@@ -39,6 +39,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>l.SItal</string>
     </dict>
   </lib>
 </glyph>

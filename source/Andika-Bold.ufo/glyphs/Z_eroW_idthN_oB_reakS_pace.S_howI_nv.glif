@@ -46,4 +46,10 @@
       <point x="1552" y="1252" type="move" name="U22"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>uniFEFF.ShowInv</string>
+    </dict>
+  </lib>
 </glyph>

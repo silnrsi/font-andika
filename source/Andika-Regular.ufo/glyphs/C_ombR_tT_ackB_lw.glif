@@ -31,6 +31,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>uni0319</string>
     </dict>
   </lib>
 </glyph>

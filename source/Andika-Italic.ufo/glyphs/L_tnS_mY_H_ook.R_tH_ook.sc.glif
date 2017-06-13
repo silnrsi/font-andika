@@ -54,6 +54,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>uni01B4.RtHook.sc</string>
     </dict>
   </lib>
 </glyph>

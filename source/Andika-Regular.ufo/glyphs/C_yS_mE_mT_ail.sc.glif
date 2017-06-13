@@ -58,6 +58,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>uni04CE.sc</string>
     </dict>
   </lib>
 </glyph>

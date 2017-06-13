@@ -106,6 +106,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>eight</string>
     </dict>
   </lib>
 </glyph>

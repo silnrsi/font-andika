@@ -20,4 +20,10 @@
       <point x="962" y="1585" type="move" name="U"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>adieresis.2StorySItal</string>
+    </dict>
+  </lib>
 </glyph>

@@ -233,6 +233,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>space.Lines</string>
     </dict>
   </lib>
 </glyph>

@@ -70,6 +70,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>hbar</string>
     </dict>
   </lib>
 </glyph>

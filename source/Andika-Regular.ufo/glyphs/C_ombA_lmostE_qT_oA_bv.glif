@@ -68,6 +68,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>uni034C</string>
     </dict>
   </lib>
 </glyph>

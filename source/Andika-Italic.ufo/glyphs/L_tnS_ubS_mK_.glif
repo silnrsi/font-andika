@@ -33,4 +33,10 @@
       <point x="376" y="793" type="move" name="U"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>uni2096</string>
+    </dict>
+  </lib>
 </glyph>

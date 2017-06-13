@@ -48,6 +48,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>x.sc</string>
     </dict>
   </lib>
 </glyph>

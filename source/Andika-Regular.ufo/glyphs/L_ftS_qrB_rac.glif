@@ -26,6 +26,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>bracketleft</string>
     </dict>
   </lib>
 </glyph>

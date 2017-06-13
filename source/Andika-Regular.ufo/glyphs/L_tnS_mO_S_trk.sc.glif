@@ -56,6 +56,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>oslash.sc</string>
     </dict>
   </lib>
 </glyph>

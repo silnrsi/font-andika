@@ -120,6 +120,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>twothirds</string>
     </dict>
   </lib>
 </glyph>

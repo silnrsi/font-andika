@@ -98,6 +98,8 @@
           <integer>-491</integer>
         </dict>
       </array>
+      <key>public.postscriptname</key>
+      <string>uniA762</string>
     </dict>
   </lib>
 </glyph>

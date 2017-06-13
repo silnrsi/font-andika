@@ -21,6 +21,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>emdash</string>
     </dict>
   </lib>
 </glyph>

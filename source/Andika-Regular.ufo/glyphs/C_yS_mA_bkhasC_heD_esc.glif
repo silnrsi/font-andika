@@ -47,6 +47,8 @@
           <integer>0</integer>
         </dict>
       </array>
+      <key>public.postscriptname</key>
+      <string>uni04BF</string>
     </dict>
   </lib>
 </glyph>

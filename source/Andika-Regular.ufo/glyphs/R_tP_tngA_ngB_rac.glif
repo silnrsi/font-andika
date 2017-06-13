@@ -23,6 +23,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>angleright</string>
     </dict>
   </lib>
 </glyph>

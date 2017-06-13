@@ -4,4 +4,10 @@
   <outline>
     <component base="LtnSmLigFfl"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>f_f_l</string>
+    </dict>
+  </lib>
 </glyph>

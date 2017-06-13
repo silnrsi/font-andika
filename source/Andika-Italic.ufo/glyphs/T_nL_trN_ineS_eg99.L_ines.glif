@@ -539,6 +539,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>uniF1F9.Lines</string>
     </dict>
   </lib>
 </glyph>

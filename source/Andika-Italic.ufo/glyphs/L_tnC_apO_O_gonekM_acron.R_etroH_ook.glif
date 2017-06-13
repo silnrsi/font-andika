@@ -21,4 +21,10 @@
       <point x="1082" y="1880" type="move" name="U"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>uni01EC.RetroHook</string>
+    </dict>
+  </lib>
 </glyph>

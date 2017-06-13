@@ -68,6 +68,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>uniA756.DiagTail</string>
     </dict>
   </lib>
 </glyph>

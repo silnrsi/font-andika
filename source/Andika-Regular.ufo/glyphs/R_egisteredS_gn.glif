@@ -91,6 +91,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>registered</string>
     </dict>
   </lib>
 </glyph>

@@ -74,6 +74,8 @@
           <integer>-25</integer>
         </dict>
       </array>
+      <key>public.postscriptname</key>
+      <string>uni1D1D</string>
     </dict>
   </lib>
 </glyph>

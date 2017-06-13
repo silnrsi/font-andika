@@ -69,6 +69,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>currency</string>
     </dict>
   </lib>
 </glyph>

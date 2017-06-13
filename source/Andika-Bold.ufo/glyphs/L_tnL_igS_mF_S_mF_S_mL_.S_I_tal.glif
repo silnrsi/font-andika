@@ -6,4 +6,10 @@
     <component base="LtnSmF.SItal" xOffset="750"/>
     <component base="LtnSmL.SItal" xOffset="1500"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>f_f_l.SItal</string>
+    </dict>
+  </lib>
 </glyph>

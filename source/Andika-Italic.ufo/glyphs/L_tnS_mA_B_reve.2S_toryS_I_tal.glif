@@ -20,4 +20,10 @@
       <point x="869" y="1635" type="move" name="U"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>abreve.2StorySItal</string>
+    </dict>
+  </lib>
 </glyph>

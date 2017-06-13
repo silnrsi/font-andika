@@ -74,6 +74,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>uni024D</string>
     </dict>
   </lib>
 </glyph>

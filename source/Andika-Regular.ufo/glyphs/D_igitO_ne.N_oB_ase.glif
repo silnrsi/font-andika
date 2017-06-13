@@ -33,6 +33,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>one.NoBase</string>
     </dict>
   </lib>
 </glyph>

@@ -18,4 +18,10 @@
       <point x="940" y="2363" type="move" name="U"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>aringacute.sc</string>
+    </dict>
+  </lib>
 </glyph>

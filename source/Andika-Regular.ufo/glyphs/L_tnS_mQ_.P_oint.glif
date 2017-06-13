@@ -70,6 +70,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>q.Point</string>
     </dict>
   </lib>
 </glyph>

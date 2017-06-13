@@ -102,6 +102,8 @@
         <integer>1</integer>
         <integer>1</integer>
       </array>
+      <key>public.postscriptname</key>
+      <string>ordfeminine</string>
     </dict>
   </lib>
 </glyph>

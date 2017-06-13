@@ -141,6 +141,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>perthousand</string>
     </dict>
   </lib>
 </glyph>

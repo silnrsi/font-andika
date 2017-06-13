@@ -39,6 +39,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>Gamma</string>
     </dict>
   </lib>
 </glyph>

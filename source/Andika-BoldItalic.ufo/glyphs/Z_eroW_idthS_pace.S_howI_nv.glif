@@ -50,4 +50,10 @@
       <point x="1750" y="1252" type="move" name="U33"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>uni200B.ShowInv</string>
+    </dict>
+  </lib>
 </glyph>

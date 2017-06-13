@@ -137,6 +137,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>g</string>
     </dict>
   </lib>
 </glyph>

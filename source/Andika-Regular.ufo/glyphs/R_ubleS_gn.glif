@@ -70,6 +70,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>uni20BD</string>
     </dict>
   </lib>
 </glyph>

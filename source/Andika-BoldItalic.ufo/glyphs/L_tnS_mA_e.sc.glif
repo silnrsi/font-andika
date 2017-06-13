@@ -54,6 +54,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>ae.sc</string>
     </dict>
   </lib>
 </glyph>

@@ -113,6 +113,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>infinity</string>
     </dict>
   </lib>
 </glyph>

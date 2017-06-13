@@ -77,6 +77,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>eng</string>
     </dict>
   </lib>
 </glyph>

@@ -28,6 +28,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>.notdef</string>
     </dict>
   </lib>
 </glyph>

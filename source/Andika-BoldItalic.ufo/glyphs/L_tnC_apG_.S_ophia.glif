@@ -66,6 +66,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>public.postscriptname</key>
+      <string>compLtnCapG</string>
     </dict>
   </lib>
 </glyph>

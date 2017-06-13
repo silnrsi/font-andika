@@ -18,4 +18,10 @@
       <point x="932" y="1530" type="move" name="U"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>Eogonek</string>
+    </dict>
+  </lib>
 </glyph>
