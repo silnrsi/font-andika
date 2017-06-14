@@ -13,6 +13,8 @@
   </outline>
   <lib>
     <dict>
+      <key>org.sil.assocFeature</key>
+      <string>smcp</string>
       <key>public.postscriptname</key>
       <string>uni04F1.sc</string>
     </dict>

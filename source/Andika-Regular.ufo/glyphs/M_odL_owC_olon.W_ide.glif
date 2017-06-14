@@ -43,6 +43,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>org.sil.assocFeature</key>
+      <string>coln</string>
       <key>public.postscriptname</key>
       <string>uniA789.Wide</string>
     </dict>

@@ -79,6 +79,10 @@
         <integer>1</integer>
         <integer>1</integer>
       </array>
+      <key>org.sil.assocFeature</key>
+      <string>Engs</string>
+      <key>org.sil.assocFeatureValue</key>
+      <integer>1</integer>
       <key>public.postscriptname</key>
       <string>Eng.BaselineHook</string>
     </dict>

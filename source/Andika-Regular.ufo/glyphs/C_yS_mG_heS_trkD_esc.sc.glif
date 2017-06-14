@@ -69,6 +69,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>org.sil.assocFeature</key>
+      <string>smcp</string>
       <key>public.postscriptname</key>
       <string>uniF327.sc</string>
     </dict>

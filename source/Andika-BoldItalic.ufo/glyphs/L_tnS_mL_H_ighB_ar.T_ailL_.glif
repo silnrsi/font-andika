@@ -83,6 +83,8 @@
         <integer>1</integer>
         <integer>1</integer>
       </array>
+      <key>org.sil.assocFeature</key>
+      <string>l_tl</string>
       <key>public.postscriptname</key>
       <string>uniA749.TailL</string>
     </dict>

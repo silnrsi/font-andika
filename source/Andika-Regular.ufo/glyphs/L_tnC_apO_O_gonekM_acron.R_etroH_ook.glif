@@ -23,6 +23,8 @@
   </outline>
   <lib>
     <dict>
+      <key>org.sil.assocFeature</key>
+      <string>ogon</string>
       <key>public.postscriptname</key>
       <string>uni01EC.RetroHook</string>
     </dict>

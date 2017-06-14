@@ -56,6 +56,8 @@
         <integer>1</integer>
         <integer>1</integer>
       </array>
+      <key>org.sil.assocFeature</key>
+      <string>t_tl</string>
       <key>public.postscriptname</key>
       <string>uni2C66.NoTailT</string>
     </dict>

@@ -76,6 +76,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>org.sil.assocFeature</key>
+      <string>t_tl</string>
       <key>public.postscriptname</key>
       <string>uni1D75.NoTailT</string>
     </dict>

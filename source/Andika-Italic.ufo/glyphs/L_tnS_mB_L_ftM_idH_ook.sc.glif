@@ -172,6 +172,8 @@
           <integer>0</integer>
         </dict>
       </array>
+      <key>org.sil.assocFeature</key>
+      <string>smcp</string>
       <key>public.postscriptname</key>
       <string>uniA797.sc</string>
     </dict>

@@ -112,6 +112,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>org.sil.assocFeature</key>
+      <string>litr</string>
       <key>public.postscriptname</key>
       <string>uniA7A1</string>
     </dict>

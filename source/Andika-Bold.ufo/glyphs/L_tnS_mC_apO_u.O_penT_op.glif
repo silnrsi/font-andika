@@ -86,6 +86,8 @@
         <real>0.6</real>
         <integer>1</integer>
       </array>
+      <key>org.sil.assocFeature</key>
+      <string>opOU</string>
       <key>public.postscriptname</key>
       <string>uni1D15.OpenTop</string>
     </dict>

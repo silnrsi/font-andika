@@ -38,6 +38,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>org.sil.assocFeature</key>
+      <string>sbrv</string>
       <key>public.postscriptname</key>
       <string>uni0306.CyShortMrkAlt</string>
     </dict>

@@ -74,6 +74,8 @@
           <integer>0</integer>
         </dict>
       </array>
+      <key>org.sil.assocFeature</key>
+      <string>smcp</string>
       <key>public.postscriptname</key>
       <string>o.sc</string>
     </dict>

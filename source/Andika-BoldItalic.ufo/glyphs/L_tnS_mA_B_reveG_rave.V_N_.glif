@@ -22,6 +22,8 @@
   </outline>
   <lib>
     <dict>
+      <key>org.sil.assocFeature</key>
+      <string>viet</string>
       <key>public.postscriptname</key>
       <string>uni1EB1.VN</string>
     </dict>

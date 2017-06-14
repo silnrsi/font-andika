@@ -32,6 +32,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>org.sil.assocFeature</key>
+      <string>ogon</string>
       <key>public.postscriptname</key>
       <string>ogonek.RetroHook</string>
     </dict>

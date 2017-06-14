@@ -44,6 +44,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>org.sil.assocFeature</key>
+      <string>y_tl</string>
       <key>public.postscriptname</key>
       <string>uni02B8.NoTailY</string>
     </dict>

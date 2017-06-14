@@ -78,6 +78,10 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>org.sil.assocFeature</key>
+      <string>ramh</string>
+      <key>org.sil.assocFeatureValue</key>
+      <integer>0</integer>
       <key>public.postscriptname</key>
       <string>uni0264</string>
     </dict>

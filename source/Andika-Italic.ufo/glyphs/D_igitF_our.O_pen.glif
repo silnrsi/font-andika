@@ -46,6 +46,8 @@
         <integer>1</integer>
         <integer>1</integer>
       </array>
+      <key>org.sil.assocFeature</key>
+      <string>dig4</string>
       <key>public.postscriptname</key>
       <string>four.Open</string>
     </dict>

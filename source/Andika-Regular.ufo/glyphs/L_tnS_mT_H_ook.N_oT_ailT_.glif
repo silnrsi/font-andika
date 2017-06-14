@@ -48,6 +48,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>org.sil.assocFeature</key>
+      <string>t_tl</string>
       <key>public.postscriptname</key>
       <string>uni01AD.NoTailT</string>
     </dict>

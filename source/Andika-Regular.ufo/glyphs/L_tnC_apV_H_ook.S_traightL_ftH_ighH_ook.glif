@@ -65,6 +65,10 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>org.sil.assocFeature</key>
+      <string>v_hk</string>
+      <key>org.sil.assocFeatureValue</key>
+      <integer>2</integer>
       <key>public.postscriptname</key>
       <string>uni01B2.StraightLftHighHook</string>
     </dict>

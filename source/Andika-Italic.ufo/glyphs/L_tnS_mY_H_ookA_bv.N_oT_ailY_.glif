@@ -16,6 +16,8 @@
   </outline>
   <lib>
     <dict>
+      <key>org.sil.assocFeature</key>
+      <string>y_tl</string>
       <key>public.postscriptname</key>
       <string>uni1EF7.NoTailY</string>
     </dict>

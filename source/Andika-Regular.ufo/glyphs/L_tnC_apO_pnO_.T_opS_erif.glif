@@ -49,6 +49,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>org.sil.assocFeature</key>
+      <string>opnO</string>
       <key>public.postscriptname</key>
       <string>uni0186.TopSerif</string>
     </dict>

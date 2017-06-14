@@ -58,6 +58,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>org.sil.assocFeature</key>
+      <string>dg69</string>
       <key>public.postscriptname</key>
       <string>six.Diag</string>
     </dict>

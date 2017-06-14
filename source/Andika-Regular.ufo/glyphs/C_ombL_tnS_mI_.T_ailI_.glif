@@ -63,6 +63,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>org.sil.assocFeature</key>
+      <string>i_tl</string>
       <key>public.postscriptname</key>
       <string>uni0365.TailI</string>
     </dict>

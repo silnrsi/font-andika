@@ -77,6 +77,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>org.sil.assocFeature</key>
+      <string>opOU</string>
       <key>public.postscriptname</key>
       <string>uni1D15.OpenTop</string>
     </dict>

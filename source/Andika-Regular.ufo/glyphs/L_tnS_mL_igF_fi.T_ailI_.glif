@@ -106,6 +106,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>org.sil.assocFeature</key>
+      <string>i_tl</string>
       <key>public.postscriptname</key>
       <string>ffi.TailI</string>
     </dict>

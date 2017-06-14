@@ -65,6 +65,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>org.sil.assocFeature</key>
+      <string>jser</string>
       <key>public.postscriptname</key>
       <string>j.TopLftSerif</string>
     </dict>

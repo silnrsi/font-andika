@@ -99,6 +99,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>org.sil.assocFeature</key>
+      <string>litr</string>
       <key>public.postscriptname</key>
       <string>a</string>
     </dict>

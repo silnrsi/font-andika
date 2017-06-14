@@ -80,6 +80,10 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>org.sil.assocFeature</key>
+      <string>Engs</string>
+      <key>org.sil.assocFeatureValue</key>
+      <integer>0</integer>
       <key>public.postscriptname</key>
       <string>Eng</string>
     </dict>

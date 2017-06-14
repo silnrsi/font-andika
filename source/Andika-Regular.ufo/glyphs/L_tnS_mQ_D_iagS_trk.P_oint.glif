@@ -77,6 +77,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>org.sil.assocFeature</key>
+      <string>q_tl</string>
       <key>public.postscriptname</key>
       <string>uniA759.Point</string>
     </dict>

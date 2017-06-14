@@ -79,6 +79,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>org.sil.assocFeature</key>
+      <string>N_hk</string>
       <key>public.postscriptname</key>
       <string>uni019D.LCStyle</string>
     </dict>

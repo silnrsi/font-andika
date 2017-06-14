@@ -19,6 +19,8 @@
         <real>0.6</real>
         <integer>1</integer>
       </array>
+      <key>org.sil.assocFeature</key>
+      <string>t_tl</string>
       <key>public.postscriptname</key>
       <string>uni036D.NoTailT</string>
     </dict>

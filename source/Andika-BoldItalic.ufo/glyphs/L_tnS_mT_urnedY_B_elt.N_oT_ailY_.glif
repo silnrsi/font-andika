@@ -85,6 +85,8 @@
         <integer>1</integer>
         <integer>1</integer>
       </array>
+      <key>org.sil.assocFeature</key>
+      <string>y_tl</string>
       <key>public.postscriptname</key>
       <string>uniF267.NoTailY</string>
     </dict>

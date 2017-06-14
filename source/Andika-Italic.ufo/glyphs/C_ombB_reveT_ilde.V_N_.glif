@@ -85,6 +85,8 @@
         <integer>1</integer>
         <integer>1</integer>
       </array>
+      <key>org.sil.assocFeature</key>
+      <string>viet</string>
       <key>public.postscriptname</key>
       <string>uni0306_tildecomb.VN</string>
     </dict>

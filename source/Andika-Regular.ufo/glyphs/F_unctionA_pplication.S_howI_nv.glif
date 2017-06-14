@@ -54,6 +54,8 @@
   </outline>
   <lib>
     <dict>
+      <key>org.sil.assocFeature</key>
+      <string>invs</string>
       <key>public.postscriptname</key>
       <string>uni2061.ShowInv</string>
     </dict>

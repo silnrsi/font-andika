@@ -85,6 +85,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>org.sil.assocFeature</key>
+      <string>l_tl</string>
       <key>public.postscriptname</key>
       <string>uni026B.TailL</string>
     </dict>

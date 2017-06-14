@@ -97,6 +97,8 @@
         <integer>1</integer>
         <integer>1</integer>
       </array>
+      <key>org.sil.assocFeature</key>
+      <string>q_tl</string>
       <key>public.postscriptname</key>
       <string>q.Point</string>
     </dict>

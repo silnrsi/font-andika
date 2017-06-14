@@ -33,6 +33,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>org.sil.assocFeature</key>
+      <string>dig1</string>
       <key>public.postscriptname</key>
       <string>one.NoBase</string>
     </dict>

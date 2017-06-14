@@ -116,6 +116,8 @@
         <integer>1</integer>
         <integer>1</integer>
       </array>
+      <key>org.sil.assocFeature</key>
+      <string>q_tl</string>
       <key>public.postscriptname</key>
       <string>uniA759.Point</string>
     </dict>

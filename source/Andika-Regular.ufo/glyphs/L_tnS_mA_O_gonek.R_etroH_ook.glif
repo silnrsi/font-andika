@@ -120,6 +120,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>org.sil.assocFeature</key>
+      <string>ogon</string>
       <key>public.postscriptname</key>
       <string>aogonek.RetroHook</string>
     </dict>

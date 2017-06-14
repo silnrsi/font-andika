@@ -16,6 +16,8 @@
   </outline>
   <lib>
     <dict>
+      <key>org.sil.assocFeature</key>
+      <string>ital</string>
       <key>public.postscriptname</key>
       <string>zdotaccent.SItal</string>
     </dict>

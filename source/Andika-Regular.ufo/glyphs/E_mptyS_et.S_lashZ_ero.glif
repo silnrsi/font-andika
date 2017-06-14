@@ -21,6 +21,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>org.sil.assocFeature</key>
+      <string>empt</string>
       <key>public.postscriptname</key>
       <string>emptyset.SlashZero</string>
     </dict>

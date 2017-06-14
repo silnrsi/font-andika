@@ -92,6 +92,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>org.sil.assocFeature</key>
+      <string>litr</string>
       <key>public.postscriptname</key>
       <string>uni2C65</string>
     </dict>

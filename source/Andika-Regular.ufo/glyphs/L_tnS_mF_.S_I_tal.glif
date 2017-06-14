@@ -54,6 +54,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>org.sil.assocFeature</key>
+      <string>ital</string>
       <key>public.postscriptname</key>
       <string>f.SItal</string>
     </dict>

@@ -23,6 +23,10 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>org.sil.assocFeature</key>
+      <string>v_hk</string>
+      <key>org.sil.assocFeatureValue</key>
+      <integer>1</integer>
       <key>public.postscriptname</key>
       <string>uni1DB9.StraightLft</string>
     </dict>

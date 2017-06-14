@@ -63,6 +63,8 @@
           <integer>0</integer>
         </dict>
       </array>
+      <key>org.sil.assocFeature</key>
+      <string>l_tl</string>
       <key>public.postscriptname</key>
       <string>l.TailL</string>
     </dict>

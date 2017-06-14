@@ -38,6 +38,8 @@
         <integer>1</integer>
         <integer>1</integer>
       </array>
+      <key>org.sil.assocFeature</key>
+      <string>apos</string>
       <key>public.postscriptname</key>
       <string>uni02BC.Lrg</string>
     </dict>

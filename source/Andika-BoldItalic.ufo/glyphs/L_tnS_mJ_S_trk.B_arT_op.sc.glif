@@ -10,4 +10,10 @@
       <point x="624" y="1293" type="move" name="U"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>org.sil.assocFeature</key>
+      <string>smcp</string>
+    </dict>
+  </lib>
 </glyph>

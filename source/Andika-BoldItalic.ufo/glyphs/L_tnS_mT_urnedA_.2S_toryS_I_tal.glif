@@ -146,6 +146,8 @@
         <integer>1</integer>
         <integer>1</integer>
       </array>
+      <key>org.sil.assocFeature</key>
+      <string>ital</string>
       <key>public.postscriptname</key>
       <string>uni0250.2StorySItal</string>
     </dict>

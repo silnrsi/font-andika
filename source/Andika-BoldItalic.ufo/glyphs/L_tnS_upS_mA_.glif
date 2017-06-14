@@ -115,6 +115,8 @@
           <integer>0</integer>
         </dict>
       </array>
+      <key>org.sil.assocFeature</key>
+      <string>litr</string>
       <key>public.postscriptname</key>
       <string>uni1D43</string>
     </dict>

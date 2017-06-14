@@ -20,6 +20,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>org.sil.assocFeature</key>
+      <string>chtn</string>
       <key>public.postscriptname</key>
       <string>uni02CB.ChinantecTn</string>
     </dict>

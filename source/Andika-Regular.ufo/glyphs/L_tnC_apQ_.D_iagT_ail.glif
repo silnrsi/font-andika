@@ -62,6 +62,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>org.sil.assocFeature</key>
+      <string>Qalt</string>
       <key>public.postscriptname</key>
       <string>Q.DiagTail</string>
     </dict>

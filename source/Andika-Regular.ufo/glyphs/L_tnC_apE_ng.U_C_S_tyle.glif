@@ -62,6 +62,10 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>org.sil.assocFeature</key>
+      <string>Engs</string>
+      <key>org.sil.assocFeatureValue</key>
+      <integer>2</integer>
       <key>public.postscriptname</key>
       <string>Eng.UCStyle</string>
     </dict>

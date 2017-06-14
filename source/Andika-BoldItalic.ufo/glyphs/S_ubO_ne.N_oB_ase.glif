@@ -6,6 +6,8 @@
   </outline>
   <lib>
     <dict>
+      <key>org.sil.assocFeature</key>
+      <string>dig1</string>
       <key>public.postscriptname</key>
       <string>uni2081.NoBase</string>
     </dict>

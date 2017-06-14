@@ -59,6 +59,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>org.sil.assocFeature</key>
+      <string>R_tl</string>
       <key>public.postscriptname</key>
       <string>uni2C64.LCStyle</string>
     </dict>

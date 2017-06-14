@@ -60,6 +60,8 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>org.sil.assocFeature</key>
+      <string>serb</string>
       <key>public.postscriptname</key>
       <string>uni0434.Serb</string>
     </dict>
