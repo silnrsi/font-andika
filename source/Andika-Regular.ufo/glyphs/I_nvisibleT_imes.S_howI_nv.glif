@@ -60,6 +60,10 @@
     <dict>
       <key>org.sil.assocFeature</key>
       <string>invs</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>2062</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni2062.ShowInv</string>
     </dict>

@@ -93,6 +93,10 @@
       </array>
       <key>org.sil.assocFeature</key>
       <string>q_tl</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>A757</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uniA757.Point</string>
     </dict>

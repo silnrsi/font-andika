@@ -78,6 +78,11 @@
       </data>
       <key>org.sil.assocFeature</key>
       <string>viet</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>0306</string>
+        <string>0309</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni0306_hookabovecomb.VN</string>
     </dict>

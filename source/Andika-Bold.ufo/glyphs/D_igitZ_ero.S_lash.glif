@@ -69,6 +69,10 @@
       </array>
       <key>org.sil.assocFeature</key>
       <string>dig0</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>0030</string>
+      </array>
       <key>public.postscriptname</key>
       <string>zero.Slash</string>
     </dict>

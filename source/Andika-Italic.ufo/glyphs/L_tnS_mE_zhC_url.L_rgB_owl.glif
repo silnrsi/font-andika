@@ -143,6 +143,10 @@
       </array>
       <key>org.sil.assocFeature</key>
       <string>ezhc</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>0293</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni0293.LrgBowl</string>
     </dict>

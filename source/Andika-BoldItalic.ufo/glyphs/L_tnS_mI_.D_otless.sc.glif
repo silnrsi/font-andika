@@ -23,6 +23,10 @@
     <dict>
       <key>org.sil.assocFeature</key>
       <string>smcp</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>0069</string>
+      </array>
       <key>public.postscriptname</key>
       <string>i.Dotless.sc</string>
     </dict>

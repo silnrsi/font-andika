@@ -22,6 +22,10 @@
   </outline>
   <lib>
     <dict>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>1EAF</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni1EAF.SngStory.VN</string>
     </dict>

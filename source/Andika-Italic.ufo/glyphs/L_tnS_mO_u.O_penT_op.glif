@@ -90,6 +90,10 @@
       </array>
       <key>org.sil.assocFeature</key>
       <string>opOU</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>0223</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni0223.OpenTop</string>
     </dict>

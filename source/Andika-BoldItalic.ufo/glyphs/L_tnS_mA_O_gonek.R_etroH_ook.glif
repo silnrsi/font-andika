@@ -140,6 +140,10 @@
       </array>
       <key>org.sil.assocFeature</key>
       <string>ogon</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>0105</string>
+      </array>
       <key>public.postscriptname</key>
       <string>aogonek.RetroHook</string>
     </dict>

@@ -21,6 +21,10 @@
     <dict>
       <key>org.sil.assocFeature</key>
       <string>t_tl</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>021B</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni021B.NoTailT</string>
     </dict>

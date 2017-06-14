@@ -53,6 +53,10 @@
       </array>
       <key>org.sil.assocFeature</key>
       <string>dig7</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>0037</string>
+      </array>
       <key>public.postscriptname</key>
       <string>seven.Bar</string>
     </dict>

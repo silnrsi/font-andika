@@ -21,6 +21,10 @@
     <dict>
       <key>org.sil.assocFeature</key>
       <string>viet</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>1EAA</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni1EAA.VN</string>
     </dict>

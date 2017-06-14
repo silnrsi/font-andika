@@ -25,6 +25,10 @@
     <dict>
       <key>org.sil.assocFeature</key>
       <string>ital</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>1EB1</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni1EB1.2StorySItal</string>
     </dict>

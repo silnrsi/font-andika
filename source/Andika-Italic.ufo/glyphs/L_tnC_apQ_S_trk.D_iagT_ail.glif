@@ -81,6 +81,10 @@
       </array>
       <key>org.sil.assocFeature</key>
       <string>Qalt</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>A756</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uniA756.DiagTail</string>
     </dict>

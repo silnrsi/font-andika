@@ -21,6 +21,10 @@
     <dict>
       <key>org.sil.assocFeature</key>
       <string>smcp</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>0203</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni0203.SngStory.sc</string>
     </dict>

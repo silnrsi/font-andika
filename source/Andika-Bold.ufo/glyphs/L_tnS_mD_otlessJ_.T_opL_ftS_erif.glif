@@ -53,6 +53,10 @@
       </array>
       <key>org.sil.assocFeature</key>
       <string>jser</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>0237</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni0237.TopLftSerif</string>
     </dict>

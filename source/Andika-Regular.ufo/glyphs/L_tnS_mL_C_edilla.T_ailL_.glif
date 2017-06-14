@@ -21,6 +21,10 @@
     <dict>
       <key>org.sil.assocFeature</key>
       <string>l_tl</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>013C</string>
+      </array>
       <key>public.postscriptname</key>
       <string>lcommaaccent.TailL</string>
     </dict>

@@ -49,6 +49,10 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>0308</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni0308.Sup</string>
     </dict>

@@ -21,6 +21,10 @@
     <dict>
       <key>org.sil.assocFeature</key>
       <string>t_tl</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>0165</string>
+      </array>
       <key>public.postscriptname</key>
       <string>tcaron.Caron.NoTailT</string>
     </dict>

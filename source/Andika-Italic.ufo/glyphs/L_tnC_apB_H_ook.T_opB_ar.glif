@@ -14,6 +14,10 @@
     <dict>
       <key>org.sil.assocFeature</key>
       <string>B_hk</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>0181</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni0181.TopBar</string>
     </dict>

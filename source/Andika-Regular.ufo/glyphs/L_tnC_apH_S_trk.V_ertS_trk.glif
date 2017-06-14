@@ -62,6 +62,10 @@
       </data>
       <key>org.sil.assocFeature</key>
       <string>Hstk</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>0126</string>
+      </array>
       <key>public.postscriptname</key>
       <string>Hbar.VertStrk</string>
     </dict>

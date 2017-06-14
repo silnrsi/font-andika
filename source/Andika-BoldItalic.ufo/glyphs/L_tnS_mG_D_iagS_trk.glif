@@ -124,6 +124,10 @@
       </array>
       <key>org.sil.assocFeature</key>
       <string>litr</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>A7A1</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uniA7A1</string>
     </dict>

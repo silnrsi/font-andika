@@ -14,6 +14,10 @@
     <dict>
       <key>org.sil.assocFeature</key>
       <string>dig1</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>00B9</string>
+      </array>
       <key>public.postscriptname</key>
       <string>onesuperior.NoBase</string>
     </dict>

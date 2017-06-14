@@ -45,6 +45,10 @@
       </data>
       <key>org.sil.assocFeature</key>
       <string>smcp</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>0292</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni0292.RevSigmaStyle.sc</string>
     </dict>

@@ -69,6 +69,10 @@
       </array>
       <key>org.sil.assocFeature</key>
       <string>serb</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>0434</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni0434.Serb</string>
     </dict>

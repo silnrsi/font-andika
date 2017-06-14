@@ -71,6 +71,10 @@
       </array>
       <key>org.sil.assocFeature</key>
       <string>shha</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>04BB</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni04BB.UCStyle</string>
     </dict>

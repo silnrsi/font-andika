@@ -89,6 +89,10 @@
       </array>
       <key>org.sil.assocFeature</key>
       <string>q_tl</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>A759</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uniA759.Point</string>
     </dict>

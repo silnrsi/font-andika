@@ -25,6 +25,10 @@
     <dict>
       <key>org.sil.assocFeature</key>
       <string>litr</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>1EAF</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni1EAF</string>
     </dict>

@@ -135,6 +135,10 @@
       </array>
       <key>org.sil.assocFeature</key>
       <string>litr</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>0061</string>
+      </array>
       <key>public.postscriptname</key>
       <string>a</string>
     </dict>

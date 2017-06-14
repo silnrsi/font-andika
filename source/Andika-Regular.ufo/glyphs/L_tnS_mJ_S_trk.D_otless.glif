@@ -15,6 +15,10 @@
   </outline>
   <lib>
     <dict>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>0249</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni0249.Dotless</string>
     </dict>

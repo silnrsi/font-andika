@@ -43,6 +43,10 @@
       </data>
       <key>org.sil.assocFeature</key>
       <string>y_tl</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>F1CE</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uniF1CE.NoTailY</string>
     </dict>

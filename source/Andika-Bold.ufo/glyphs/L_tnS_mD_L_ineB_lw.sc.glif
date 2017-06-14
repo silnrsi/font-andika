@@ -15,6 +15,10 @@
     <dict>
       <key>org.sil.assocFeature</key>
       <string>smcp</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>1E0F</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni1E0F.sc</string>
     </dict>

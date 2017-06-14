@@ -115,6 +115,10 @@
       </data>
       <key>org.sil.assocFeature</key>
       <string>smcp</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>0499</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni0499.sc</string>
     </dict>

@@ -37,6 +37,10 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>0306</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni0306.CyShortMrkAlt.UCHt</string>
     </dict>

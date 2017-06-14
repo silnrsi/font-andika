@@ -14,6 +14,10 @@
     <dict>
       <key>org.sil.assocFeature</key>
       <string>litJ</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>A7B2</string>
+      </array>
     </dict>
   </lib>
 </glyph>

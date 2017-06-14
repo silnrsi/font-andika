@@ -24,6 +24,10 @@
     <dict>
       <key>org.sil.assocFeature</key>
       <string>litr</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>00E5</string>
+      </array>
       <key>public.postscriptname</key>
       <string>aring</string>
     </dict>

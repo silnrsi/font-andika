@@ -68,6 +68,10 @@
       </data>
       <key>org.sil.assocFeature</key>
       <string>smcp</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>A74B</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uniA74B.sc</string>
     </dict>

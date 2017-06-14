@@ -18,6 +18,10 @@
     <dict>
       <key>org.sil.assocFeature</key>
       <string>smcp</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>011D</string>
+      </array>
       <key>public.postscriptname</key>
       <string>gcircumflex.sc</string>
     </dict>

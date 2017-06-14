@@ -8,6 +8,12 @@
     <dict>
       <key>org.sil.assocFeature</key>
       <string>i_tl</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>0066</string>
+        <string>0066</string>
+        <string>0069</string>
+      </array>
       <key>public.postscriptname</key>
       <string>f_f_i.TailI</string>
     </dict>

@@ -60,6 +60,10 @@
     <dict>
       <key>org.sil.assocFeature</key>
       <string>smcp</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>A73D</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uniA73D.sc</string>
     </dict>

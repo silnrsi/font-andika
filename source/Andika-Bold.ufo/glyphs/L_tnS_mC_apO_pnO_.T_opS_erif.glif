@@ -58,6 +58,10 @@
       </array>
       <key>org.sil.assocFeature</key>
       <string>opnO</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>1D10</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni1D10.TopSerif</string>
     </dict>

@@ -14,6 +14,10 @@
     <dict>
       <key>org.sil.assocFeature</key>
       <string>dig0</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>2070</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni2070.Slash</string>
     </dict>

@@ -51,6 +51,10 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>0268</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni0268.Dotless</string>
     </dict>

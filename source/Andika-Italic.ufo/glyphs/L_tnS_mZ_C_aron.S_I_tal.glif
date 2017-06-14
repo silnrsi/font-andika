@@ -18,6 +18,10 @@
     <dict>
       <key>org.sil.assocFeature</key>
       <string>ital</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>017E</string>
+      </array>
       <key>public.postscriptname</key>
       <string>zcaron.SItal</string>
     </dict>

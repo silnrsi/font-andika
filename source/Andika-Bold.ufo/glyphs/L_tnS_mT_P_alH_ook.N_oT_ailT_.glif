@@ -75,6 +75,10 @@
       </array>
       <key>org.sil.assocFeature</key>
       <string>t_tl</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>01AB</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni01AB.NoTailT</string>
     </dict>

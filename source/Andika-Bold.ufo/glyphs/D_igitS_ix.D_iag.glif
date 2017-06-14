@@ -68,6 +68,10 @@
       </array>
       <key>org.sil.assocFeature</key>
       <string>dg69</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>0036</string>
+      </array>
       <key>public.postscriptname</key>
       <string>six.Diag</string>
     </dict>

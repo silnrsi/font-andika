@@ -124,6 +124,10 @@
       </array>
       <key>org.sil.assocFeature</key>
       <string>ital</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>00E6</string>
+      </array>
       <key>public.postscriptname</key>
       <string>ae.2StorySItal</string>
     </dict>

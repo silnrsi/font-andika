@@ -24,6 +24,10 @@
     <dict>
       <key>org.sil.assocFeature</key>
       <string>ogon</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>012E</string>
+      </array>
       <key>public.postscriptname</key>
       <string>Iogonek.RetroHook</string>
     </dict>

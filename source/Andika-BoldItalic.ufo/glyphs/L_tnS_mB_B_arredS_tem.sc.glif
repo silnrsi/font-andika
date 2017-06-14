@@ -117,6 +117,10 @@
       </data>
       <key>org.sil.assocFeature</key>
       <string>smcp</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>0180</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni0180.sc</string>
     </dict>

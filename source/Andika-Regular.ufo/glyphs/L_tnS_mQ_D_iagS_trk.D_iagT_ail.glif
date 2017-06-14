@@ -30,6 +30,10 @@
     <dict>
       <key>org.sil.assocFeature</key>
       <string>Qalt</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>A759</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uniA759.DiagTail</string>
     </dict>

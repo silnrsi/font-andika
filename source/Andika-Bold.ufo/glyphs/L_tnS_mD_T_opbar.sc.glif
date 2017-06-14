@@ -64,6 +64,10 @@
       </data>
       <key>org.sil.assocFeature</key>
       <string>smcp</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>018C</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni018C.sc</string>
     </dict>

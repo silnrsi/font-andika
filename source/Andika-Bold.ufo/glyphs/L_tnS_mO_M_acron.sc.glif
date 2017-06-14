@@ -24,6 +24,10 @@
     <dict>
       <key>org.sil.assocFeature</key>
       <string>smcp</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>014D</string>
+      </array>
       <key>public.postscriptname</key>
       <string>omacron.sc</string>
     </dict>

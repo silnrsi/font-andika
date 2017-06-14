@@ -54,6 +54,10 @@
     <dict>
       <key>org.sil.assocFeature</key>
       <string>invs</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>FE09</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uniFE09.ShowInv</string>
     </dict>

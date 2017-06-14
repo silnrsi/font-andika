@@ -24,6 +24,10 @@
     <dict>
       <key>org.sil.assocFeature</key>
       <string>ital</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>00E0</string>
+      </array>
       <key>public.postscriptname</key>
       <string>agrave.2StorySItal</string>
     </dict>

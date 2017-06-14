@@ -25,6 +25,12 @@
     <dict>
       <key>org.sil.assocFeature</key>
       <string>smcp</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>0066</string>
+        <string>0066</string>
+        <string>0069</string>
+      </array>
       <key>public.postscriptname</key>
       <string>f_f_i.SItal.sc</string>
     </dict>

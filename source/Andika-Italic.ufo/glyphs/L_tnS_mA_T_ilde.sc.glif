@@ -21,6 +21,10 @@
     <dict>
       <key>org.sil.assocFeature</key>
       <string>smcp</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>00E3</string>
+      </array>
       <key>public.postscriptname</key>
       <string>atilde.sc</string>
     </dict>

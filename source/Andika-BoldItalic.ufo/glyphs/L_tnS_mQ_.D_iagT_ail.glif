@@ -17,6 +17,10 @@
     <dict>
       <key>org.sil.assocFeature</key>
       <string>Qalt</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>0071</string>
+      </array>
       <key>public.postscriptname</key>
       <string>q.DiagTail</string>
     </dict>

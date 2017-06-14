@@ -10,6 +10,12 @@
     <dict>
       <key>org.sil.assocFeature</key>
       <string>ital</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>0066</string>
+        <string>0066</string>
+        <string>006C</string>
+      </array>
       <key>public.postscriptname</key>
       <string>f_f_l.SItal</string>
     </dict>

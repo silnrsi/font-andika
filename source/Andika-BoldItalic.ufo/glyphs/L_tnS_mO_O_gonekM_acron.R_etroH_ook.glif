@@ -25,6 +25,10 @@
     <dict>
       <key>org.sil.assocFeature</key>
       <string>ogon</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>01ED</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni01ED.RetroHook</string>
     </dict>

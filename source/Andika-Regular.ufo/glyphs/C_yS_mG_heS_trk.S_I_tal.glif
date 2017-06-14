@@ -41,6 +41,10 @@
       </data>
       <key>org.sil.assocFeature</key>
       <string>ital</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>0493</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni0493.SItal</string>
     </dict>

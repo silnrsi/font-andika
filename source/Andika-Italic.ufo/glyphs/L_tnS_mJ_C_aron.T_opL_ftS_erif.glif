@@ -15,6 +15,10 @@
     <dict>
       <key>org.sil.assocFeature</key>
       <string>jser</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>01F0</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni01F0.TopLftSerif</string>
     </dict>

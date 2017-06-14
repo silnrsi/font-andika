@@ -33,6 +33,10 @@
       </array>
       <key>org.sil.assocFeature</key>
       <string>apos</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>A78C</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uniA78C.Lrg</string>
     </dict>

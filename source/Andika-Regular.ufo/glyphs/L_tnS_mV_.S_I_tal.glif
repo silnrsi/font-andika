@@ -48,6 +48,10 @@
       </data>
       <key>org.sil.assocFeature</key>
       <string>ital</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>0076</string>
+      </array>
       <key>public.postscriptname</key>
       <string>v.SItal</string>
     </dict>

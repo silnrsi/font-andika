@@ -102,6 +102,10 @@
       <string>Engs</string>
       <key>org.sil.assocFeatureValue</key>
       <integer>3</integer>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>014A</string>
+      </array>
       <key>public.postscriptname</key>
       <string>Eng.Kom</string>
     </dict>

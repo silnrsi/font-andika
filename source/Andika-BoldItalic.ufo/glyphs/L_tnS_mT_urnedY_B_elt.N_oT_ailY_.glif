@@ -87,6 +87,10 @@
       </array>
       <key>org.sil.assocFeature</key>
       <string>y_tl</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>F267</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uniF267.NoTailY</string>
     </dict>

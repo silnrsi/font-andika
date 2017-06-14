@@ -42,6 +42,10 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>006A</string>
+      </array>
       <key>public.postscriptname</key>
       <string>j.Dotless</string>
     </dict>

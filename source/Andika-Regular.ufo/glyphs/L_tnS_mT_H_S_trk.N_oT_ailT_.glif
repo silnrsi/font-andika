@@ -93,6 +93,10 @@
       </data>
       <key>org.sil.assocFeature</key>
       <string>t_tl</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>1D7A</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni1D7A.NoTailT</string>
     </dict>

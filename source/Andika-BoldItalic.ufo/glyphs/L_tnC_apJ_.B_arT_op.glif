@@ -44,6 +44,10 @@
       </array>
       <key>org.sil.assocFeature</key>
       <string>litJ</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>004A</string>
+      </array>
       <key>public.postscriptname</key>
       <string>J.BarTop</string>
     </dict>

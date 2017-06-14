@@ -72,6 +72,10 @@
       </array>
       <key>org.sil.assocFeature</key>
       <string>l_tl</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>2C61</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni2C61.TailL</string>
     </dict>

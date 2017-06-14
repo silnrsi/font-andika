@@ -96,6 +96,10 @@
       </array>
       <key>org.sil.assocFeature</key>
       <string>smcp</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>019E</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni019E.sc</string>
     </dict>

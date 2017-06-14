@@ -22,6 +22,10 @@
       </data>
       <key>org.sil.assocFeature</key>
       <string>chtn</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>02C8</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni02C8.ChinantecTn</string>
     </dict>

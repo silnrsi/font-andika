@@ -51,6 +51,10 @@
       </data>
       <key>org.sil.assocFeature</key>
       <string>l_tl</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>019A</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni019A.TailL</string>
     </dict>

@@ -19,6 +19,10 @@
   </outline>
   <lib>
     <dict>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>1EA5</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni1EA5.SngStory.VN</string>
     </dict>

@@ -84,6 +84,10 @@
       </data>
       <key>org.sil.assocFeature</key>
       <string>jser</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>029D</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni029D.TopLftSerif</string>
     </dict>

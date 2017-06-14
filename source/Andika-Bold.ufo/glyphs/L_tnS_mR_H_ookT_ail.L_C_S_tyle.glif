@@ -14,6 +14,10 @@
     <dict>
       <key>org.sil.assocFeature</key>
       <string>R_tl</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>027D</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni027D.LCStyle</string>
     </dict>

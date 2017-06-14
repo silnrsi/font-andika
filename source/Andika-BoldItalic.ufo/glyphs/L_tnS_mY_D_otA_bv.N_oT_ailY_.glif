@@ -18,6 +18,10 @@
     <dict>
       <key>org.sil.assocFeature</key>
       <string>y_tl</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>1E8F</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni1E8F.NoTailY</string>
     </dict>

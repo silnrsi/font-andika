@@ -233,6 +233,10 @@
           </hintset>
         </hintSetList>
       </data>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>0020</string>
+      </array>
       <key>public.postscriptname</key>
       <string>space.Lines</string>
     </dict>

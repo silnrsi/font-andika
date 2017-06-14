@@ -113,6 +113,10 @@
       </array>
       <key>org.sil.assocFeature</key>
       <string>l_tl</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>FB02</string>
+      </array>
       <key>public.postscriptname</key>
       <string>fl.TailL</string>
     </dict>

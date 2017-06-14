@@ -93,6 +93,10 @@
       </array>
       <key>org.sil.assocFeature</key>
       <string>mone</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>042D</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni042D.MongolStyle</string>
     </dict>

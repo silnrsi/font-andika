@@ -56,6 +56,10 @@
     <dict>
       <key>org.sil.assocFeature</key>
       <string>invs</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>200E</string>
+      </array>
       <key>public.postscriptname</key>
       <string>uni200E.ShowInv</string>
     </dict>

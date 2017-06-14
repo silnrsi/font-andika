@@ -15,6 +15,10 @@
     <dict>
       <key>org.sil.assocFeature</key>
       <string>litJ</string>
+      <key>org.sil.assocUIDs</key>
+      <array>
+        <string>0134</string>
+      </array>
       <key>public.postscriptname</key>
       <string>Jcircumflex.BarTop</string>
     </dict>
