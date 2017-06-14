@@ -2130,8 +2130,12 @@
   <string>L_tnC_apJ_C_ircum.B_arT_op.glif</string>
   <key>LtnCapJCrossedTail</key>
   <string>L_tnC_apJ_C_rossedT_ail.glif</string>
+  <key>LtnCapJCrossedTail.BarTop</key>
+  <string>L_tnC_apJ_C_rossedT_ail.B_arT_op.glif</string>
   <key>LtnCapJStrk</key>
   <string>L_tnC_apJ_S_trk.glif</string>
+  <key>LtnCapJStrk.BarTop</key>
+  <string>L_tnC_apJ_S_trk.B_arT_op.glif</string>
   <key>LtnCapJStrkDep</key>
   <string>L_tnC_apJ_S_trkD_ep.glif</string>
   <key>LtnCapK</key>
@@ -3426,6 +3430,8 @@
   <string>L_tnS_mC_apI_nvR_.glif</string>
   <key>LtnSmCapJ</key>
   <string>L_tnS_mC_apJ_.glif</string>
+  <key>LtnSmCapJ.BarTop</key>
+  <string>L_tnS_mC_apJ_.B_arT_op.glif</string>
   <key>LtnSmCapK</key>
   <string>L_tnS_mC_apK_.glif</string>
   <key>LtnSmCapL</key>
@@ -4238,6 +4244,8 @@
   <string>L_tnS_mJ_.glif</string>
   <key>LtnSmJ.BarTop</key>
   <string>L_tnS_mJ_.B_arT_op.glif</string>
+  <key>LtnSmJ.BarTop.sc</key>
+  <string>L_tnS_mJ_.B_arT_op.sc.glif</string>
   <key>LtnSmJ.Dotless</key>
   <string>L_tnS_mJ_.D_otless.glif</string>
   <key>LtnSmJ.TopLftSerif</key>
@@ -4262,6 +4270,8 @@
   <string>L_tnS_mJ_C_rossedT_ail.glif</string>
   <key>LtnSmJCrossedTail.BarTop</key>
   <string>L_tnS_mJ_C_rossedT_ail.B_arT_op.glif</string>
+  <key>LtnSmJCrossedTail.BarTop.sc</key>
+  <string>L_tnS_mJ_C_rossedT_ail.B_arT_op.sc.glif</string>
   <key>LtnSmJCrossedTail.Dotless</key>
   <string>L_tnS_mJ_C_rossedT_ail.D_otless.glif</string>
   <key>LtnSmJCrossedTail.Dotless.TopLftSerif</key>
@@ -4272,6 +4282,8 @@
   <string>L_tnS_mJ_S_trk.glif</string>
   <key>LtnSmJStrk.BarTop</key>
   <string>L_tnS_mJ_S_trk.B_arT_op.glif</string>
+  <key>LtnSmJStrk.BarTop.sc</key>
+  <string>L_tnS_mJ_S_trk.B_arT_op.sc.glif</string>
   <key>LtnSmJStrk.Dotless</key>
   <string>L_tnS_mJ_S_trk.D_otless.glif</string>
   <key>LtnSmJStrk.TopLftSerif</key>
@@ -6148,6 +6160,8 @@
   <string>M_odC_apI_.glif</string>
   <key>ModCapJ</key>
   <string>M_odC_apJ_.glif</string>
+  <key>ModCapJ.BarTop</key>
+  <string>M_odC_apJ_.B_arT_op.glif</string>
   <key>ModCapK</key>
   <string>M_odC_apK_.glif</string>
   <key>ModCapL</key>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmJCrossedTail.BarTop.sc" format="1">
+  <advance width="908"/>
+  <outline>
+    <component base="LtnSmJ.sc"/>
+    <contour>
+      <point x="387" y="-76" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="631" y="1293" type="move" name="U"/>
+    </contour>
+  </outline>
+</glyph>
