@@ -1,4 +1,3 @@
 #!/bin/sh
 
-UFOsyncMeta source/Andika-Regular.ufo --normalize
-
+psfsyncmeta source/Andika-Regular.ufo --normalize

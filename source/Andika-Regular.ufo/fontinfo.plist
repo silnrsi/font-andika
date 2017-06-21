@@ -12,8 +12,6 @@
   <integer>-800</integer>
   <key>familyName</key>
   <string>Andika</string>
-  <key>italicAngle</key>
-  <integer>0</integer>
   <key>openTypeHeadCreated</key>
   <string>2017/06/08 17:00:00</string>
   <key>openTypeHheaAscender</key>
@@ -190,11 +188,13 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>postscriptBlueFuzz</key>
   <integer>1</integer>
   <key>postscriptBlueScale</key>
-  <real>0.039625</real>
+  <real>0.0396</real>
   <key>postscriptBlueShift</key>
   <integer>7</integer>
   <key>postscriptBlueValues</key>
   <array>
+    <integer>-490</integer>
+    <integer>-490</integer>
     <integer>-25</integer>
     <integer>0</integer>
     <integer>1020</integer>
@@ -211,10 +211,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>postscriptIsFixedPitch</key>
   <false/>
   <key>postscriptOtherBlues</key>
-  <array>
-    <integer>-490</integer>
-    <integer>-490</integer>
-  </array>
+  <array/>
   <key>postscriptStemSnapH</key>
   <array>
     <integer>140</integer>
