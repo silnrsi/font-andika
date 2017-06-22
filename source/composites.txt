@@ -858,6 +858,7 @@ LtnSmLDotBlwMacron.TailL = LtnSmL.TailL + CombDotBlw@L + CombMacron@LtnSmL.TailL
 LtnSmLCedilla.TailL = LtnSmL.TailL + CombCommaBlw@L
 LtnSmQ.DiagTail = LtnSmQ
 LtnSmQStrk.DiagTail = LtnSmQStrk
+LtnSmQDiagStrk.DiagTail = LtnSmQDiagStrk
 LtnSmTCaron.Caron.NoTailT = LtnSmT.NoTailT + CombCaron@U
 LtnSmTDiaer.NoTailT = LtnSmT.NoTailT + CombDiaer@U
 LtnSmTDotAbv.NoTailT = LtnSmT.NoTailT + CombDotAbv@U
