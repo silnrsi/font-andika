@@ -18,6 +18,8 @@
       <array>
         <string>0135</string>
       </array>
+      <key>public.postscriptname</key>
+      <string>jcircumflex.BarTop.sc</string>
     </dict>
   </lib>
 </glyph>

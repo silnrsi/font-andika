@@ -18,6 +18,8 @@
       <array>
         <string>1D36</string>
       </array>
+      <key>public.postscriptname</key>
+      <string>uni1D36.BarTop</string>
     </dict>
   </lib>
 </glyph>

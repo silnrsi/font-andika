@@ -18,6 +18,8 @@
       <array>
         <string>006A</string>
       </array>
+      <key>public.postscriptname</key>
+      <string>j.BarTop.sc</string>
     </dict>
   </lib>
 </glyph>
