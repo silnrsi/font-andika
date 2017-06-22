@@ -14,15 +14,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="-39" width="39"/>
-            <vstem pos="0" width="39"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>uniF131</string>
     </dict>

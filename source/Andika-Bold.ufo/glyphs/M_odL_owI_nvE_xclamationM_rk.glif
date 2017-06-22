@@ -30,16 +30,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="202" width="174"/>
-            <vstem pos="164" width="188"/>
-            <vstem pos="200" width="115"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <integer>1</integer>

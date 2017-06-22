@@ -67,17 +67,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="-25" width="160"/>
-            <hstem pos="870" width="170"/>
-            <vstem pos="370" width="170"/>
-            <vstem pos="740" width="170"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>org.sil.assocFeature</key>
       <string>ramh</string>
       <key>org.sil.assocFeatureValue</key>

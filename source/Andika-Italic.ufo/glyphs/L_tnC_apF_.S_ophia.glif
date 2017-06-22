@@ -20,17 +20,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="21" width="-21"/>
-            <hstem pos="241" width="64"/>
-            <hstem pos="468" width="65"/>
-            <vstem pos="59" width="75"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>compLtnCapF</string>
     </dict>

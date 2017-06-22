@@ -46,17 +46,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="-25" width="175"/>
-            <hstem pos="1310" width="175"/>
-            <vstem pos="95" width="195"/>
-            <vstem pos="1145" width="195"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>Oslash</string>
     </dict>

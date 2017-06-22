@@ -36,17 +36,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="-10" width="64"/>
-            <hstem pos="478" width="64"/>
-            <vstem pos="44" width="76"/>
-            <vstem pos="450" width="76"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>compLtnCapO</string>
     </dict>

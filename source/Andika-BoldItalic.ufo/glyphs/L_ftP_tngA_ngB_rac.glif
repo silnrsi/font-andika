@@ -2,7 +2,6 @@
 <glyph name="LftPtngAngBrac" format="1">
   <advance width="930"/>
   <unicode hex="2329"/>
-  <unicode hex="27E8"/>
   <outline>
     <contour>
       <point x="763" y="-206" type="line" name="hr00"/>
@@ -15,15 +14,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="-208" width="1703"/>
-            <vstem pos="15" width="800"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>0.6</real>

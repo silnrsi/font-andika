@@ -54,29 +54,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="375" width="111"/>
-            <hstem pos="1249" width="95"/>
-            <hstem pos="1466" width="175"/>
-            <vstem pos="268" width="128"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="375" width="111"/>
-            <hstem pos="1249" width="95"/>
-            <hstem pos="1466" width="175"/>
-            <vstem pos="244" width="177"/>
-          </hintset>
-          <hintset pointTag="hr03">
-            <hstem pos="375" width="111"/>
-            <hstem pos="1249" width="95"/>
-            <hstem pos="1466" width="175"/>
-            <vstem pos="268" width="128"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>org.sil.assocFeature</key>
       <string>jser</string>
       <key>org.sil.assocUIDs</key>

@@ -29,15 +29,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="-470" width="135"/>
-            <vstem pos="-638" width="135"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>org.sil.assocFeature</key>
       <string>ogon</string>
       <key>org.sil.assocUIDs</key>

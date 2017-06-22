@@ -76,39 +76,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="680" width="-14"/>
-            <hstem pos="981" width="89"/>
-            <hstem pos="1226" width="102"/>
-            <vstem pos="170" width="126"/>
-            <vstem pos="639" width="130"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="650" width="105"/>
-            <hstem pos="981" width="89"/>
-            <hstem pos="1226" width="102"/>
-            <vstem pos="170" width="126"/>
-            <vstem pos="639" width="130"/>
-          </hintset>
-          <hintset pointTag="hr03">
-            <hstem pos="680" width="-14"/>
-            <hstem pos="981" width="89"/>
-            <hstem pos="1226" width="102"/>
-            <vstem pos="170" width="126"/>
-            <vstem pos="639" width="130"/>
-          </hintset>
-          <hintset pointTag="hr04">
-            <hstem pos="650" width="105"/>
-            <hstem pos="981" width="89"/>
-            <hstem pos="1226" width="102"/>
-            <vstem pos="170" width="126"/>
-            <vstem pos="639" width="130"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>org.sil.assocFeature</key>
       <string>litr</string>
       <key>org.sil.assocUIDs</key>

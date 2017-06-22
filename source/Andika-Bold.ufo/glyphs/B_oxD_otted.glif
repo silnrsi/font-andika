@@ -211,27 +211,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="-200" width="300"/>
-            <hstem pos="200" width="200"/>
-            <hstem pos="500" width="200"/>
-            <hstem pos="800" width="200"/>
-            <hstem pos="1100" width="200"/>
-            <hstem pos="1400" width="200"/>
-            <hstem pos="1700" width="300"/>
-            <vstem pos="100" width="300"/>
-            <vstem pos="500" width="200"/>
-            <vstem pos="800" width="200"/>
-            <vstem pos="1100" width="200"/>
-            <vstem pos="1400" width="200"/>
-            <vstem pos="1700" width="200"/>
-            <vstem pos="2000" width="300"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>compBoxDotted</string>
     </dict>

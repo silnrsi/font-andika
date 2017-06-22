@@ -30,17 +30,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="21" width="-21"/>
-            <hstem pos="395" width="155"/>
-            <hstem pos="1480" width="-20"/>
-            <vstem pos="745" width="190"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>four</string>
     </dict>

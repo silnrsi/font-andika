@@ -49,21 +49,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="0" width="185"/>
-            <hstem pos="1295" width="165"/>
-            <vstem pos="535" width="180"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="6" width="-21"/>
-            <hstem pos="1295" width="165"/>
-            <vstem pos="535" width="180"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>uni0514</string>
     </dict>

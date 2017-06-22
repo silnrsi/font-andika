@@ -121,43 +121,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="-25" width="110"/>
-            <hstem pos="430" width="95"/>
-            <hstem pos="1270" width="110"/>
-            <vstem pos="65" width="100"/>
-            <vstem pos="1215" width="195"/>
-            <vstem pos="1870" width="125"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="-25" width="110"/>
-            <hstem pos="385" width="95"/>
-            <hstem pos="1270" width="110"/>
-            <vstem pos="65" width="100"/>
-            <vstem pos="1215" width="195"/>
-            <vstem pos="1870" width="125"/>
-          </hintset>
-          <hintset pointTag="hr03">
-            <hstem pos="-15" width="95"/>
-            <hstem pos="430" width="95"/>
-            <hstem pos="1270" width="110"/>
-            <vstem pos="65" width="100"/>
-            <vstem pos="1336" width="198"/>
-            <vstem pos="1870" width="125"/>
-          </hintset>
-          <hintset pointTag="hr04">
-            <hstem pos="-25" width="85"/>
-            <hstem pos="385" width="95"/>
-            <hstem pos="1270" width="110"/>
-            <vstem pos="65" width="100"/>
-            <vstem pos="1215" width="195"/>
-            <vstem pos="1870" width="125"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>uni20AF</string>
     </dict>

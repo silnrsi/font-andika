@@ -40,18 +40,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="500" width="100"/>
-            <hstem pos="664" width="104"/>
-            <hstem pos="1252" width="104"/>
-            <vstem pos="71" width="130"/>
-            <vstem pos="607" width="129"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>ordmasculine</string>
     </dict>

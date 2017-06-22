@@ -50,25 +50,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="0" width="165"/>
-            <hstem pos="585" width="160"/>
-            <hstem pos="1460" width="-20"/>
-            <vstem pos="125" width="190"/>
-            <vstem pos="935" width="190"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="0" width="165"/>
-            <hstem pos="585" width="160"/>
-            <hstem pos="1460" width="-20"/>
-            <vstem pos="125" width="190"/>
-            <vstem pos="775" width="165"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>uni04CB</string>
     </dict>

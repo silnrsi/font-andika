@@ -68,35 +68,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="-15" width="115"/>
-            <hstem pos="425" width="110"/>
-            <hstem pos="710" width="105"/>
-            <hstem pos="1600" width="-20"/>
-            <vstem pos="275" width="130"/>
-            <vstem pos="1435" width="125"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="-15" width="115"/>
-            <hstem pos="425" width="110"/>
-            <hstem pos="780" width="115"/>
-            <hstem pos="1600" width="-20"/>
-            <vstem pos="275" width="130"/>
-            <vstem pos="1410" width="120"/>
-          </hintset>
-          <hintset pointTag="hr03">
-            <hstem pos="-15" width="115"/>
-            <hstem pos="425" width="110"/>
-            <hstem pos="710" width="105"/>
-            <hstem pos="1600" width="-20"/>
-            <vstem pos="275" width="130"/>
-            <vstem pos="1435" width="125"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>onethird</string>
     </dict>

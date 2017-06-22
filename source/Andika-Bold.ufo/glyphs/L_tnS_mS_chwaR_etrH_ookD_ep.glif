@@ -70,20 +70,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="-500" width="30"/>
-            <hstem pos="120" width="275"/>
-            <hstem pos="525" width="350"/>
-            <hstem pos="1040" width="30"/>
-            <vstem pos="70" width="30"/>
-            <vstem pos="985" width="85"/>
-            <vstem pos="1205" width="290"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>uniF23B</string>
     </dict>

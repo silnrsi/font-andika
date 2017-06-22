@@ -63,20 +63,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="-464" width="-21"/>
-            <hstem pos="-25" width="154"/>
-            <hstem pos="762" width="126"/>
-            <hstem pos="1435" width="169"/>
-            <vstem pos="170" width="185"/>
-            <vstem pos="805" width="175"/>
-            <vstem pos="890" width="185"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>com.typemytype.robofont.guides</key>
       <array>
         <dict>

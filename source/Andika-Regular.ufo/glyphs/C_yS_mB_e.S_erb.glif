@@ -51,20 +51,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="-31" width="124"/>
-            <hstem pos="1461" width="90"/>
-            <vstem pos="88" width="154"/>
-            <vstem pos="98" width="154"/>
-            <vstem pos="191" width="121"/>
-            <vstem pos="706" width="164"/>
-            <vstem pos="726" width="161"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>org.sil.assocFeature</key>
       <string>serb</string>
       <key>org.sil.assocUIDs</key>

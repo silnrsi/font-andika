@@ -61,29 +61,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="-25" width="160"/>
-            <hstem pos="510" width="140"/>
-            <hstem pos="885" width="155"/>
-            <vstem pos="755" width="175"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="-25" width="160"/>
-            <hstem pos="427" width="135"/>
-            <hstem pos="885" width="155"/>
-            <vstem pos="755" width="175"/>
-          </hintset>
-          <hintset pointTag="hr03">
-            <hstem pos="-25" width="160"/>
-            <hstem pos="510" width="140"/>
-            <hstem pos="885" width="155"/>
-            <vstem pos="755" width="175"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>org.sil.assocFeature</key>
       <string>mone</string>
       <key>org.sil.assocUIDs</key>

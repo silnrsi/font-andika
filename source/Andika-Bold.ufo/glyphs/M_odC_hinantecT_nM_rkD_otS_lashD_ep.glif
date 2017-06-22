@@ -32,23 +32,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="1015" width="30"/>
-            <hstem pos="1555" width="65"/>
-            <vstem pos="10" width="65"/>
-            <vstem pos="585" width="30"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="1015" width="30"/>
-            <hstem pos="1590" width="30"/>
-            <vstem pos="10" width="65"/>
-            <vstem pos="585" width="30"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>uniF199</string>
     </dict>

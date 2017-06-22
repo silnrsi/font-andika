@@ -33,17 +33,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="0" width="58"/>
-            <hstem pos="482" width="60"/>
-            <vstem pos="53" width="75"/>
-            <vstem pos="293" width="73"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>compDigitTwo</string>
     </dict>

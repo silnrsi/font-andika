@@ -39,16 +39,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="-20" width="155"/>
-            <hstem pos="890" width="150"/>
-            <vstem pos="835" width="185"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>org.sil.assocFeature</key>
       <string>opnO</string>
       <key>org.sil.assocUIDs</key>

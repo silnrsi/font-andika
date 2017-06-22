@@ -26,16 +26,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="1045" width="540"/>
-            <vstem pos="280" width="125"/>
-            <vstem pos="620" width="125"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>quotedbl</string>
     </dict>

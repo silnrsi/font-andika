@@ -49,36 +49,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="-10" width="56"/>
-            <hstem pos="248" width="58"/>
-            <hstem pos="486" width="56"/>
-            <vstem pos="305" width="73"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="-10" width="56"/>
-            <hstem pos="248" width="58"/>
-            <hstem pos="486" width="56"/>
-            <vstem pos="295" width="75"/>
-          </hintset>
-          <hintset pointTag="hr03">
-            <hstem pos="-10" width="56"/>
-            <hstem pos="248" width="58"/>
-            <hstem pos="486" width="56"/>
-            <vstem pos="34" width="78"/>
-            <vstem pos="305" width="73"/>
-          </hintset>
-          <hintset pointTag="hr04">
-            <hstem pos="-10" width="56"/>
-            <hstem pos="248" width="58"/>
-            <hstem pos="486" width="56"/>
-            <vstem pos="305" width="73"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>compDigitThree</string>
     </dict>

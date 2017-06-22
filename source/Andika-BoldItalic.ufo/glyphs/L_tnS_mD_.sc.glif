@@ -47,29 +47,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="-8" width="151"/>
-            <hstem pos="1082" width="147"/>
-            <vstem pos="167" width="185"/>
-            <vstem pos="1022" width="190"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="21" width="-21"/>
-            <hstem pos="1082" width="147"/>
-            <vstem pos="167" width="185"/>
-            <vstem pos="1022" width="190"/>
-          </hintset>
-          <hintset pointTag="hr03">
-            <hstem pos="-8" width="151"/>
-            <hstem pos="1082" width="147"/>
-            <vstem pos="167" width="185"/>
-            <vstem pos="1022" width="190"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>org.sil.assocFeature</key>
       <string>smcp</string>
       <key>org.sil.assocUIDs</key>

@@ -91,61 +91,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="-25" width="160"/>
-            <hstem pos="625" width="155"/>
-            <hstem pos="880" width="160"/>
-            <hstem pos="1310" width="160"/>
-            <vstem pos="158" width="176"/>
-            <vstem pos="811" width="176"/>
-            <vstem pos="1075" width="162"/>
-            <vstem pos="1588" width="172"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="0" width="90"/>
-            <hstem pos="625" width="155"/>
-            <hstem pos="880" width="160"/>
-            <hstem pos="1310" width="160"/>
-            <vstem pos="158" width="176"/>
-            <vstem pos="811" width="176"/>
-            <vstem pos="1075" width="162"/>
-            <vstem pos="1588" width="172"/>
-          </hintset>
-          <hintset pointTag="hr03">
-            <hstem pos="-25" width="160"/>
-            <hstem pos="625" width="155"/>
-            <hstem pos="880" width="160"/>
-            <hstem pos="1310" width="160"/>
-            <vstem pos="158" width="176"/>
-            <vstem pos="811" width="176"/>
-            <vstem pos="1075" width="162"/>
-            <vstem pos="1588" width="172"/>
-          </hintset>
-          <hintset pointTag="hr04">
-            <hstem pos="0" width="90"/>
-            <hstem pos="625" width="155"/>
-            <hstem pos="880" width="160"/>
-            <hstem pos="1310" width="160"/>
-            <vstem pos="158" width="176"/>
-            <vstem pos="811" width="176"/>
-            <vstem pos="1075" width="162"/>
-            <vstem pos="1588" width="172"/>
-          </hintset>
-          <hintset pointTag="hr05">
-            <hstem pos="-25" width="160"/>
-            <hstem pos="625" width="155"/>
-            <hstem pos="880" width="160"/>
-            <hstem pos="1310" width="160"/>
-            <vstem pos="158" width="176"/>
-            <vstem pos="811" width="176"/>
-            <vstem pos="1075" width="162"/>
-            <vstem pos="1588" width="172"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>uni20A8</string>
     </dict>

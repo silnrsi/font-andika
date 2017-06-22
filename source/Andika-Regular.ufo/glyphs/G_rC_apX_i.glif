@@ -40,20 +40,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="0" width="165"/>
-            <hstem pos="116" width="49"/>
-            <hstem pos="1310" width="175"/>
-            <vstem pos="-65" width="535"/>
-            <vstem pos="0" width="195"/>
-            <vstem pos="848" width="535"/>
-            <vstem pos="1150" width="195"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>Xi</string>
     </dict>

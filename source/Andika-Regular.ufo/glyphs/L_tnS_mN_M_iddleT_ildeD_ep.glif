@@ -75,38 +75,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="-30" width="30"/>
-            <hstem pos="1040" width="30"/>
-            <vstem pos="-10" width="30"/>
-            <vstem pos="130" width="115"/>
-            <vstem pos="430" width="525"/>
-            <vstem pos="1140" width="115"/>
-            <vstem pos="1365" width="30"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="-30" width="30"/>
-            <hstem pos="1020" width="50"/>
-            <vstem pos="-10" width="30"/>
-            <vstem pos="130" width="115"/>
-            <vstem pos="430" width="525"/>
-            <vstem pos="1140" width="115"/>
-            <vstem pos="1365" width="30"/>
-          </hintset>
-          <hintset pointTag="hr03">
-            <hstem pos="-30" width="30"/>
-            <hstem pos="1040" width="30"/>
-            <vstem pos="-10" width="30"/>
-            <vstem pos="130" width="115"/>
-            <vstem pos="430" width="525"/>
-            <vstem pos="1140" width="115"/>
-            <vstem pos="1365" width="30"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>uniF24D</string>
     </dict>

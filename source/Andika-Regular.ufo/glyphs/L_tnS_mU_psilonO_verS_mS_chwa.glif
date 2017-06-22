@@ -79,65 +79,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="-27" width="89"/>
-            <hstem pos="228" width="86"/>
-            <hstem pos="526" width="103"/>
-            <hstem pos="717" width="89"/>
-            <hstem pos="1220" width="80"/>
-            <vstem pos="150" width="113"/>
-            <vstem pos="581" width="21"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="-27" width="89"/>
-            <hstem pos="228" width="86"/>
-            <hstem pos="526" width="103"/>
-            <hstem pos="717" width="89"/>
-            <hstem pos="1220" width="80"/>
-            <vstem pos="114" width="186"/>
-            <vstem pos="581" width="21"/>
-          </hintset>
-          <hintset pointTag="hr03">
-            <hstem pos="-27" width="89"/>
-            <hstem pos="228" width="86"/>
-            <hstem pos="526" width="103"/>
-            <hstem pos="717" width="89"/>
-            <hstem pos="1220" width="80"/>
-            <vstem pos="134" width="103"/>
-            <vstem pos="571" width="104"/>
-          </hintset>
-          <hintset pointTag="hr04">
-            <hstem pos="-27" width="89"/>
-            <hstem pos="228" width="86"/>
-            <hstem pos="526" width="103"/>
-            <hstem pos="717" width="89"/>
-            <hstem pos="1220" width="80"/>
-            <vstem pos="134" width="103"/>
-            <vstem pos="506" width="188"/>
-          </hintset>
-          <hintset pointTag="hr05">
-            <hstem pos="-27" width="89"/>
-            <hstem pos="228" width="86"/>
-            <hstem pos="526" width="103"/>
-            <hstem pos="717" width="89"/>
-            <hstem pos="1220" width="80"/>
-            <vstem pos="134" width="103"/>
-            <vstem pos="571" width="104"/>
-          </hintset>
-          <hintset pointTag="hr06">
-            <hstem pos="-27" width="89"/>
-            <hstem pos="228" width="86"/>
-            <hstem pos="526" width="103"/>
-            <hstem pos="717" width="89"/>
-            <hstem pos="1220" width="80"/>
-            <vstem pos="114" width="186"/>
-            <vstem pos="581" width="21"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>com.typemytype.robofont.guides</key>
       <array>
         <dict>

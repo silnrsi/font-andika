@@ -27,39 +27,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="1139" width="31"/>
-            <hstem pos="1467" width="-20"/>
-            <hstem pos="1600" width="30"/>
-            <vstem pos="-1115" width="30"/>
-            <vstem pos="-55" width="30"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="1139" width="30"/>
-            <hstem pos="1467" width="-20"/>
-            <hstem pos="1600" width="30"/>
-            <vstem pos="-1115" width="30"/>
-            <vstem pos="-55" width="30"/>
-          </hintset>
-          <hintset pointTag="hr03">
-            <hstem pos="1139" width="31"/>
-            <hstem pos="1467" width="-20"/>
-            <hstem pos="1600" width="30"/>
-            <vstem pos="-1115" width="30"/>
-            <vstem pos="-55" width="30"/>
-          </hintset>
-          <hintset pointTag="hr04">
-            <hstem pos="1139" width="30"/>
-            <hstem pos="1467" width="-20"/>
-            <hstem pos="1600" width="30"/>
-            <vstem pos="-1115" width="30"/>
-            <vstem pos="-55" width="30"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>uniF179</string>
     </dict>

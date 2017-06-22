@@ -19,16 +19,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="-4" width="-21"/>
-            <hstem pos="1600" width="-20"/>
-            <vstem pos="-60" width="120"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>compTnLtrDot1</string>
     </dict>

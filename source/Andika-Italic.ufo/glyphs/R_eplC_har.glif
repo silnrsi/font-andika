@@ -62,23 +62,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="197" width="123"/>
-            <vstem pos="10" width="1951"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="197" width="123"/>
-            <vstem pos="824" width="359"/>
-          </hintset>
-          <hintset pointTag="hr03">
-            <hstem pos="197" width="123"/>
-            <vstem pos="10" width="1951"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>uniFFFD</string>
     </dict>

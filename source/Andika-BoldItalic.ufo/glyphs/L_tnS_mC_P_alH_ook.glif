@@ -2,7 +2,6 @@
 <glyph name="LtnSmCPalHook" format="1">
   <advance width="1019"/>
   <unicode hex="A794"/>
-  <unicode hex="F225"/>
   <outline>
     <contour>
       <point x="1099" y="959" type="line" name="hr00"/>
@@ -59,18 +58,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="-465" width="133"/>
-            <hstem pos="-25" width="164"/>
-            <hstem pos="866" width="164"/>
-            <vstem pos="5" width="190"/>
-            <vstem pos="680" width="135"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>com.typemytype.robofont.guides</key>
       <array>
         <dict>

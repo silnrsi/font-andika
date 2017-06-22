@@ -52,32 +52,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="0" width="165"/>
-            <hstem pos="555" width="145"/>
-            <hstem pos="825" width="145"/>
-            <hstem pos="1325" width="160"/>
-            <vstem pos="260" width="185"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="0" width="165"/>
-            <hstem pos="555" width="145"/>
-            <hstem pos="825" width="145"/>
-            <hstem pos="1325" width="160"/>
-            <vstem pos="294" width="185"/>
-          </hintset>
-          <hintset pointTag="hr03">
-            <hstem pos="0" width="165"/>
-            <hstem pos="555" width="145"/>
-            <hstem pos="825" width="145"/>
-            <hstem pos="1325" width="160"/>
-            <vstem pos="260" width="185"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>lira</string>
     </dict>

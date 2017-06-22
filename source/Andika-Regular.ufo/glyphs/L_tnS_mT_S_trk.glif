@@ -44,17 +44,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="-25" width="165"/>
-            <hstem pos="475" width="145"/>
-            <hstem pos="850" width="145"/>
-            <vstem pos="230" width="185"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>tbar</string>
     </dict>

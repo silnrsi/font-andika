@@ -68,68 +68,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="634" width="30"/>
-            <hstem pos="768" width="198"/>
-            <hstem pos="1057" width="195"/>
-            <hstem pos="1356" width="30"/>
-            <vstem pos="41" width="30"/>
-            <vstem pos="145" width="42"/>
-            <vstem pos="621" width="31"/>
-            <vstem pos="736" width="30"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="634" width="30"/>
-            <hstem pos="966" width="91"/>
-            <hstem pos="1356" width="30"/>
-            <vstem pos="41" width="30"/>
-            <vstem pos="145" width="42"/>
-            <vstem pos="621" width="31"/>
-            <vstem pos="736" width="30"/>
-          </hintset>
-          <hintset pointTag="hr03">
-            <hstem pos="634" width="30"/>
-            <hstem pos="768" width="198"/>
-            <hstem pos="1057" width="195"/>
-            <hstem pos="1356" width="30"/>
-            <vstem pos="41" width="30"/>
-            <vstem pos="145" width="42"/>
-            <vstem pos="621" width="31"/>
-            <vstem pos="736" width="30"/>
-          </hintset>
-          <hintset pointTag="hr04">
-            <hstem pos="634" width="30"/>
-            <hstem pos="966" width="91"/>
-            <hstem pos="1356" width="30"/>
-            <vstem pos="41" width="30"/>
-            <vstem pos="145" width="42"/>
-            <vstem pos="621" width="31"/>
-            <vstem pos="736" width="30"/>
-          </hintset>
-          <hintset pointTag="hr05">
-            <hstem pos="634" width="30"/>
-            <hstem pos="768" width="198"/>
-            <hstem pos="1057" width="195"/>
-            <hstem pos="1356" width="30"/>
-            <vstem pos="41" width="30"/>
-            <vstem pos="145" width="42"/>
-            <vstem pos="621" width="31"/>
-            <vstem pos="736" width="30"/>
-          </hintset>
-          <hintset pointTag="hr06">
-            <hstem pos="634" width="30"/>
-            <hstem pos="966" width="91"/>
-            <hstem pos="1356" width="30"/>
-            <vstem pos="41" width="30"/>
-            <vstem pos="145" width="42"/>
-            <vstem pos="621" width="31"/>
-            <vstem pos="736" width="30"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>uniF1AC</string>
     </dict>

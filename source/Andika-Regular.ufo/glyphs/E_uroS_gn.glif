@@ -46,18 +46,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="-25" width="175"/>
-            <hstem pos="530" width="145"/>
-            <hstem pos="800" width="145"/>
-            <hstem pos="1313" width="172"/>
-            <vstem pos="180" width="190"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>Euro</string>
     </dict>

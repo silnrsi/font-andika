@@ -103,35 +103,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="-25" width="165"/>
-            <hstem pos="485" width="140"/>
-            <hstem pos="890" width="150"/>
-            <vstem pos="95" width="185"/>
-            <vstem pos="755" width="175"/>
-            <vstem pos="1460" width="180"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="-25" width="165"/>
-            <hstem pos="485" width="140"/>
-            <hstem pos="880" width="160"/>
-            <vstem pos="95" width="185"/>
-            <vstem pos="755" width="175"/>
-            <vstem pos="1460" width="180"/>
-          </hintset>
-          <hintset pointTag="hr03">
-            <hstem pos="-25" width="165"/>
-            <hstem pos="485" width="140"/>
-            <hstem pos="890" width="150"/>
-            <vstem pos="95" width="185"/>
-            <vstem pos="755" width="175"/>
-            <vstem pos="1460" width="180"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>org.sil.assocFeature</key>
       <string>ital</string>
       <key>org.sil.assocUIDs</key>

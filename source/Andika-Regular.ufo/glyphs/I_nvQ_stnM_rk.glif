@@ -48,23 +48,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="-410" width="175"/>
-            <hstem pos="845" width="268"/>
-            <vstem pos="140" width="205"/>
-            <vstem pos="435" width="175"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="-410" width="175"/>
-            <hstem pos="845" width="268"/>
-            <vstem pos="140" width="205"/>
-            <vstem pos="394" width="268"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>questiondown</string>
     </dict>

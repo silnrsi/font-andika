@@ -56,46 +56,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="680" width="94"/>
-            <hstem pos="982" width="91"/>
-            <hstem pos="1249" width="94"/>
-            <vstem pos="71" width="135"/>
-            <vstem pos="620" width="125"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="669" width="99"/>
-            <hstem pos="982" width="91"/>
-            <hstem pos="1255" width="99"/>
-            <vstem pos="71" width="135"/>
-            <vstem pos="620" width="125"/>
-          </hintset>
-          <hintset pointTag="hr03">
-            <hstem pos="680" width="94"/>
-            <hstem pos="982" width="91"/>
-            <hstem pos="1255" width="99"/>
-            <vstem pos="71" width="135"/>
-            <vstem pos="620" width="125"/>
-          </hintset>
-          <hintset pointTag="hr04">
-            <hstem pos="669" width="99"/>
-            <hstem pos="982" width="91"/>
-            <hstem pos="1255" width="99"/>
-            <vstem pos="71" width="135"/>
-            <vstem pos="620" width="125"/>
-          </hintset>
-          <hintset pointTag="hr05">
-            <hstem pos="680" width="94"/>
-            <hstem pos="982" width="91"/>
-            <hstem pos="1255" width="99"/>
-            <vstem pos="71" width="135"/>
-            <vstem pos="620" width="125"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>uniF1AE</string>
     </dict>

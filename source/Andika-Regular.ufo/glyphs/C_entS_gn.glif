@@ -40,17 +40,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="50" width="157"/>
-            <hstem pos="905" width="157"/>
-            <vstem pos="205" width="181"/>
-            <vstem pos="605" width="130"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>cent</string>
     </dict>

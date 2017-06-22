@@ -97,52 +97,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="-505" width="125"/>
-            <hstem pos="-240" width="120"/>
-            <hstem pos="345" width="140"/>
-            <hstem pos="895" width="145"/>
-            <vstem pos="230" width="165"/>
-            <vstem pos="980" width="135"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="-505" width="125"/>
-            <hstem pos="-240" width="120"/>
-            <hstem pos="345" width="140"/>
-            <hstem pos="895" width="145"/>
-            <vstem pos="80" width="145"/>
-            <vstem pos="980" width="135"/>
-          </hintset>
-          <hintset pointTag="hr03">
-            <hstem pos="-505" width="125"/>
-            <hstem pos="-240" width="120"/>
-            <hstem pos="345" width="140"/>
-            <hstem pos="895" width="145"/>
-            <vstem pos="230" width="165"/>
-            <vstem pos="980" width="135"/>
-          </hintset>
-          <hintset pointTag="hr04">
-            <hstem pos="-505" width="125"/>
-            <hstem pos="-240" width="120"/>
-            <hstem pos="345" width="140"/>
-            <hstem pos="895" width="145"/>
-            <vstem pos="165" width="170"/>
-            <vstem pos="795" width="170"/>
-            <vstem pos="980" width="135"/>
-          </hintset>
-          <hintset pointTag="hr05">
-            <hstem pos="-505" width="125"/>
-            <hstem pos="-240" width="120"/>
-            <hstem pos="345" width="140"/>
-            <hstem pos="895" width="145"/>
-            <vstem pos="80" width="145"/>
-            <vstem pos="980" width="135"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>org.sil.assocFeature</key>
       <string>litr</string>
       <key>org.sil.assocUIDs</key>

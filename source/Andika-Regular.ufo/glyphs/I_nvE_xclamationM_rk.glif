@@ -30,19 +30,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="844" width="268"/>
-            <vstem pos="278" width="165"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="844" width="268"/>
-            <vstem pos="227" width="268"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>exclamdown</string>
     </dict>

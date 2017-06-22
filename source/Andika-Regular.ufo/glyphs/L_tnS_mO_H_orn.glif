@@ -57,26 +57,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="-25" width="160"/>
-            <hstem pos="880" width="160"/>
-            <vstem pos="95" width="185"/>
-            <vstem pos="860" width="185"/>
-            <vstem pos="1125" width="140"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="-25" width="160"/>
-            <hstem pos="880" width="160"/>
-            <hstem pos="1070" width="200"/>
-            <vstem pos="95" width="185"/>
-            <vstem pos="860" width="185"/>
-            <vstem pos="1125" width="140"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>ohorn</string>
     </dict>

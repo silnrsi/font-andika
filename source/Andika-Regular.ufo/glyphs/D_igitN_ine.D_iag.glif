@@ -47,18 +47,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="-4" width="-21"/>
-            <hstem pos="585" width="170"/>
-            <hstem pos="1320" width="165"/>
-            <vstem pos="120" width="180"/>
-            <vstem pos="875" width="215"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>org.sil.assocFeature</key>
       <string>dg69</string>
       <key>org.sil.assocUIDs</key>

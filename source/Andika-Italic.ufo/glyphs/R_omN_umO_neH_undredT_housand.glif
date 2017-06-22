@@ -177,26 +177,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="-7" width="162"/>
-            <hstem pos="230" width="108"/>
-            <hstem pos="407" width="107"/>
-            <hstem pos="902" width="117"/>
-            <hstem pos="1098" width="117"/>
-            <hstem pos="1279" width="157"/>
-            <vstem pos="50" width="195"/>
-            <vstem pos="355" width="160"/>
-            <vstem pos="625" width="160"/>
-            <vstem pos="1000" width="190"/>
-            <vstem pos="1405" width="160"/>
-            <vstem pos="1675" width="160"/>
-            <vstem pos="1945" width="195"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>com.typemytype.robofont.guides</key>
       <array>
         <dict>

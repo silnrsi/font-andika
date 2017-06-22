@@ -41,32 +41,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="-10" width="60"/>
-            <hstem pos="299" width="55"/>
-            <hstem pos="471" width="62"/>
-            <vstem pos="52" width="72"/>
-            <vstem pos="298" width="75"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="-10" width="60"/>
-            <hstem pos="299" width="55"/>
-            <hstem pos="471" width="62"/>
-            <vstem pos="39" width="78"/>
-            <vstem pos="298" width="75"/>
-          </hintset>
-          <hintset pointTag="hr03">
-            <hstem pos="-10" width="60"/>
-            <hstem pos="299" width="55"/>
-            <hstem pos="471" width="62"/>
-            <vstem pos="52" width="72"/>
-            <vstem pos="298" width="75"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>compDigitFive</string>
     </dict>

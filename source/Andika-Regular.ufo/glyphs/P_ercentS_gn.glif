@@ -68,47 +68,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="-25" width="140"/>
-            <hstem pos="630" width="140"/>
-            <hstem pos="1340" width="140"/>
-            <vstem pos="100" width="165"/>
-            <vstem pos="525" width="165"/>
-            <vstem pos="836" width="165"/>
-            <vstem pos="1261" width="165"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="-25" width="140"/>
-            <hstem pos="685" width="140"/>
-            <hstem pos="1340" width="140"/>
-            <vstem pos="100" width="165"/>
-            <vstem pos="525" width="165"/>
-            <vstem pos="836" width="165"/>
-            <vstem pos="1261" width="165"/>
-          </hintset>
-          <hintset pointTag="hr03">
-            <hstem pos="-25" width="140"/>
-            <hstem pos="630" width="140"/>
-            <hstem pos="1340" width="140"/>
-            <vstem pos="100" width="165"/>
-            <vstem pos="525" width="165"/>
-            <vstem pos="836" width="165"/>
-            <vstem pos="1261" width="165"/>
-          </hintset>
-          <hintset pointTag="hr04">
-            <hstem pos="-25" width="140"/>
-            <hstem pos="685" width="140"/>
-            <hstem pos="1340" width="140"/>
-            <vstem pos="100" width="165"/>
-            <vstem pos="525" width="165"/>
-            <vstem pos="836" width="165"/>
-            <vstem pos="1261" width="165"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>percent</string>
     </dict>

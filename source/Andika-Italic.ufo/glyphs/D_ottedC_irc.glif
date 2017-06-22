@@ -242,54 +242,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="0" width="93"/>
-            <hstem pos="118" width="93"/>
-            <hstem pos="248" width="93"/>
-            <hstem pos="402" width="93"/>
-            <hstem pos="556" width="94"/>
-            <hstem pos="687" width="93"/>
-            <hstem pos="805" width="93"/>
-            <vstem pos="66" width="96"/>
-            <vstem pos="288" width="95"/>
-            <vstem pos="446" width="95"/>
-            <vstem pos="603" width="95"/>
-            <vstem pos="736" width="94"/>
-            <vstem pos="855" width="96"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="30" width="93"/>
-            <hstem pos="248" width="93"/>
-            <hstem pos="402" width="93"/>
-            <hstem pos="556" width="94"/>
-            <hstem pos="773" width="94"/>
-            <vstem pos="66" width="96"/>
-            <vstem pos="288" width="95"/>
-            <vstem pos="446" width="95"/>
-            <vstem pos="603" width="95"/>
-            <vstem pos="736" width="94"/>
-            <vstem pos="855" width="96"/>
-          </hintset>
-          <hintset pointTag="hr03">
-            <hstem pos="0" width="93"/>
-            <hstem pos="118" width="93"/>
-            <hstem pos="248" width="93"/>
-            <hstem pos="402" width="93"/>
-            <hstem pos="556" width="94"/>
-            <hstem pos="687" width="93"/>
-            <hstem pos="805" width="93"/>
-            <vstem pos="66" width="96"/>
-            <vstem pos="288" width="95"/>
-            <vstem pos="446" width="95"/>
-            <vstem pos="603" width="95"/>
-            <vstem pos="736" width="94"/>
-            <vstem pos="855" width="96"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>0.6</real>

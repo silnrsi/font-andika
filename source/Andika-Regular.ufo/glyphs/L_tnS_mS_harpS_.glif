@@ -63,20 +63,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="-25" width="160"/>
-            <hstem pos="21" width="-21"/>
-            <hstem pos="1460" width="160"/>
-            <vstem pos="160" width="185"/>
-            <vstem pos="582" width="180"/>
-            <vstem pos="900" width="183"/>
-            <vstem pos="1007" width="176"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>germandbls</string>
     </dict>

@@ -58,18 +58,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="-800" width="30"/>
-            <hstem pos="-130" width="30"/>
-            <vstem pos="-780" width="30"/>
-            <vstem pos="-680" width="140"/>
-            <vstem pos="-430" width="30"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>uniF170</string>
     </dict>

@@ -77,43 +77,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="-430" width="135"/>
-            <hstem pos="-25" width="27"/>
-            <hstem pos="470" width="140"/>
-            <hstem pos="885" width="155"/>
-            <vstem pos="575" width="150"/>
-            <vstem pos="775" width="180"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="-430" width="135"/>
-            <hstem pos="-25" width="27"/>
-            <hstem pos="470" width="140"/>
-            <hstem pos="885" width="155"/>
-            <vstem pos="575" width="150"/>
-            <vstem pos="745" width="175"/>
-          </hintset>
-          <hintset pointTag="hr03">
-            <hstem pos="-430" width="135"/>
-            <hstem pos="-25" width="155"/>
-            <hstem pos="470" width="140"/>
-            <hstem pos="885" width="155"/>
-            <vstem pos="575" width="150"/>
-            <vstem pos="775" width="180"/>
-          </hintset>
-          <hintset pointTag="hr04">
-            <hstem pos="-430" width="135"/>
-            <hstem pos="-25" width="27"/>
-            <hstem pos="470" width="140"/>
-            <hstem pos="885" width="155"/>
-            <vstem pos="575" width="150"/>
-            <vstem pos="775" width="180"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>uni0499</string>
     </dict>

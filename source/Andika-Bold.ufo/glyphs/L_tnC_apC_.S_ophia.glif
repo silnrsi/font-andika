@@ -36,29 +36,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="-10" width="60"/>
-            <hstem pos="485" width="57"/>
-            <vstem pos="44" width="75"/>
-            <vstem pos="382" width="76"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="-10" width="60"/>
-            <hstem pos="485" width="57"/>
-            <vstem pos="44" width="75"/>
-            <vstem pos="380" width="74"/>
-          </hintset>
-          <hintset pointTag="hr03">
-            <hstem pos="-10" width="60"/>
-            <hstem pos="485" width="57"/>
-            <vstem pos="44" width="75"/>
-            <vstem pos="382" width="76"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>compLtnCapC</string>
     </dict>

@@ -51,18 +51,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="-10" width="160"/>
-            <hstem pos="700" width="155"/>
-            <hstem pos="1295" width="165"/>
-            <vstem pos="145" width="195"/>
-            <vstem pos="900" width="190"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>uni018B</string>
     </dict>

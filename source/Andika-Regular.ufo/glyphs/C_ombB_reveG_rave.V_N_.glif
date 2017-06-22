@@ -33,16 +33,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="1150" width="150"/>
-            <hstem pos="1595" width="263"/>
-            <vstem pos="-945" width="750"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>org.sil.assocFeature</key>
       <string>viet</string>
       <key>org.sil.assocUIDs</key>

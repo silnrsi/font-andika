@@ -40,17 +40,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="267" width="278"/>
-            <hstem pos="650" width="150"/>
-            <hstem pos="906" width="278"/>
-            <vstem pos="458" width="279"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>divide</string>
     </dict>

@@ -58,17 +58,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="437" width="132"/>
-            <hstem pos="1182" width="132"/>
-            <vstem pos="163" width="131"/>
-            <vstem pos="905" width="132"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>currency</string>
     </dict>

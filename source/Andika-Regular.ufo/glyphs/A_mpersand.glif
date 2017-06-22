@@ -60,29 +60,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="-25" width="175"/>
-            <hstem pos="1350" width="135"/>
-            <vstem pos="155" width="160"/>
-            <vstem pos="630" width="160"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="-25" width="175"/>
-            <hstem pos="1350" width="135"/>
-            <vstem pos="55" width="175"/>
-            <vstem pos="630" width="160"/>
-          </hintset>
-          <hintset pointTag="hr03">
-            <hstem pos="-25" width="175"/>
-            <hstem pos="1350" width="135"/>
-            <vstem pos="155" width="160"/>
-            <vstem pos="630" width="160"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>ampersand</string>
     </dict>

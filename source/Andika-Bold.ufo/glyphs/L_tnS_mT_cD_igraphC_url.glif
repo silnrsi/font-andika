@@ -90,27 +90,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="6" width="-21"/>
-            <hstem pos="390" width="115"/>
-            <hstem pos="875" width="165"/>
-            <vstem pos="280" width="185"/>
-            <vstem pos="740" width="190"/>
-            <vstem pos="1460" width="140"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="-25" width="165"/>
-            <hstem pos="390" width="115"/>
-            <hstem pos="850" width="145"/>
-            <vstem pos="280" width="185"/>
-            <vstem pos="740" width="190"/>
-            <vstem pos="1460" width="140"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <integer>1</integer>

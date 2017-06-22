@@ -48,18 +48,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="0" width="465"/>
-            <hstem pos="320" width="145"/>
-            <hstem pos="570" width="145"/>
-            <hstem pos="641" width="19"/>
-            <vstem pos="517" width="165"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>yen</string>
     </dict>

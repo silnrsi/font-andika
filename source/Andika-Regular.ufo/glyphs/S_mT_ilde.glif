@@ -34,26 +34,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="1290" width="165"/>
-            <vstem pos="0" width="105"/>
-            <vstem pos="605" width="105"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="1190" width="165"/>
-            <vstem pos="0" width="105"/>
-            <vstem pos="605" width="105"/>
-          </hintset>
-          <hintset pointTag="hr03">
-            <hstem pos="1290" width="165"/>
-            <vstem pos="0" width="105"/>
-            <vstem pos="605" width="105"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>tilde</string>
     </dict>

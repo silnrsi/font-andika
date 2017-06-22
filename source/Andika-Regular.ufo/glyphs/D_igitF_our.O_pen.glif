@@ -28,17 +28,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="21" width="-21"/>
-            <hstem pos="435" width="155"/>
-            <hstem pos="1460" width="-20"/>
-            <vstem pos="740" width="185"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>org.sil.assocFeature</key>
       <string>dig4</string>
       <key>org.sil.assocUIDs</key>

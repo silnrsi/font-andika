@@ -60,59 +60,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="465" width="125"/>
-            <hstem pos="870" width="130"/>
-            <vstem pos="40" width="140"/>
-            <vstem pos="1020" width="140"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="465" width="130"/>
-            <hstem pos="870" width="130"/>
-            <vstem pos="40" width="140"/>
-            <vstem pos="1020" width="140"/>
-          </hintset>
-          <hintset pointTag="hr03">
-            <hstem pos="465" width="125"/>
-            <hstem pos="870" width="130"/>
-            <vstem pos="40" width="140"/>
-            <vstem pos="1020" width="140"/>
-          </hintset>
-          <hintset pointTag="hr04">
-            <hstem pos="465" width="125"/>
-            <hstem pos="865" width="135"/>
-            <vstem pos="40" width="140"/>
-            <vstem pos="1020" width="140"/>
-          </hintset>
-          <hintset pointTag="hr05">
-            <hstem pos="465" width="125"/>
-            <hstem pos="870" width="130"/>
-            <vstem pos="40" width="140"/>
-            <vstem pos="1020" width="140"/>
-          </hintset>
-          <hintset pointTag="hr06">
-            <hstem pos="465" width="125"/>
-            <hstem pos="865" width="135"/>
-            <vstem pos="40" width="140"/>
-            <vstem pos="1020" width="140"/>
-          </hintset>
-          <hintset pointTag="hr07">
-            <hstem pos="465" width="130"/>
-            <hstem pos="870" width="130"/>
-            <vstem pos="40" width="140"/>
-            <vstem pos="1020" width="140"/>
-          </hintset>
-          <hintset pointTag="hr08">
-            <hstem pos="465" width="125"/>
-            <hstem pos="870" width="130"/>
-            <vstem pos="40" width="140"/>
-            <vstem pos="1020" width="140"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>infinity</string>
     </dict>

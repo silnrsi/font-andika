@@ -70,35 +70,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="-520" width="30"/>
-            <hstem pos="140" width="335"/>
-            <hstem pos="620" width="250"/>
-            <hstem pos="1040" width="30"/>
-            <vstem pos="-30" width="30"/>
-            <vstem pos="1205" width="30"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="-520" width="30"/>
-            <hstem pos="140" width="335"/>
-            <hstem pos="620" width="250"/>
-            <hstem pos="1020" width="50"/>
-            <vstem pos="-30" width="30"/>
-            <vstem pos="1205" width="30"/>
-          </hintset>
-          <hintset pointTag="hr03">
-            <hstem pos="-520" width="30"/>
-            <hstem pos="140" width="335"/>
-            <hstem pos="620" width="250"/>
-            <hstem pos="1040" width="30"/>
-            <vstem pos="-30" width="30"/>
-            <vstem pos="1205" width="30"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>uniF210</string>
     </dict>

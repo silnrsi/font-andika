@@ -54,48 +54,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="-388" width="160"/>
-            <hstem pos="0" width="151"/>
-            <hstem pos="586" width="143"/>
-            <hstem pos="1069" width="152"/>
-            <vstem pos="166" width="184"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="-388" width="160"/>
-            <hstem pos="0" width="151"/>
-            <hstem pos="586" width="143"/>
-            <hstem pos="1069" width="152"/>
-            <vstem pos="166" width="184"/>
-            <vstem pos="365" width="162"/>
-          </hintset>
-          <hintset pointTag="hr03">
-            <hstem pos="-388" width="160"/>
-            <hstem pos="0" width="151"/>
-            <hstem pos="586" width="143"/>
-            <hstem pos="1069" width="152"/>
-            <vstem pos="166" width="184"/>
-          </hintset>
-          <hintset pointTag="hr04">
-            <hstem pos="-388" width="160"/>
-            <hstem pos="0" width="151"/>
-            <hstem pos="586" width="143"/>
-            <hstem pos="1069" width="152"/>
-            <vstem pos="166" width="184"/>
-            <vstem pos="365" width="162"/>
-          </hintset>
-          <hintset pointTag="hr05">
-            <hstem pos="-388" width="160"/>
-            <hstem pos="0" width="151"/>
-            <hstem pos="586" width="143"/>
-            <hstem pos="1069" width="152"/>
-            <vstem pos="166" width="184"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>org.sil.assocFeature</key>
       <string>smcp</string>
       <key>org.sil.assocUIDs</key>

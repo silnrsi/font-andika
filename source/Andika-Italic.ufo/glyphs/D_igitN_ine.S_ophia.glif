@@ -49,18 +49,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="-10" width="56"/>
-            <hstem pos="203" width="57"/>
-            <hstem pos="486" width="56"/>
-            <vstem pos="34" width="76"/>
-            <vstem pos="306" width="72"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>compDigitNine</string>
     </dict>

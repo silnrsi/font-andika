@@ -56,16 +56,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="169" width="165"/>
-            <hstem pos="904" width="165"/>
-            <vstem pos="435" width="155"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>daggerdbl</string>
     </dict>

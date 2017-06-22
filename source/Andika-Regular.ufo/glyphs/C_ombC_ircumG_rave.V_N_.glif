@@ -23,19 +23,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="1600" width="-20"/>
-            <vstem pos="-1114" width="969"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="1450" width="150"/>
-            <vstem pos="-1114" width="969"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>org.sil.assocFeature</key>
       <string>viet</string>
       <key>org.sil.assocUIDs</key>

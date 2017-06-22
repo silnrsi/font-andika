@@ -66,46 +66,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="-25" width="170"/>
-            <hstem pos="710" width="155"/>
-            <hstem pos="1325" width="160"/>
-            <vstem pos="90" width="200"/>
-            <vstem pos="910" width="200"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="-25" width="170"/>
-            <hstem pos="710" width="155"/>
-            <hstem pos="1325" width="160"/>
-            <vstem pos="150" width="190"/>
-            <vstem pos="860" width="190"/>
-          </hintset>
-          <hintset pointTag="hr03">
-            <hstem pos="-25" width="170"/>
-            <hstem pos="710" width="155"/>
-            <hstem pos="1325" width="160"/>
-            <vstem pos="90" width="200"/>
-            <vstem pos="910" width="200"/>
-          </hintset>
-          <hintset pointTag="hr04">
-            <hstem pos="-25" width="170"/>
-            <hstem pos="710" width="155"/>
-            <hstem pos="1325" width="160"/>
-            <vstem pos="150" width="190"/>
-            <vstem pos="860" width="190"/>
-          </hintset>
-          <hintset pointTag="hr05">
-            <hstem pos="-25" width="170"/>
-            <hstem pos="710" width="155"/>
-            <hstem pos="1325" width="160"/>
-            <vstem pos="90" width="200"/>
-            <vstem pos="910" width="200"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>eight</string>
     </dict>

@@ -17,10 +17,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList/>
-      </data>
       <key>com.typemytype.robofont.guides</key>
       <array>
         <dict>

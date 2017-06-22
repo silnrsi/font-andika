@@ -44,18 +44,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="639" width="30"/>
-            <hstem pos="1343" width="30"/>
-            <vstem pos="76" width="39"/>
-            <vstem pos="246" width="356"/>
-            <vstem pos="734" width="38"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>uniF1CC</string>
     </dict>

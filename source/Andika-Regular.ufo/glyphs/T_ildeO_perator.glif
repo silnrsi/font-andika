@@ -28,27 +28,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="670" width="145"/>
-            <vstem pos="110" width="980"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="540" width="145"/>
-            <vstem pos="110" width="980"/>
-          </hintset>
-          <hintset pointTag="hr03">
-            <hstem pos="670" width="145"/>
-            <vstem pos="110" width="980"/>
-          </hintset>
-          <hintset pointTag="hr04">
-            <hstem pos="540" width="145"/>
-            <vstem pos="110" width="980"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>similar</string>
     </dict>

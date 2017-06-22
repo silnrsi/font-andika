@@ -50,32 +50,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="21" width="-21"/>
-            <hstem pos="850" width="145"/>
-            <hstem pos="1460" width="160"/>
-            <vstem pos="220" width="185"/>
-            <vstem pos="840" width="185"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="21" width="-21"/>
-            <hstem pos="850" width="145"/>
-            <hstem pos="1390" width="175"/>
-            <vstem pos="220" width="185"/>
-            <vstem pos="840" width="185"/>
-          </hintset>
-          <hintset pointTag="hr03">
-            <hstem pos="21" width="-21"/>
-            <hstem pos="850" width="145"/>
-            <hstem pos="1460" width="160"/>
-            <vstem pos="220" width="185"/>
-            <vstem pos="840" width="185"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>fl</string>
     </dict>

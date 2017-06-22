@@ -52,19 +52,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="-25" width="160"/>
-            <hstem pos="1460" width="-20"/>
-            <hstem pos="1580" width="220"/>
-            <vstem pos="175" width="190"/>
-            <vstem pos="1050" width="190"/>
-            <vstem pos="1425" width="150"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>Uhorn</string>
     </dict>

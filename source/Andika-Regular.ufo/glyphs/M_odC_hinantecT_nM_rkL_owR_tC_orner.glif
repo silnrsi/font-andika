@@ -14,23 +14,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="1175" width="130"/>
-            <vstem pos="625" width="130"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="1175" width="425"/>
-            <vstem pos="625" width="130"/>
-          </hintset>
-          <hintset pointTag="hr03">
-            <hstem pos="1175" width="130"/>
-            <vstem pos="625" width="130"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>uniA71A</string>
     </dict>

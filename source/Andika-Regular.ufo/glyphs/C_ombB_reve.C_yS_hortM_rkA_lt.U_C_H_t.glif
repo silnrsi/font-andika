@@ -27,16 +27,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="1555" width="140"/>
-            <vstem pos="-1100" width="185"/>
-            <vstem pos="-515" width="185"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>org.sil.assocUIDs</key>
       <array>
         <string>0306</string>

@@ -66,27 +66,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="-470" width="170"/>
-            <hstem pos="165" width="120"/>
-            <hstem pos="1450" width="170"/>
-            <vstem pos="155" width="185"/>
-            <vstem pos="385" width="185"/>
-            <vstem pos="915" width="135"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="-310" width="135"/>
-            <hstem pos="165" width="120"/>
-            <hstem pos="1450" width="170"/>
-            <vstem pos="155" width="185"/>
-            <vstem pos="385" width="185"/>
-            <vstem pos="915" width="135"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>uni1D8B</string>
     </dict>

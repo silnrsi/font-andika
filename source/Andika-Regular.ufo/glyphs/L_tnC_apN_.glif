@@ -42,23 +42,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="21" width="-21"/>
-            <hstem pos="1355" width="105"/>
-            <vstem pos="175" width="165"/>
-            <vstem pos="1135" width="165"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="0" width="100"/>
-            <hstem pos="1460" width="-20"/>
-            <vstem pos="175" width="165"/>
-            <vstem pos="1135" width="165"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>N</string>
     </dict>

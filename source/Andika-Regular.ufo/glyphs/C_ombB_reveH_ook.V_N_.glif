@@ -55,27 +55,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="1150" width="150"/>
-            <hstem pos="1865" width="95"/>
-            <vstem pos="-630" width="110"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="1150" width="150"/>
-            <hstem pos="1865" width="95"/>
-            <vstem pos="-630" width="110"/>
-            <vstem pos="-505" width="115"/>
-          </hintset>
-          <hintset pointTag="hr03">
-            <hstem pos="1150" width="150"/>
-            <hstem pos="1865" width="95"/>
-            <vstem pos="-630" width="110"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>org.sil.assocFeature</key>
       <string>viet</string>
       <key>org.sil.assocUIDs</key>

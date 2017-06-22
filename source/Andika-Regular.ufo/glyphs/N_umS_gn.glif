@@ -30,26 +30,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="575" width="150"/>
-            <hstem pos="960" width="500"/>
-            <vstem pos="25" width="1150"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="575" width="150"/>
-            <hstem pos="960" width="150"/>
-            <vstem pos="25" width="1150"/>
-          </hintset>
-          <hintset pointTag="hr03">
-            <hstem pos="575" width="150"/>
-            <hstem pos="960" width="500"/>
-            <vstem pos="25" width="1150"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>numbersign</string>
     </dict>

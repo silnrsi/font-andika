@@ -51,18 +51,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="-21" width="147"/>
-            <hstem pos="1305" width="196"/>
-            <vstem pos="169" width="184"/>
-            <vstem pos="1101" width="43"/>
-            <vstem pos="1299" width="148"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>org.sil.assocFeature</key>
       <string>smcp</string>
       <key>org.sil.assocUIDs</key>

@@ -21,17 +21,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="690" width="30"/>
-            <hstem pos="1485" width="30"/>
-            <vstem pos="40" width="240"/>
-            <vstem pos="395" width="240"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>uniF19C</string>
     </dict>

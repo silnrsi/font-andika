@@ -78,56 +78,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="-40" width="30"/>
-            <hstem pos="150" width="215"/>
-            <hstem pos="510" width="190"/>
-            <hstem pos="1470" width="30"/>
-            <vstem pos="0" width="30"/>
-            <vstem pos="1170" width="30"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="-40" width="30"/>
-            <hstem pos="150" width="215"/>
-            <hstem pos="510" width="190"/>
-            <hstem pos="1460" width="-20"/>
-            <hstem pos="1470" width="30"/>
-            <vstem pos="0" width="30"/>
-            <vstem pos="1170" width="30"/>
-          </hintset>
-          <hintset pointTag="hr03">
-            <hstem pos="-40" width="30"/>
-            <hstem pos="150" width="215"/>
-            <hstem pos="510" width="190"/>
-            <hstem pos="1470" width="30"/>
-            <vstem pos="0" width="30"/>
-            <vstem pos="1170" width="30"/>
-          </hintset>
-          <hintset pointTag="hr04">
-            <hstem pos="-40" width="30"/>
-            <hstem pos="21" width="-21"/>
-            <hstem pos="150" width="215"/>
-            <hstem pos="510" width="190"/>
-            <hstem pos="1470" width="30"/>
-            <vstem pos="0" width="30"/>
-            <vstem pos="645" width="330"/>
-            <vstem pos="1170" width="30"/>
-          </hintset>
-          <hintset pointTag="hr05">
-            <hstem pos="-40" width="30"/>
-            <hstem pos="150" width="215"/>
-            <hstem pos="510" width="190"/>
-            <hstem pos="855" width="460"/>
-            <hstem pos="1470" width="30"/>
-            <vstem pos="0" width="30"/>
-            <vstem pos="395" width="505"/>
-            <vstem pos="1170" width="30"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>uniF20A</string>
     </dict>

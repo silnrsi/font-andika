@@ -37,22 +37,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="0" width="165"/>
-            <hstem pos="1295" width="165"/>
-            <vstem pos="525" width="190"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="0" width="165"/>
-            <hstem pos="1295" width="165"/>
-            <vstem pos="525" width="190"/>
-            <vstem pos="735" width="165"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>uni04AC</string>
     </dict>

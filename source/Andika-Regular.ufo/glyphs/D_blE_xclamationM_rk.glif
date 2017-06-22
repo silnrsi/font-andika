@@ -54,26 +54,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="-25" width="270"/>
-            <vstem pos="275" width="175"/>
-            <vstem pos="775" width="175"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="-25" width="270"/>
-            <vstem pos="275" width="175"/>
-            <vstem pos="725" width="270"/>
-          </hintset>
-          <hintset pointTag="hr03">
-            <hstem pos="-25" width="270"/>
-            <vstem pos="225" width="270"/>
-            <vstem pos="775" width="175"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>exclamdbl</string>
     </dict>

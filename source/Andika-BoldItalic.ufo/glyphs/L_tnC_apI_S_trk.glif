@@ -32,47 +32,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="0" width="203"/>
-            <hstem pos="638" width="207"/>
-            <hstem pos="1242" width="203"/>
-            <vstem pos="310" width="285"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="0" width="203"/>
-            <hstem pos="638" width="207"/>
-            <hstem pos="1242" width="203"/>
-            <vstem pos="70" width="525"/>
-          </hintset>
-          <hintset pointTag="hr03">
-            <hstem pos="0" width="203"/>
-            <hstem pos="638" width="207"/>
-            <hstem pos="1242" width="203"/>
-            <vstem pos="310" width="525"/>
-          </hintset>
-          <hintset pointTag="hr04">
-            <hstem pos="0" width="203"/>
-            <hstem pos="638" width="207"/>
-            <hstem pos="1242" width="203"/>
-            <vstem pos="70" width="525"/>
-          </hintset>
-          <hintset pointTag="hr05">
-            <hstem pos="0" width="203"/>
-            <hstem pos="638" width="207"/>
-            <hstem pos="1242" width="203"/>
-            <vstem pos="310" width="525"/>
-          </hintset>
-          <hintset pointTag="hr05">
-            <hstem pos="0" width="203"/>
-            <hstem pos="638" width="207"/>
-            <hstem pos="1242" width="203"/>
-            <vstem pos="70" width="525"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>com.typemytype.robofont.guides</key>
       <array>
         <dict>

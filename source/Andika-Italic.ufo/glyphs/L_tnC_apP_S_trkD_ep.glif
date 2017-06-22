@@ -66,20 +66,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="-30" width="30"/>
-            <hstem pos="710" width="245"/>
-            <hstem pos="1100" width="210"/>
-            <hstem pos="1470" width="30"/>
-            <vstem pos="0" width="205"/>
-            <vstem pos="645" width="310"/>
-            <vstem pos="1145" width="30"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>uniF25C</string>
     </dict>

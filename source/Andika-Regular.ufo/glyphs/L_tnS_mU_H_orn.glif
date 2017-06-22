@@ -66,35 +66,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="21" width="-21"/>
-            <hstem pos="1020" width="-20"/>
-            <hstem pos="1070" width="200"/>
-            <vstem pos="155" width="185"/>
-            <vstem pos="840" width="185"/>
-            <vstem pos="1210" width="140"/>
-          </hintset>
-          <hintset pointTag="hr02">
-            <hstem pos="-25" width="165"/>
-            <hstem pos="1020" width="-20"/>
-            <hstem pos="1070" width="200"/>
-            <vstem pos="155" width="185"/>
-            <vstem pos="840" width="185"/>
-            <vstem pos="1210" width="140"/>
-          </hintset>
-          <hintset pointTag="hr03">
-            <hstem pos="21" width="-21"/>
-            <hstem pos="1020" width="-20"/>
-            <hstem pos="1070" width="200"/>
-            <vstem pos="155" width="185"/>
-            <vstem pos="840" width="185"/>
-            <vstem pos="1210" width="140"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>uhorn</string>
     </dict>

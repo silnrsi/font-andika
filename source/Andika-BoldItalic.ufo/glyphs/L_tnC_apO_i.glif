@@ -67,19 +67,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr01">
-            <hstem pos="-464" width="-21"/>
-            <hstem pos="-25" width="173"/>
-            <hstem pos="1297" width="173"/>
-            <vstem pos="35" width="195"/>
-            <vstem pos="1085" width="195"/>
-            <vstem pos="1480" width="190"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>0.6</real>

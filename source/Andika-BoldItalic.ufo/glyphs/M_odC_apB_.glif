@@ -13,19 +13,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="lsb">
-            <hstem pos="0" width="71"/>
-            <hstem pos="664" width="69"/>
-            <hstem pos="1289" width="67"/>
-            <vstem pos="226" width="193"/>
-            <vstem pos="979" width="210"/>
-            <vstem pos="1020" width="231"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>uni1D2E</string>
     </dict>

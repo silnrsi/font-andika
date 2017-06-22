@@ -23,16 +23,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="485" width="95"/>
-            <hstem pos="865" width="95"/>
-            <vstem pos="70" width="1880"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>public.postscriptname</key>
       <string>arrowdblright</string>
     </dict>

@@ -50,17 +50,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-        <hintSetList>
-          <hintset pointTag="hr00">
-            <hstem pos="375" width="87"/>
-            <hstem pos="664" width="107"/>
-            <vstem pos="138" width="129"/>
-            <vstem pos="334" width="94"/>
-          </hintset>
-        </hintSetList>
-      </data>
       <key>org.sil.assocFeature</key>
       <string>l_tl</string>
       <key>org.sil.assocUIDs</key>
