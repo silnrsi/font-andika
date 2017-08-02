@@ -18,10 +18,4 @@
       <point x="1014" y="2065" type="move" name="U"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>Lacute</string>
-    </dict>
-  </lib>
 </glyph>

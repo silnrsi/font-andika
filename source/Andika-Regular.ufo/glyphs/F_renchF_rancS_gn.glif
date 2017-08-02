@@ -37,10 +37,4 @@
       <point x="435" y="950" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>franc</string>
-    </dict>
-  </lib>
 </glyph>

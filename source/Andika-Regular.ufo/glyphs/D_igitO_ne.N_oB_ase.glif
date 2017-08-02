@@ -21,16 +21,4 @@
       <point x="600" y="1530" type="move" name="U"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.sil.assocFeature</key>
-      <string>dig1</string>
-      <key>org.sil.assocUIDs</key>
-      <array>
-        <string>0031</string>
-      </array>
-      <key>public.postscriptname</key>
-      <string>one.NoBase</string>
-    </dict>
-  </lib>
 </glyph>

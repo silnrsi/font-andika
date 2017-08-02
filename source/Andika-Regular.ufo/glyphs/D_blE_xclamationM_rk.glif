@@ -52,10 +52,4 @@
       <point x="225" y="184"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>exclamdbl</string>
-    </dict>
-  </lib>
 </glyph>

@@ -75,10 +75,4 @@
       <point x="1045" y="1635" type="move" name="U"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>uni1D7A</string>
-    </dict>
-  </lib>
 </glyph>

@@ -21,10 +21,4 @@
       <point x="70" y="485" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>arrowdblright</string>
-    </dict>
-  </lib>
 </glyph>

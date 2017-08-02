@@ -81,10 +81,4 @@
       <point x="1485" y="1600" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>twothirds</string>
-    </dict>
-  </lib>
 </glyph>

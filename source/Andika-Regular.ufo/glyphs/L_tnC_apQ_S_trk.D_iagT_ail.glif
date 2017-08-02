@@ -55,16 +55,4 @@
       <point x="717" y="1530" type="move" name="U"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.sil.assocFeature</key>
-      <string>Qalt</string>
-      <key>org.sil.assocUIDs</key>
-      <array>
-        <string>A756</string>
-      </array>
-      <key>public.postscriptname</key>
-      <string>uniA756.DiagTail</string>
-    </dict>
-  </lib>
 </glyph>

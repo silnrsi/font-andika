@@ -72,10 +72,4 @@
       <point x="510" y="735" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>section</string>
-    </dict>
-  </lib>
 </glyph>

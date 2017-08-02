@@ -19,16 +19,4 @@
       <point x="251" y="528" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.sil.assocFeature</key>
-      <string>smcp</string>
-      <key>org.sil.assocUIDs</key>
-      <array>
-        <string>A78C</string>
-      </array>
-      <key>public.postscriptname</key>
-      <string>uniA78C.sc</string>
-    </dict>
-  </lib>
 </glyph>

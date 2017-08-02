@@ -19,10 +19,4 @@
       <point x="34" y="727"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>compTnLtrSeg35</string>
-    </dict>
-  </lib>
 </glyph>

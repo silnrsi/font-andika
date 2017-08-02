@@ -4,16 +4,4 @@
   <outline>
     <component base="DigitSix.Diag" xScale="0.7" yScale="0.65" xOffset="5" yOffset="-300"/>
   </outline>
-  <lib>
-    <dict>
-      <key>org.sil.assocFeature</key>
-      <string>dg69</string>
-      <key>org.sil.assocUIDs</key>
-      <array>
-        <string>2086</string>
-      </array>
-      <key>public.postscriptname</key>
-      <string>uni2086.Diag</string>
-    </dict>
-  </lib>
 </glyph>

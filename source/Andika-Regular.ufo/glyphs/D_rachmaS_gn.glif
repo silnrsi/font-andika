@@ -119,10 +119,4 @@
       <point x="400" y="352"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>uni20AF</string>
-    </dict>
-  </lib>
 </glyph>

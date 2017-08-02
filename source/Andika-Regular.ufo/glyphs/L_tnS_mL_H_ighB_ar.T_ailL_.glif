@@ -53,14 +53,6 @@
           <integer>0</integer>
         </dict>
       </array>
-      <key>org.sil.assocFeature</key>
-      <string>l_tl</string>
-      <key>org.sil.assocUIDs</key>
-      <array>
-        <string>A749</string>
-      </array>
-      <key>public.postscriptname</key>
-      <string>uniA749.TailL</string>
     </dict>
   </lib>
 </glyph>

@@ -65,10 +65,4 @@
       <point x="70" y="940" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>uni20B4</string>
-    </dict>
-  </lib>
 </glyph>

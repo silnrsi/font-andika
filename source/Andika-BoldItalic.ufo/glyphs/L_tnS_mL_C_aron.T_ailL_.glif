@@ -54,14 +54,6 @@
         <integer>1</integer>
         <integer>1</integer>
       </array>
-      <key>org.sil.assocFeature</key>
-      <string>l_tl</string>
-      <key>org.sil.assocUIDs</key>
-      <array>
-        <string>013E</string>
-      </array>
-      <key>public.postscriptname</key>
-      <string>lcaron.TailL</string>
     </dict>
   </lib>
 </glyph>

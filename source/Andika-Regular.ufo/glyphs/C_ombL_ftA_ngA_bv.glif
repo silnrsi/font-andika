@@ -12,10 +12,4 @@
       <point x="-100" y="1130" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>uni031A</string>
-    </dict>
-  </lib>
 </glyph>

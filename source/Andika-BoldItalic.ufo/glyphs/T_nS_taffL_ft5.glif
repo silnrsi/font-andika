@@ -8,10 +8,4 @@
       <point x="200" y="1540" type="move" name="TL"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>uniA712.lstaff</string>
-    </dict>
-  </lib>
 </glyph>

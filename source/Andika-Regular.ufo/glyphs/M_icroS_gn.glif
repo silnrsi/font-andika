@@ -49,10 +49,4 @@
       <point x="920" y="0" type="curve" name="hr03"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>mu</string>
-    </dict>
-  </lib>
 </glyph>

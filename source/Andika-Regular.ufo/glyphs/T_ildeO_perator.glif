@@ -26,10 +26,4 @@
       <point x="1090" y="670" type="curve" name="hr04"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>similar</string>
-    </dict>
-  </lib>
 </glyph>

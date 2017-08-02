@@ -31,10 +31,4 @@
       <point x="290" y="1635" type="move" name="U"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>lcaron</string>
-    </dict>
-  </lib>
 </glyph>

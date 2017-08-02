@@ -50,14 +50,6 @@
         <integer>1</integer>
         <integer>1</integer>
       </array>
-      <key>org.sil.assocFeature</key>
-      <string>y_tl</string>
-      <key>org.sil.assocUIDs</key>
-      <array>
-        <string>0079</string>
-      </array>
-      <key>public.postscriptname</key>
-      <string>y.NoTailY</string>
     </dict>
   </lib>
 </glyph>

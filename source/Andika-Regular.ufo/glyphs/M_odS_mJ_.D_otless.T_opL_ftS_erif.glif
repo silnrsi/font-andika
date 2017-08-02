@@ -38,16 +38,4 @@
       <point x="335" y="1395" type="move" name="U"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.sil.assocFeature</key>
-      <string>jser</string>
-      <key>org.sil.assocUIDs</key>
-      <array>
-        <string>02B2</string>
-      </array>
-      <key>public.postscriptname</key>
-      <string>uni02B2.Dotless.TopLftSerif</string>
-    </dict>
-  </lib>
 </glyph>

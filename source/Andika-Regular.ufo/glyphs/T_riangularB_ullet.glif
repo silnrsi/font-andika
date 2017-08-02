@@ -9,10 +9,4 @@
       <point x="95" y="105" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>uni2023</string>
-    </dict>
-  </lib>
 </glyph>

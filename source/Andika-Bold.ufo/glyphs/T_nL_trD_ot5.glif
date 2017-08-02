@@ -17,10 +17,4 @@
       <point x="-50" y="1420"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>compTnLtrDot5</string>
-    </dict>
-  </lib>
 </glyph>

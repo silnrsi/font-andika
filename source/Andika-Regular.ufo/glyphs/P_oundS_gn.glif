@@ -44,10 +44,4 @@
       <point x="155" y="835" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>sterling</string>
-    </dict>
-  </lib>
 </glyph>

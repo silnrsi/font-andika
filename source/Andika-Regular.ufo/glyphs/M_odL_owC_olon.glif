@@ -32,10 +32,4 @@
       <point x="120" y="334"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>uniA789</string>
-    </dict>
-  </lib>
 </glyph>

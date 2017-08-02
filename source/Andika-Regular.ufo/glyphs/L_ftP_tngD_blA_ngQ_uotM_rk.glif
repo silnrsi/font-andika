@@ -20,10 +20,4 @@
       <point x="1003" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>guillemotleft</string>
-    </dict>
-  </lib>
 </glyph>

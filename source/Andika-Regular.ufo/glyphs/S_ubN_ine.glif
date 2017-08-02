@@ -5,10 +5,4 @@
   <outline>
     <component base="DigitNine" xScale="0.7" yScale="0.65" xOffset="5" yOffset="-300"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>uni2089</string>
-    </dict>
-  </lib>
 </glyph>

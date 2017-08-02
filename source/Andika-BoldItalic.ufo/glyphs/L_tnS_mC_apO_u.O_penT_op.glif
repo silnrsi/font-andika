@@ -72,14 +72,6 @@
         <integer>1</integer>
         <integer>1</integer>
       </array>
-      <key>org.sil.assocFeature</key>
-      <string>opOU</string>
-      <key>org.sil.assocUIDs</key>
-      <array>
-        <string>1D15</string>
-      </array>
-      <key>public.postscriptname</key>
-      <string>uni1D15.OpenTop</string>
     </dict>
   </lib>
 </glyph>

@@ -21,10 +21,4 @@
       <point x="852" y="1880" type="move" name="U"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>Imacron</string>
-    </dict>
-  </lib>
 </glyph>

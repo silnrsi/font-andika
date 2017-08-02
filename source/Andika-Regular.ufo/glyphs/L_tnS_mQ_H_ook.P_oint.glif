@@ -58,16 +58,4 @@
       <point x="555" y="1630" type="move" name="U"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.sil.assocFeature</key>
-      <string>q_tl</string>
-      <key>org.sil.assocUIDs</key>
-      <array>
-        <string>02A0</string>
-      </array>
-      <key>public.postscriptname</key>
-      <string>uni02A0.Point</string>
-    </dict>
-  </lib>
 </glyph>

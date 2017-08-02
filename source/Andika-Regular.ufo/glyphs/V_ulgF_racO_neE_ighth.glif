@@ -77,10 +77,4 @@
       <point x="275" y="1470" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>oneeighth</string>
-    </dict>
-  </lib>
 </glyph>

@@ -32,16 +32,4 @@
       <point x="200" y="1395" type="move" name="U"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.sil.assocFeature</key>
-      <string>i_tl</string>
-      <key>org.sil.assocUIDs</key>
-      <array>
-        <string>2071</string>
-      </array>
-      <key>public.postscriptname</key>
-      <string>uni2071.Dotless.TailI</string>
-    </dict>
-  </lib>
 </glyph>

@@ -77,10 +77,4 @@
       <point x="782" y="905"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>at</string>
-    </dict>
-  </lib>
 </glyph>

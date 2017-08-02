@@ -64,14 +64,6 @@
         <real>0.6</real>
         <integer>1</integer>
       </array>
-      <key>org.sil.assocFeature</key>
-      <string>i_tl</string>
-      <key>org.sil.assocUIDs</key>
-      <array>
-        <string>0365</string>
-      </array>
-      <key>public.postscriptname</key>
-      <string>uni0365.TailI</string>
     </dict>
   </lib>
 </glyph>

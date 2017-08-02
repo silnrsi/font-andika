@@ -18,10 +18,4 @@
       <point x="515" y="1455" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>lozenge</string>
-    </dict>
-  </lib>
 </glyph>

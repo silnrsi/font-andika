@@ -58,10 +58,4 @@
       <point x="180" y="-150" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>dong</string>
-    </dict>
-  </lib>
 </glyph>

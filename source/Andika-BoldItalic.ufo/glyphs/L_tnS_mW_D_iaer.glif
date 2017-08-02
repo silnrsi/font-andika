@@ -12,10 +12,4 @@
       <point x="1122" y="1585" type="move" name="U"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>wdieresis</string>
-    </dict>
-  </lib>
 </glyph>

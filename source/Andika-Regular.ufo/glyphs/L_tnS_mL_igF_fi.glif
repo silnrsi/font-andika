@@ -79,10 +79,4 @@
       <point x="1385" y="1419"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>ffi</string>
-    </dict>
-  </lib>
 </glyph>

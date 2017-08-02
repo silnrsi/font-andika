@@ -16,10 +16,4 @@
       <point x="0" y="-170" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>underscoredbl</string>
-    </dict>
-  </lib>
 </glyph>

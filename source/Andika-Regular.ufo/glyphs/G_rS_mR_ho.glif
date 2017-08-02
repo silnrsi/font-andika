@@ -39,10 +39,4 @@
       <point x="145" y="440" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>rho</string>
-    </dict>
-  </lib>
 </glyph>

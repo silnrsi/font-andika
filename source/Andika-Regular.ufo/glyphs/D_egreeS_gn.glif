@@ -32,10 +32,4 @@
       <point x="70" y="1375"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>degree</string>
-    </dict>
-  </lib>
 </glyph>

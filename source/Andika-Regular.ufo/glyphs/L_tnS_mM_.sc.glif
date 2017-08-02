@@ -62,14 +62,6 @@
           <integer>950</integer>
         </dict>
       </array>
-      <key>org.sil.assocFeature</key>
-      <string>smcp</string>
-      <key>org.sil.assocUIDs</key>
-      <array>
-        <string>006D</string>
-      </array>
-      <key>public.postscriptname</key>
-      <string>m.sc</string>
     </dict>
   </lib>
 </glyph>

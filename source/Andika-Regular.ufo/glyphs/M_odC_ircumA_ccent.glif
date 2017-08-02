@@ -13,10 +13,4 @@
       <point x="10" y="1170" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>circumflex</string>
-    </dict>
-  </lib>
 </glyph>

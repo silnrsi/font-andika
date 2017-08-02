@@ -35,14 +35,6 @@
         <integer>1</integer>
         <integer>1</integer>
       </array>
-      <key>org.sil.assocFeature</key>
-      <string>dig4</string>
-      <key>org.sil.assocUIDs</key>
-      <array>
-        <string>0034</string>
-      </array>
-      <key>public.postscriptname</key>
-      <string>four.Open</string>
     </dict>
   </lib>
 </glyph>

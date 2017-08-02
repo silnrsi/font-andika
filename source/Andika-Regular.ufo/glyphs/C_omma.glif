@@ -21,10 +21,4 @@
       <point x="185" y="150" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>comma</string>
-    </dict>
-  </lib>
 </glyph>

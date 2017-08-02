@@ -80,10 +80,4 @@
       <point x="1350" y="352"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>seveneighths</string>
-    </dict>
-  </lib>
 </glyph>

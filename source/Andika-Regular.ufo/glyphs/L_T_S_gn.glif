@@ -13,10 +13,4 @@
       <point x="1080" y="245" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>less</string>
-    </dict>
-  </lib>
 </glyph>

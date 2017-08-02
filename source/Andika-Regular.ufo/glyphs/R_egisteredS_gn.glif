@@ -74,10 +74,4 @@
       <point x="675" y="767" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>registered</string>
-    </dict>
-  </lib>
 </glyph>

@@ -48,10 +48,4 @@
       <point x="1090" y="900" type="curve" name="hr06"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>approxequal</string>
-    </dict>
-  </lib>
 </glyph>

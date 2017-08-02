@@ -38,10 +38,4 @@
       <point x="735" y="1320" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>cent</string>
-    </dict>
-  </lib>
 </glyph>

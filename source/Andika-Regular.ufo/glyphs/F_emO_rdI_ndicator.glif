@@ -48,10 +48,4 @@
       <point x="266" y="1252"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>ordfeminine</string>
-    </dict>
-  </lib>
 </glyph>

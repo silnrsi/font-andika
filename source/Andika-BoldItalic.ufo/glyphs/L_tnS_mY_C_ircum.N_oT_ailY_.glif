@@ -14,16 +14,4 @@
       <point x="791" y="1635" type="move" name="U"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.sil.assocFeature</key>
-      <string>y_tl</string>
-      <key>org.sil.assocUIDs</key>
-      <array>
-        <string>0177</string>
-      </array>
-      <key>public.postscriptname</key>
-      <string>ycircumflex.NoTailY</string>
-    </dict>
-  </lib>
 </glyph>

@@ -4,16 +4,4 @@
   <outline>
     <component base="DigitOne.NoBase" xScale="0.7" yScale="0.65" xOffset="5" yOffset="-300"/>
   </outline>
-  <lib>
-    <dict>
-      <key>org.sil.assocFeature</key>
-      <string>dig1</string>
-      <key>org.sil.assocUIDs</key>
-      <array>
-        <string>2081</string>
-      </array>
-      <key>public.postscriptname</key>
-      <string>uni2081.NoBase</string>
-    </dict>
-  </lib>
 </glyph>

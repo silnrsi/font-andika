@@ -13,10 +13,4 @@
       <point x="120" y="1215" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>greater</string>
-    </dict>
-  </lib>
 </glyph>

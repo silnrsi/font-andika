@@ -240,10 +240,4 @@
       <point x="553" y="1000" type="move" name="U"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>uni25CC</string>
-    </dict>
-  </lib>
 </glyph>

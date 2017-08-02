@@ -18,10 +18,4 @@
       <point x="732" y="1880" type="move" name="U"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>Amacron</string>
-    </dict>
-  </lib>
 </glyph>

@@ -24,10 +24,4 @@
       <point x="155" y="350" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>plusminus</string>
-    </dict>
-  </lib>
 </glyph>

@@ -128,14 +128,6 @@
         <integer>1</integer>
         <integer>1</integer>
       </array>
-      <key>org.sil.assocFeature</key>
-      <string>litr</string>
-      <key>org.sil.assocUIDs</key>
-      <array>
-        <string>0067</string>
-      </array>
-      <key>public.postscriptname</key>
-      <string>g</string>
     </dict>
   </lib>
 </glyph>

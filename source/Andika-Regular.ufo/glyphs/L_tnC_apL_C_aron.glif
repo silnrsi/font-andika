@@ -32,8 +32,6 @@
           <integer>1600</integer>
         </dict>
       </array>
-      <key>public.postscriptname</key>
-      <string>Lcaron</string>
     </dict>
   </lib>
 </glyph>

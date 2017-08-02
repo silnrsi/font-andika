@@ -41,10 +41,4 @@
       <point x="-550" y="-100" type="move" name="_L"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>uniF178</string>
-    </dict>
-  </lib>
 </glyph>

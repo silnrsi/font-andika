@@ -19,10 +19,4 @@
       <point x="120" y="150" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>greaterequal</string>
-    </dict>
-  </lib>
 </glyph>

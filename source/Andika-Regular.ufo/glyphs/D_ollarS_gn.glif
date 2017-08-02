@@ -50,10 +50,4 @@
       <point x="949" y="1127" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>dollar</string>
-    </dict>
-  </lib>
 </glyph>

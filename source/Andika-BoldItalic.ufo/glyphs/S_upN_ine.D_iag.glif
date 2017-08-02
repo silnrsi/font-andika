@@ -10,16 +10,4 @@
       <point x="420" y="1675" type="move" name="U"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.sil.assocFeature</key>
-      <string>dg69</string>
-      <key>org.sil.assocUIDs</key>
-      <array>
-        <string>2079</string>
-      </array>
-      <key>public.postscriptname</key>
-      <string>uni2079.Diag</string>
-    </dict>
-  </lib>
 </glyph>

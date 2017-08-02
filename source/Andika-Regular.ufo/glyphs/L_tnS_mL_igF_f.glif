@@ -60,10 +60,4 @@
       <point x="800" y="995" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>ff</string>
-    </dict>
-  </lib>
 </glyph>

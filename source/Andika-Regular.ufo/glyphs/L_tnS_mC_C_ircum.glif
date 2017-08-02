@@ -18,10 +18,4 @@
       <point x="570" y="1635" type="move" name="U"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>ccircumflex</string>
-    </dict>
-  </lib>
 </glyph>

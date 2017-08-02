@@ -20,10 +20,4 @@
       <point x="544" y="1168" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>uni2040</string>
-    </dict>
-  </lib>
 </glyph>

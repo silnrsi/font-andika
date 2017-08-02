@@ -22,10 +22,4 @@
       <point x="120" y="775" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>equivalence</string>
-    </dict>
-  </lib>
 </glyph>

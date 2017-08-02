@@ -55,14 +55,6 @@
         <integer>1</integer>
         <integer>1</integer>
       </array>
-      <key>org.sil.assocFeature</key>
-      <string>sbrv</string>
-      <key>org.sil.assocUIDs</key>
-      <array>
-        <string>0306</string>
-      </array>
-      <key>public.postscriptname</key>
-      <string>uni0306.CyShortMrkAlt</string>
     </dict>
   </lib>
 </glyph>

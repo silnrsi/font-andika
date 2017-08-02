@@ -33,16 +33,4 @@
       <point x="386" y="1415" type="move" name="U"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.sil.assocFeature</key>
-      <string>t_tl</string>
-      <key>org.sil.assocUIDs</key>
-      <array>
-        <string>2C66</string>
-      </array>
-      <key>public.postscriptname</key>
-      <string>uni2C66.NoTailT</string>
-    </dict>
-  </lib>
 </glyph>

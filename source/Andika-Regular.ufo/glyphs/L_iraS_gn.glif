@@ -50,10 +50,4 @@
       <point x="155" y="700" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>lira</string>
-    </dict>
-  </lib>
 </glyph>

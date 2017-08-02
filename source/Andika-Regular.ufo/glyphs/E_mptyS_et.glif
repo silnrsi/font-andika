@@ -38,10 +38,4 @@
       <point x="295" y="-90" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>emptyset</string>
-    </dict>
-  </lib>
 </glyph>

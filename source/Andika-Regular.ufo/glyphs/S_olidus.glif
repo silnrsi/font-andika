@@ -10,10 +10,4 @@
       <point x="990" y="1600" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>slash</string>
-    </dict>
-  </lib>
 </glyph>

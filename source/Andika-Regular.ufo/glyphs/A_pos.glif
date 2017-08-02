@@ -14,10 +14,4 @@
       <point x="240" y="1045" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>quotesingle</string>
-    </dict>
-  </lib>
 </glyph>

@@ -48,16 +48,4 @@
       <point x="202" y="1750" type="move" name="U"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.sil.assocFeature</key>
-      <string>l_tl</string>
-      <key>org.sil.assocUIDs</key>
-      <array>
-        <string>1DAA</string>
-      </array>
-      <key>public.postscriptname</key>
-      <string>uni1DAA.TailL</string>
-    </dict>
-  </lib>
 </glyph>

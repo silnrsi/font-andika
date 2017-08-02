@@ -36,10 +36,4 @@
       <point x="175" y="1230" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>uniF1E5</string>
-    </dict>
-  </lib>
 </glyph>

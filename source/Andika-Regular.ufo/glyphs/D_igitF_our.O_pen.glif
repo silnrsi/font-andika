@@ -26,16 +26,4 @@
       <point x="607" y="1530" type="move" name="U"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.sil.assocFeature</key>
-      <string>dig4</string>
-      <key>org.sil.assocUIDs</key>
-      <array>
-        <string>0034</string>
-      </array>
-      <key>public.postscriptname</key>
-      <string>four.Open</string>
-    </dict>
-  </lib>
 </glyph>

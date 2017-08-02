@@ -40,10 +40,4 @@
       <point x="580" y="1420"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>uniF1DA</string>
-    </dict>
-  </lib>
 </glyph>

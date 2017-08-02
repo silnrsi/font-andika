@@ -50,10 +50,4 @@
       <point x="-590" y="-100" type="move" name="_L"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>uni1DC2</string>
-    </dict>
-  </lib>
 </glyph>

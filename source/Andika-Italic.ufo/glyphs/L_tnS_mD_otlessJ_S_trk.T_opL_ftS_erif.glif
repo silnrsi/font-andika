@@ -51,14 +51,6 @@
         <real>0.6</real>
         <integer>1</integer>
       </array>
-      <key>org.sil.assocFeature</key>
-      <string>jser</string>
-      <key>org.sil.assocUIDs</key>
-      <array>
-        <string>025F</string>
-      </array>
-      <key>public.postscriptname</key>
-      <string>uni025F.TopLftSerif</string>
     </dict>
   </lib>
 </glyph>

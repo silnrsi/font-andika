@@ -58,10 +58,4 @@
       <point x="642" y="1485"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>ampersand</string>
-    </dict>
-  </lib>
 </glyph>

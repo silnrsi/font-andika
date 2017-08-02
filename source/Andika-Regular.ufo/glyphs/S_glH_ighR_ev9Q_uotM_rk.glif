@@ -21,10 +21,4 @@
       <point x="445" y="1385" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>quotereversed</string>
-    </dict>
-  </lib>
 </glyph>

@@ -43,16 +43,4 @@
       <point x="499" y="1293" type="move" name="U"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.sil.assocFeature</key>
-      <string>smcp</string>
-      <key>org.sil.assocUIDs</key>
-      <array>
-        <string>A77C</string>
-      </array>
-      <key>public.postscriptname</key>
-      <string>uniA77C.sc</string>
-    </dict>
-  </lib>
 </glyph>

@@ -8,10 +8,4 @@
     <component base="TnLtrSeg55" xOffset="180"/>
     <component base="TnLtrSpcPointRight" xOffset="660"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>uniA712</string>
-    </dict>
-  </lib>
 </glyph>

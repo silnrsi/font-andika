@@ -35,10 +35,4 @@
       <point x="185" y="150" type="curve" name="hr03"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>semicolon</string>
-    </dict>
-  </lib>
 </glyph>

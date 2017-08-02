@@ -82,14 +82,6 @@
         <real>0.6</real>
         <integer>1</integer>
       </array>
-      <key>org.sil.assocFeature</key>
-      <string>y_tl</string>
-      <key>org.sil.assocUIDs</key>
-      <array>
-        <string>F267</string>
-      </array>
-      <key>public.postscriptname</key>
-      <string>uniF267.NoTailY</string>
     </dict>
   </lib>
 </glyph>

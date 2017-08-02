@@ -24,10 +24,4 @@
       <point x="100" y="1000" type="move" name="_R"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>uni031B</string>
-    </dict>
-  </lib>
 </glyph>

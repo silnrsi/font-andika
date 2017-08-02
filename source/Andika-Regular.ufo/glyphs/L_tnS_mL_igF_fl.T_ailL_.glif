@@ -74,16 +74,4 @@
       <point x="785" y="995" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.sil.assocFeature</key>
-      <string>l_tl</string>
-      <key>org.sil.assocUIDs</key>
-      <array>
-        <string>FB04</string>
-      </array>
-      <key>public.postscriptname</key>
-      <string>ffl.TailL</string>
-    </dict>
-  </lib>
 </glyph>

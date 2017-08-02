@@ -18,14 +18,6 @@
         <real>0.6</real>
         <integer>1</integer>
       </array>
-      <key>org.sil.assocFeature</key>
-      <string>chtn</string>
-      <key>org.sil.assocUIDs</key>
-      <array>
-        <string>02CB</string>
-      </array>
-      <key>public.postscriptname</key>
-      <string>uni02CB.ChinantecTn</string>
     </dict>
   </lib>
 </glyph>

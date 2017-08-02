@@ -60,10 +60,4 @@
       <point x="1035" y="375" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>copyright</string>
-    </dict>
-  </lib>
 </glyph>

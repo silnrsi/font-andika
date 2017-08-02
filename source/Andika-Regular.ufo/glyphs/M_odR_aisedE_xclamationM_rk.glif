@@ -5,10 +5,4 @@
   <outline>
     <component base="ExclamationMrk" xScale="0.7" yScale="0.65" xOffset="5" yOffset="680"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>uniA71D</string>
-    </dict>
-  </lib>
 </glyph>
