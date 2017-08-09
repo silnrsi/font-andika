@@ -38,7 +38,7 @@
       <point x="773" y="1230" type="line"/>
     </contour>
     <contour>
-      <point x="620" y="-500" type="move" name="L"/>
+      <point x="620" y="-100" type="move" name="L"/>
     </contour>
     <contour>
       <point x="650" y="1530" type="move" name="U"/>
