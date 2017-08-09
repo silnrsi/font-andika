@@ -8195,6 +8195,7 @@
         <integer>2080</integer>
       </dict>
     </array>
+  </dict>
     <key>org.sil.altLineMetrics</key>
     <dict>
       <key>loose</key>
@@ -8290,7 +8291,6 @@
         <integer>785</integer>
       </dict>
     </dict>
-  </dict>
   <key>com.schriftgestaltung.font.vendorID</key>
   <string>SIL </string>
   <key>com.schriftgestaltung.fontMasterID</key>
