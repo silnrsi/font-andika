@@ -44,7 +44,7 @@
       <point x="590" y="1295" type="line" smooth="yes"/>
       <point x="787" y="1295"/>
       <point x="945" y="1294"/>
-      <point x="1025" y="1280" type="curve" name="hr05"/>
+      <point x="1025" y="1280" type="curve"/>
     </contour>
     <contour>
       <point x="685" y="-500" type="move" name="L"/>

@@ -40,7 +40,7 @@
       <point x="559" y="1295" type="line" smooth="yes"/>
       <point x="756" y="1295"/>
       <point x="915" y="1294"/>
-      <point x="995" y="1280" type="curve" name="hr02"/>
+      <point x="995" y="1280" type="curve"/>
     </contour>
     <contour>
       <point x="640" y="-100" type="move" name="L"/>

@@ -41,7 +41,7 @@
       <point x="600" y="875" type="curve" smooth="yes" name="hr02"/>
       <point x="703" y="875"/>
       <point x="790" y="841"/>
-      <point x="880" y="775" type="curve" name="hr03"/>
+      <point x="880" y="775" type="curve"/>
     </contour>
     <contour>
       <point x="695" y="390" type="curve" smooth="yes"/>

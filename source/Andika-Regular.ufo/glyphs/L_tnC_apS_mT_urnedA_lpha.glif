@@ -24,7 +24,7 @@
       <point x="435" y="960" type="line"/>
       <point x="435" y="1085"/>
       <point x="416" y="1370"/>
-      <point x="380" y="1460" type="curve" name="hr03"/>
+      <point x="380" y="1460" type="curve"/>
     </contour>
     <contour>
       <point x="460" y="325" type="line"/>
