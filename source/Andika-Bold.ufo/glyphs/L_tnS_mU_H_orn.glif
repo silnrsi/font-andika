@@ -38,7 +38,7 @@
       <point x="840" y="185" type="curve"/>
       <point x="850" y="116"/>
       <point x="876" y="43"/>
-      <point x="895" y="0" type="curve" name="hr02"/>
+      <point x="895" y="0" type="curve"/>
     </contour>
     <contour>
       <point x="1157" y="1070" type="line"/>

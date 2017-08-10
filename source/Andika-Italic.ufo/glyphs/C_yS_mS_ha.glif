@@ -60,7 +60,7 @@
       <point x="1324" y="315" type="curve"/>
       <point x="1305" y="206"/>
       <point x="1300" y="98"/>
-      <point x="1300" y="0" type="curve" name="hr03"/>
+      <point x="1300" y="0" type="curve"/>
     </contour>
     <contour>
       <point x="690" y="-100" type="move" name="L"/>

@@ -47,7 +47,7 @@
       <point x="686" y="765" type="curve"/>
       <point x="686" y="724"/>
       <point x="691" y="686"/>
-      <point x="695" y="666" type="curve" name="hr03"/>
+      <point x="695" y="666" type="curve"/>
     </contour>
     <contour>
       <point x="695" y="873" type="line"/>

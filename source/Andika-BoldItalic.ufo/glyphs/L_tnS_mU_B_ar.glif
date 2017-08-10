@@ -52,7 +52,7 @@
       <point x="946" y="295" type="curve"/>
       <point x="938" y="227"/>
       <point x="928" y="53"/>
-      <point x="928" y="0" type="curve" name="hr02"/>
+      <point x="928" y="0" type="curve"/>
     </contour>
     <contour>
       <point x="536" y="0" type="move" name="H"/>

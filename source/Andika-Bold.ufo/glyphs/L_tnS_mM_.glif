@@ -43,7 +43,7 @@
       <point x="422" y="875" type="curve"/>
       <point x="412" y="920"/>
       <point x="397" y="981"/>
-      <point x="375" y="1020" type="curve" name="hr02"/>
+      <point x="375" y="1020" type="curve"/>
     </contour>
     <contour>
       <point x="890" y="0" type="move" name="H"/>

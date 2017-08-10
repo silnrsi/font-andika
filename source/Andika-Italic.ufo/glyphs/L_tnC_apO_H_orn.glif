@@ -46,7 +46,7 @@
       <point x="1628" y="1519" type="line"/>
       <point x="1617" y="1418"/>
       <point x="1524" y="1288"/>
-      <point x="1400" y="1244" type="curve" name="hr01"/>
+      <point x="1400" y="1244" type="curve"/>
     </contour>
     <contour>
       <point x="632" y="-100" type="move" name="L"/>

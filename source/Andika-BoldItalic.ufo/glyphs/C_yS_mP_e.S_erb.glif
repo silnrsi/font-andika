@@ -45,7 +45,7 @@
       <point x="860" y="295" type="curve"/>
       <point x="850" y="227"/>
       <point x="842" y="53"/>
-      <point x="842" y="0" type="curve" name="hr02"/>
+      <point x="842" y="0" type="curve"/>
     </contour>
     <component base="CombMacron" xOffset="1173"/>
     <contour>

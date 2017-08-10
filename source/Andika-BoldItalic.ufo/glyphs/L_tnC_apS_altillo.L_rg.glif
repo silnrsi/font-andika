@@ -10,7 +10,7 @@
       <point x="602" y="1694" type="line"/>
       <point x="514" y="1190"/>
       <point x="426" y="858"/>
-      <point x="350" y="522" type="curve" name="hr02"/>
+      <point x="350" y="522" type="curve"/>
     </contour>
   </outline>
   <lib>
