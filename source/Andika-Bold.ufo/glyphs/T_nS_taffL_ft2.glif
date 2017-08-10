@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="TnStaffLft2" format="1">
-  <advance width="180"/>
+  <advance width="200"/>
   <outline>
     <component base="TnLtrSpcFlatLeft"/>
-    <component base="TnLtrBar" xOffset="180"/>
+    <component base="TnLtrBar" xOffset="200"/>
     <contour>
-      <point x="200" y="411" type="move" name="TL"/>
+      <point x="220" y="431" type="move" name="TL"/>
     </contour>
   </outline>
 </glyph>

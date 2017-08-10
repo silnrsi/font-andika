@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="TnStaffRt3" format="1">
-  <advance width="220"/>
+  <advance width="240"/>
   <outline>
     <component base="TnLtrBar"/>
     <component base="TnLtrSpcFlatRight"/>

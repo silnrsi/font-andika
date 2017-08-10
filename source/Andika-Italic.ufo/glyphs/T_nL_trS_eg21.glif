@@ -3,20 +3,20 @@
   <advance width="480"/>
   <outline>
     <contour>
-      <point x="-36" y="364" type="curve" smooth="yes"/>
-      <point x="442" y="-12" type="line" smooth="yes"/>
-      <point x="468" y="-32"/>
-      <point x="506" y="-28"/>
-      <point x="526" y="-2" type="curve" smooth="yes"/>
-      <point x="546" y="24"/>
-      <point x="542" y="62"/>
-      <point x="516" y="82" type="curve" smooth="yes"/>
-      <point x="38" y="458" type="line" smooth="yes"/>
-      <point x="12" y="478"/>
-      <point x="-26" y="474"/>
-      <point x="-46" y="448" type="curve" smooth="yes"/>
-      <point x="-66" y="422"/>
-      <point x="-62" y="384"/>
+      <point x="61" y="368" type="curve" smooth="yes"/>
+      <point x="446" y="-8" type="line" smooth="yes"/>
+      <point x="470" y="-31"/>
+      <point x="508" y="-31"/>
+      <point x="531" y="-7" type="curve" smooth="yes"/>
+      <point x="554" y="17"/>
+      <point x="554" y="55"/>
+      <point x="530" y="78" type="curve" smooth="yes"/>
+      <point x="145" y="454" type="line" smooth="yes"/>
+      <point x="121" y="477"/>
+      <point x="83" y="477"/>
+      <point x="60" y="453" type="curve" smooth="yes"/>
+      <point x="37" y="429"/>
+      <point x="37" y="391"/>
     </contour>
   </outline>
 </glyph>

@@ -6,7 +6,7 @@
     <component base="TnLtrSeg44" xOffset="180"/>
     <component base="TnLtrSpcPointRight" xOffset="660"/>
     <contour>
-      <point x="659" y="1164" type="move" name="TL"/>
+      <point x="949" y="1164" type="move" name="TL"/>
     </contour>
   </outline>
 </glyph>

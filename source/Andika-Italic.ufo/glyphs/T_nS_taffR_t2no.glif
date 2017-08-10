@@ -4,7 +4,7 @@
   <outline>
     <component base="TnLtrSpcFlatRight"/>
     <contour>
-      <point x="-20" y="411" type="move" name="_TL"/>
+      <point x="82" y="411" type="move" name="_TL"/>
     </contour>
   </outline>
 </glyph>

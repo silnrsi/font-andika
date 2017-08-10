@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="TnStaffRt4no" format="1">
-  <advance width="220"/>
+  <advance width="240"/>
   <outline>
     <component base="TnLtrSpcFlatRight"/>
     <contour>
-      <point x="-20" y="1164" type="move" name="_TL"/>
+      <point x="265" y="1144" type="move" name="_TL"/>
     </contour>
   </outline>
 </glyph>

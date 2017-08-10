@@ -12078,9 +12078,9 @@
   <key>org.sil.lcg.toneLetters</key>
   <dict>
     <key>contourWidth</key>
-    <integer>480</integer>
+    <integer>540</integer>
     <key>dotSize</key>
-    <integer>180</integer>
+    <integer>280</integer>
     <key>dotSpacing</key>
     <integer>200</integer>
     <key>glyphDepth</key>
@@ -12090,19 +12090,19 @@
     <key>italicAngle</key>
     <integer>0</integer>
     <key>marginDotLeft</key>
-    <integer>120</integer>
-    <key>marginDotRight</key>
-    <integer>160</integer>
-    <key>marginFlatLeft</key>
-    <integer>120</integer>
-    <key>marginFlatRight</key>
-    <integer>160</integer>
-    <key>marginPointLeft</key>
     <integer>100</integer>
-    <key>marginPointRight</key>
+    <key>marginDotRight</key>
     <integer>140</integer>
-    <key>strokeThickness</key>
+    <key>marginFlatLeft</key>
+    <integer>100</integer>
+    <key>marginFlatRight</key>
+    <integer>140</integer>
+    <key>marginPointLeft</key>
+    <integer>80</integer>
+    <key>marginPointRight</key>
     <integer>120</integer>
+    <key>strokeThickness</key>
+    <integer>200</integer>
   </dict>
   <key>org.sil.lcg.transforms</key>
   <dict>

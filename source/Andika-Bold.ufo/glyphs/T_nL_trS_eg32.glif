@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="TnLtrSeg32" format="1">
-  <advance width="480"/>
+  <advance width="540"/>
   <outline>
     <contour>
-      <point x="-36" y="740" type="curve" smooth="yes"/>
-      <point x="442" y="364" type="line" smooth="yes"/>
-      <point x="468" y="344"/>
-      <point x="506" y="348"/>
-      <point x="526" y="374" type="curve" smooth="yes"/>
-      <point x="546" y="400"/>
-      <point x="542" y="438"/>
-      <point x="516" y="458" type="curve" smooth="yes"/>
-      <point x="38" y="834" type="line" smooth="yes"/>
-      <point x="12" y="854"/>
-      <point x="-26" y="850"/>
-      <point x="-46" y="824" type="curve" smooth="yes"/>
-      <point x="-66" y="798"/>
-      <point x="-62" y="760"/>
+      <point x="-54" y="704" type="curve" smooth="yes"/>
+      <point x="484" y="348" type="line" smooth="yes"/>
+      <point x="530" y="318"/>
+      <point x="592" y="330"/>
+      <point x="622" y="376" type="curve" smooth="yes"/>
+      <point x="652" y="422"/>
+      <point x="640" y="484"/>
+      <point x="594" y="514" type="curve" smooth="yes"/>
+      <point x="56" y="870" type="line" smooth="yes"/>
+      <point x="10" y="900"/>
+      <point x="-52" y="888"/>
+      <point x="-82" y="842" type="curve" smooth="yes"/>
+      <point x="-112" y="796"/>
+      <point x="-100" y="734"/>
     </contour>
   </outline>
 </glyph>

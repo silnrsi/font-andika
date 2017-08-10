@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="TnContRt13" format="1">
-  <advance width="639"/>
+  <advance width="719"/>
   <outline>
     <component base="TnLtrSpcPointLeft"/>
-    <component base="TnLtrSeg13" xOffset="159"/>
+    <component base="TnLtrSeg13" xOffset="179"/>
     <contour>
-      <point x="639" y="787" type="move" name="TL"/>
+      <point x="915" y="787" type="move" name="TL"/>
     </contour>
     <contour>
-      <point x="160" y="35" type="move" name="_TL"/>
+      <point x="199" y="75" type="move" name="_TL"/>
     </contour>
   </outline>
 </glyph>

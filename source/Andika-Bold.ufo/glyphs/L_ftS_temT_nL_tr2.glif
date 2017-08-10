@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LftStemTnLtr2" format="1">
-  <advance width="859"/>
+  <advance width="959"/>
   <unicode hex="A715"/>
   <outline>
     <component base="TnLtrSpcFlatLeft"/>
-    <component base="TnLtrBar" xOffset="180"/>
-    <component base="TnLtrSeg22" xOffset="180"/>
-    <component base="TnLtrSpcPointRight" xOffset="660"/>
+    <component base="TnLtrBar" xOffset="200"/>
+    <component base="TnLtrSeg22" xOffset="200"/>
+    <component base="TnLtrSpcPointRight" xOffset="740"/>
   </outline>
 </glyph>
