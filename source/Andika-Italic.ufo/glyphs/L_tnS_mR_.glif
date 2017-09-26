@@ -53,7 +53,7 @@
           <key>angle</key>
           <integer>76</integer>
           <key>isGlobal</key>
-          <false/>
+          <integer>0</integer>
           <key>magnetic</key>
           <integer>5</integer>
           <key>x</key>

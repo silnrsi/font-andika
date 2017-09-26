@@ -127,7 +127,7 @@
           <key>angle</key>
           <real>76.38</real>
           <key>isGlobal</key>
-          <false/>
+          <integer>0</integer>
           <key>magnetic</key>
           <integer>5</integer>
           <key>x</key>
@@ -139,7 +139,7 @@
           <key>angle</key>
           <real>76.38</real>
           <key>isGlobal</key>
-          <false/>
+          <integer>0</integer>
           <key>magnetic</key>
           <integer>5</integer>
           <key>x</key>

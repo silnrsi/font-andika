@@ -3875,7 +3875,7 @@
         <key>X: 140</key>
         <dict>
           <key>horizontal</key>
-          <true/>
+          <integer>1</integer>
           <key>round</key>
           <dict>
             <key>0</key>
@@ -3897,7 +3897,7 @@
         <key>X: 145</key>
         <dict>
           <key>horizontal</key>
-          <true/>
+          <integer>1</integer>
           <key>round</key>
           <dict>
             <key>0</key>
@@ -3919,7 +3919,7 @@
         <key>X: 150</key>
         <dict>
           <key>horizontal</key>
-          <true/>
+          <integer>1</integer>
           <key>round</key>
           <dict>
             <key>0</key>
@@ -3941,7 +3941,7 @@
         <key>X: 155</key>
         <dict>
           <key>horizontal</key>
-          <true/>
+          <integer>1</integer>
           <key>round</key>
           <dict>
             <key>0</key>
@@ -3963,7 +3963,7 @@
         <key>X: 160</key>
         <dict>
           <key>horizontal</key>
-          <true/>
+          <integer>1</integer>
           <key>round</key>
           <dict>
             <key>0</key>
@@ -3985,7 +3985,7 @@
         <key>X: 165</key>
         <dict>
           <key>horizontal</key>
-          <true/>
+          <integer>1</integer>
           <key>round</key>
           <dict>
             <key>0</key>
@@ -4007,7 +4007,7 @@
         <key>X: 170</key>
         <dict>
           <key>horizontal</key>
-          <true/>
+          <integer>1</integer>
           <key>round</key>
           <dict>
             <key>0</key>
@@ -4029,7 +4029,7 @@
         <key>X: 175</key>
         <dict>
           <key>horizontal</key>
-          <true/>
+          <integer>1</integer>
           <key>round</key>
           <dict>
             <key>0</key>
@@ -4051,7 +4051,7 @@
         <key>X: 185</key>
         <dict>
           <key>horizontal</key>
-          <true/>
+          <integer>1</integer>
           <key>round</key>
           <dict>
             <key>0</key>
@@ -4073,7 +4073,7 @@
         <key>X: 270</key>
         <dict>
           <key>horizontal</key>
-          <true/>
+          <integer>1</integer>
           <key>round</key>
           <dict>
             <key>0</key>
@@ -4095,7 +4095,7 @@
         <key>Y: 165</key>
         <dict>
           <key>horizontal</key>
-          <false/>
+          <integer>0</integer>
           <key>round</key>
           <dict>
             <key>0</key>
@@ -4117,7 +4117,7 @@
         <key>Y: 180</key>
         <dict>
           <key>horizontal</key>
-          <false/>
+          <integer>0</integer>
           <key>round</key>
           <dict>
             <key>0</key>
@@ -4139,7 +4139,7 @@
         <key>Y: 185</key>
         <dict>
           <key>horizontal</key>
-          <false/>
+          <integer>0</integer>
           <key>round</key>
           <dict>
             <key>0</key>
@@ -4161,7 +4161,7 @@
         <key>Y: 190</key>
         <dict>
           <key>horizontal</key>
-          <false/>
+          <integer>0</integer>
           <key>round</key>
           <dict>
             <key>0</key>
@@ -4183,7 +4183,7 @@
         <key>Y: 195</key>
         <dict>
           <key>horizontal</key>
-          <false/>
+          <integer>0</integer>
           <key>round</key>
           <dict>
             <key>0</key>
@@ -4205,7 +4205,7 @@
         <key>Y: 200</key>
         <dict>
           <key>horizontal</key>
-          <false/>
+          <integer>0</integer>
           <key>round</key>
           <dict>
             <key>0</key>
@@ -4227,7 +4227,7 @@
         <key>Y: 205</key>
         <dict>
           <key>horizontal</key>
-          <false/>
+          <integer>0</integer>
           <key>round</key>
           <dict>
             <key>0</key>
@@ -4249,7 +4249,7 @@
         <key>Y: 270</key>
         <dict>
           <key>horizontal</key>
-          <false/>
+          <integer>0</integer>
           <key>round</key>
           <dict>
             <key>0</key>
@@ -4276,7 +4276,7 @@
           <key>position</key>
           <integer>0</integer>
           <key>top</key>
-          <false/>
+          <integer>0</integer>
           <key>width</key>
           <integer>25</integer>
         </dict>
@@ -4285,7 +4285,7 @@
           <key>position</key>
           <integer>-490</integer>
           <key>top</key>
-          <false/>
+          <integer>0</integer>
           <key>width</key>
           <integer>0</integer>
         </dict>
@@ -4294,7 +4294,7 @@
           <key>position</key>
           <integer>1020</integer>
           <key>top</key>
-          <true/>
+          <integer>1</integer>
           <key>width</key>
           <integer>20</integer>
         </dict>
@@ -4303,7 +4303,7 @@
           <key>position</key>
           <integer>1455</integer>
           <key>top</key>
-          <true/>
+          <integer>1</integer>
           <key>width</key>
           <integer>30</integer>
         </dict>
@@ -4312,14 +4312,14 @@
           <key>position</key>
           <integer>1600</integer>
           <key>top</key>
-          <true/>
+          <integer>1</integer>
           <key>width</key>
           <integer>20</integer>
         </dict>
       </dict>
     </dict>
     <key>com.schriftgestaltung.font.Disable Last Change</key>
-    <true/>
+    <integer>1</integer>
     <key>com.schriftgestaltung.font.description</key>
     <string>Copyright (c) SIL International, 2004-2017</string>
     <key>com.schriftgestaltung.font.fsType</key>
@@ -8186,7 +8186,7 @@
         <key>angle</key>
         <integer>0</integer>
         <key>isGlobal</key>
-        <true/>
+        <integer>1</integer>
         <key>magnetic</key>
         <integer>5</integer>
         <key>x</key>
@@ -8195,6 +8195,101 @@
         <integer>2080</integer>
       </dict>
     </array>
+    <key>org.sil.altLineMetrics</key>
+    <dict>
+      <key>loose</key>
+      <dict>
+        <key>ascender</key>
+        <integer>2900</integer>
+        <key>descender</key>
+        <integer>-1100</integer>
+      </dict>
+      <key>tight</key>
+      <dict>
+        <key>ascender</key>
+        <integer>2100</integer>
+        <key>descender</key>
+        <integer>-550</integer>
+      </dict>
+    </dict>
+    <key>org.sil.lcg.toneLetters</key>
+    <dict>
+      <key>contourWidth</key>
+      <integer>480</integer>
+      <key>dotSize</key>
+      <integer>180</integer>
+      <key>dotSpacing</key>
+      <integer>200</integer>
+      <key>glyphDepth</key>
+      <integer>-25</integer>
+      <key>glyphHeight</key>
+      <integer>1600</integer>
+      <key>italicAngle</key>
+      <integer>14</integer>
+      <key>marginDotLeft</key>
+      <integer>120</integer>
+      <key>marginDotRight</key>
+      <integer>160</integer>
+      <key>marginFlatLeft</key>
+      <integer>120</integer>
+      <key>marginFlatRight</key>
+      <integer>160</integer>
+      <key>marginPointLeft</key>
+      <integer>100</integer>
+      <key>marginPointRight</key>
+      <integer>140</integer>
+      <key>strokeThickness</key>
+      <integer>120</integer>
+    </dict>
+    <key>org.sil.lcg.transforms</key>
+    <dict>
+      <key>smallcaps</key>
+      <dict>
+        <key>adjustMetrics</key>
+        <integer>10</integer>
+        <key>boldX</key>
+        <integer>7</integer>
+        <key>boldY</key>
+        <integer>7</integer>
+        <key>scaleX</key>
+        <real>0.92</real>
+        <key>scaleY</key>
+        <real>0.84</real>
+      </dict>
+      <key>subscript</key>
+      <dict>
+        <key>scaleX</key>
+        <real>0.7</real>
+        <key>scaleY</key>
+        <real>0.65</real>
+        <key>shiftX</key>
+        <integer>-70</integer>
+        <key>shiftY</key>
+        <integer>-300</integer>
+      </dict>
+      <key>superscript</key>
+      <dict>
+        <key>scaleX</key>
+        <real>0.7</real>
+        <key>scaleY</key>
+        <real>0.65</real>
+        <key>shiftX</key>
+        <integer>100</integer>
+        <key>shiftY</key>
+        <integer>680</integer>
+      </dict>
+      <key>superscriptCaps</key>
+      <dict>
+        <key>scaleX</key>
+        <real>0.52</real>
+        <key>scaleY</key>
+        <real>0.435</real>
+        <key>shiftX</key>
+        <integer>100</integer>
+        <key>shiftY</key>
+        <integer>680</integer>
+      </dict>
+    </dict>
   </dict>
   <key>com.schriftgestaltung.font.vendorID</key>
   <string>SIL </string>
@@ -12056,101 +12151,6 @@
   </array>
   <key>com.schriftgestaltung.useNiceNames</key>
   <false/>
-  <key>org.sil.altLineMetrics</key>
-  <dict>
-    <key>loose</key>
-    <dict>
-      <key>ascender</key>
-      <integer>2900</integer>
-      <key>descender</key>
-      <integer>-1100</integer>
-    </dict>
-    <key>tight</key>
-    <dict>
-      <key>ascender</key>
-      <integer>2100</integer>
-      <key>descender</key>
-      <integer>-550</integer>
-    </dict>
-  </dict>
-  <key>org.sil.lcg.toneLetters</key>
-  <dict>
-    <key>contourWidth</key>
-    <integer>480</integer>
-    <key>dotSize</key>
-    <integer>180</integer>
-    <key>dotSpacing</key>
-    <integer>200</integer>
-    <key>glyphDepth</key>
-    <integer>-25</integer>
-    <key>glyphHeight</key>
-    <integer>1600</integer>
-    <key>italicAngle</key>
-    <integer>14</integer>
-    <key>marginDotLeft</key>
-    <integer>120</integer>
-    <key>marginDotRight</key>
-    <integer>160</integer>
-    <key>marginFlatLeft</key>
-    <integer>120</integer>
-    <key>marginFlatRight</key>
-    <integer>160</integer>
-    <key>marginPointLeft</key>
-    <integer>100</integer>
-    <key>marginPointRight</key>
-    <integer>140</integer>
-    <key>strokeThickness</key>
-    <integer>120</integer>
-  </dict>
-  <key>org.sil.lcg.transforms</key>
-  <dict>
-    <key>smallcaps</key>
-    <dict>
-      <key>adjustMetrics</key>
-      <integer>10</integer>
-      <key>boldX</key>
-      <integer>7</integer>
-      <key>boldY</key>
-      <integer>7</integer>
-      <key>scaleX</key>
-      <real>0.92</real>
-      <key>scaleY</key>
-      <real>0.84</real>
-    </dict>
-    <key>subscript</key>
-    <dict>
-      <key>scaleX</key>
-      <real>0.7</real>
-      <key>scaleY</key>
-      <real>0.65</real>
-      <key>shiftX</key>
-      <integer>-70</integer>
-      <key>shiftY</key>
-      <integer>-300</integer>
-    </dict>
-    <key>superscript</key>
-    <dict>
-      <key>scaleX</key>
-      <real>0.7</real>
-      <key>scaleY</key>
-      <real>0.65</real>
-      <key>shiftX</key>
-      <integer>100</integer>
-      <key>shiftY</key>
-      <integer>680</integer>
-    </dict>
-    <key>superscriptCaps</key>
-    <dict>
-      <key>scaleX</key>
-      <real>0.52</real>
-      <key>scaleY</key>
-      <real>0.435</real>
-      <key>shiftX</key>
-      <integer>100</integer>
-      <key>shiftY</key>
-      <integer>680</integer>
-    </dict>
-  </dict>
   <key>public.glyphOrder</key>
   <array>
     <string>.notdef</string>
@@ -14628,169 +14628,6 @@
     <string>LftStemTnLtr3</string>
     <string>LftStemTnLtr2</string>
     <string>LftStemTnLtr1</string>
-    <string>TnLtrNineSeg11</string>
-    <string>TnLtrNineSeg12</string>
-    <string>TnLtrNineSeg13</string>
-    <string>TnLtrNineSeg14</string>
-    <string>TnLtrNineSeg15</string>
-    <string>TnLtrNineSeg16</string>
-    <string>TnLtrNineSeg17</string>
-    <string>TnLtrNineSeg18</string>
-    <string>TnLtrNineSeg19</string>
-    <string>TnLtrNineSeg21</string>
-    <string>TnLtrNineSeg22</string>
-    <string>TnLtrNineSeg23</string>
-    <string>TnLtrNineSeg24</string>
-    <string>TnLtrNineSeg25</string>
-    <string>TnLtrNineSeg26</string>
-    <string>TnLtrNineSeg27</string>
-    <string>TnLtrNineSeg28</string>
-    <string>TnLtrNineSeg29</string>
-    <string>TnLtrNineSeg31</string>
-    <string>TnLtrNineSeg32</string>
-    <string>TnLtrNineSeg33</string>
-    <string>TnLtrNineSeg34</string>
-    <string>TnLtrNineSeg35</string>
-    <string>TnLtrNineSeg36</string>
-    <string>TnLtrNineSeg37</string>
-    <string>TnLtrNineSeg38</string>
-    <string>TnLtrNineSeg39</string>
-    <string>TnLtrNineSeg41</string>
-    <string>TnLtrNineSeg42</string>
-    <string>TnLtrNineSeg43</string>
-    <string>TnLtrNineSeg44</string>
-    <string>TnLtrNineSeg45</string>
-    <string>TnLtrNineSeg46</string>
-    <string>TnLtrNineSeg47</string>
-    <string>TnLtrNineSeg48</string>
-    <string>TnLtrNineSeg49</string>
-    <string>TnLtrNineSeg51</string>
-    <string>TnLtrNineSeg52</string>
-    <string>TnLtrNineSeg53</string>
-    <string>TnLtrNineSeg54</string>
-    <string>TnLtrNineSeg55</string>
-    <string>TnLtrNineSeg56</string>
-    <string>TnLtrNineSeg57</string>
-    <string>TnLtrNineSeg58</string>
-    <string>TnLtrNineSeg59</string>
-    <string>TnLtrNineSeg61</string>
-    <string>TnLtrNineSeg62</string>
-    <string>TnLtrNineSeg63</string>
-    <string>TnLtrNineSeg64</string>
-    <string>TnLtrNineSeg65</string>
-    <string>TnLtrNineSeg66</string>
-    <string>TnLtrNineSeg67</string>
-    <string>TnLtrNineSeg68</string>
-    <string>TnLtrNineSeg69</string>
-    <string>TnLtrNineSeg71</string>
-    <string>TnLtrNineSeg72</string>
-    <string>TnLtrNineSeg73</string>
-    <string>TnLtrNineSeg74</string>
-    <string>TnLtrNineSeg75</string>
-    <string>TnLtrNineSeg76</string>
-    <string>TnLtrNineSeg77</string>
-    <string>TnLtrNineSeg78</string>
-    <string>TnLtrNineSeg79</string>
-    <string>TnLtrNineSeg81</string>
-    <string>TnLtrNineSeg82</string>
-    <string>TnLtrNineSeg83</string>
-    <string>TnLtrNineSeg84</string>
-    <string>TnLtrNineSeg85</string>
-    <string>TnLtrNineSeg86</string>
-    <string>TnLtrNineSeg87</string>
-    <string>TnLtrNineSeg88</string>
-    <string>TnLtrNineSeg89</string>
-    <string>TnLtrNineSeg91</string>
-    <string>TnLtrNineSeg92</string>
-    <string>TnLtrNineSeg93</string>
-    <string>TnLtrNineSeg94</string>
-    <string>TnLtrNineSeg95</string>
-    <string>TnLtrNineSeg96</string>
-    <string>TnLtrNineSeg97</string>
-    <string>TnLtrNineSeg98</string>
-    <string>TnLtrNineSeg99</string>
-    <string>Space.Lines</string>
-    <string>TnLtrNineSeg11.Lines</string>
-    <string>TnLtrNineSeg12.Lines</string>
-    <string>TnLtrNineSeg13.Lines</string>
-    <string>TnLtrNineSeg14.Lines</string>
-    <string>TnLtrNineSeg15.Lines</string>
-    <string>TnLtrNineSeg16.Lines</string>
-    <string>TnLtrNineSeg17.Lines</string>
-    <string>TnLtrNineSeg18.Lines</string>
-    <string>TnLtrNineSeg19.Lines</string>
-    <string>TnLtrNineSeg21.Lines</string>
-    <string>TnLtrNineSeg22.Lines</string>
-    <string>TnLtrNineSeg23.Lines</string>
-    <string>TnLtrNineSeg24.Lines</string>
-    <string>TnLtrNineSeg25.Lines</string>
-    <string>TnLtrNineSeg26.Lines</string>
-    <string>TnLtrNineSeg27.Lines</string>
-    <string>TnLtrNineSeg28.Lines</string>
-    <string>TnLtrNineSeg29.Lines</string>
-    <string>TnLtrNineSeg31.Lines</string>
-    <string>TnLtrNineSeg32.Lines</string>
-    <string>TnLtrNineSeg33.Lines</string>
-    <string>TnLtrNineSeg34.Lines</string>
-    <string>TnLtrNineSeg35.Lines</string>
-    <string>TnLtrNineSeg36.Lines</string>
-    <string>TnLtrNineSeg37.Lines</string>
-    <string>TnLtrNineSeg38.Lines</string>
-    <string>TnLtrNineSeg39.Lines</string>
-    <string>TnLtrNineSeg41.Lines</string>
-    <string>TnLtrNineSeg42.Lines</string>
-    <string>TnLtrNineSeg43.Lines</string>
-    <string>TnLtrNineSeg44.Lines</string>
-    <string>TnLtrNineSeg45.Lines</string>
-    <string>TnLtrNineSeg46.Lines</string>
-    <string>TnLtrNineSeg47.Lines</string>
-    <string>TnLtrNineSeg48.Lines</string>
-    <string>TnLtrNineSeg49.Lines</string>
-    <string>TnLtrNineSeg51.Lines</string>
-    <string>TnLtrNineSeg52.Lines</string>
-    <string>TnLtrNineSeg53.Lines</string>
-    <string>TnLtrNineSeg54.Lines</string>
-    <string>TnLtrNineSeg55.Lines</string>
-    <string>TnLtrNineSeg56.Lines</string>
-    <string>TnLtrNineSeg57.Lines</string>
-    <string>TnLtrNineSeg58.Lines</string>
-    <string>TnLtrNineSeg59.Lines</string>
-    <string>TnLtrNineSeg61.Lines</string>
-    <string>TnLtrNineSeg62.Lines</string>
-    <string>TnLtrNineSeg63.Lines</string>
-    <string>TnLtrNineSeg64.Lines</string>
-    <string>TnLtrNineSeg65.Lines</string>
-    <string>TnLtrNineSeg66.Lines</string>
-    <string>TnLtrNineSeg67.Lines</string>
-    <string>TnLtrNineSeg68.Lines</string>
-    <string>TnLtrNineSeg69.Lines</string>
-    <string>TnLtrNineSeg71.Lines</string>
-    <string>TnLtrNineSeg72.Lines</string>
-    <string>TnLtrNineSeg73.Lines</string>
-    <string>TnLtrNineSeg74.Lines</string>
-    <string>TnLtrNineSeg75.Lines</string>
-    <string>TnLtrNineSeg76.Lines</string>
-    <string>TnLtrNineSeg77.Lines</string>
-    <string>TnLtrNineSeg78.Lines</string>
-    <string>TnLtrNineSeg79.Lines</string>
-    <string>TnLtrNineSeg81.Lines</string>
-    <string>TnLtrNineSeg82.Lines</string>
-    <string>TnLtrNineSeg83.Lines</string>
-    <string>TnLtrNineSeg84.Lines</string>
-    <string>TnLtrNineSeg85.Lines</string>
-    <string>TnLtrNineSeg86.Lines</string>
-    <string>TnLtrNineSeg87.Lines</string>
-    <string>TnLtrNineSeg88.Lines</string>
-    <string>TnLtrNineSeg89.Lines</string>
-    <string>TnLtrNineSeg91.Lines</string>
-    <string>TnLtrNineSeg92.Lines</string>
-    <string>TnLtrNineSeg93.Lines</string>
-    <string>TnLtrNineSeg94.Lines</string>
-    <string>TnLtrNineSeg95.Lines</string>
-    <string>TnLtrNineSeg96.Lines</string>
-    <string>TnLtrNineSeg97.Lines</string>
-    <string>TnLtrNineSeg98.Lines</string>
-    <string>TnLtrNineSeg99.Lines</string>
     <string>ShadowedWhiteCirc</string>
     <string>TriangularBullet</string>
     <string>DwnArrw</string>
