@@ -74,35 +74,4 @@
       <point x="556" y="1381" type="move" name="U"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <real>76.33</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>x</key>
-          <integer>-142</integer>
-          <key>y</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>angle</key>
-          <real>76.33</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>x</key>
-          <integer>53</integer>
-          <key>y</key>
-          <integer>0</integer>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

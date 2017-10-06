@@ -93,69 +93,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <real>76.43</real>
-          <key>isGlobal</key>
-          <integer>0</integer>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>x</key>
-          <integer>2182</integer>
-          <key>y</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>angle</key>
-          <real>76.43</real>
-          <key>isGlobal</key>
-          <integer>0</integer>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>x</key>
-          <integer>2053</integer>
-          <key>y</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>angle</key>
-          <real>76.43</real>
-          <key>isGlobal</key>
-          <integer>0</integer>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>x</key>
-          <integer>1439</integer>
-          <key>y</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>angle</key>
-          <real>76.43</real>
-          <key>isGlobal</key>
-          <integer>0</integer>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>x</key>
-          <integer>1551</integer>
-          <key>y</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>angle</key>
-          <real>76.43</real>
-          <key>isGlobal</key>
-          <integer>0</integer>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>x</key>
-          <integer>1785</integer>
-          <key>y</key>
-          <integer>0</integer>
-        </dict>
-      </array>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <integer>1</integer>

@@ -18,21 +18,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <real>75.89</real>
-          <key>isGlobal</key>
-          <integer>0</integer>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>x</key>
-          <integer>-630</integer>
-          <key>y</key>
-          <integer>0</integer>
-        </dict>
-      </array>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>0.6</real>

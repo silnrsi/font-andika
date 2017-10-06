@@ -67,57 +67,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <real>76.45</real>
-          <key>isGlobal</key>
-          <integer>0</integer>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>x</key>
-          <integer>312</integer>
-          <key>y</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>angle</key>
-          <real>76.45</real>
-          <key>isGlobal</key>
-          <integer>0</integer>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>x</key>
-          <integer>482</integer>
-          <key>y</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>angle</key>
-          <real>76.45</real>
-          <key>isGlobal</key>
-          <integer>0</integer>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>x</key>
-          <integer>682</integer>
-          <key>y</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>angle</key>
-          <real>76.45</real>
-          <key>isGlobal</key>
-          <integer>0</integer>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>x</key>
-          <integer>852</integer>
-          <key>y</key>
-          <integer>0</integer>
-        </dict>
-      </array>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <integer>1</integer>
