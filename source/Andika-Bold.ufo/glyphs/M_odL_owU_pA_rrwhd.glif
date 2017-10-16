@@ -5,15 +5,4 @@
   <outline>
     <component base="ModUpArrwhd" xScale="0.55" yScale="0.55" xOffset="-5" yOffset="-1021"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <integer>1</integer>
-        <real>0.92</real>
-        <real>0.6</real>
-        <integer>1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

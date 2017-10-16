@@ -52,17 +52,4 @@
       <point x="751" y="1530" type="move" name="U"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.6</real>
-        <real>0.732</real>
-        <integer>1</integer>
-        <integer>1</integer>
-      </array>
-      <key>org.sil.assocFeatureValue</key>
-      <integer>0</integer>
-    </dict>
-  </lib>
 </glyph>
