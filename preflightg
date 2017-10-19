@@ -1,11 +1,14 @@
 #!/bin/sh
 
+psfglyphs2ufo source/Andika-RB.glyphs source
+psfnormalize -v 2 source/Andika-Regular.ufo
+psfnormalize -v 2 source/Andika-Bold.ufo
 psfsetpsnames -i source/glyph_data.csv source/Andika-Regular.ufo
-psfsetpsnames -i source/glyph_data.csv source/Andika-Italic.ufo
+#psfsetpsnames -i source/glyph_data.csv source/Andika-Italic.ufo
 psfsetpsnames -i source/glyph_data.csv source/Andika-Bold.ufo
-psfsetpsnames -i source/glyph_data.csv source/Andika-BoldItalic.ufo
+#psfsetpsnames -i source/glyph_data.csv source/Andika-BoldItalic.ufo
 psfsetglyphorder --header sort_final_a -i source/glyph_data.csv source/Andika-Regular.ufo
-psfsetglyphorder --header sort_final_a -i source/glyph_data.csv source/Andika-Italic.ufo
+#psfsetglyphorder --header sort_final_a -i source/glyph_data.csv source/Andika-Italic.ufo
 psfsetglyphorder --header sort_final_a -i source/glyph_data.csv source/Andika-Bold.ufo
-psfsetglyphorder --header sort_final_a -i source/glyph_data.csv source/Andika-BoldItalic.ufo
+#psfsetglyphorder --header sort_final_a -i source/glyph_data.csv source/Andika-BoldItalic.ufo
 psfsyncmeta source/Andika-Regular.ufo
