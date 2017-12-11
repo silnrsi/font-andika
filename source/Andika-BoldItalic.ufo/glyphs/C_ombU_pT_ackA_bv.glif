@@ -3,12 +3,21 @@
   <advance width="0"/>
   <unicode hex="1DF5"/>
   <outline>
-    <component base="CombUpTackBlw"/>
     <contour>
-      <point x="-765" y="-500" type="move" name="L"/>
+      <point x="-252" y="1350" type="line" name="hr00"/>
+      <point x="-207" y="1535" type="line"/>
+      <point x="-337" y="1535" type="line"/>
+      <point x="-382" y="1350" type="line"/>
+      <point x="-527" y="1350" type="line"/>
+      <point x="-559" y="1228" type="line"/>
+      <point x="-129" y="1228" type="line"/>
+      <point x="-97" y="1350" type="line"/>
     </contour>
     <contour>
-      <point x="-665" y="-100" type="move" name="_L"/>
+      <point x="-252" y="1595" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="-352" y="1100" type="move" name="_U"/>
     </contour>
   </outline>
 </glyph>
