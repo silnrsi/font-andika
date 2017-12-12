@@ -13,7 +13,7 @@
   <key>familyName</key>
   <string>Andika</string>
   <key>openTypeHeadCreated</key>
-  <string>2016/06/02 10:34:24</string>
+  <string>2017/12/12 14:27:59</string>
   <key>openTypeHheaAscender</key>
   <integer>2500</integer>
   <key>openTypeHheaDescender</key>
@@ -205,6 +205,8 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   </array>
   <key>postscriptFontName</key>
   <string>Andika-Bold</string>
+  <key>postscriptFullName</key>
+  <string>Andika Bold</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
   <key>postscriptOtherBlues</key>
@@ -237,6 +239,8 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <integer>-110</integer>
   <key>postscriptUnderlineThickness</key>
   <integer>80</integer>
+  <key>styleMapFamilyName</key>
+  <string>Andika</string>
   <key>styleMapStyleName</key>
   <string>bold</string>
   <key>styleName</key>
@@ -251,7 +255,5 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <integer>950</integer>
   <key>xHeight</key>
   <integer>1040</integer>
-  <key>year</key>
-  <integer>2017</integer>
 </dict>
 </plist>
