@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CombInvBreveBlw" format="1">
+<glyph name="CombInvBreveBlw" format="2">
   <advance width="0"/>
   <unicode hex="032F"/>
+  <anchor x="-772" y="-570" name="L"/>
+  <anchor x="-655" y="-100" name="_L"/>
   <outline>
     <contour>
       <point x="-390" y="-539" type="line" name="hr00"/>
@@ -24,12 +26,6 @@
       <point x="-510" y="-521"/>
       <point x="-510" y="-530"/>
       <point x="-511" y="-539" type="curve"/>
-    </contour>
-    <contour>
-      <point x="-772" y="-570" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="-655" y="-100" type="move" name="_L"/>
     </contour>
   </outline>
 </glyph>

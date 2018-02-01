@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmThornHighStrk" format="1">
+<glyph name="LtnSmThornHighStrk" format="2">
   <advance width="1185"/>
   <unicode hex="A765"/>
+  <anchor x="425" y="-500" name="L"/>
+  <anchor x="955" y="1635" name="U"/>
   <outline>
     <contour>
       <point x="421" y="493" type="line" name="hr00"/>
@@ -62,12 +64,6 @@
       <point x="866" y="1151" type="line"/>
       <point x="900" y="1284" type="line"/>
       <point x="275" y="1284" type="line"/>
-    </contour>
-    <contour>
-      <point x="425" y="-500" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="955" y="1635" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

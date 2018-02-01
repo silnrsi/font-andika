@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmBDotAbv" format="1">
+<glyph name="LtnSmBDotAbv" format="2">
   <advance width="1144"/>
   <unicode hex="1E03"/>
+  <anchor x="530" y="0" name="H"/>
+  <anchor x="505" y="-100" name="L"/>
+  <anchor x="1345" y="1000" name="R"/>
+  <anchor x="993" y="1535" name="U"/>
   <outline>
     <contour>
       <point x="437" y="1570" type="line"/>
@@ -60,18 +64,6 @@
       <point x="973" y="1450" type="curve" smooth="yes"/>
       <point x="889" y="1450"/>
       <point x="812" y="1381"/>
-    </contour>
-    <contour>
-      <point x="530" y="0" type="move" name="H"/>
-    </contour>
-    <contour>
-      <point x="505" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="1345" y="1000" type="move" name="R"/>
-    </contour>
-    <contour>
-      <point x="993" y="1535" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

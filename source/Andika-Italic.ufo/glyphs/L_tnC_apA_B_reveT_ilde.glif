@@ -1,22 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnCapABreveTilde" format="1">
+<glyph name="LtnCapABreveTilde" format="2">
   <advance width="1395"/>
   <unicode hex="1EB4"/>
+  <anchor x="1170" y="0" name="H"/>
+  <anchor x="600" y="-100" name="L"/>
+  <anchor x="1390" y="0" name="O"/>
+  <anchor x="1209" y="2440" name="U"/>
   <outline>
     <component base="LtnCapA"/>
     <component base="CombBreve" xOffset="1335" yOffset="430"/>
     <component base="CombTilde" xOffset="1499" yOffset="965"/>
-    <contour>
-      <point x="1170" y="0" type="move" name="H"/>
-    </contour>
-    <contour>
-      <point x="600" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="1390" y="0" type="move" name="O"/>
-    </contour>
-    <contour>
-      <point x="1209" y="2440" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

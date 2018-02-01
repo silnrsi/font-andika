@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ModSmL.TailL" format="1">
+<glyph name="ModSmL.TailL" format="2">
   <advance width="441"/>
+  <anchor x="375" y="615" name="L"/>
+  <anchor x="560" y="1745" name="U"/>
   <outline>
     <component base="LtnSmL.TailL" xScale="0.7" yScale="0.65" xOffset="111" yOffset="666"/>
-    <contour>
-      <point x="375" y="615" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="560" y="1745" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

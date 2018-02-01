@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CySmBe.Serb" format="1">
+<glyph name="CySmBe.Serb" format="2">
   <advance width="1130"/>
+  <anchor x="492" y="-100" name="L"/>
+  <anchor x="924" y="1635" name="U"/>
   <outline>
     <contour>
       <point x="1365" y="1473" type="line" name="hr00"/>
@@ -41,12 +43,6 @@
       <point x="973" y="1370"/>
       <point x="1081" y="1322"/>
       <point x="1235" y="1321" type="curve"/>
-    </contour>
-    <contour>
-      <point x="492" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="924" y="1635" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

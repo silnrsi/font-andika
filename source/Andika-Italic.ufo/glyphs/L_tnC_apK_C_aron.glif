@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnCapKCaron" format="1">
+<glyph name="LtnCapKCaron" format="2">
   <advance width="1261"/>
   <unicode hex="01E8"/>
+  <anchor x="210" y="0" name="H"/>
+  <anchor x="610" y="-100" name="L"/>
+  <anchor x="1061" y="2065" name="U"/>
   <outline>
     <component base="LtnCapK"/>
     <component base="CombCaron" xOffset="1292" yOffset="430"/>
-    <contour>
-      <point x="210" y="0" type="move" name="H"/>
-    </contour>
-    <contour>
-      <point x="610" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="1061" y="2065" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

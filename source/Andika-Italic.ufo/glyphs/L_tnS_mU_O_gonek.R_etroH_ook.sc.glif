@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmUOgonek.RetroHook.sc" format="1">
+<glyph name="LtnSmUOgonek.RetroHook.sc" format="2">
   <advance width="1345"/>
+  <anchor x="660" y="8" name="H"/>
+  <anchor x="560" y="-476" name="L"/>
+  <anchor x="861" y="8" name="O"/>
+  <anchor x="1298" y="1016" name="R"/>
+  <anchor x="660" y="1293" name="U"/>
   <outline>
     <component base="LtnSmU.sc"/>
     <component base="CombOgonek.RetroHook" xOffset="1315" yOffset="24"/>
-    <contour>
-      <point x="660" y="8" type="move" name="H"/>
-    </contour>
-    <contour>
-      <point x="560" y="-476" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="861" y="8" type="move" name="O"/>
-    </contour>
-    <contour>
-      <point x="1298" y="1016" type="move" name="R"/>
-    </contour>
-    <contour>
-      <point x="660" y="1293" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

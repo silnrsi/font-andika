@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmYGrave" format="1">
+<glyph name="LtnSmYGrave" format="2">
   <advance width="976"/>
   <unicode hex="1EF3"/>
+  <anchor x="720" y="-100" name="L"/>
+  <anchor x="1170" y="1000" name="R"/>
+  <anchor x="764" y="1635" name="U"/>
   <outline>
     <component base="LtnSmY"/>
     <component base="CombGrave" xOffset="965"/>
-    <contour>
-      <point x="720" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="1170" y="1000" type="move" name="R"/>
-    </contour>
-    <contour>
-      <point x="764" y="1635" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

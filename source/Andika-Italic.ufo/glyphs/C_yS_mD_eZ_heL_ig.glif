@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CySmDeZheLig" format="1">
+<glyph name="CySmDeZheLig" format="2">
   <advance width="1956"/>
   <unicode hex="052B"/>
+  <anchor x="1141" y="-100" name="L"/>
+  <anchor x="1486" y="1100" name="U"/>
   <outline>
     <contour>
       <point x="1495" y="1000" type="line" name="hr00"/>
@@ -99,12 +101,6 @@
       <point x="522" y="1455"/>
       <point x="472" y="1450"/>
       <point x="424" y="1440" type="curve"/>
-    </contour>
-    <contour>
-      <point x="1141" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="1486" y="1100" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

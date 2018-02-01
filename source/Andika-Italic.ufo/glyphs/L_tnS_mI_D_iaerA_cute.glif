@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmIDiaerAcute" format="1">
+<glyph name="LtnSmIDiaerAcute" format="2">
   <advance width="554"/>
   <unicode hex="1E2F"/>
+  <anchor x="225" y="0" name="H"/>
+  <anchor x="200" y="-100" name="L"/>
+  <anchor x="460" y="0" name="O"/>
+  <anchor x="740" y="1000" name="R"/>
+  <anchor x="711" y="2040" name="U"/>
   <outline>
     <component base="LtnSmDotlessI"/>
     <component base="CombDiaer" xOffset="830"/>
     <component base="CombAcute" xOffset="932" yOffset="405"/>
-    <contour>
-      <point x="225" y="0" type="move" name="H"/>
-    </contour>
-    <contour>
-      <point x="200" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="460" y="0" type="move" name="O"/>
-    </contour>
-    <contour>
-      <point x="740" y="1000" type="move" name="R"/>
-    </contour>
-    <contour>
-      <point x="711" y="2040" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

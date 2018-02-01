@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmQPDigraph" format="1">
+<glyph name="LtnSmQPDigraph" format="2">
   <advance width="1811"/>
   <unicode hex="0239"/>
+  <anchor x="745" y="-535" name="L"/>
+  <anchor x="1125" y="1100" name="U"/>
   <outline>
     <contour>
       <point x="843" y="-480" type="line" name="hr00"/>
@@ -82,12 +84,6 @@
       <point x="1149" y="135"/>
       <point x="1105" y="161"/>
       <point x="991" y="255" type="curve"/>
-    </contour>
-    <contour>
-      <point x="745" y="-535" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="1125" y="1100" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

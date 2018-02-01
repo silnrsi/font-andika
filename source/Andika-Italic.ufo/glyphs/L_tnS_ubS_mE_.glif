@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSubSmE" format="1">
+<glyph name="LtnSubSmE" format="2">
   <advance width="766"/>
   <unicode hex="2091"/>
+  <anchor x="386" y="-365" name="L"/>
+  <anchor x="386" y="435" name="U"/>
   <outline>
     <component base="LtnSmE" xScale="0.7" yScale="0.65" xOffset="5" yOffset="-300"/>
-    <contour>
-      <point x="386" y="-365" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="386" y="435" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

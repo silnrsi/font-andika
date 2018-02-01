@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CyCapIe" format="1">
+<glyph name="CyCapIe" format="2">
   <advance width="1140"/>
   <unicode hex="0415"/>
+  <anchor x="515" y="-100" name="L"/>
+  <anchor x="922" y="1530" name="U"/>
   <outline>
     <contour>
       <point x="511" y="828" type="line" name="hr00"/>
@@ -25,12 +27,6 @@
       <point x="472" y="671" type="line"/>
       <point x="1042" y="671" type="line"/>
       <point x="1081" y="828" type="line"/>
-    </contour>
-    <contour>
-      <point x="515" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="922" y="1530" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

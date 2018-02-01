@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSubSmA.SngStory" format="1">
+<glyph name="LtnSubSmA.SngStory" format="2">
   <advance width="805"/>
   <unicode hex="2090"/>
+  <anchor x="420" y="-365" name="L"/>
+  <anchor x="420" y="435" name="U"/>
   <outline>
     <component base="LtnSmAlpha" xScale="0.7" yScale="0.65" xOffset="5" yOffset="-300"/>
-    <contour>
-      <point x="420" y="-365" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="420" y="435" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

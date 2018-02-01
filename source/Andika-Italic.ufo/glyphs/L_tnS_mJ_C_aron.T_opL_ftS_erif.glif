@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmJCaron.TopLftSerif" format="1">
+<glyph name="LtnSmJCaron.TopLftSerif" format="2">
   <advance width="807"/>
+  <anchor x="65" y="-500" name="L"/>
+  <anchor x="654" y="1635" name="U"/>
   <outline>
     <component base="LtnSmDotlessJ.TopLftSerif"/>
     <component base="CombCaron" xOffset="885"/>
-    <contour>
-      <point x="65" y="-500" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="654" y="1635" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

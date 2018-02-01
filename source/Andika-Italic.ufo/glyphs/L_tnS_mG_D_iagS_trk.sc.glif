@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmGDiagStrk.sc" format="1">
+<glyph name="LtnSmGDiagStrk.sc" format="2">
   <advance width="1354"/>
+  <anchor x="709" y="-76" name="L"/>
+  <anchor x="709" y="1293" name="U"/>
   <outline>
     <contour>
       <point x="1189" y="630" type="line" name="hr00"/>
@@ -39,12 +41,6 @@
       <point x="1315" y="919" type="line"/>
       <point x="-18" y="723" type="line"/>
       <point x="-18" y="579" type="line"/>
-    </contour>
-    <contour>
-      <point x="709" y="-76" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="709" y="1293" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

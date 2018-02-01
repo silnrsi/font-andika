@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ModCapJ.BarTop" format="1">
+<glyph name="ModCapJ.BarTop" format="2">
   <advance width="675"/>
+  <anchor x="290" y="615" name="L"/>
+  <anchor x="480" y="1675" name="U"/>
   <outline>
     <component base="LtnCapJ" xOffset="5" yOffset="680"/>
-    <contour>
-      <point x="290" y="615" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="480" y="1675" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

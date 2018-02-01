@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CombBreve.CyShortMrkAlt.UCHt" format="1">
+<glyph name="CombBreve.CyShortMrkAlt.UCHt" format="2">
   <advance width="0"/>
+  <anchor x="-277" y="1960" name="U"/>
+  <anchor x="-378" y="1445" name="_U"/>
   <outline>
     <contour>
       <point x="-77" y="1837" type="line" name="hr00"/>
@@ -23,12 +25,6 @@
       <point x="-162" y="1470"/>
       <point x="13" y="1646"/>
       <point x="48" y="1817" type="curve"/>
-    </contour>
-    <contour>
-      <point x="-277" y="1960" type="move" name="U"/>
-    </contour>
-    <contour>
-      <point x="-378" y="1445" type="move" name="_U"/>
     </contour>
   </outline>
 </glyph>

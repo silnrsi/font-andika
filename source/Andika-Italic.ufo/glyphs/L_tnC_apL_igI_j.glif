@@ -1,21 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnCapLigIj" format="1">
+<glyph name="LtnCapLigIj" format="2">
   <advance width="1920"/>
   <unicode hex="0132"/>
+  <anchor x="417" y="0" name="H"/>
+  <anchor x="1300" y="-100" name="L"/>
+  <anchor x="613" y="0" name="O"/>
+  <anchor x="1390" y="1530" name="U"/>
   <outline>
     <component base="LtnCapI" xOffset="-60"/>
     <component base="LtnCapJ" xOffset="915"/>
-    <contour>
-      <point x="417" y="0" type="move" name="H"/>
-    </contour>
-    <contour>
-      <point x="1300" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="613" y="0" type="move" name="O"/>
-    </contour>
-    <contour>
-      <point x="1390" y="1530" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CombCircumHook.VN" format="1">
+<glyph name="CombCircumHook.VN" format="2">
   <advance width="0"/>
+  <anchor x="-320" y="1100" name="_U"/>
   <outline>
     <contour>
       <point x="-619" y="1147" type="line" name="hr00"/>
@@ -38,9 +39,6 @@
       <point x="98" y="1490"/>
       <point x="69" y="1441"/>
       <point x="44" y="1343" type="curve"/>
-    </contour>
-    <contour>
-      <point x="-320" y="1100" type="move" name="_U"/>
     </contour>
   </outline>
 </glyph>

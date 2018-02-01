@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmYHookAbv.NoTailY" format="1">
+<glyph name="LtnSmYHookAbv.NoTailY" format="2">
   <advance width="1019"/>
+  <anchor x="720" y="-100" name="L"/>
+  <anchor x="1300" y="1000" name="R"/>
+  <anchor x="759" y="1635" name="U"/>
   <outline>
     <component base="LtnSmY.NoTailY"/>
     <component base="CombHookAbv" xOffset="953"/>
-    <contour>
-      <point x="720" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="1300" y="1000" type="move" name="R"/>
-    </contour>
-    <contour>
-      <point x="759" y="1635" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

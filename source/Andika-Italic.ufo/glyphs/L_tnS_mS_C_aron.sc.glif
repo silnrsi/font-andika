@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmSCaron.sc" format="1">
+<glyph name="LtnSmSCaron.sc" format="2">
   <advance width="1101"/>
+  <anchor x="544" y="8" name="H"/>
+  <anchor x="544" y="-76" name="L"/>
+  <anchor x="633" y="1828" name="U"/>
   <outline>
     <component base="LtnSmS.sc"/>
     <component base="CombCaron" xOffset="864" yOffset="193"/>
-    <contour>
-      <point x="544" y="8" type="move" name="H"/>
-    </contour>
-    <contour>
-      <point x="544" y="-76" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="633" y="1828" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

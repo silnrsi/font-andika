@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmLAcute.SItal" format="1">
+<glyph name="LtnSmLAcute.SItal" format="2">
   <advance width="545"/>
+  <anchor x="222" y="0" name="H"/>
+  <anchor x="222" y="-100" name="L"/>
+  <anchor x="765" y="1100" name="R"/>
+  <anchor x="764" y="2170" name="U"/>
   <outline>
     <component base="LtnSmL.SItal"/>
     <component base="CombAcute" xOffset="985" yOffset="535"/>
-    <contour>
-      <point x="222" y="0" type="move" name="H"/>
-    </contour>
-    <contour>
-      <point x="222" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="765" y="1100" type="move" name="R"/>
-    </contour>
-    <contour>
-      <point x="764" y="2170" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnCapAVDigraph" format="1">
+<glyph name="LtnCapAVDigraph" format="2">
   <advance width="1944"/>
   <unicode hex="A738"/>
+  <anchor x="902" y="-100" name="L"/>
+  <anchor x="1309" y="1530" name="U"/>
   <outline>
     <contour>
       <point x="1990" y="1431" type="line" name="hr00"/>
@@ -26,12 +28,6 @@
       <point x="1021" y="529" type="line"/>
       <point x="514" y="529" type="line"/>
       <point x="944" y="1240" type="line"/>
-    </contour>
-    <contour>
-      <point x="902" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="1309" y="1530" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

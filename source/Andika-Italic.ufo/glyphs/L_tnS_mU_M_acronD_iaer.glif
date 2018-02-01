@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmUMacronDiaer" format="1">
+<glyph name="LtnSmUMacronDiaer" format="2">
   <advance width="1175"/>
   <unicode hex="1E7B"/>
+  <anchor x="465" y="0" name="H"/>
+  <anchor x="504" y="-100" name="L"/>
+  <anchor x="640" y="0" name="O"/>
+  <anchor x="1375" y="1000" name="R"/>
+  <anchor x="944" y="1855" name="U"/>
   <outline>
     <component base="LtnSmU"/>
     <component base="CombMacron" xOffset="1114"/>
     <component base="CombDiaer" xOffset="1197" yOffset="350"/>
-    <contour>
-      <point x="465" y="0" type="move" name="H"/>
-    </contour>
-    <contour>
-      <point x="504" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="640" y="0" type="move" name="O"/>
-    </contour>
-    <contour>
-      <point x="1375" y="1000" type="move" name="R"/>
-    </contour>
-    <contour>
-      <point x="944" y="1855" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

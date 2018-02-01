@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnRevGlottalStopStrk" format="1">
+<glyph name="LtnRevGlottalStopStrk" format="2">
   <advance width="985"/>
   <unicode hex="02A2"/>
+  <anchor x="460" y="-100" name="L"/>
+  <anchor x="814" y="1530" name="U"/>
   <outline>
     <contour>
       <point x="1113" y="1249" type="line" name="hr00"/>
@@ -48,12 +50,6 @@
       <point x="187" y="392" type="line"/>
       <point x="902" y="392" type="line"/>
       <point x="938" y="534" type="line"/>
-    </contour>
-    <contour>
-      <point x="460" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="814" y="1530" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

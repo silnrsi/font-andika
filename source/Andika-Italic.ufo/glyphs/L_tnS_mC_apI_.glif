@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmCapI" format="1">
+<glyph name="LtnSmCapI" format="2">
   <advance width="820"/>
   <unicode hex="026A"/>
+  <anchor x="360" y="0" name="H"/>
+  <anchor x="360" y="-100" name="L"/>
+  <anchor x="515" y="0" name="O"/>
+  <anchor x="845" y="890" name="R"/>
+  <anchor x="632" y="1091" name="U"/>
   <outline>
     <contour>
       <point x="334" y="1000" type="line" name="hr00"/>
@@ -16,21 +21,6 @@
       <point x="674" y="871" type="line"/>
       <point x="862" y="871" type="line"/>
       <point x="894" y="1000" type="line"/>
-    </contour>
-    <contour>
-      <point x="360" y="0" type="move" name="H"/>
-    </contour>
-    <contour>
-      <point x="360" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="515" y="0" type="move" name="O"/>
-    </contour>
-    <contour>
-      <point x="845" y="890" type="move" name="R"/>
-    </contour>
-    <contour>
-      <point x="632" y="1091" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

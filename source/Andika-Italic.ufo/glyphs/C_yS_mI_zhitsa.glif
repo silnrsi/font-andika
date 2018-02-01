@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CySmIzhitsa" format="1">
+<glyph name="CySmIzhitsa" format="2">
   <advance width="1155"/>
   <unicode hex="0475"/>
+  <anchor x="479" y="0" name="H"/>
+  <anchor x="440" y="-100" name="L"/>
+  <anchor x="680" y="0" name="O"/>
+  <anchor x="740" y="1100" name="U"/>
   <outline>
     <contour>
       <point x="1343" y="995" type="line" name="hr01"/>
@@ -38,18 +42,6 @@
       <point x="1208" y="857"/>
       <point x="1239" y="848"/>
       <point x="1255" y="833" type="curve"/>
-    </contour>
-    <contour>
-      <point x="479" y="0" type="move" name="H"/>
-    </contour>
-    <contour>
-      <point x="440" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="680" y="0" type="move" name="O"/>
-    </contour>
-    <contour>
-      <point x="740" y="1100" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CySmUDblAcute" format="1">
+<glyph name="CySmUDblAcute" format="2">
   <advance width="976"/>
   <unicode hex="04F3"/>
+  <anchor x="720" y="-100" name="L"/>
+  <anchor x="804" y="1635" name="U"/>
   <outline>
     <component base="CySmU"/>
     <component base="CombDblAcute" xOffset="1025"/>
-    <contour>
-      <point x="720" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="804" y="1635" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

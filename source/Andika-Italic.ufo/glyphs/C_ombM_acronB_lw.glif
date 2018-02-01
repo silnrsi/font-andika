@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CombMacronBlw" format="1">
+<glyph name="CombMacronBlw" format="2">
   <advance width="0"/>
   <unicode hex="0331"/>
+  <anchor x="-750" y="-500" name="L"/>
+  <anchor x="-650" y="-100" name="_L"/>
   <outline>
     <contour>
       <point x="-1098" y="-314" type="line" name="hr00"/>
       <point x="-349" y="-314" type="line"/>
       <point x="-312" y="-167" type="line"/>
       <point x="-1061" y="-167" type="line"/>
-    </contour>
-    <contour>
-      <point x="-750" y="-500" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="-650" y="-100" type="move" name="_L"/>
     </contour>
   </outline>
 </glyph>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="GrCapThetaSym" format="1">
+<glyph name="GrCapThetaSym" format="2">
   <advance width="1447"/>
   <unicode hex="03F4"/>
+  <anchor x="632" y="-100" name="L"/>
+  <anchor x="1039" y="1530" name="U"/>
   <outline>
     <contour>
       <point x="1015" y="1455" type="curve" smooth="yes"/>
@@ -40,12 +42,6 @@
       <point x="1262" y="671" type="line"/>
       <point x="1192" y="402"/>
       <point x="999" y="147"/>
-    </contour>
-    <contour>
-      <point x="632" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="1039" y="1530" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

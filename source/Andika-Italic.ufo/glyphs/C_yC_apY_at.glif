@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CyCapYat" format="1">
+<glyph name="CyCapYat" format="2">
   <advance width="1415"/>
   <unicode hex="0462"/>
+  <anchor x="668" y="-100" name="L"/>
+  <anchor x="1101" y="1635" name="U"/>
   <outline>
     <contour>
       <point x="646" y="686" type="line"/>
@@ -48,12 +50,6 @@
       <point x="1207" y="838"/>
       <point x="878" y="838" type="curve" smooth="yes"/>
       <point x="683" y="838" type="line"/>
-    </contour>
-    <contour>
-      <point x="668" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="1101" y="1635" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

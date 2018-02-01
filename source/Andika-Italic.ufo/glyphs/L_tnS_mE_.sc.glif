@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmE.sc" format="1">
+<glyph name="LtnSmE.sc" format="2">
   <advance width="1087"/>
+  <anchor x="562" y="8" name="H"/>
+  <anchor x="562" y="-76" name="L"/>
+  <anchor x="854" y="8" name="O"/>
+  <anchor x="1077" y="1016" name="R"/>
+  <anchor x="562" y="1293" name="U"/>
   <outline>
     <contour>
       <point x="351" y="712" type="line" name="hr00"/>
@@ -24,21 +29,6 @@
       <point x="351" y="565" type="line"/>
       <point x="867" y="565" type="line"/>
       <point x="867" y="712" type="line"/>
-    </contour>
-    <contour>
-      <point x="562" y="8" type="move" name="H"/>
-    </contour>
-    <contour>
-      <point x="562" y="-76" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="854" y="8" type="move" name="O"/>
-    </contour>
-    <contour>
-      <point x="1077" y="1016" type="move" name="R"/>
-    </contour>
-    <contour>
-      <point x="562" y="1293" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

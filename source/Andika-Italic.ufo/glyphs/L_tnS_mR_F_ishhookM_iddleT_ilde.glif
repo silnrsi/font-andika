@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmRFishhookMiddleTilde" format="1">
+<glyph name="LtnSmRFishhookMiddleTilde" format="2">
   <advance width="959"/>
   <unicode hex="1D73"/>
+  <anchor x="350" y="-100" name="L"/>
+  <anchor x="805" y="1100" name="U"/>
   <outline>
     <contour>
       <point x="245" y="0" type="line" name="hr00"/>
@@ -51,12 +53,6 @@
       <point x="220" y="603"/>
       <point x="116" y="482"/>
       <point x="86" y="363" type="curve"/>
-    </contour>
-    <contour>
-      <point x="350" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="805" y="1100" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

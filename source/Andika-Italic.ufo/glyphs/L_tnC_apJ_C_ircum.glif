@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnCapJCircum" format="1">
+<glyph name="LtnCapJCircum" format="2">
   <advance width="996"/>
   <unicode hex="0134"/>
+  <anchor x="325" y="-100" name="L"/>
+  <anchor x="1096" y="2065" name="U"/>
   <outline>
     <component base="LtnCapJ"/>
     <component base="CombCircum" xOffset="1317" yOffset="430"/>
-    <contour>
-      <point x="325" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="1096" y="2065" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnCapHDiaer" format="1">
+<glyph name="LtnCapHDiaer" format="2">
   <advance width="1455"/>
   <unicode hex="1E26"/>
+  <anchor x="225" y="0" name="H"/>
+  <anchor x="640" y="-100" name="L"/>
+  <anchor x="1144" y="1935" name="U"/>
   <outline>
     <component base="LtnCapH"/>
     <component base="CombDiaer" xOffset="1397" yOffset="430"/>
-    <contour>
-      <point x="225" y="0" type="move" name="H"/>
-    </contour>
-    <contour>
-      <point x="640" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="1144" y="1935" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

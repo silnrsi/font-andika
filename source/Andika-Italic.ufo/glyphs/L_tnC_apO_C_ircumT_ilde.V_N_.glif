@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnCapOCircumTilde.VN" format="1">
+<glyph name="LtnCapOCircumTilde.VN" format="2">
   <advance width="1447"/>
+  <anchor x="657" y="0" name="H"/>
+  <anchor x="632" y="-100" name="L"/>
+  <anchor x="896" y="0" name="O"/>
+  <anchor x="1700" y="1200" name="R"/>
+  <anchor x="1204" y="2330" name="U"/>
   <outline>
     <component base="LtnCapO"/>
     <component base="CombCircumTilde.VN" xOffset="1359" yOffset="430"/>
-    <contour>
-      <point x="657" y="0" type="move" name="H"/>
-    </contour>
-    <contour>
-      <point x="632" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="896" y="0" type="move" name="O"/>
-    </contour>
-    <contour>
-      <point x="1700" y="1200" type="move" name="R"/>
-    </contour>
-    <contour>
-      <point x="1204" y="2330" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnTwoStrk" format="1">
+<glyph name="LtnTwoStrk" format="2">
   <advance width="1240"/>
   <unicode hex="01BB"/>
+  <anchor x="515" y="-100" name="L"/>
+  <anchor x="855" y="1530" name="U"/>
   <outline>
     <contour>
       <point x="1063" y="176" type="line" name="hr00"/>
@@ -36,12 +38,6 @@
       <point x="1248" y="676" type="line"/>
       <point x="1283" y="818" type="line"/>
       <point x="323" y="818" type="line"/>
-    </contour>
-    <contour>
-      <point x="515" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="855" y="1530" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

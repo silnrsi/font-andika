@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CySmKaVertStrk" format="1">
+<glyph name="CySmKaVertStrk" format="2">
   <advance width="1100"/>
   <unicode hex="049D"/>
+  <anchor x="517" y="-100" name="L"/>
+  <anchor x="817" y="1100" name="U"/>
   <outline>
     <contour>
       <point x="529" y="1000" type="line"/>
@@ -63,12 +65,6 @@
       <point x="637" y="593"/>
       <point x="592" y="593" type="curve" smooth="yes"/>
       <point x="357" y="593" type="line"/>
-    </contour>
-    <contour>
-      <point x="517" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="817" y="1100" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

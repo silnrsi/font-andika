@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnCapAeMacron" format="1">
+<glyph name="LtnCapAeMacron" format="2">
   <advance width="1785"/>
   <unicode hex="01E2"/>
+  <anchor x="930" y="-100" name="L"/>
+  <anchor x="1380" y="1880" name="U"/>
   <outline>
     <component base="LtnCapAe"/>
     <component base="CombMacron" xOffset="1647" yOffset="430"/>
-    <contour>
-      <point x="930" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="1380" y="1880" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

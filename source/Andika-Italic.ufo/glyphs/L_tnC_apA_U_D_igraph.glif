@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnCapAUDigraph" format="1">
+<glyph name="LtnCapAUDigraph" format="2">
   <advance width="2158"/>
   <unicode hex="A736"/>
+  <anchor x="1009" y="-100" name="L"/>
+  <anchor x="1416" y="1530" name="U"/>
   <outline>
     <contour>
       <point x="1021" y="529" type="line"/>
@@ -36,12 +38,6 @@
       <point x="2219" y="1207"/>
       <point x="2258" y="1352"/>
       <point x="2290" y="1431" type="curve"/>
-    </contour>
-    <contour>
-      <point x="1009" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="1416" y="1530" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>
