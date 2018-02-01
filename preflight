@@ -1,3 +1,13 @@
 #!/bin/sh
 
-psfsyncmeta source/Andika-Regular.ufo --normalize -l source/logs/sync.log
+# update psnames and sort order in Regular, which also normalizes it
+psfsetpsnames -p checkfix=fix -i source/glyph_data.csv source/Andika-Regular.ufo -l source/logs/psnames.log
+psfsetglyphorder --header sort_final_a -i source/glyph_data.csv source/Andika-Regular.ufo -l source/logs/sortorder.log
+
+# normalize other family members
+psfnormalize -p checkfix=fix source/Andika-Bold.ufo -l source/logs/normB.log
+psfnormalize -p checkfix=fix source/Andika-Italic.ufo -l source/logs/normI.log
+psfnormalize -p checkfix=fix source/Andika-BoldItalic.ufo -l source/logs/normBI.log
+
+# copy psnames and glyphorder and any other updates to all fonts
+psfsyncmasters source/AndikaRoman.designspace source/AndikaItalic.designspace -l source/logs/sync.log
