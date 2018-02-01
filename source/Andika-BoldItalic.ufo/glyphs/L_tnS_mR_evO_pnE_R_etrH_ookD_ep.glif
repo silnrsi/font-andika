@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmRevOpnERetrHookDep" format="1">
+<glyph name="LtnSmRevOpnERetrHookDep" format="2">
   <advance width="940"/>
   <unicode hex="F23A"/>
+  <anchor x="475" y="-500" name="L"/>
+  <anchor x="475" y="1100" name="U"/>
   <outline>
     <contour>
       <point x="90" y="-500" type="line" name="hr00"/>
@@ -63,12 +65,6 @@
       <point x="255" y="-210" type="line" smooth="yes"/>
       <point x="255" y="-285"/>
       <point x="303" y="-335"/>
-    </contour>
-    <contour>
-      <point x="475" y="-500" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="475" y="1100" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

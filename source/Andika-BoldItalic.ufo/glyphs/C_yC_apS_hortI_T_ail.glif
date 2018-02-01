@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CyCapShortITail" format="1">
+<glyph name="CyCapShortITail" format="2">
   <advance width="1670"/>
   <unicode hex="048A"/>
+  <anchor x="662" y="-100" name="L"/>
+  <anchor x="1220" y="2000" name="U"/>
   <outline>
     <contour>
       <point x="1443" y="1398" type="line" name="hr00"/>
@@ -36,11 +38,5 @@
       <point x="1605" y="0" type="line"/>
     </contour>
     <component base="CombBreve.CyShortMrkAlt.UCHt" xOffset="1442" yOffset="84"/>
-    <contour>
-      <point x="662" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="1220" y="2000" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

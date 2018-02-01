@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ModSmMHookDep" format="1">
+<glyph name="ModSmMHookDep" format="2">
   <advance width="1179"/>
   <unicode hex="F1C0"/>
+  <anchor x="600" y="345" name="L"/>
+  <anchor x="600" y="1395" name="U"/>
   <outline>
     <contour>
       <point x="62" y="345" type="line" name="hr00"/>
@@ -62,12 +64,6 @@
       <point x="750" y="375"/>
       <point x="698" y="388"/>
       <point x="659" y="410" type="curve"/>
-    </contour>
-    <contour>
-      <point x="600" y="345" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="600" y="1395" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

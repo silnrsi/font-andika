@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnCapOCircumTilde" format="1">
+<glyph name="LtnCapOCircumTilde" format="2">
   <advance width="1480"/>
   <unicode hex="1ED6"/>
+  <anchor x="680" y="0" name="H"/>
+  <anchor x="655" y="-100" name="L"/>
+  <anchor x="916" y="0" name="O"/>
+  <anchor x="1720" y="1200" name="R"/>
+  <anchor x="1191" y="2455" name="U"/>
   <outline>
     <component base="LtnCapO"/>
     <component base="CombCircum" xOffset="1395" yOffset="430"/>
     <component base="CombTilde" xOffset="1546" yOffset="965"/>
-    <contour>
-      <point x="680" y="0" type="move" name="H"/>
-    </contour>
-    <contour>
-      <point x="655" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="916" y="0" type="move" name="O"/>
-    </contour>
-    <contour>
-      <point x="1720" y="1200" type="move" name="R"/>
-    </contour>
-    <contour>
-      <point x="1191" y="2455" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

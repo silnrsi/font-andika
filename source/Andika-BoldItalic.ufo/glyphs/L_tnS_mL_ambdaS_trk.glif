@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmLambdaStrk" format="1">
+<glyph name="LtnSmLambdaStrk" format="2">
   <advance width="1243"/>
   <unicode hex="019B"/>
+  <anchor x="555" y="-100" name="L"/>
+  <anchor x="900" y="1635" name="U"/>
   <outline>
     <contour>
       <point x="1207" y="217" type="line"/>
@@ -45,12 +47,6 @@
       <point x="554" y="900" type="line"/>
       <point x="1249" y="1304" type="line"/>
       <point x="1178" y="1464" type="line"/>
-    </contour>
-    <contour>
-      <point x="555" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="900" y="1635" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

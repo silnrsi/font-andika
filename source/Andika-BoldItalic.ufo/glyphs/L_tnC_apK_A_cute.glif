@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnCapKAcute" format="1">
+<glyph name="LtnCapKAcute" format="2">
   <advance width="1410"/>
   <unicode hex="1E30"/>
+  <anchor x="260" y="0" name="H"/>
+  <anchor x="655" y="-100" name="L"/>
+  <anchor x="1121" y="2065" name="U"/>
   <outline>
     <component base="LtnCapK"/>
     <component base="CombAcute" xOffset="1372" yOffset="430"/>
-    <contour>
-      <point x="260" y="0" type="move" name="H"/>
-    </contour>
-    <contour>
-      <point x="655" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="1121" y="2065" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

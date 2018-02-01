@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="SmRomNumEight" format="1">
+<glyph name="SmRomNumEight" format="2">
   <advance width="2765"/>
   <unicode hex="2177"/>
+  <anchor x="1400" y="1505" name="U"/>
   <outline>
     <component base="LtnSmV"/>
     <component base="LtnSmI" xOffset="1070"/>
     <component base="LtnSmI" xOffset="1635"/>
     <component base="LtnSmI" xOffset="2200"/>
-    <contour>
-      <point x="1400" y="1505" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

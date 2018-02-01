@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CyCapKomiDe" format="1">
+<glyph name="CyCapKomiDe" format="2">
   <advance width="1355"/>
   <unicode hex="0500"/>
+  <anchor x="615" y="-100" name="L"/>
+  <anchor x="615" y="1530" name="U"/>
   <outline>
     <contour>
       <point x="905" y="220" type="line" name="hr00"/>
@@ -36,12 +38,6 @@
       <point x="1190" y="257"/>
       <point x="1190" y="455" type="curve" smooth="yes"/>
       <point x="1190" y="1460" type="line"/>
-    </contour>
-    <contour>
-      <point x="615" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="615" y="1530" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

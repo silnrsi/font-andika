@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmDTailHook" format="1">
+<glyph name="LtnSmDTailHook" format="2">
   <advance width="1272"/>
   <unicode hex="1D91"/>
+  <anchor x="433" y="-500" name="L"/>
+  <anchor x="965" y="1635" name="U"/>
   <outline>
     <contour>
       <point x="913" y="558" type="line" name="hr00"/>
@@ -72,12 +74,6 @@
       <point x="1586" y="1370"/>
       <point x="1637" y="1350"/>
       <point x="1679" y="1309" type="curve"/>
-    </contour>
-    <contour>
-      <point x="433" y="-500" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="965" y="1635" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

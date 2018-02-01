@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CyCapEf" format="1">
+<glyph name="CyCapEf" format="2">
   <advance width="1528"/>
   <unicode hex="0424"/>
+  <anchor x="674" y="-100" name="L"/>
+  <anchor x="1107" y="1635" name="U"/>
   <outline>
     <contour>
       <point x="946" y="1544" type="line" name="hr00"/>
@@ -48,12 +50,6 @@
       <point x="1308" y="652"/>
       <point x="1175" y="488"/>
       <point x="947" y="446" type="curve"/>
-    </contour>
-    <contour>
-      <point x="674" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="1107" y="1635" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

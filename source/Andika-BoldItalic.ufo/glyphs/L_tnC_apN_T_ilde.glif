@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnCapNTilde" format="1">
+<glyph name="LtnCapNTilde" format="2">
   <advance width="1525"/>
   <unicode hex="00D1"/>
+  <anchor x="1180" y="0" name="H"/>
+  <anchor x="680" y="-100" name="L"/>
+  <anchor x="1122" y="1920" name="U"/>
   <outline>
     <component base="LtnCapN"/>
     <component base="CombTilde" xOffset="1477" yOffset="430"/>
-    <contour>
-      <point x="1180" y="0" type="move" name="H"/>
-    </contour>
-    <contour>
-      <point x="680" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="1122" y="1920" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

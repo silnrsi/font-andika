@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmDTail" format="1">
+<glyph name="LtnSmDTail" format="2">
   <advance width="1280"/>
   <unicode hex="0256"/>
+  <anchor x="600" y="-465" name="L"/>
+  <anchor x="1320" y="1000" name="R"/>
+  <anchor x="600" y="1635" name="U"/>
   <outline>
     <contour>
       <point x="1390" y="-162" type="line" name="hr00"/>
@@ -51,15 +54,6 @@
       <point x="683" y="800"/>
       <point x="743" y="783"/>
       <point x="835" y="738" type="curve"/>
-    </contour>
-    <contour>
-      <point x="600" y="-465" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="1320" y="1000" type="move" name="R"/>
-    </contour>
-    <contour>
-      <point x="600" y="1635" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

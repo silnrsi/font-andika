@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmJ.BarTop" format="1">
+<glyph name="LtnSmJ.BarTop" format="2">
   <advance width="670"/>
+  <anchor x="140" y="-500" name="L"/>
+  <anchor x="355" y="1100" name="U"/>
   <outline>
     <component base="LtnSmJ"/>
-    <contour>
-      <point x="140" y="-500" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="355" y="1100" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

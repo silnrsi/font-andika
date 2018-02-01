@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CySmDje" format="1">
+<glyph name="CySmDje" format="2">
   <advance width="1273"/>
   <unicode hex="0452"/>
+  <anchor x="490" y="-500" name="L"/>
+  <anchor x="980" y="1635" name="U"/>
   <outline>
     <contour>
       <point x="455" y="1585" type="line"/>
@@ -52,12 +54,6 @@
       <point x="1010" y="1158" type="line"/>
       <point x="1055" y="1346" type="line"/>
       <point x="250" y="1346" type="line"/>
-    </contour>
-    <contour>
-      <point x="490" y="-500" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="980" y="1635" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

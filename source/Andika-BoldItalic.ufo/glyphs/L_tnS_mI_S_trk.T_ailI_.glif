@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmIStrk.TailI" format="1">
+<glyph name="LtnSmIStrk.TailI" format="2">
   <advance width="860"/>
+  <anchor x="520" y="0" name="H"/>
+  <anchor x="530" y="-100" name="L"/>
+  <anchor x="845" y="0" name="O"/>
+  <anchor x="975" y="1010" name="R"/>
+  <anchor x="660" y="1100" name="U"/>
   <outline>
     <contour>
       <point x="471" y="1010" type="line"/>
@@ -51,21 +56,6 @@
       <point x="125" y="464" type="line"/>
       <point x="890" y="464" type="line"/>
       <point x="940" y="662" type="line"/>
-    </contour>
-    <contour>
-      <point x="520" y="0" type="move" name="H"/>
-    </contour>
-    <contour>
-      <point x="530" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="845" y="0" type="move" name="O"/>
-    </contour>
-    <contour>
-      <point x="975" y="1010" type="move" name="R"/>
-    </contour>
-    <contour>
-      <point x="660" y="1100" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

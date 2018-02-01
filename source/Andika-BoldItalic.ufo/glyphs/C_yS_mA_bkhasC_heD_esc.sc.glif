@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CySmAbkhasCheDesc.sc" format="1">
+<glyph name="CySmAbkhasCheDesc.sc" format="2">
   <advance width="2257"/>
+  <anchor x="898" y="-542" name="L"/>
+  <anchor x="1011" y="1293" name="U"/>
   <outline>
     <component base="CySmAbkhasChe.sc"/>
     <component base="CombOgonek.Lrg" xOffset="788" yOffset="8"/>
-    <contour>
-      <point x="898" y="-542" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="1011" y="1293" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

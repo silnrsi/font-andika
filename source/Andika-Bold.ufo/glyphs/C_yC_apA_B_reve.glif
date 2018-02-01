@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CyCapABreve" format="1">
+<glyph name="CyCapABreve" format="2">
   <advance width="1485"/>
   <unicode hex="04D0"/>
+  <anchor x="732" y="-100" name="L"/>
+  <anchor x="732" y="2075" name="U"/>
   <outline>
     <component base="CyCapA"/>
     <component base="CombBreve.CyShortMrkAlt.UCHt" xOffset="1542" yOffset="85"/>
-    <contour>
-      <point x="732" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="732" y="2075" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

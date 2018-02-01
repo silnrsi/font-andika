@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmSdwysDiaerU" format="1">
+<glyph name="LtnSmSdwysDiaerU" format="2">
   <advance width="1755"/>
   <unicode hex="1D1E"/>
+  <anchor x="945" y="-100" name="L"/>
+  <anchor x="945" y="1100" name="U"/>
   <outline>
     <contour>
       <point x="260" y="580" type="curve" smooth="yes" name="hr00"/>
@@ -67,12 +69,6 @@
       <point x="1529" y="745"/>
       <point x="1602" y="771"/>
       <point x="1645" y="790" type="curve"/>
-    </contour>
-    <contour>
-      <point x="945" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="945" y="1100" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

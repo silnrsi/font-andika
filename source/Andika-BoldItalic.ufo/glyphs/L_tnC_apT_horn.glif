@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnCapThorn" format="1">
+<glyph name="LtnCapThorn" format="2">
   <advance width="1255"/>
   <unicode hex="00DE"/>
+  <anchor x="615" y="-100" name="L"/>
+  <anchor x="992" y="1530" name="U"/>
   <outline>
     <contour>
       <point x="405" y="0" type="line" name="hr00"/>
@@ -44,12 +46,6 @@
       <point x="625" y="520"/>
       <point x="563" y="523"/>
       <point x="522" y="530" type="curve"/>
-    </contour>
-    <contour>
-      <point x="615" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="992" y="1530" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

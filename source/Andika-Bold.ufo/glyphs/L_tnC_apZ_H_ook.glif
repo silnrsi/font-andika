@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnCapZHook" format="1">
+<glyph name="LtnCapZHook" format="2">
   <advance width="1280"/>
   <unicode hex="0224"/>
+  <anchor x="550" y="-500" name="L"/>
+  <anchor x="635" y="1530" name="U"/>
   <outline>
     <contour>
       <point x="955" y="0" type="line" name="hr00"/>
@@ -29,12 +31,6 @@
       <point x="793" y="1230" type="line"/>
       <point x="65" y="160" type="line"/>
       <point x="65" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="550" y="-500" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="635" y="1530" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

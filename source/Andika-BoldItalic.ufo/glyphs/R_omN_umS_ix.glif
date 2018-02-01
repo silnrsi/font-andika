@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="RomNumSix" format="1">
+<glyph name="RomNumSix" format="2">
   <advance width="2410"/>
   <unicode hex="2165"/>
+  <anchor x="1560" y="1530" name="U"/>
   <outline>
     <component base="LtnCapV"/>
     <component base="LtnCapI" xOffset="1365"/>
-    <contour>
-      <point x="1560" y="1530" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

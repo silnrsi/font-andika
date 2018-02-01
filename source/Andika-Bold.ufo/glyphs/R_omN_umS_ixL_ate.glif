@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="RomNumSixLate" format="1">
+<glyph name="RomNumSixLate" format="2">
   <advance width="1388"/>
   <unicode hex="2185"/>
+  <anchor x="762" y="1530" name="U"/>
   <outline>
     <contour>
       <point x="1240" y="405" type="line" name="hr00"/>
@@ -36,9 +37,6 @@
       <point x="1005" y="-475" type="line"/>
       <point x="1240" y="-370" type="line"/>
       <point x="1240" y="195" type="line"/>
-    </contour>
-    <contour>
-      <point x="762" y="1530" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

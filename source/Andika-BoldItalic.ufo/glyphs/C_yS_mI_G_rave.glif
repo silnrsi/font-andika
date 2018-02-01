@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CySmIGrave" format="1">
+<glyph name="CySmIGrave" format="2">
   <advance width="1257"/>
   <unicode hex="045D"/>
+  <anchor x="585" y="-100" name="L"/>
+  <anchor x="994" y="1635" name="U"/>
   <outline>
     <component base="CySmI"/>
     <component base="CombGrave" xOffset="1235"/>
-    <contour>
-      <point x="585" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="994" y="1635" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

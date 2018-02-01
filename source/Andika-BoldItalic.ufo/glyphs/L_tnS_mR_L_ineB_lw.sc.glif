@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmRLineBlw.sc" format="1">
+<glyph name="LtnSmRLineBlw.sc" format="2">
   <advance width="1221"/>
+  <anchor x="262" y="8" name="H"/>
+  <anchor x="471" y="-476" name="L"/>
+  <anchor x="571" y="1293" name="U"/>
   <outline>
     <component base="LtnSmR.sc"/>
     <component base="CombMacronBlw" xOffset="1236" yOffset="24"/>
-    <contour>
-      <point x="262" y="8" type="move" name="H"/>
-    </contour>
-    <contour>
-      <point x="471" y="-476" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="571" y="1293" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

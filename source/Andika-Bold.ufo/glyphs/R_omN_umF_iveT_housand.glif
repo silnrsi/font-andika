@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="RomNumFiveThousand" format="1">
+<glyph name="RomNumFiveThousand" format="2">
   <advance width="1485"/>
   <unicode hex="2181"/>
+  <anchor x="770" y="1530" name="U"/>
   <outline>
     <contour>
       <point x="165" y="455" type="line"/>
@@ -66,9 +67,6 @@
       <point x="480" y="472"/>
       <point x="464" y="472"/>
       <point x="450" y="474" type="curve"/>
-    </contour>
-    <contour>
-      <point x="770" y="1530" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CyCapElTail" format="1">
+<glyph name="CyCapElTail" format="2">
   <advance width="1715"/>
   <unicode hex="04C5"/>
+  <anchor x="535" y="-500" name="L"/>
+  <anchor x="1250" y="1530" name="U"/>
   <outline>
     <contour>
       <point x="1393" y="1218" type="line"/>
@@ -33,12 +35,6 @@
       <point x="1241" y="-436" type="line"/>
       <point x="1595" y="0" type="line"/>
       <point x="1651" y="228" type="line"/>
-    </contour>
-    <contour>
-      <point x="535" y="-500" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="1250" y="1530" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

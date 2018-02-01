@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnCapTCedilla" format="1">
+<glyph name="LtnCapTCedilla" format="2">
   <advance width="1255"/>
   <unicode hex="0162"/>
+  <anchor x="410" y="-530" name="L"/>
+  <anchor x="954" y="1530" name="U"/>
   <outline>
     <component base="LtnCapT"/>
     <component base="CombCedilla" xOffset="1062"/>
-    <contour>
-      <point x="410" y="-530" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="954" y="1530" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmNLftHook" format="1">
+<glyph name="LtnSmNLftHook" format="2">
   <advance width="1314"/>
   <unicode hex="0272"/>
+  <anchor x="754" y="-500" name="L"/>
+  <anchor x="650" y="1100" name="U"/>
   <outline>
     <contour>
       <point x="164" y="1020" type="line" name="hr00"/>
@@ -41,12 +43,6 @@
       <point x="472" y="881"/>
       <point x="454" y="980"/>
       <point x="439" y="1020" type="curve"/>
-    </contour>
-    <contour>
-      <point x="754" y="-500" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="650" y="1100" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

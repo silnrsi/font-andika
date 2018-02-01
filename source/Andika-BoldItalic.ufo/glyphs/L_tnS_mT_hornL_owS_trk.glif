@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmThornLowStrk" format="1">
+<glyph name="LtnSmThornLowStrk" format="2">
   <advance width="1272"/>
   <unicode hex="A767"/>
+  <anchor x="495" y="-500" name="L"/>
+  <anchor x="1000" y="1635" name="U"/>
   <outline>
     <contour>
       <point x="523" y="500" type="line" name="hr00"/>
@@ -60,12 +62,6 @@
       <point x="-115" y="-342" type="line"/>
       <point x="588" y="-342" type="line"/>
       <point x="637" y="-144" type="line"/>
-    </contour>
-    <contour>
-      <point x="495" y="-500" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="1000" y="1635" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

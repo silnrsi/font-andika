@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmLHighBar.TailL" format="1">
+<glyph name="LtnSmLHighBar.TailL" format="2">
   <advance width="916"/>
+  <anchor x="540" y="-100" name="L"/>
+  <anchor x="770" y="1635" name="U"/>
   <outline>
     <contour>
       <point x="367" y="1355" type="line" name="hr00"/>
@@ -37,12 +39,6 @@
       <point x="852" y="1255"/>
       <point x="892" y="1474"/>
       <point x="892" y="1585" type="curve"/>
-    </contour>
-    <contour>
-      <point x="540" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="770" y="1635" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

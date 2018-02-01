@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CySmElMiddleHook" format="1">
+<glyph name="CySmElMiddleHook" format="2">
   <advance width="1885"/>
   <unicode hex="0521"/>
+  <anchor x="500" y="-100" name="L"/>
+  <anchor x="940" y="1100" name="U"/>
   <outline>
     <contour>
       <point x="1003" y="797" type="line"/>
@@ -50,12 +52,6 @@
       <point x="1313" y="589"/>
       <point x="1228" y="552"/>
       <point x="1179" y="520" type="curve"/>
-    </contour>
-    <contour>
-      <point x="500" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="940" y="1100" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

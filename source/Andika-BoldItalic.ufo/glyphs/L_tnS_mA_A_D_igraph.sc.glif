@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmAADigraph.sc" format="1">
+<glyph name="LtnSmAADigraph.sc" format="2">
   <advance width="2367"/>
+  <anchor x="1188" y="8" name="H"/>
+  <anchor x="1188" y="-76" name="L"/>
+  <anchor x="2397" y="8" name="O"/>
+  <anchor x="1188" y="1293" name="U"/>
   <outline>
     <contour>
       <point x="1087" y="0" type="line" name="hr00"/>
@@ -41,18 +45,6 @@
       <point x="1390" y="461" type="line"/>
       <point x="1329" y="318" type="line"/>
       <point x="2016" y="318" type="line"/>
-    </contour>
-    <contour>
-      <point x="1188" y="8" type="move" name="H"/>
-    </contour>
-    <contour>
-      <point x="1188" y="-76" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="2397" y="8" type="move" name="O"/>
-    </contour>
-    <contour>
-      <point x="1188" y="1293" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

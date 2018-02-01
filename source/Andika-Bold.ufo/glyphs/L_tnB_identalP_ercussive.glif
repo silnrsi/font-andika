@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnBidentalPercussive" format="1">
+<glyph name="LtnBidentalPercussive" format="2">
   <advance width="1435"/>
   <unicode hex="02AD"/>
+  <anchor x="717" y="-100" name="L"/>
+  <anchor x="717" y="1595" name="U"/>
   <outline>
     <contour>
       <point x="1315" y="815" type="line" name="hr00"/>
@@ -22,12 +24,6 @@
       <point x="355" y="365" type="line"/>
       <point x="1080" y="365" type="line"/>
       <point x="1080" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="717" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="717" y="1595" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

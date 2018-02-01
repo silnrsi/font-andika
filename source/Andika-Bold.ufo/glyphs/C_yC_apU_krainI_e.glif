@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CyCapUkrainIe" format="1">
+<glyph name="CyCapUkrainIe" format="2">
   <advance width="1360"/>
   <unicode hex="0404"/>
+  <anchor x="771" y="-100" name="L"/>
+  <anchor x="771" y="1530" name="U"/>
   <outline>
     <contour>
       <point x="1045" y="650" type="line" name="hr00"/>
@@ -36,12 +38,6 @@
       <point x="1260" y="1390" type="line"/>
       <point x="1172" y="1444"/>
       <point x="999" y="1485"/>
-    </contour>
-    <contour>
-      <point x="771" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="771" y="1530" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

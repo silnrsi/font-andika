@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmGBarredSngBowl" format="1">
+<glyph name="LtnSmGBarredSngBowl" format="2">
   <advance width="1316"/>
   <unicode hex="01E5"/>
+  <anchor x="655" y="-500" name="L"/>
+  <anchor x="735" y="1100" name="U"/>
   <outline>
     <contour>
       <point x="1145" y="965" type="line"/>
@@ -52,12 +54,6 @@
       <point x="1296" y="659" type="line"/>
       <point x="20" y="659" type="line"/>
       <point x="20" y="459" type="line"/>
-    </contour>
-    <contour>
-      <point x="655" y="-500" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="735" y="1100" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

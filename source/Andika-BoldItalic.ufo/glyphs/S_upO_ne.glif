@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="SupOne" format="1">
+<glyph name="SupOne" format="2">
   <advance width="820"/>
   <unicode hex="00B9"/>
+  <anchor x="513" y="615" name="L"/>
+  <anchor x="778" y="1675" name="U"/>
   <outline>
     <contour>
       <point x="432" y="824" type="line" name="hr00"/>
@@ -15,12 +17,6 @@
       <point x="391" y="1495" type="line"/>
       <point x="371" y="1328" type="line"/>
       <point x="593" y="1426" type="line"/>
-    </contour>
-    <contour>
-      <point x="513" y="615" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="778" y="1675" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

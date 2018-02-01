@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmTurnedA.2StorySItal" format="1">
+<glyph name="LtnSmTurnedA.2StorySItal" format="2">
   <advance width="1175"/>
+  <anchor x="545" y="-100" name="L"/>
+  <anchor x="1385" y="1000" name="R"/>
+  <anchor x="760" y="1100" name="U"/>
   <outline>
     <contour>
       <point x="275" y="1005" type="line" name="hr00"/>
@@ -63,15 +66,6 @@
       <point x="670" y="546"/>
       <point x="548" y="536"/>
       <point x="508" y="535" type="curve"/>
-    </contour>
-    <contour>
-      <point x="545" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="1385" y="1000" type="move" name="R"/>
-    </contour>
-    <contour>
-      <point x="760" y="1100" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

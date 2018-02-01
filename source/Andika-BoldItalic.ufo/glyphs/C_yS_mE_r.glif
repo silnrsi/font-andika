@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CySmEr" format="1">
+<glyph name="CySmEr" format="2">
   <advance width="1272"/>
   <unicode hex="0440"/>
+  <anchor x="505" y="-500" name="L"/>
+  <anchor x="855" y="1100" name="U"/>
   <outline>
     <contour>
       <point x="523" y="500" type="line" name="hr02"/>
@@ -57,12 +59,6 @@
       <point x="579" y="962"/>
       <point x="578" y="988"/>
       <point x="575" y="1010" type="curve"/>
-    </contour>
-    <contour>
-      <point x="505" y="-500" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="855" y="1100" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSubSmJ.TopLftSerif" format="1">
+<glyph name="LtnSubSmJ.TopLftSerif" format="2">
   <advance width="577"/>
+  <anchor x="183" y="-645" name="L"/>
+  <anchor x="360" y="700" name="U"/>
   <outline>
     <component base="ModSmJ.TopLftSerif" xOffset="3" yOffset="-980"/>
-    <contour>
-      <point x="183" y="-645" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="360" y="700" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

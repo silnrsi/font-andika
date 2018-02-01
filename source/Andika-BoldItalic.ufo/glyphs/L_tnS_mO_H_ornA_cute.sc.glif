@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmOHornAcute.sc" format="1">
+<glyph name="LtnSmOHornAcute.sc" format="2">
   <advance width="1418"/>
+  <anchor x="670" y="-76" name="L"/>
+  <anchor x="744" y="1828" name="U"/>
   <outline>
     <component base="LtnSmOHorn.sc"/>
     <component base="CombAcute" xOffset="995" yOffset="193"/>
-    <contour>
-      <point x="670" y="-76" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="744" y="1828" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

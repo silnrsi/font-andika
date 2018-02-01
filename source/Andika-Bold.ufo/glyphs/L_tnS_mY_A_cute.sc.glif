@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmYAcute.sc" format="1">
+<glyph name="LtnSmYAcute.sc" format="2">
   <advance width="1234"/>
+  <anchor x="608" y="-76" name="L"/>
+  <anchor x="548" y="1828" name="U"/>
   <outline>
     <component base="LtnSmY.sc"/>
     <component base="CombAcute" xOffset="1148" yOffset="193"/>
-    <contour>
-      <point x="608" y="-76" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="548" y="1828" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CyCapSoftSgn" format="1">
+<glyph name="CyCapSoftSgn" format="2">
   <advance width="1355"/>
   <unicode hex="042C"/>
+  <anchor x="570" y="-100" name="L"/>
+  <anchor x="985" y="1530" name="U"/>
   <outline>
     <contour>
       <point x="450" y="1445" type="line"/>
@@ -36,12 +38,6 @@
       <point x="563" y="213"/>
       <point x="476" y="216"/>
       <point x="444" y="218" type="curve"/>
-    </contour>
-    <contour>
-      <point x="570" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="985" y="1530" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

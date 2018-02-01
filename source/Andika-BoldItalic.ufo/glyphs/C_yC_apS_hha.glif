@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CyCapShha" format="1">
+<glyph name="CyCapShha" format="2">
   <advance width="1390"/>
   <unicode hex="04BA"/>
+  <anchor x="640" y="-100" name="L"/>
+  <anchor x="1102" y="1530" name="U"/>
   <outline>
     <contour>
       <point x="592" y="653" type="line" name="hr00"/>
@@ -38,12 +40,6 @@
       <point x="163" y="79"/>
       <point x="130" y="0" type="curve"/>
       <point x="430" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="640" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="1102" y="1530" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

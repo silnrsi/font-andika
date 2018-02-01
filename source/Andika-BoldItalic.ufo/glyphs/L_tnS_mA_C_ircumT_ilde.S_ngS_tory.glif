@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmACircumTilde.SngStory" format="1">
+<glyph name="LtnSmACircumTilde.SngStory" format="2">
   <advance width="1251"/>
   <unicode hex="1EAB"/>
+  <anchor x="980" y="0" name="H"/>
+  <anchor x="565" y="-100" name="L"/>
+  <anchor x="1165" y="0" name="O"/>
+  <anchor x="1440" y="1000" name="R"/>
+  <anchor x="991" y="2025" name="U"/>
   <outline>
     <component base="LtnSmAlpha"/>
     <component base="CombCircum" xOffset="1195"/>
     <component base="CombTilde" xOffset="1346" yOffset="535"/>
-    <contour>
-      <point x="980" y="0" type="move" name="H"/>
-    </contour>
-    <contour>
-      <point x="565" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="1165" y="0" type="move" name="O"/>
-    </contour>
-    <contour>
-      <point x="1440" y="1000" type="move" name="R"/>
-    </contour>
-    <contour>
-      <point x="991" y="2025" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

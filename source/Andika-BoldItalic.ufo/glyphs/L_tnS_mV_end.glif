@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmVend" format="1">
+<glyph name="LtnSmVend" format="2">
   <advance width="1035"/>
   <unicode hex="A769"/>
+  <anchor x="130" y="-500" name="L"/>
+  <anchor x="792" y="1100" name="U"/>
   <outline>
     <contour>
       <point x="269" y="-485" type="line" name="hr00"/>
@@ -31,12 +33,6 @@
       <point x="763" y="196"/>
       <point x="1209" y="766"/>
       <point x="1209" y="1010" type="curve"/>
-    </contour>
-    <contour>
-      <point x="130" y="-500" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="792" y="1100" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

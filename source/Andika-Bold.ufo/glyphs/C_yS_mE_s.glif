@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CySmEs" format="1">
+<glyph name="CySmEs" format="2">
   <advance width="1022"/>
   <unicode hex="0441"/>
+  <anchor x="575" y="-100" name="L"/>
+  <anchor x="810" y="0" name="O"/>
+  <anchor x="575" y="1100" name="U"/>
   <outline>
     <contour>
       <point x="922" y="969" type="line" name="hr00"/>
@@ -30,15 +33,6 @@
       <point x="720" y="810"/>
       <point x="788" y="779"/>
       <point x="878" y="717" type="curve"/>
-    </contour>
-    <contour>
-      <point x="575" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="810" y="0" type="move" name="O"/>
-    </contour>
-    <contour>
-      <point x="575" y="1100" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

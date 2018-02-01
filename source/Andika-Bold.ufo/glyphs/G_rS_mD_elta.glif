@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="GrSmDelta" format="1">
+<glyph name="GrSmDelta" format="2">
   <advance width="1170"/>
   <unicode hex="03B4"/>
+  <anchor x="595" y="-100" name="L"/>
+  <anchor x="595" y="1635" name="U"/>
   <outline>
     <contour>
       <point x="1018" y="1600" type="line" name="hr00"/>
@@ -48,12 +50,6 @@
       <point x="716" y="1406"/>
       <point x="849" y="1392"/>
       <point x="950" y="1370" type="curve"/>
-    </contour>
-    <contour>
-      <point x="595" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="595" y="1635" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

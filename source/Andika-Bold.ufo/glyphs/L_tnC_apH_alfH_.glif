@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnCapHalfH" format="1">
+<glyph name="LtnCapHalfH" format="2">
   <advance width="1010"/>
   <unicode hex="2C75"/>
+  <anchor x="315" y="0" name="H"/>
+  <anchor x="600" y="-100" name="L"/>
+  <anchor x="600" y="1530" name="U"/>
   <outline>
     <contour>
       <point x="975" y="860" type="line" name="hr00"/>
@@ -24,15 +27,6 @@
       <point x="450" y="430" type="curve" smooth="yes"/>
       <point x="450" y="635" type="line"/>
       <point x="975" y="635" type="line"/>
-    </contour>
-    <contour>
-      <point x="315" y="0" type="move" name="H"/>
-    </contour>
-    <contour>
-      <point x="600" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="600" y="1530" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

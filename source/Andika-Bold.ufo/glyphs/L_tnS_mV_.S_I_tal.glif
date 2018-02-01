@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmV.SItal" format="1">
+<glyph name="LtnSmV.SItal" format="2">
   <advance width="1104"/>
+  <anchor x="565" y="0" name="H"/>
+  <anchor x="565" y="-100" name="L"/>
+  <anchor x="750" y="0" name="O"/>
+  <anchor x="565" y="1100" name="U"/>
   <outline>
     <contour>
       <point x="786" y="1020" type="line" name="hr01"/>
@@ -20,18 +24,6 @@
       <point x="972" y="744"/>
       <point x="1037" y="905"/>
       <point x="1094" y="1020" type="curve"/>
-    </contour>
-    <contour>
-      <point x="565" y="0" type="move" name="H"/>
-    </contour>
-    <contour>
-      <point x="565" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="750" y="0" type="move" name="O"/>
-    </contour>
-    <contour>
-      <point x="565" y="1100" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

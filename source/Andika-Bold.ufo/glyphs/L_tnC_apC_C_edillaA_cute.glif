@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnCapCCedillaAcute" format="1">
+<glyph name="LtnCapCCedillaAcute" format="2">
   <advance width="1385"/>
   <unicode hex="1E08"/>
+  <anchor x="715" y="-530" name="L"/>
+  <anchor x="685" y="2065" name="U"/>
   <outline>
     <component base="LtnCapC"/>
     <component base="CombCedilla" xOffset="1175"/>
     <component base="CombAcute" xOffset="1285" yOffset="430"/>
-    <contour>
-      <point x="715" y="-530" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="685" y="2065" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

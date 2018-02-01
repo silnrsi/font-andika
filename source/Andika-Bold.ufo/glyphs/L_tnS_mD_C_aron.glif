@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmDCaron" format="1">
+<glyph name="LtnSmDCaron" format="2">
   <advance width="1530"/>
   <unicode hex="010F"/>
+  <anchor x="605" y="0" name="H"/>
+  <anchor x="605" y="-100" name="L"/>
+  <anchor x="605" y="1635" name="U"/>
   <outline>
     <contour>
       <point x="1115" y="1600" type="line" name="hr01"/>
@@ -50,15 +53,6 @@
       <point x="1240" y="1170" type="line" name="hr05"/>
       <point x="1410" y="1170" type="line" name="hr06"/>
       <point x="1540" y="1600" type="line"/>
-    </contour>
-    <contour>
-      <point x="605" y="0" type="move" name="H"/>
-    </contour>
-    <contour>
-      <point x="605" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="605" y="1635" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

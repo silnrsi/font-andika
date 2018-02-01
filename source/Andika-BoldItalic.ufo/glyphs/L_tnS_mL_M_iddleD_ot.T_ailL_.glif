@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmLMiddleDot.TailL" format="1">
+<glyph name="LtnSmLMiddleDot.TailL" format="2">
   <advance width="1010"/>
+  <anchor x="370" y="-100" name="L"/>
+  <anchor x="605" y="1635" name="U"/>
   <outline>
     <contour>
       <point x="447" y="1585" type="line" name="hr00"/>
@@ -45,12 +47,6 @@
       <point x="939" y="884" type="curve" smooth="yes"/>
       <point x="836" y="884"/>
       <point x="748" y="805"/>
-    </contour>
-    <contour>
-      <point x="370" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="605" y="1635" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

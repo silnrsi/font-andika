@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CySmErTick" format="1">
+<glyph name="CySmErTick" format="2">
   <advance width="1235"/>
   <unicode hex="048F"/>
+  <anchor x="620" y="-500" name="L"/>
+  <anchor x="620" y="1100" name="U"/>
   <outline>
     <contour>
       <point x="450" y="-490" type="line"/>
@@ -50,12 +52,6 @@
       <point x="1085" y="-109" type="line"/>
       <point x="702" y="485" type="line"/>
       <point x="542" y="365" type="line"/>
-    </contour>
-    <contour>
-      <point x="620" y="-500" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="620" y="1100" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

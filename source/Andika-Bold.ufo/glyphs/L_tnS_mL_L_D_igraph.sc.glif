@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmLLDigraph.sc" format="1">
+<glyph name="LtnSmLLDigraph.sc" format="2">
   <advance width="1639"/>
+  <anchor x="867" y="8" name="H"/>
+  <anchor x="867" y="-76" name="L"/>
+  <anchor x="1132" y="932" name="R"/>
+  <anchor x="867" y="1293" name="U"/>
   <outline>
     <contour>
       <point x="969" y="151" type="line" name="hr00"/>
@@ -25,18 +29,6 @@
       <point x="1488" y="152"/>
       <point x="1345" y="151"/>
       <point x="1166" y="151" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="867" y="8" type="move" name="H"/>
-    </contour>
-    <contour>
-      <point x="867" y="-76" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="1132" y="932" type="move" name="R"/>
-    </contour>
-    <contour>
-      <point x="867" y="1293" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

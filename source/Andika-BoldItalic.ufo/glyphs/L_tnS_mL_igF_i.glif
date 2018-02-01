@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmLigFi" format="1">
+<glyph name="LtnSmLigFi" format="2">
   <advance width="1469"/>
   <unicode hex="FB01"/>
+  <anchor x="1150" y="-100" name="L"/>
+  <anchor x="1650" y="1000" name="R"/>
+  <anchor x="1485" y="1635" name="U"/>
   <outline>
     <contour>
       <point x="229" y="985" type="line"/>
@@ -70,15 +73,6 @@
       <point x="1458" y="1524" type="curve" smooth="yes" name="hr01"/>
       <point x="1340" y="1524"/>
       <point x="1258" y="1436"/>
-    </contour>
-    <contour>
-      <point x="1150" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="1650" y="1000" type="move" name="R"/>
-    </contour>
-    <contour>
-      <point x="1485" y="1635" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

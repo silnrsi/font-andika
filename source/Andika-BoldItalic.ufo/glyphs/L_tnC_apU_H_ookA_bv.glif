@@ -1,24 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnCapUHookAbv" format="1">
+<glyph name="LtnCapUHookAbv" format="2">
   <advance width="1470"/>
   <unicode hex="1EE6"/>
+  <anchor x="672" y="0" name="H"/>
+  <anchor x="647" y="-100" name="L"/>
+  <anchor x="890" y="0" name="O"/>
+  <anchor x="1720" y="1200" name="R"/>
+  <anchor x="1188" y="2065" name="U"/>
   <outline>
     <component base="LtnCapU"/>
     <component base="CombHookAbv" xOffset="1382" yOffset="430"/>
-    <contour>
-      <point x="672" y="0" type="move" name="H"/>
-    </contour>
-    <contour>
-      <point x="647" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="890" y="0" type="move" name="O"/>
-    </contour>
-    <contour>
-      <point x="1720" y="1200" type="move" name="R"/>
-    </contour>
-    <contour>
-      <point x="1188" y="2065" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

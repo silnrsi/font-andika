@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmLMiddleDot" format="1">
+<glyph name="LtnSmLMiddleDot" format="2">
   <advance width="1011"/>
   <unicode hex="0140"/>
+  <anchor x="315" y="0" name="H"/>
+  <anchor x="315" y="-100" name="L"/>
+  <anchor x="620" y="1635" name="U"/>
   <outline>
     <contour>
       <point x="461" y="1585" type="line" name="hr00"/>
@@ -40,15 +43,6 @@
       <point x="953" y="884" type="curve" smooth="yes"/>
       <point x="850" y="884"/>
       <point x="762" y="805"/>
-    </contour>
-    <contour>
-      <point x="315" y="0" type="move" name="H"/>
-    </contour>
-    <contour>
-      <point x="315" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="620" y="1635" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

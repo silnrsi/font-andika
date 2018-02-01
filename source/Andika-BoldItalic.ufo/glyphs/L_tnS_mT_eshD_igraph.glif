@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmTeshDigraph" format="1">
+<glyph name="LtnSmTeshDigraph" format="2">
   <advance width="1346"/>
   <unicode hex="02A7"/>
+  <anchor x="600" y="-500" name="L"/>
+  <anchor x="1063" y="1635" name="U"/>
   <outline>
     <contour>
       <point x="926" y="309" type="line" name="hr00"/>
@@ -70,12 +72,6 @@
       <point x="1468" y="1373"/>
       <point x="1539" y="1348"/>
       <point x="1575" y="1309" type="curve"/>
-    </contour>
-    <contour>
-      <point x="600" y="-500" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="1063" y="1635" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

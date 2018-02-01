@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmClosedRevOpnE" format="1">
+<glyph name="LtnSmClosedRevOpnE" format="2">
   <advance width="1145"/>
   <unicode hex="025E"/>
+  <anchor x="567" y="-100" name="L"/>
+  <anchor x="1145" y="1000" name="R"/>
+  <anchor x="567" y="1100" name="U"/>
   <outline>
     <contour>
       <point x="515" y="437" type="line"/>
@@ -43,15 +46,6 @@
       <point x="615" y="1040" type="curve" smooth="yes"/>
       <point x="305" y="1040"/>
       <point x="90" y="851"/>
-    </contour>
-    <contour>
-      <point x="567" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="1145" y="1000" type="move" name="R"/>
-    </contour>
-    <contour>
-      <point x="567" y="1100" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmJCrossedTail.BarTop" format="1">
+<glyph name="LtnSmJCrossedTail.BarTop" format="2">
   <advance width="913"/>
+  <anchor x="285" y="-530" name="L"/>
+  <anchor x="814" y="1100" name="U"/>
   <outline>
     <component base="LtnSmJCrossedTail"/>
-    <contour>
-      <point x="285" y="-530" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="814" y="1100" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

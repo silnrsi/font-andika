@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnAlveolarClick" format="1">
+<glyph name="LtnAlveolarClick" format="2">
   <advance width="855"/>
   <unicode hex="01C2"/>
+  <anchor x="262" y="-500" name="L"/>
+  <anchor x="795" y="1635" name="U"/>
   <outline>
     <contour>
       <point x="369" y="-485" type="line" name="hr00"/>
@@ -20,12 +22,6 @@
       <point x="792" y="272" type="line"/>
       <point x="844" y="480" type="line"/>
       <point x="149" y="480" type="line"/>
-    </contour>
-    <contour>
-      <point x="262" y="-500" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="795" y="1635" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

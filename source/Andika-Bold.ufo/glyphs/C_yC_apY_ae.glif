@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CyCapYae" format="1">
+<glyph name="CyCapYae" format="2">
   <advance width="2037"/>
   <unicode hex="0518"/>
+  <anchor x="1061" y="-100" name="L"/>
+  <anchor x="1061" y="1530" name="U"/>
   <outline>
     <contour>
       <point x="1275" y="855" type="line"/>
@@ -55,12 +57,6 @@
       <point x="869" y="1250"/>
       <point x="937" y="1247"/>
       <point x="990" y="1245" type="curve"/>
-    </contour>
-    <contour>
-      <point x="1061" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="1061" y="1530" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

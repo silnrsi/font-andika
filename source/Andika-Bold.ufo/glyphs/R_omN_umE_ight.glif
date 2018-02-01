@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="RomNumEight" format="1">
+<glyph name="RomNumEight" format="2">
   <advance width="4360"/>
   <unicode hex="2167"/>
+  <anchor x="2310" y="1530" name="U"/>
   <outline>
     <component base="LtnCapV"/>
     <component base="LtnCapI" xOffset="1365"/>
     <component base="LtnCapI" xOffset="2340"/>
     <component base="LtnCapI" xOffset="3315"/>
-    <contour>
-      <point x="2310" y="1530" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

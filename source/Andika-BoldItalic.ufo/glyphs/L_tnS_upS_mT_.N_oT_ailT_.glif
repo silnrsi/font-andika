@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSupSmT.NoTailT" format="1">
+<glyph name="LtnSupSmT.NoTailT" format="2">
   <advance width="483"/>
+  <anchor x="241" y="615" name="L"/>
+  <anchor x="400" y="1605" name="U"/>
   <outline>
     <component base="LtnSmT.NoTailT" xScale="0.6" yScale="0.65" xOffset="-6" yOffset="680"/>
-    <contour>
-      <point x="241" y="615" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="400" y="1605" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

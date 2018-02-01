@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="DottedCirc" format="1">
+<glyph name="DottedCirc" format="2">
   <advance width="1106"/>
   <unicode hex="25CC"/>
+  <anchor x="553" y="0" name="H"/>
+  <anchor x="553" y="-100" name="L"/>
+  <anchor x="810" y="0" name="O"/>
+  <anchor x="553" y="1000" name="U"/>
   <outline>
     <contour>
       <point x="443" y="837" type="curve" smooth="yes"/>
@@ -226,18 +230,6 @@
       <point x="553" y="821" type="curve" smooth="yes"/>
       <point x="579" y="821"/>
       <point x="601" y="842"/>
-    </contour>
-    <contour>
-      <point x="553" y="0" type="move" name="H"/>
-    </contour>
-    <contour>
-      <point x="553" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="810" y="0" type="move" name="O"/>
-    </contour>
-    <contour>
-      <point x="553" y="1000" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>
