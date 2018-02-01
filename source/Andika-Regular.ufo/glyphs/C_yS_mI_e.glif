@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CySmIe" format="1">
+<glyph name="CySmIe" format="2">
   <advance width="1095"/>
   <unicode hex="0435"/>
+  <anchor x="579" y="-100" name="L"/>
+  <anchor x="579" y="1100" name="U"/>
   <outline>
     <contour>
       <point x="989" y="485" type="line" name="hr00"/>
@@ -36,12 +38,6 @@
       <point x="705" y="890"/>
       <point x="810" y="797"/>
       <point x="810" y="625" type="curve"/>
-    </contour>
-    <contour>
-      <point x="579" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="579" y="1100" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CyCapGheStrkDesc" format="1">
+<glyph name="CyCapGheStrkDesc" format="2">
   <advance width="1080"/>
   <unicode hex="F326"/>
+  <anchor x="485" y="-500" name="L"/>
+  <anchor x="590" y="1530" name="U"/>
   <outline>
     <contour>
       <point x="550" y="165" type="line" name="hr01"/>
@@ -31,12 +33,6 @@
       <point x="725" y="710" type="line"/>
       <point x="725" y="865" type="line"/>
       <point x="25" y="865" type="line"/>
-    </contour>
-    <contour>
-      <point x="485" y="-500" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="590" y="1530" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

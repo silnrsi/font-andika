@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CyCapYu" format="1">
+<glyph name="CyCapYu" format="2">
   <advance width="1910"/>
   <unicode hex="042E"/>
+  <anchor x="975" y="-100" name="L"/>
+  <anchor x="975" y="1530" name="U"/>
   <outline>
     <contour>
       <point x="1595" y="715" type="curve" smooth="yes" name="hr01"/>
@@ -48,12 +50,6 @@
       <point x="685" y="675" type="line"/>
       <point x="685" y="835" type="line"/>
       <point x="365" y="835" type="line"/>
-    </contour>
-    <contour>
-      <point x="975" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="975" y="1530" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

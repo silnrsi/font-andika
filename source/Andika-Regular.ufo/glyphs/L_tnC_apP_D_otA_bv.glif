@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnCapPDotAbv" format="1">
+<glyph name="LtnCapPDotAbv" format="2">
   <advance width="1195"/>
   <unicode hex="1E56"/>
+  <anchor x="637" y="-100" name="L"/>
+  <anchor x="637" y="1935" name="U"/>
   <outline>
     <component base="LtnCapP"/>
     <component base="DotAbv" xOffset="502" yOffset="430"/>
-    <contour>
-      <point x="637" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="637" y="1935" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

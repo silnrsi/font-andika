@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmARetrHook" format="1">
+<glyph name="LtnSmARetrHook" format="2">
   <advance width="1120"/>
   <unicode hex="1D8F"/>
+  <anchor x="495" y="-100" name="L"/>
+  <anchor x="540" y="1100" name="U"/>
   <outline>
     <contour>
       <point x="200" y="755" type="line" name="hr00"/>
@@ -73,12 +75,6 @@
       <point x="1075" y="120" type="line"/>
       <point x="875" y="120" type="line"/>
       <point x="875" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="495" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="540" y="1100" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

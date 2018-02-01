@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnCapOpnO" format="1">
+<glyph name="LtnCapOpnO" format="2">
   <advance width="1320"/>
   <unicode hex="0186"/>
+  <anchor x="600" y="-100" name="L"/>
+  <anchor x="600" y="1530" name="U"/>
   <outline>
     <contour>
       <point x="590" y="1485" type="curve" smooth="yes" name="hr00"/>
@@ -30,12 +32,6 @@
       <point x="1200" y="745" type="curve" smooth="yes"/>
       <point x="1200" y="1220"/>
       <point x="888" y="1485"/>
-    </contour>
-    <contour>
-      <point x="600" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="600" y="1530" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

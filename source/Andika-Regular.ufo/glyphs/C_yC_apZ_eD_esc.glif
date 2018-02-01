@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CyCapZeDesc" format="1">
+<glyph name="CyCapZeDesc" format="2">
   <advance width="1260"/>
   <unicode hex="0498"/>
+  <anchor x="617" y="-500" name="L"/>
+  <anchor x="617" y="1530" name="U"/>
   <outline>
     <contour>
       <point x="280" y="705" type="line" name="hr01"/>
@@ -67,12 +69,6 @@
       <point x="795" y="-121"/>
       <point x="759" y="-48"/>
       <point x="655" y="2" type="curve"/>
-    </contour>
-    <contour>
-      <point x="617" y="-500" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="617" y="1530" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

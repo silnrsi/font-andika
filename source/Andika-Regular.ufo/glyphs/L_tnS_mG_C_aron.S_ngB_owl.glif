@@ -1,21 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmGCaron.SngBowl" format="1">
+<glyph name="LtnSmGCaron.SngBowl" format="2">
   <advance width="1125"/>
   <unicode hex="01E7"/>
+  <anchor x="555" y="-432" name="H"/>
+  <anchor x="555" y="-500" name="L"/>
+  <anchor x="1125" y="1000" name="R"/>
+  <anchor x="595" y="1635" name="U"/>
   <outline>
     <component base="LtnSmG.SngBowl"/>
     <component base="CombCaron" xOffset="1165"/>
-    <contour>
-      <point x="555" y="-432" type="move" name="H"/>
-    </contour>
-    <contour>
-      <point x="555" y="-500" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="1125" y="1000" type="move" name="R"/>
-    </contour>
-    <contour>
-      <point x="595" y="1635" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

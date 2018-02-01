@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnCapInsularS" format="1">
+<glyph name="LtnCapInsularS" format="2">
   <advance width="970"/>
   <unicode hex="A784"/>
+  <anchor x="267" y="-500" name="L"/>
+  <anchor x="505" y="1530" name="U"/>
   <outline>
     <contour>
       <point x="365" y="-490" type="line" name="hr00"/>
@@ -30,12 +32,6 @@
       <point x="175" y="-257"/>
       <point x="175" y="-410"/>
       <point x="160" y="-490" type="curve"/>
-    </contour>
-    <contour>
-      <point x="267" y="-500" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="505" y="1530" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

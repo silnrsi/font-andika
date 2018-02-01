@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmLHighBar" format="1">
+<glyph name="LtnSmLHighBar" format="2">
   <advance width="825"/>
   <unicode hex="A749"/>
+  <anchor x="415" y="-100" name="L"/>
+  <anchor x="415" y="1635" name="U"/>
   <outline>
     <contour>
       <point x="505" y="1600" type="line" name="hr00"/>
@@ -20,12 +22,6 @@
       <point x="725" y="1175" type="line"/>
       <point x="725" y="1320" type="line"/>
       <point x="100" y="1320" type="line"/>
-    </contour>
-    <contour>
-      <point x="415" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="415" y="1635" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

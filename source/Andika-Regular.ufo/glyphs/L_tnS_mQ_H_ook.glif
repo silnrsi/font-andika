@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmQHook" format="1">
+<glyph name="LtnSmQHook" format="2">
   <advance width="1255"/>
   <unicode hex="02A0"/>
+  <anchor x="555" y="-500" name="L"/>
+  <anchor x="555" y="1630" name="U"/>
   <outline>
     <contour>
       <point x="795" y="1019" type="line" name="hr01"/>
@@ -51,12 +53,6 @@
       <point x="656" y="870"/>
       <point x="735" y="853"/>
       <point x="795" y="830" type="curve"/>
-    </contour>
-    <contour>
-      <point x="555" y="-500" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="555" y="1630" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmYLoop" format="1">
+<glyph name="LtnSmYLoop" format="2">
   <advance width="1150"/>
   <unicode hex="1EFF"/>
+  <anchor x="625" y="-530" name="L"/>
+  <anchor x="1175" y="1000" name="R"/>
+  <anchor x="643" y="1100" name="U"/>
   <outline>
     <contour>
       <point x="890" y="-480" type="line" name="hr00"/>
@@ -54,15 +57,6 @@
       <point x="538" y="-130" type="curve"/>
       <point x="469" y="-291"/>
       <point x="417" y="-350"/>
-    </contour>
-    <contour>
-      <point x="625" y="-530" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="1175" y="1000" type="move" name="R"/>
-    </contour>
-    <contour>
-      <point x="643" y="1100" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

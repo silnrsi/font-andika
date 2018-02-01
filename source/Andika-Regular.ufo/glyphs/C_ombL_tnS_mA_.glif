@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CombLtnSmA" format="1">
+<glyph name="CombLtnSmA" format="2">
   <advance width="0"/>
+  <anchor x="-570" y="1955" name="U"/>
+  <anchor x="-570" y="1175" name="_U"/>
   <outline>
     <component base="LtnSupSmA" xOffset="-966" yOffset="560"/>
-    <contour>
-      <point x="-570" y="1955" type="move" name="U"/>
-    </contour>
-    <contour>
-      <point x="-570" y="1175" type="move" name="_U"/>
-    </contour>
   </outline>
 </glyph>

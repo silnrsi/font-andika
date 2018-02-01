@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmDzDigraph" format="1">
+<glyph name="LtnSmDzDigraph" format="2">
   <advance width="1930"/>
   <unicode hex="02A3"/>
+  <anchor x="990" y="-100" name="L"/>
+  <anchor x="990" y="1635" name="U"/>
   <outline>
     <contour>
       <point x="1030" y="1600" type="line" name="hr01"/>
@@ -62,12 +64,6 @@
       <point x="1655" y="150" type="curve" smooth="yes"/>
       <point x="1225" y="150" type="line"/>
       <point x="1820" y="925" type="line"/>
-    </contour>
-    <contour>
-      <point x="990" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="990" y="1635" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

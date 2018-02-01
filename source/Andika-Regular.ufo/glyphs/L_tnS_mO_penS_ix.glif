@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmOpenSix" format="1">
+<glyph name="LtnSmOpenSix" format="2">
   <advance width="1200"/>
   <unicode hex="1EFD"/>
+  <anchor x="612" y="-100" name="L"/>
+  <anchor x="650" y="1635" name="U"/>
   <outline>
     <contour>
       <point x="805" y="1620" type="line" name="hr00"/>
@@ -30,12 +32,6 @@
       <point x="305" y="1162"/>
       <point x="601" y="1390"/>
       <point x="895" y="1490" type="curve"/>
-    </contour>
-    <contour>
-      <point x="612" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="650" y="1635" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

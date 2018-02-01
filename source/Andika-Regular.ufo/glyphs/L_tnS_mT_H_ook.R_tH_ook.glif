@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmTHook.RtHook" format="1">
+<glyph name="LtnSmTHook.RtHook" format="2">
   <advance width="835"/>
+  <anchor x="475" y="-100" name="L"/>
+  <anchor x="475" y="1635" name="U"/>
   <outline>
     <component base="LtnSmTHook"/>
-    <contour>
-      <point x="475" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="475" y="1635" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

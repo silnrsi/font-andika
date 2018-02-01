@@ -1,21 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnCapATilde" format="1">
+<glyph name="LtnCapATilde" format="2">
   <advance width="1395"/>
   <unicode hex="00C3"/>
+  <anchor x="707" y="0" name="H"/>
+  <anchor x="687" y="-100" name="L"/>
+  <anchor x="1450" y="0" name="O"/>
+  <anchor x="687" y="1905" name="U"/>
   <outline>
     <component base="LtnCapA"/>
     <component base="SmTilde" xOffset="337" yOffset="430"/>
-    <contour>
-      <point x="707" y="0" type="move" name="H"/>
-    </contour>
-    <contour>
-      <point x="687" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="1450" y="0" type="move" name="O"/>
-    </contour>
-    <contour>
-      <point x="687" y="1905" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

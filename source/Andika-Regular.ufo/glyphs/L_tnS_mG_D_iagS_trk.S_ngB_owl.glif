@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmGDiagStrk.SngBowl" format="1">
+<glyph name="LtnSmGDiagStrk.SngBowl" format="2">
   <advance width="1125"/>
   <unicode hex="A7A1"/>
+  <anchor x="555" y="-500" name="L"/>
+  <anchor x="595" y="1100" name="U"/>
   <outline>
     <contour>
       <point x="990" y="965" type="line"/>
@@ -52,12 +54,6 @@
       <point x="1143" y="694" type="line"/>
       <point x="-36" y="503" type="line"/>
       <point x="-36" y="358" type="line"/>
-    </contour>
-    <contour>
-      <point x="555" y="-500" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="595" y="1100" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

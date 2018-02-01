@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnCapEzh.RevSigmaStyle" format="1">
+<glyph name="LtnCapEzh.RevSigmaStyle" format="2">
   <advance width="1230"/>
   <unicode hex="F217"/>
+  <anchor x="605" y="-100" name="L"/>
+  <anchor x="605" y="1530" name="U"/>
   <outline>
     <contour>
       <point x="1135" y="130" type="line" name="hr00"/>
@@ -22,12 +24,6 @@
       <point x="75" y="185" type="curve"/>
       <point x="75" y="0" type="line"/>
       <point x="1135" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="605" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="605" y="1530" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

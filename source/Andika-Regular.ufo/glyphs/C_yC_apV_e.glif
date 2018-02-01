@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CyCapVe" format="1">
+<glyph name="CyCapVe" format="2">
   <advance width="1355"/>
   <unicode hex="0412"/>
+  <anchor x="685" y="-100" name="L"/>
+  <anchor x="685" y="1530" name="U"/>
   <outline>
     <contour>
       <point x="365" y="1310" type="line" name="hr01"/>
@@ -55,12 +57,6 @@
       <point x="508" y="150"/>
       <point x="412" y="153"/>
       <point x="365" y="155" type="curve"/>
-    </contour>
-    <contour>
-      <point x="685" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="685" y="1530" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

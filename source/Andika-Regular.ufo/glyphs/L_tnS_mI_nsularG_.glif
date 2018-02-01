@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmInsularG" format="1">
+<glyph name="LtnSmInsularG" format="2">
   <advance width="1080"/>
   <unicode hex="1D79"/>
+  <anchor x="556" y="-500" name="L"/>
+  <anchor x="1080" y="1000" name="R"/>
+  <anchor x="556" y="1100" name="U"/>
   <outline>
     <contour>
       <point x="1040" y="-50" type="curve" smooth="yes" name="hr00"/>
@@ -51,15 +54,6 @@
       <point x="325" y="870" type="curve" smooth="yes"/>
       <point x="940" y="870" type="line"/>
       <point x="940" y="1020" type="line"/>
-    </contour>
-    <contour>
-      <point x="556" y="-500" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="1080" y="1000" type="move" name="R"/>
-    </contour>
-    <contour>
-      <point x="556" y="1100" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

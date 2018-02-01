@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmRevOpnERetrHook" format="1">
+<glyph name="LtnSmRevOpnERetrHook" format="2">
   <advance width="940"/>
   <unicode hex="1D94"/>
+  <anchor x="475" y="-500" name="L"/>
+  <anchor x="465" y="1100" name="U"/>
   <outline>
     <contour>
       <point x="505" y="-290" type="line" name="hr00"/>
@@ -61,12 +63,6 @@
       <point x="349" y="130"/>
       <point x="221" y="158"/>
       <point x="125" y="225" type="curve"/>
-    </contour>
-    <contour>
-      <point x="475" y="-500" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="465" y="1100" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

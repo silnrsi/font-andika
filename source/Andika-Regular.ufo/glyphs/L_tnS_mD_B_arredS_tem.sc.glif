@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmDBarredStem.sc" format="1">
+<glyph name="LtnSmDBarredStem.sc" format="2">
   <advance width="1340"/>
+  <anchor x="668" y="-76" name="L"/>
+  <anchor x="668" y="1293" name="U"/>
   <outline>
     <contour>
       <point x="167" y="333" type="line" name="hr01"/>
@@ -43,12 +45,6 @@
       <point x="9" y="570" type="line"/>
       <point x="695" y="570" type="line"/>
       <point x="695" y="704" type="line"/>
-    </contour>
-    <contour>
-      <point x="668" y="-76" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="668" y="1293" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

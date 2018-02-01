@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSupSmI.Dotless" format="1">
+<glyph name="LtnSupSmI.Dotless" format="2">
   <advance width="371"/>
+  <anchor x="190" y="615" name="L"/>
+  <anchor x="371" y="1320" name="R"/>
+  <anchor x="190" y="1395" name="U"/>
   <outline>
     <component base="LtnSmDotlessI" xScale="0.7" yScale="0.65" xOffset="-15" yOffset="680"/>
-    <contour>
-      <point x="190" y="615" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="371" y="1320" type="move" name="R"/>
-    </contour>
-    <contour>
-      <point x="190" y="1395" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

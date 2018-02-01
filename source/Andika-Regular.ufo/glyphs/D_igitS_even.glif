@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="DigitSeven" format="1">
+<glyph name="DigitSeven" format="2">
   <advance width="1200"/>
   <unicode hex="0037"/>
+  <anchor x="600" y="-100" name="L"/>
+  <anchor x="600" y="1530" name="U"/>
   <outline>
     <contour>
       <point x="460" y="0" type="line" name="hr00"/>
@@ -18,12 +20,6 @@
       <point x="612" y="912"/>
       <point x="439" y="566"/>
       <point x="275" y="0" type="curve"/>
-    </contour>
-    <contour>
-      <point x="600" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="600" y="1530" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

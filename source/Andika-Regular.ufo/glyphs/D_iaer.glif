@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Diaer" format="1">
+<glyph name="Diaer" format="2">
   <advance width="680"/>
   <unicode hex="00A8"/>
+  <anchor x="340" y="1505" name="U"/>
   <outline>
     <component base="CombDiaer" xOffset="910"/>
-    <contour>
-      <point x="340" y="1505" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

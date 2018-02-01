@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CySmKje" format="1">
+<glyph name="CySmKje" format="2">
   <advance width="1080"/>
   <unicode hex="045C"/>
+  <anchor x="572" y="-100" name="L"/>
+  <anchor x="572" y="1635" name="U"/>
   <outline>
     <component base="CySmKa"/>
     <component base="CombAcute" xOffset="1142"/>
-    <contour>
-      <point x="572" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="572" y="1635" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

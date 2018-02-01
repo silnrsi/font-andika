@@ -1,24 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmUDiaerGrave.sc" format="1">
+<glyph name="LtnSmUDiaerGrave.sc" format="2">
   <advance width="1345"/>
+  <anchor x="660" y="8" name="H"/>
+  <anchor x="660" y="-76" name="L"/>
+  <anchor x="861" y="8" name="O"/>
+  <anchor x="1298" y="1016" name="R"/>
+  <anchor x="660" y="2233" name="U"/>
   <outline>
     <component base="LtnSmU.sc"/>
     <component base="CombDiaer" xOffset="1230" yOffset="193"/>
     <component base="CombGrave" xOffset="1210" yOffset="598"/>
-    <contour>
-      <point x="660" y="8" type="move" name="H"/>
-    </contour>
-    <contour>
-      <point x="660" y="-76" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="861" y="8" type="move" name="O"/>
-    </contour>
-    <contour>
-      <point x="1298" y="1016" type="move" name="R"/>
-    </contour>
-    <contour>
-      <point x="660" y="2233" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

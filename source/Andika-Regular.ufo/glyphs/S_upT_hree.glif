@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="SupThree" format="1">
+<glyph name="SupThree" format="2">
   <advance width="840"/>
   <unicode hex="00B3"/>
+  <anchor x="420" y="615" name="L"/>
+  <anchor x="420" y="1675" name="U"/>
   <outline>
     <component base="DigitThree" xScale="0.7" yScale="0.65" xOffset="5" yOffset="680"/>
-    <contour>
-      <point x="420" y="615" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="420" y="1675" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CircumAccent" format="1">
+<glyph name="CircumAccent" format="2">
   <advance width="850"/>
   <unicode hex="005E"/>
+  <anchor x="425" y="1635" name="U"/>
   <outline>
     <component base="CombCircum" xOffset="995"/>
-    <contour>
-      <point x="425" y="1635" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>
