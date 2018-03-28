@@ -1,14 +1,17 @@
 #!/bin/sh
 
-psfglyphs2ufo source/Andika-RB.glyphs source
-psfnormalize -v 2 source/Andika-Regular.ufo
-psfnormalize -v 2 source/Andika-Bold.ufo
-psfsetpsnames -i source/glyph_data.csv source/Andika-Regular.ufo
-#psfsetpsnames -i source/glyph_data.csv source/Andika-Italic.ufo
-psfsetpsnames -i source/glyph_data.csv source/Andika-Bold.ufo
-#psfsetpsnames -i source/glyph_data.csv source/Andika-BoldItalic.ufo
-psfsetglyphorder --header sort_final_a -i source/glyph_data.csv source/Andika-Regular.ufo
-#psfsetglyphorder --header sort_final_a -i source/glyph_data.csv source/Andika-Italic.ufo
-psfsetglyphorder --header sort_final_a -i source/glyph_data.csv source/Andika-Bold.ufo
-#psfsetglyphorder --header sort_final_a -i source/glyph_data.csv source/Andika-BoldItalic.ufo
-psfsyncmeta source/Andika-Regular.ufo
+# Produce individual UFOs from Glyphs files
+psfglyphs2ufo source/AndikaRoman.glyphs source -l source/logs/glyphsexportR.log
+psfglyphs2ufo source/AndikaItalic.glyphs source -l source/logs/glyphsexportI.log
+
+# update psnames and sort order in Regular, which also normalizes it
+psfsetpsnames -p checkfix=fix -i source/glyph_data.csv source/Andika-Regular.ufo -l source/logs/psnames.log
+psfsetglyphorder --header sort_final_a -i source/glyph_data.csv source/Andika-Regular.ufo -l source/logs/sortorder.log
+
+# normalize other family members
+psfnormalize -p checkfix=fix source/Andika-Bold.ufo -l source/logs/normB.log
+psfnormalize -p checkfix=fix source/Andika-Italic.ufo -l source/logs/normI.log
+psfnormalize -p checkfix=fix source/Andika-BoldItalic.ufo -l source/logs/normBI.log
+
+# copy psnames and glyphorder and any other updates to all fonts
+psfsyncmasters source/AndikaRoman.designspace source/AndikaItalic.designspace -l source/logs/sync.log
