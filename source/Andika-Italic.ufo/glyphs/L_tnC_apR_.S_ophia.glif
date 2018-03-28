@@ -4,7 +4,7 @@
   <anchor x="246" y="266" name="_C"/>
   <outline>
     <contour>
-      <point x="433" y="0" type="line" name="hr00"/>
+      <point x="433" y="0" type="line"/>
       <point x="401" y="90"/>
       <point x="405" y="174"/>
       <point x="389" y="215" type="curve" smooth="yes"/>

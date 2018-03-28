@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombCommaBlw" format="2">
-  <advance width="0"/>
   <unicode hex="0326"/>
   <anchor x="-777" y="-550" name="L"/>
   <anchor x="-665" y="-100" name="_L"/>
   <outline>
     <contour>
-      <point x="-859" y="-317" type="line" name="hr00"/>
+      <point x="-859" y="-317" type="line"/>
       <point x="-736" y="-317" type="line"/>
       <point x="-766" y="-391"/>
       <point x="-845" y="-492"/>

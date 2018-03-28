@@ -36,7 +36,7 @@
       <point x="968" y="134" type="curve"/>
     </contour>
     <contour>
-      <point x="526" y="-233" type="line" name="hr01"/>
+      <point x="526" y="-233" type="line"/>
       <point x="560" y="-22"/>
       <point x="634" y="278"/>
       <point x="680" y="465" type="curve" smooth="yes"/>

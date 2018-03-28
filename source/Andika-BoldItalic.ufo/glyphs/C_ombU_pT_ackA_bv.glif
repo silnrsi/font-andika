@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombUpTackAbv" format="2">
-  <advance width="0"/>
   <unicode hex="1DF5"/>
   <anchor x="-252" y="1595" name="U"/>
   <anchor x="-352" y="1100" name="_U"/>
   <outline>
     <contour>
-      <point x="-252" y="1350" type="line" name="hr00"/>
+      <point x="-252" y="1350" type="line"/>
       <point x="-207" y="1535" type="line"/>
       <point x="-337" y="1535" type="line"/>
       <point x="-382" y="1350" type="line"/>

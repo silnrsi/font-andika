@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombDblOverline" format="2">
-  <advance width="0"/>
   <unicode hex="033F"/>
   <anchor x="347" y="1630" name="U"/>
   <anchor x="215" y="1100" name="_U"/>
   <outline>
     <contour>
-      <point x="-482" y="1215" type="line" name="hr00"/>
+      <point x="-482" y="1215" type="line"/>
       <point x="967" y="1215" type="line"/>
       <point x="1004" y="1362" type="line"/>
       <point x="-445" y="1362" type="line"/>

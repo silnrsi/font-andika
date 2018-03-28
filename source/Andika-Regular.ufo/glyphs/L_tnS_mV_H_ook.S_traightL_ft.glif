@@ -7,7 +7,7 @@
   <anchor x="507" y="1100" name="U"/>
   <outline>
     <contour>
-      <point x="20" y="1020" type="line" name="hr01"/>
+      <point x="20" y="1020" type="line"/>
       <point x="75" y="905"/>
       <point x="143" y="746"/>
       <point x="175" y="665" type="curve" smooth="yes"/>
@@ -20,7 +20,7 @@
       <point x="995" y="735" type="curve" smooth="yes"/>
       <point x="995" y="948"/>
       <point x="856" y="1040"/>
-      <point x="700" y="1040" type="curve" smooth="yes" name="hr02"/>
+      <point x="700" y="1040" type="curve" smooth="yes"/>
       <point x="644" y="1040"/>
       <point x="579" y="1029"/>
       <point x="535" y="1005" type="curve"/>
@@ -34,7 +34,7 @@
       <point x="815" y="569"/>
       <point x="689" y="369"/>
       <point x="550" y="177" type="curve"/>
-      <point x="230" y="1020" type="line" name="hr03"/>
+      <point x="230" y="1020" type="line"/>
     </contour>
   </outline>
 </glyph>

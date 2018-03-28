@@ -68,7 +68,7 @@
       <point x="1246" y="1010" type="curve"/>
     </contour>
     <contour>
-      <point x="995" y="1341" type="curve" smooth="yes" name="hr01"/>
+      <point x="995" y="1341" type="curve" smooth="yes"/>
       <point x="995" y="1259"/>
       <point x="1053" y="1197"/>
       <point x="1139" y="1197" type="curve" smooth="yes"/>

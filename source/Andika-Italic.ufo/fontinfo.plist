@@ -15,7 +15,7 @@
   <key>italicAngle</key>
   <integer>-14</integer>
   <key>openTypeHeadCreated</key>
-  <string>2018/01/31 22:19:30</string>
+  <string>2018/03/28 21:44:16</string>
   <key>openTypeHheaAscender</key>
   <integer>2500</integer>
   <key>openTypeHheaDescender</key>
@@ -186,12 +186,6 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <integer>2500</integer>
   <key>openTypeOS2WinDescent</key>
   <integer>800</integer>
-  <key>postscriptBlueFuzz</key>
-  <integer>1</integer>
-  <key>postscriptBlueScale</key>
-  <real>0.0396</real>
-  <key>postscriptBlueShift</key>
-  <integer>7</integer>
   <key>postscriptBlueValues</key>
   <array>
     <integer>-490</integer>
@@ -211,8 +205,6 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <string>Andika Italic</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
-  <key>postscriptOtherBlues</key>
-  <array/>
   <key>postscriptStemSnapH</key>
   <array>
     <integer>140</integer>

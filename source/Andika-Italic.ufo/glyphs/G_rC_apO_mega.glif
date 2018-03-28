@@ -32,7 +32,7 @@
       <point x="978" y="162" type="curve"/>
     </contour>
     <contour>
-      <point x="938" y="0" type="line" name="hr01"/>
+      <point x="938" y="0" type="line"/>
       <point x="1473" y="0" type="line"/>
       <point x="1516" y="176" type="line"/>
       <point x="1433" y="163"/>
@@ -44,7 +44,7 @@
       <point x="403" y="162"/>
       <point x="145" y="163"/>
       <point x="68" y="176" type="curve"/>
-      <point x="25" y="0" type="line" name="hr02"/>
+      <point x="25" y="0" type="line"/>
       <point x="560" y="0" type="line"/>
     </contour>
   </outline>

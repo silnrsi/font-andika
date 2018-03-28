@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombOgonek" format="2">
-  <advance width="0"/>
   <unicode hex="0328"/>
   <anchor x="-582" y="-430" name="L"/>
   <anchor x="-410" y="0" name="_O"/>
   <outline>
     <contour>
-      <point x="-670" y="0" type="line" name="hr00"/>
+      <point x="-670" y="0" type="line"/>
       <point x="-780" y="-48"/>
       <point x="-890" y="-129"/>
       <point x="-890" y="-252" type="curve" smooth="yes"/>

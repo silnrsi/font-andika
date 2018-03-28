@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombCedilla" format="2">
-  <advance width="0"/>
   <unicode hex="0327"/>
   <anchor x="-650" y="-520" name="L"/>
   <anchor x="-490" y="0" name="_H"/>
   <outline>
     <contour>
-      <point x="-552" y="50" type="line" name="hr00"/>
+      <point x="-552" y="50" type="line"/>
       <point x="-615" y="-201" type="line"/>
       <point x="-590" y="-188"/>
       <point x="-552" y="-176"/>

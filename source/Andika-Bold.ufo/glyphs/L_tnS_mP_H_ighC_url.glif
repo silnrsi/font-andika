@@ -52,7 +52,7 @@
       <point x="1603" y="575" type="curve" smooth="yes"/>
       <point x="1603" y="808"/>
       <point x="1482" y="1040"/>
-      <point x="1260" y="1040" type="curve" smooth="yes" name="hr01"/>
+      <point x="1260" y="1040" type="curve" smooth="yes"/>
       <point x="1115" y="1040"/>
       <point x="989" y="962"/>
       <point x="897" y="850" type="curve"/>

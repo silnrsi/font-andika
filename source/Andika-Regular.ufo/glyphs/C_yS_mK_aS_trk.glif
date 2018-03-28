@@ -6,13 +6,13 @@
   <anchor x="495" y="1595" name="U"/>
   <outline>
     <contour>
-      <point x="350" y="0" type="line" name="hr01"/>
-      <point x="350" y="1600" type="line" name="hr02"/>
+      <point x="350" y="0" type="line"/>
+      <point x="350" y="1600" type="line"/>
       <point x="165" y="1600" type="line"/>
       <point x="165" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="-20" y="1210" type="line" name="hr03"/>
+      <point x="-20" y="1210" type="line"/>
       <point x="610" y="1210" type="line"/>
       <point x="610" y="1350" type="line"/>
       <point x="-20" y="1350" type="line"/>

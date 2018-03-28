@@ -34,7 +34,7 @@
       <point x="50" y="-200" type="curve" smooth="yes"/>
       <point x="50" y="-409"/>
       <point x="341" y="-505"/>
-      <point x="587" y="-505" type="curve" smooth="yes" name="hr01"/>
+      <point x="587" y="-505" type="curve" smooth="yes"/>
       <point x="843" y="-505"/>
       <point x="1150" y="-375"/>
       <point x="1150" y="-160" type="curve" smooth="yes"/>
@@ -62,7 +62,7 @@
       <point x="122" y="670" type="curve" smooth="yes"/>
       <point x="122" y="455"/>
       <point x="316" y="305"/>
-      <point x="567" y="305" type="curve" smooth="yes" name="hr02"/>
+      <point x="567" y="305" type="curve" smooth="yes"/>
       <point x="820" y="305"/>
       <point x="1012" y="465"/>
       <point x="1012" y="680" type="curve" smooth="yes"/>

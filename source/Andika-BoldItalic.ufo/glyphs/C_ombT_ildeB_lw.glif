@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombTildeBlw" format="2">
-  <advance width="0"/>
   <unicode hex="0330"/>
   <anchor x="-765" y="-500" name="L"/>
   <anchor x="-665" y="-100" name="_L"/>
   <outline>
     <contour>
-      <point x="-986" y="-445" type="line" name="hr00"/>
+      <point x="-986" y="-445" type="line"/>
       <point x="-972" y="-391"/>
       <point x="-927" y="-352"/>
       <point x="-883" y="-352" type="curve" smooth="yes"/>

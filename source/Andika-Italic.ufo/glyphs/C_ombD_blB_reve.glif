@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombDblBreve" format="2">
-  <advance width="0"/>
   <unicode hex="035D"/>
   <anchor x="348" y="1635" name="U"/>
   <outline>
     <contour>
-      <point x="-589" y="1585" type="line" name="hr00"/>
+      <point x="-589" y="1585" type="line"/>
       <point x="-375" y="1418"/>
       <point x="-78" y="1369"/>
       <point x="302" y="1369" type="curve" smooth="yes"/>

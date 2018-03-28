@@ -12,13 +12,13 @@
       <point x="1142" y="644" type="curve" smooth="yes"/>
       <point x="1142" y="876"/>
       <point x="969" y="1019"/>
-      <point x="738" y="1019" type="curve" smooth="yes" name="hr01"/>
+      <point x="738" y="1019" type="curve" smooth="yes"/>
       <point x="412" y="1019"/>
       <point x="165" y="759"/>
       <point x="165" y="446" type="curve" smooth="yes"/>
       <point x="165" y="290"/>
       <point x="235" y="170"/>
-      <point x="304" y="119" type="curve" name="hr02"/>
+      <point x="304" y="119" type="curve"/>
       <point x="418" y="153" type="line"/>
       <point x="370" y="226"/>
       <point x="331" y="303"/>
@@ -34,7 +34,7 @@
       <point x="683" y="153" type="curve"/>
     </contour>
     <contour>
-      <point x="645" y="0" type="line" name="hr03"/>
+      <point x="645" y="0" type="line"/>
       <point x="1019" y="0" type="line"/>
       <point x="1059" y="163" type="line"/>
       <point x="1001" y="153"/>

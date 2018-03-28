@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombLngStrkOverlay" format="2">
-  <advance width="0"/>
   <unicode hex="0336"/>
   <outline>
     <contour>
-      <point x="42" y="411" type="line" name="hr00"/>
+      <point x="42" y="411" type="line"/>
       <point x="89" y="599" type="line"/>
       <point x="-1065" y="599" type="line"/>
       <point x="-1112" y="411" type="line"/>

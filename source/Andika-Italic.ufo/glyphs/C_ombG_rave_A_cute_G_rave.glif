@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombGrave_Acute_Grave" format="2">
-  <advance width="0"/>
   <unicode hex="1DC8"/>
   <anchor x="-285" y="1100" name="_U"/>
   <outline>
     <contour>
-      <point x="-389" y="1146" type="line" name="hr01"/>
-      <point x="-116" y="1437" type="line" name="hr02"/>
-      <point x="10" y="1146" type="line" name="hr03"/>
+      <point x="-389" y="1146" type="line"/>
+      <point x="-116" y="1437" type="line"/>
+      <point x="10" y="1146" type="line"/>
       <point x="170" y="1146" type="line"/>
-      <point x="4" y="1568" type="line" name="hr04"/>
+      <point x="4" y="1568" type="line"/>
       <point x="-195" y="1568" type="line"/>
       <point x="-465" y="1276" type="line"/>
-      <point x="-594" y="1567" type="line" name="hr05"/>
+      <point x="-594" y="1567" type="line"/>
       <point x="-754" y="1567" type="line"/>
-      <point x="-589" y="1146" type="line" name="hr06"/>
+      <point x="-589" y="1146" type="line"/>
     </contour>
   </outline>
 </glyph>

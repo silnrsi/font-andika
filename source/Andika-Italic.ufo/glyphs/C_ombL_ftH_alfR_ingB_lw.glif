@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombLftHalfRingBlw" format="2">
-  <advance width="0"/>
   <unicode hex="031C"/>
   <anchor x="-775" y="-500" name="L"/>
   <anchor x="-675" y="-100" name="_L"/>
   <outline>
     <contour>
-      <point x="-643" y="-436" type="line" name="hr00"/>
+      <point x="-643" y="-436" type="line"/>
       <point x="-709" y="-436"/>
       <point x="-746" y="-384"/>
       <point x="-746" y="-329" type="curve" smooth="yes"/>

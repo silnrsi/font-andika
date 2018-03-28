@@ -9,7 +9,7 @@
   <outline>
     <contour>
       <point x="425" y="0" type="line"/>
-      <point x="425" y="1600" type="line" name="hr01"/>
+      <point x="425" y="1600" type="line"/>
       <point x="130" y="1600" type="line"/>
       <point x="145" y="1514"/>
       <point x="145" y="1345"/>

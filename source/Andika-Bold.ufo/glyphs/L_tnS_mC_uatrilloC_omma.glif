@@ -8,7 +8,7 @@
     <contour>
       <point x="1300" y="0" type="line"/>
       <point x="1300" y="215" type="line"/>
-      <point x="1010" y="215" type="line" name="hr01"/>
+      <point x="1010" y="215" type="line"/>
       <point x="1010" y="1020" type="line"/>
       <point x="715" y="1020" type="line"/>
       <point x="80" y="215" type="line"/>

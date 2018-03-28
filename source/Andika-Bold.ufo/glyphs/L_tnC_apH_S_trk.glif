@@ -10,7 +10,7 @@
       <point x="1085" y="860" type="line"/>
       <point x="495" y="860" type="line"/>
       <point x="495" y="1460" type="line"/>
-      <point x="195" y="1460" type="line" name="hr01"/>
+      <point x="195" y="1460" type="line"/>
       <point x="210" y="1380"/>
       <point x="210" y="1227"/>
       <point x="210" y="1030" type="curve" smooth="yes"/>

@@ -7,7 +7,7 @@
   <outline>
     <contour>
       <point x="375" y="0" type="line"/>
-      <point x="769" y="1584" type="line" name="hr01"/>
+      <point x="769" y="1584" type="line"/>
       <point x="489" y="1584" type="line"/>
       <point x="95" y="0" type="line"/>
     </contour>

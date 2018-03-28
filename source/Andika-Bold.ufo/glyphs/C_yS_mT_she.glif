@@ -28,7 +28,7 @@
       <point x="460" y="850" type="curve"/>
       <point x="460" y="894"/>
       <point x="460" y="1600"/>
-      <point x="460" y="1600" type="curve" name="hr01"/>
+      <point x="460" y="1600" type="curve"/>
       <point x="180" y="1600" type="line"/>
       <point x="180" y="935"/>
       <point x="180" y="0"/>

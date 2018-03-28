@@ -4,7 +4,7 @@
   <unicode hex="2135"/>
   <outline>
     <contour>
-      <point x="838" y="924" type="line" name="hr00"/>
+      <point x="838" y="924" type="line"/>
       <point x="935" y="840"/>
       <point x="912" y="795"/>
       <point x="955" y="795" type="curve" smooth="yes"/>

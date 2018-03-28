@@ -12,7 +12,7 @@
       <point x="176" y="608" type="line"/>
     </contour>
     <contour>
-      <point x="1116" y="1000" type="line" name="hr01"/>
+      <point x="1116" y="1000" type="line"/>
       <point x="955" y="358" type="line" smooth="yes"/>
       <point x="918" y="209"/>
       <point x="839" y="122"/>

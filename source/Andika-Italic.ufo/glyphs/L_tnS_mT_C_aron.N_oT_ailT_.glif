@@ -19,11 +19,11 @@
       <point x="183" y="858" type="line"/>
       <point x="898" y="858" type="line"/>
       <point x="934" y="1000" type="line"/>
-      <point x="219" y="1000" type="line" name="hr02"/>
+      <point x="219" y="1000" type="line"/>
     </contour>
     <contour>
-      <point x="980" y="1568" type="line" name="hr01"/>
-      <point x="820" y="1147" type="line" name="hr03"/>
+      <point x="980" y="1568" type="line"/>
+      <point x="820" y="1147" type="line"/>
       <point x="950" y="1147" type="line"/>
       <point x="1175" y="1568" type="line"/>
     </contour>

@@ -29,7 +29,7 @@
       <point x="1940" y="1445"/>
       <point x="1940" y="1445" type="curve"/>
       <point x="1670" y="1445" type="line"/>
-      <point x="1685" y="1287" type="line" name="hr01"/>
+      <point x="1685" y="1287" type="line"/>
       <point x="1365" y="0" type="line"/>
     </contour>
     <contour>

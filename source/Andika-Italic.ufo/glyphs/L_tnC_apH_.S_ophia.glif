@@ -4,18 +4,18 @@
   <anchor x="262" y="266" name="_C"/>
   <outline>
     <contour>
-      <point x="464" y="0" type="line" name="hr01"/>
+      <point x="464" y="0" type="line"/>
       <point x="464" y="533" type="line"/>
       <point x="389" y="533" type="line"/>
-      <point x="389" y="305" type="line" name="hr02"/>
+      <point x="389" y="305" type="line"/>
       <point x="134" y="305" type="line"/>
       <point x="134" y="533" type="line"/>
       <point x="59" y="533" type="line"/>
-      <point x="59" y="0" type="line" name="hr03"/>
+      <point x="59" y="0" type="line"/>
       <point x="134" y="0" type="line"/>
-      <point x="134" y="241" type="line" name="hr04"/>
+      <point x="134" y="241" type="line"/>
       <point x="389" y="241" type="line"/>
-      <point x="389" y="0" type="line" name="hr05"/>
+      <point x="389" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

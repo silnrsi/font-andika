@@ -6,7 +6,7 @@
       <point x="605" y="522" type="line"/>
       <point x="694" y="858"/>
       <point x="772" y="1190"/>
-      <point x="937" y="1694" type="curve" name="hr01"/>
+      <point x="937" y="1694" type="curve"/>
       <point x="602" y="1694" type="line"/>
       <point x="514" y="1190"/>
       <point x="426" y="858"/>

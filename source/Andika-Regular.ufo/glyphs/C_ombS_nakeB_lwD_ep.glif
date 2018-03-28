@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombSnakeBlwDep" format="2">
-  <advance width="0"/>
   <unicode hex="F170"/>
   <anchor x="-590" y="-695" name="L"/>
   <anchor x="-590" y="-100" name="_L"/>
   <outline>
     <contour>
-      <point x="-780" y="-800" type="line" name="hr00"/>
+      <point x="-780" y="-800" type="line"/>
       <point x="-400" y="-800" type="line"/>
       <point x="-400" y="-100" type="line"/>
       <point x="-780" y="-100" type="line"/>

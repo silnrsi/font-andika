@@ -9,13 +9,13 @@
     <contour>
       <point x="546" y="0" type="line"/>
       <point x="546" y="1375" type="line"/>
-      <point x="266" y="1375" type="line" name="hr01"/>
+      <point x="266" y="1375" type="line"/>
       <point x="266" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="37" y="1020" type="line" name="hr02"/>
+      <point x="37" y="1020" type="line"/>
       <point x="37" y="815" type="line"/>
-      <point x="782" y="815" type="line" name="hr03"/>
+      <point x="782" y="815" type="line"/>
       <point x="782" y="1020" type="line"/>
     </contour>
   </outline>

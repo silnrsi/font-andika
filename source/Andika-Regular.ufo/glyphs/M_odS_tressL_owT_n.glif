@@ -4,14 +4,14 @@
   <unicode hex="A721"/>
   <outline>
     <contour>
-      <point x="570" y="1150" type="line" name="hr01"/>
-      <point x="570" y="1460" type="line" name="hr02"/>
+      <point x="570" y="1150" type="line"/>
+      <point x="570" y="1460" type="line"/>
       <point x="450" y="1460" type="line"/>
-      <point x="450" y="1150" type="line" name="hr03"/>
+      <point x="450" y="1150" type="line"/>
       <point x="170" y="1150" type="line"/>
-      <point x="170" y="1460" type="line" name="hr04"/>
+      <point x="170" y="1460" type="line"/>
       <point x="50" y="1460" type="line"/>
-      <point x="50" y="1030" type="line" name="hr05"/>
+      <point x="50" y="1030" type="line"/>
       <point x="1115" y="1030" type="line"/>
       <point x="1115" y="1150" type="line"/>
     </contour>

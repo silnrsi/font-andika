@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombLftArrwhdAbv" format="2">
-  <advance width="0"/>
   <unicode hex="1DFE"/>
   <anchor x="-161" y="1835" name="U"/>
   <anchor x="-372" y="990" name="_U"/>
   <outline>
     <contour>
-      <point x="80" y="1064" type="line" name="hr00"/>
+      <point x="80" y="1064" type="line"/>
       <point x="111" y="1180" type="line"/>
       <point x="-531" y="1408" type="line"/>
       <point x="224" y="1635" type="line"/>

@@ -42,7 +42,7 @@
       <point x="465" y="231" type="curve"/>
     </contour>
     <contour>
-      <point x="11" y="854" type="line" name="hr01"/>
+      <point x="11" y="854" type="line"/>
       <point x="11" y="644" type="line"/>
       <point x="806" y="644" type="line"/>
       <point x="806" y="854" type="line"/>

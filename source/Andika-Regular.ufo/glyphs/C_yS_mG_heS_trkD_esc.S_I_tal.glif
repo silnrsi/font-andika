@@ -5,13 +5,13 @@
   <anchor x="500" y="1100" name="U"/>
   <outline>
     <contour>
-      <point x="330" y="0" type="line" name="hr01"/>
+      <point x="330" y="0" type="line"/>
       <point x="355" y="-125"/>
       <point x="360" y="-313"/>
       <point x="360" y="-440" type="curve"/>
       <point x="505" y="-440" type="line"/>
       <point x="505" y="145" type="line"/>
-      <point x="345" y="145" type="line" name="hr02"/>
+      <point x="345" y="145" type="line"/>
       <point x="345" y="865" type="line"/>
       <point x="920" y="865" type="line"/>
       <point x="920" y="1020" type="line"/>

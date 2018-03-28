@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombCircumTilde.VN" format="2">
-  <advance width="0"/>
   <anchor x="-580" y="1920" name="U"/>
   <anchor x="-580" y="1100" name="_U"/>
   <outline>
     <contour>
-      <point x="-795" y="1660" type="line" name="hr00"/>
+      <point x="-795" y="1660" type="line"/>
       <point x="-789" y="1702"/>
       <point x="-758" y="1750"/>
       <point x="-708" y="1750" type="curve" smooth="yes"/>

@@ -5,9 +5,9 @@
   <outline>
     <contour>
       <point x="422" y="1360" type="line"/>
-      <point x="62" y="100" type="line" name="hr01"/>
+      <point x="62" y="100" type="line"/>
       <point x="282" y="100" type="line"/>
-      <point x="642" y="1360" type="line" name="hr02"/>
+      <point x="642" y="1360" type="line"/>
     </contour>
     <contour>
       <point x="20" y="425" type="line"/>
@@ -23,9 +23,9 @@
     </contour>
     <contour>
       <point x="897" y="1360" type="line"/>
-      <point x="537" y="100" type="line" name="hr03"/>
+      <point x="537" y="100" type="line"/>
       <point x="757" y="100" type="line"/>
-      <point x="1117" y="1360" type="line" name="hr04"/>
+      <point x="1117" y="1360" type="line"/>
     </contour>
   </outline>
 </glyph>

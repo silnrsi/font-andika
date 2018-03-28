@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombDblInvBreveRt" format="2">
-  <advance width="0"/>
   <unicode hex="FE21"/>
   <outline>
     <contour>
-      <point x="-1145" y="1790" type="line" name="hr00"/>
+      <point x="-1145" y="1790" type="line"/>
       <point x="-765" y="1790"/>
       <point x="-395" y="1740"/>
       <point x="-195" y="1610" type="curve"/>

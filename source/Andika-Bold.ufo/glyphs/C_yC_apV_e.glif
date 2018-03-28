@@ -41,7 +41,7 @@
       <point x="150" y="0" type="curve"/>
       <point x="150" y="0"/>
       <point x="470" y="-10"/>
-      <point x="700" y="-10" type="curve" smooth="yes" name="hr01"/>
+      <point x="700" y="-10" type="curve" smooth="yes"/>
       <point x="1124" y="-10"/>
       <point x="1315" y="181"/>
     </contour>

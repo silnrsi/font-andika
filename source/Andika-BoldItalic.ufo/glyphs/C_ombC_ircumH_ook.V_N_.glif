@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombCircumHook.VN" format="2">
-  <advance width="0"/>
   <anchor x="-330" y="1100" name="_U"/>
   <outline>
     <contour>
-      <point x="-543" y="1188" type="line" name="hr00"/>
+      <point x="-543" y="1188" type="line"/>
       <point x="-286" y="1416" type="line"/>
       <point x="-143" y="1188" type="line"/>
       <point x="96" y="1188" type="line"/>

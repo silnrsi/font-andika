@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombCircumAcute.VN" format="2">
-  <advance width="0"/>
   <anchor x="-320" y="1100" name="_U"/>
   <outline>
     <contour>
-      <point x="-619" y="1147" type="line" name="hr01"/>
-      <point x="-275" y="1421" type="line" name="hr02"/>
+      <point x="-619" y="1147" type="line"/>
+      <point x="-275" y="1421" type="line"/>
       <point x="-69" y="1147" type="line"/>
       <point x="80" y="1147" type="line"/>
       <point x="-174" y="1568" type="line"/>

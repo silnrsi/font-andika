@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombDblTildeRt" format="2">
-  <advance width="0"/>
   <unicode hex="FE23"/>
   <outline>
     <contour>
-      <point x="-1140" y="1730" type="line" name="hr00"/>
+      <point x="-1140" y="1730" type="line"/>
       <point x="-976" y="1693"/>
       <point x="-771" y="1650"/>
       <point x="-560" y="1650" type="curve" smooth="yes"/>

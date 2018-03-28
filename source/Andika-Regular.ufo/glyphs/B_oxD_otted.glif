@@ -21,7 +21,7 @@
   <anchor x="1750" y="1252" name="U33"/>
   <outline>
     <contour>
-      <point x="100" y="1700" type="line" name="hr00"/>
+      <point x="100" y="1700" type="line"/>
       <point x="200" y="1700" type="line"/>
       <point x="200" y="1900" type="line"/>
       <point x="400" y="1900" type="line"/>

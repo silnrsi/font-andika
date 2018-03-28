@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombBreveAcute.VN" format="2">
-  <advance width="0"/>
   <anchor x="-165" y="1900" name="U"/>
   <anchor x="-330" y="1100" name="_U"/>
   <outline>
@@ -11,7 +10,7 @@
       <point x="153" y="1839" type="line"/>
     </contour>
     <contour>
-      <point x="-23" y="1534" type="line" name="hr01"/>
+      <point x="-23" y="1534" type="line"/>
       <point x="-75" y="1415"/>
       <point x="-198" y="1327"/>
       <point x="-309" y="1327" type="curve" smooth="yes"/>

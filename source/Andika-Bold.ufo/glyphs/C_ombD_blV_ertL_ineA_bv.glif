@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombDblVertLineAbv" format="2">
-  <advance width="0"/>
   <unicode hex="030E"/>
   <anchor x="-580" y="1635" name="U"/>
   <anchor x="-580" y="1100" name="_U"/>
   <outline>
     <contour>
-      <point x="-620" y="1170" type="line" name="hr00"/>
+      <point x="-620" y="1170" type="line"/>
       <point x="-620" y="1600" type="line"/>
       <point x="-770" y="1600" type="line"/>
       <point x="-770" y="1170" type="line"/>

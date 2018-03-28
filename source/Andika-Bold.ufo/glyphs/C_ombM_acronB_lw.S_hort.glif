@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombMacronBlw.Short" format="2">
-  <advance width="0"/>
   <anchor x="-580" y="-500" name="L"/>
   <anchor x="-580" y="-100" name="_L"/>
   <outline>
     <contour>
-      <point x="-885" y="-370" type="line" name="hr00"/>
+      <point x="-885" y="-370" type="line"/>
       <point x="-275" y="-370" type="line"/>
       <point x="-275" y="-170" type="line"/>
       <point x="-885" y="-170" type="line"/>

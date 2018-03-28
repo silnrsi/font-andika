@@ -4,10 +4,10 @@
   <anchor x="266" y="266" name="_C"/>
   <outline>
     <contour>
-      <point x="474" y="0" type="line" name="hr01"/>
+      <point x="474" y="0" type="line"/>
       <point x="474" y="533" type="line"/>
       <point x="400" y="533" type="line"/>
-      <point x="400" y="96" type="line" name="hr02"/>
+      <point x="400" y="96" type="line"/>
       <point x="165" y="533" type="line"/>
       <point x="59" y="533" type="line"/>
       <point x="59" y="0" type="line"/>

@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombGrave_Macron" format="2">
-  <advance width="0"/>
   <unicode hex="1DC5"/>
   <anchor x="-375" y="1100" name="_U"/>
   <outline>
     <contour>
-      <point x="61" y="1188" type="line" name="hr00"/>
+      <point x="61" y="1188" type="line"/>
       <point x="110" y="1386" type="line"/>
       <point x="-294" y="1386" type="line"/>
       <point x="-445" y="1584" type="line"/>

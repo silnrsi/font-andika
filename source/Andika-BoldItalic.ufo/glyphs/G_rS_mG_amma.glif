@@ -6,7 +6,7 @@
   <anchor x="737" y="1100" name="U"/>
   <outline>
     <contour>
-      <point x="934" y="1010" type="line" name="hr00"/>
+      <point x="934" y="1010" type="line"/>
       <point x="937" y="990"/>
       <point x="939" y="969"/>
       <point x="939" y="946" type="curve" smooth="yes"/>

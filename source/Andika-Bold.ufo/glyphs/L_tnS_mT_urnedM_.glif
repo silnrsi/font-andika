@@ -38,7 +38,7 @@
       <point x="1585" y="405" type="curve" smooth="yes"/>
       <point x="1585" y="1020" type="line"/>
       <point x="1305" y="1020" type="line"/>
-      <point x="1305" y="375" type="line" name="hr01"/>
+      <point x="1305" y="375" type="line"/>
       <point x="1266" y="284"/>
       <point x="1190" y="220"/>
       <point x="1115" y="220" type="curve" smooth="yes"/>
@@ -46,7 +46,7 @@
       <point x="1000" y="256"/>
       <point x="1000" y="445" type="curve" smooth="yes"/>
       <point x="1000" y="1020" type="line"/>
-      <point x="720" y="1020" type="line" name="hr02"/>
+      <point x="720" y="1020" type="line"/>
     </contour>
   </outline>
 </glyph>

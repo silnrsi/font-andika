@@ -4,7 +4,7 @@
   <anchor x="206" y="266" name="_C"/>
   <outline>
     <contour>
-      <point x="390" y="130" type="line" name="hr01"/>
+      <point x="390" y="130" type="line"/>
       <point x="390" y="191" type="line"/>
       <point x="324" y="191" type="line"/>
       <point x="324" y="533" type="line"/>
@@ -12,9 +12,9 @@
       <point x="22" y="207" type="line"/>
       <point x="22" y="130" type="line"/>
       <point x="256" y="130" type="line"/>
-      <point x="256" y="0" type="line" name="hr02"/>
+      <point x="256" y="0" type="line"/>
       <point x="324" y="0" type="line"/>
-      <point x="324" y="130" type="line" name="hr03"/>
+      <point x="324" y="130" type="line"/>
     </contour>
     <contour>
       <point x="256" y="191" type="line"/>

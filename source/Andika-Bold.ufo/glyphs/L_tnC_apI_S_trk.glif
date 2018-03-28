@@ -8,15 +8,15 @@
     <contour>
       <point x="130" y="1460" type="line"/>
       <point x="130" y="1255" type="line"/>
-      <point x="370" y="1255" type="line" name="hr01"/>
+      <point x="370" y="1255" type="line"/>
       <point x="370" y="205" type="line"/>
-      <point x="130" y="205" type="line" name="hr02"/>
+      <point x="130" y="205" type="line"/>
       <point x="130" y="0" type="line"/>
-      <point x="895" y="0" type="line" name="hr03"/>
+      <point x="895" y="0" type="line"/>
       <point x="895" y="205" type="line"/>
-      <point x="655" y="205" type="line" name="hr04"/>
+      <point x="655" y="205" type="line"/>
       <point x="655" y="1255" type="line"/>
-      <point x="895" y="1255" type="line" name="hr05"/>
+      <point x="895" y="1255" type="line"/>
       <point x="895" y="1460" type="line"/>
     </contour>
     <contour>

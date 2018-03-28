@@ -7,13 +7,13 @@
   <anchor x="945" y="1550" name="U"/>
   <outline>
     <contour>
-      <point x="1320" y="1568" type="line" name="hr01"/>
+      <point x="1320" y="1568" type="line"/>
       <point x="101" y="-113" type="line"/>
       <point x="256" y="-113" type="line"/>
       <point x="1475" y="1568" type="line"/>
     </contour>
     <contour>
-      <point x="341" y="1431" type="line" name="hr02"/>
+      <point x="341" y="1431" type="line"/>
       <point x="296" y="1249" type="line"/>
       <point x="380" y="1266"/>
       <point x="457" y="1269"/>

@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombSeagullBlw" format="2">
-  <advance width="0"/>
   <unicode hex="033C"/>
   <anchor x="-755" y="-500" name="L"/>
   <anchor x="-655" y="-100" name="_L"/>
   <outline>
     <contour>
-      <point x="-380" y="-382" type="line" name="hr00"/>
+      <point x="-380" y="-382" type="line"/>
       <point x="-372" y="-352"/>
       <point x="-369" y="-325"/>
       <point x="-369" y="-301" type="curve" smooth="yes"/>

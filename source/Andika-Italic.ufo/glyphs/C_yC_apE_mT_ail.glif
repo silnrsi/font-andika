@@ -6,7 +6,7 @@
   <anchor x="1212" y="1530" name="U"/>
   <outline>
     <contour>
-      <point x="865" y="201" type="line" name="hr01"/>
+      <point x="865" y="201" type="line"/>
       <point x="761" y="1431" type="line"/>
       <point x="596" y="1431" type="line"/>
       <point x="730" y="0" type="line"/>
@@ -29,15 +29,15 @@
       <point x="1861" y="1431"/>
       <point x="1861" y="1431" type="curve"/>
       <point x="1672" y="1431" type="line"/>
-      <point x="1672" y="1274" type="line" name="hr02"/>
+      <point x="1672" y="1274" type="line"/>
       <point x="1375" y="0" type="line"/>
     </contour>
     <contour>
       <point x="1530" y="162" type="line"/>
       <point x="1520" y="0" type="line"/>
-      <point x="1197" y="-451" type="line" name="hr03"/>
+      <point x="1197" y="-451" type="line"/>
       <point x="1362" y="-451" type="line"/>
-      <point x="1735" y="0" type="line" name="hr04"/>
+      <point x="1735" y="0" type="line"/>
       <point x="1775" y="162" type="line"/>
     </contour>
   </outline>

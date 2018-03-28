@@ -4,7 +4,7 @@
   <unicode hex="20B3"/>
   <outline>
     <contour>
-      <point x="956" y="0" type="line" name="hr01"/>
+      <point x="956" y="0" type="line"/>
       <point x="1160" y="0" type="line"/>
       <point x="1129" y="80"/>
       <point x="1090" y="147"/>
@@ -19,7 +19,7 @@
       <point x="598" y="1255" type="line"/>
     </contour>
     <contour>
-      <point x="80" y="395" type="line" name="hr02"/>
+      <point x="80" y="395" type="line"/>
       <point x="1120" y="395" type="line"/>
       <point x="1120" y="530" type="line"/>
       <point x="80" y="530" type="line"/>
