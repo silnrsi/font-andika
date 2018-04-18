@@ -2,7 +2,49 @@
 <glyph name="LariSgn" format="2">
   <advance width="1220"/>
   <unicode hex="20BE"/>
+  <guideline x="372" y="1171" angle="284.0362"/>
+  <guideline x="643" y="1171" angle="284.0362"/>
   <outline>
-    <component base="LiraSgn"/>
+    <contour>
+      <point x="1142" y="1600" type="line"/>
+      <point x="928" y="741" type="line"/>
+      <point x="1103" y="741" type="line"/>
+      <point x="1317" y="1600" type="line"/>
+    </contour>
+    <contour>
+      <point x="863" y="1601" type="line"/>
+      <point x="648" y="741" type="line"/>
+      <point x="813" y="741" type="line"/>
+      <point x="1028" y="1601" type="line"/>
+    </contour>
+    <contour>
+      <point x="405" y="230" type="curve"/>
+      <point x="138" y="230" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="1095" y="0" type="line"/>
+      <point x="1156" y="245" type="line"/>
+      <point x="1074" y="231"/>
+      <point x="932" y="230"/>
+      <point x="737" y="230" type="curve"/>
+      <point x="677" y="230" type="line"/>
+      <point x="600" y="396"/>
+      <point x="549" y="554"/>
+      <point x="549" y="713" type="curve" smooth="yes"/>
+      <point x="549" y="1000"/>
+      <point x="714" y="1255"/>
+      <point x="988" y="1255" type="curve" smooth="yes"/>
+      <point x="1163" y="1255"/>
+      <point x="1275" y="1173"/>
+      <point x="1322" y="1093" type="curve"/>
+      <point x="1461" y="1316" type="line"/>
+      <point x="1396" y="1395"/>
+      <point x="1222" y="1485"/>
+      <point x="1046" y="1485" type="curve" smooth="yes"/>
+      <point x="565" y="1485"/>
+      <point x="273" y="1097"/>
+      <point x="273" y="686" type="curve" smooth="yes"/>
+      <point x="273" y="504"/>
+      <point x="339" y="342"/>
+    </contour>
   </outline>
 </glyph>
