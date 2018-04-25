@@ -2,10 +2,6 @@
 <glyph name="LtnCapOmega" format="2">
   <advance width="1894"/>
   <unicode hex="A7B6"/>
-  <guideline x="149" y="553" angle="283.9752"/>
-  <guideline x="1014" y="531" angle="283.9752"/>
-  <guideline x="1881" y="553" angle="283.9752"/>
-  <guideline x="1596" y="553" angle="283.9752"/>
   <anchor x="858" y="-100" name="L"/>
   <anchor x="1263" y="1530" name="U"/>
   <outline>

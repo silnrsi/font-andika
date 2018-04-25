@@ -2,8 +2,6 @@
 <glyph name="LariSgn" format="2">
   <advance width="1220"/>
   <unicode hex="20BE"/>
-  <guideline x="372" y="1171" angle="284.0362"/>
-  <guideline x="643" y="1171" angle="284.0362"/>
   <outline>
     <contour>
       <point x="1142" y="1600" type="line"/>
