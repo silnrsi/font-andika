@@ -2,10 +2,34 @@
 <glyph name="LtnCapSmCapI" format="2">
   <advance width="1255"/>
   <unicode hex="A7AE"/>
-  <anchor x="572" y="0" name="H"/>
   <anchor x="547" y="-100" name="L"/>
   <anchor x="954" y="1530" name="U"/>
   <outline>
-    <component base="LtnCapT"/>
+    <contour>
+      <point x="769" y="227" type="line"/>
+      <point x="1016" y="1218" type="line"/>
+      <point x="1232" y="1218" type="line" smooth="yes"/>
+      <point x="1313" y="1218"/>
+      <point x="1390" y="1215"/>
+      <point x="1458" y="1198" type="curve"/>
+      <point x="1520" y="1445" type="line"/>
+      <point x="345" y="1445" type="line"/>
+      <point x="283" y="1198" type="line"/>
+      <point x="359" y="1215"/>
+      <point x="439" y="1218"/>
+      <point x="519" y="1218" type="curve" smooth="yes"/>
+      <point x="731" y="1218" type="line"/>
+      <point x="484" y="227" type="line"/>
+      <point x="271" y="227" type="line" smooth="yes"/>
+      <point x="190" y="227"/>
+      <point x="113" y="230"/>
+      <point x="45" y="247" type="curve"/>
+      <point x="-17" y="0" type="line"/>
+      <point x="1158" y="0" type="line"/>
+      <point x="1220" y="247" type="line"/>
+      <point x="1144" y="230"/>
+      <point x="1064" y="227"/>
+      <point x="984" y="227" type="curve" smooth="yes"/>
+    </contour>
   </outline>
 </glyph>
