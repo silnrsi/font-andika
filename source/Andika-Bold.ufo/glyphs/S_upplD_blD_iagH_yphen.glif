@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="SupplDblDiagHyphen" format="2">
-  <advance width="807"/>
+  <advance width="967"/>
   <unicode hex="2E17"/>
   <outline>
-    <component base="SupplRtRaisedOmBrac"/>
+    <contour>
+      <point x="90" y="0" type="line"/>
+      <point x="878" y="455" type="line"/>
+      <point x="878" y="668" type="line"/>
+      <point x="90" y="213" type="line"/>
+    </contour>
+    <contour>
+      <point x="90" y="362" type="line"/>
+      <point x="878" y="817" type="line"/>
+      <point x="878" y="1030" type="line"/>
+      <point x="90" y="575" type="line"/>
+    </contour>
   </outline>
 </glyph>
