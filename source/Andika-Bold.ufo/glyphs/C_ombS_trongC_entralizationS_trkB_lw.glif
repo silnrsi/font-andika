@@ -4,6 +4,25 @@
   <anchor x="-515" y="-600" name="L"/>
   <anchor x="-515" y="-100" name="_L"/>
   <outline>
-    <component base="ModLowAcuteAccent" xOffset="-868"/>
+    <contour>
+      <point x="-1020" y="-550" type="line"/>
+      <point x="-892" y="-550" type="line"/>
+      <point x="-669" y="62" type="line"/>
+      <point x="-787" y="91" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1115" y="-540" type="curve" smooth="yes"/>
+      <point x="-1115" y="-644"/>
+      <point x="-1041" y="-715"/>
+      <point x="-940" y="-715" type="curve" smooth="yes"/>
+      <point x="-838" y="-715"/>
+      <point x="-765" y="-644"/>
+      <point x="-765" y="-540" type="curve" smooth="yes"/>
+      <point x="-765" y="-438"/>
+      <point x="-838" y="-365"/>
+      <point x="-940" y="-365" type="curve" smooth="yes"/>
+      <point x="-1041" y="-365"/>
+      <point x="-1115" y="-438"/>
+    </contour>
   </outline>
 </glyph>

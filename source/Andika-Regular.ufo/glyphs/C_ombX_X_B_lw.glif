@@ -4,6 +4,33 @@
   <anchor x="-570" y="-500" name="L"/>
   <anchor x="-570" y="-100" name="_L"/>
   <outline>
-    <component base="CombXBlw"/>
+    <contour>
+      <point x="-710" y="-535" type="line"/>
+      <point x="-640" y="-465" type="line"/>
+      <point x="-749" y="-355" type="line"/>
+      <point x="-640" y="-245" type="line"/>
+      <point x="-710" y="-175" type="line"/>
+      <point x="-820" y="-284" type="line"/>
+      <point x="-930" y="-175" type="line"/>
+      <point x="-1000" y="-245" type="line"/>
+      <point x="-891" y="-355" type="line"/>
+      <point x="-1000" y="-465" type="line"/>
+      <point x="-930" y="-535" type="line"/>
+      <point x="-820" y="-426" type="line"/>
+    </contour>
+    <contour>
+      <point x="-210" y="-535" type="line"/>
+      <point x="-140" y="-465" type="line"/>
+      <point x="-249" y="-355" type="line"/>
+      <point x="-140" y="-245" type="line"/>
+      <point x="-210" y="-175" type="line"/>
+      <point x="-320" y="-284" type="line"/>
+      <point x="-430" y="-175" type="line"/>
+      <point x="-500" y="-245" type="line"/>
+      <point x="-391" y="-355" type="line"/>
+      <point x="-500" y="-465" type="line"/>
+      <point x="-430" y="-535" type="line"/>
+      <point x="-320" y="-426" type="line"/>
+    </contour>
   </outline>
 </glyph>

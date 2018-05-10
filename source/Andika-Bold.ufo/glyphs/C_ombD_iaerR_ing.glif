@@ -4,6 +4,61 @@
   <anchor x="-580" y="1635" name="U"/>
   <anchor x="-580" y="1100" name="_U"/>
   <outline>
-    <component base="CombRingAbv"/>
+    <contour>
+      <point x="-480" y="1400" type="curve" smooth="yes"/>
+      <point x="-480" y="1340"/>
+      <point x="-520" y="1305"/>
+      <point x="-580" y="1305" type="curve" smooth="yes"/>
+      <point x="-640" y="1305"/>
+      <point x="-680" y="1340"/>
+      <point x="-680" y="1400" type="curve" smooth="yes"/>
+      <point x="-680" y="1460"/>
+      <point x="-640" y="1495"/>
+      <point x="-580" y="1495" type="curve" smooth="yes"/>
+      <point x="-520" y="1495"/>
+      <point x="-480" y="1460"/>
+    </contour>
+    <contour>
+      <point x="-825" y="1400" type="curve" smooth="yes"/>
+      <point x="-825" y="1260"/>
+      <point x="-720" y="1160"/>
+      <point x="-580" y="1160" type="curve" smooth="yes"/>
+      <point x="-440" y="1160"/>
+      <point x="-335" y="1260"/>
+      <point x="-335" y="1400" type="curve" smooth="yes"/>
+      <point x="-335" y="1540"/>
+      <point x="-440" y="1640"/>
+      <point x="-580" y="1640" type="curve" smooth="yes"/>
+      <point x="-720" y="1640"/>
+      <point x="-825" y="1540"/>
+    </contour>
+    <contour>
+      <point x="-210" y="1400" type="curve" smooth="yes"/>
+      <point x="-210" y="1296"/>
+      <point x="-136" y="1225"/>
+      <point x="-35" y="1225" type="curve" smooth="yes"/>
+      <point x="67" y="1225"/>
+      <point x="140" y="1296"/>
+      <point x="140" y="1400" type="curve" smooth="yes"/>
+      <point x="140" y="1502"/>
+      <point x="67" y="1575"/>
+      <point x="-35" y="1575" type="curve" smooth="yes"/>
+      <point x="-136" y="1575"/>
+      <point x="-210" y="1502"/>
+    </contour>
+    <contour>
+      <point x="-1300" y="1400" type="curve" smooth="yes"/>
+      <point x="-1300" y="1296"/>
+      <point x="-1226" y="1225"/>
+      <point x="-1125" y="1225" type="curve" smooth="yes"/>
+      <point x="-1023" y="1225"/>
+      <point x="-950" y="1296"/>
+      <point x="-950" y="1400" type="curve" smooth="yes"/>
+      <point x="-950" y="1502"/>
+      <point x="-1023" y="1575"/>
+      <point x="-1125" y="1575" type="curve" smooth="yes"/>
+      <point x="-1226" y="1575"/>
+      <point x="-1300" y="1502"/>
+    </contour>
   </outline>
 </glyph>

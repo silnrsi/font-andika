@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombDwnArrw" format="2">
-  <advance width="675"/>
   <unicode hex="1AB3"/>
+  <anchor x="-570" y="1635" name="U"/>
+  <anchor x="-570" y="1100" name="_U"/>
   <outline>
-    <component base="ModRaisedDwnArrw"/>
+    <contour>
+      <point x="-525" y="1565" type="line"/>
+      <point x="-615" y="1565" type="line"/>
+      <point x="-615" y="1310" type="line"/>
+      <point x="-695" y="1340" type="line"/>
+      <point x="-715" y="1325" type="line"/>
+      <point x="-570" y="1170" type="line"/>
+      <point x="-420" y="1325" type="line"/>
+      <point x="-440" y="1340" type="line"/>
+      <point x="-525" y="1310" type="line"/>
+    </contour>
   </outline>
 </glyph>

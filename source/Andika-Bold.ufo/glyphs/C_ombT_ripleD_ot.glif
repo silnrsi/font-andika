@@ -1,9 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombTripleDot" format="2">
   <unicode hex="1AB4"/>
-  <anchor x="-580" y="1585" name="U"/>
+  <anchor x="-580" y="1910" name="U"/>
   <anchor x="-580" y="1100" name="_U"/>
   <outline>
-    <component base="CombDiaer"/>
+    <contour>
+      <point x="-510" y="1385" type="curve" smooth="yes"/>
+      <point x="-510" y="1281"/>
+      <point x="-436" y="1210"/>
+      <point x="-335" y="1210" type="curve" smooth="yes"/>
+      <point x="-233" y="1210"/>
+      <point x="-160" y="1281"/>
+      <point x="-160" y="1385" type="curve" smooth="yes"/>
+      <point x="-160" y="1487"/>
+      <point x="-233" y="1560"/>
+      <point x="-335" y="1560" type="curve" smooth="yes"/>
+      <point x="-436" y="1560"/>
+      <point x="-510" y="1487"/>
+    </contour>
+    <contour>
+      <point x="-1000" y="1385" type="curve" smooth="yes"/>
+      <point x="-1000" y="1281"/>
+      <point x="-926" y="1210"/>
+      <point x="-825" y="1210" type="curve" smooth="yes"/>
+      <point x="-723" y="1210"/>
+      <point x="-650" y="1281"/>
+      <point x="-650" y="1385" type="curve" smooth="yes"/>
+      <point x="-650" y="1487"/>
+      <point x="-723" y="1560"/>
+      <point x="-825" y="1560" type="curve" smooth="yes"/>
+      <point x="-926" y="1560"/>
+      <point x="-1000" y="1487"/>
+    </contour>
+    <contour>
+      <point x="-755" y="1785" type="curve" smooth="yes"/>
+      <point x="-755" y="1681"/>
+      <point x="-681" y="1610"/>
+      <point x="-580" y="1610" type="curve" smooth="yes"/>
+      <point x="-478" y="1610"/>
+      <point x="-405" y="1681"/>
+      <point x="-405" y="1785" type="curve" smooth="yes"/>
+      <point x="-405" y="1887"/>
+      <point x="-478" y="1960"/>
+      <point x="-580" y="1960" type="curve" smooth="yes"/>
+      <point x="-681" y="1960"/>
+      <point x="-755" y="1887"/>
+    </contour>
   </outline>
 </glyph>
