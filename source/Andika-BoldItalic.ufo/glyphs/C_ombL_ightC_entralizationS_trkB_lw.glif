@@ -4,6 +4,11 @@
   <anchor x="-725" y="-600" name="L"/>
   <anchor x="-600" y="-100" name="_L"/>
   <outline>
-    <component base="ModLowAcuteAccent" xOffset="-928"/>
+    <contour>
+      <point x="-1200" y="-549" type="line"/>
+      <point x="-1072" y="-549" type="line"/>
+      <point x="-696" y="63" type="line"/>
+      <point x="-807" y="92" type="line"/>
+    </contour>
   </outline>
 </glyph>

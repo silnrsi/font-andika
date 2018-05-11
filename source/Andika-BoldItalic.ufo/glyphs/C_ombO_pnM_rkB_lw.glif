@@ -4,6 +4,17 @@
   <anchor x="-765" y="-500" name="L"/>
   <anchor x="-665" y="-100" name="_L"/>
   <outline>
-    <component base="CombLftHalfRingBlw"/>
+    <contour>
+      <point x="-779" y="-320" type="line"/>
+      <point x="-808" y="-436"/>
+      <point x="-736" y="-540"/>
+      <point x="-599" y="-540" type="curve"/>
+      <point x="-572" y="-430" type="line"/>
+      <point x="-630" y="-430"/>
+      <point x="-676" y="-387"/>
+      <point x="-659" y="-320" type="curve"/>
+      <point x="-606" y="-105" type="line"/>
+      <point x="-726" y="-105" type="line"/>
+    </contour>
   </outline>
 </glyph>

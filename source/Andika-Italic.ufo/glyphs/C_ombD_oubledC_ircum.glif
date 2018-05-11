@@ -4,6 +4,23 @@
   <anchor x="-221" y="1635" name="U"/>
   <anchor x="-320" y="1100" name="_U"/>
   <outline>
-    <component base="CombCircum"/>
+    <contour>
+      <point x="-929" y="1147" type="line"/>
+      <point x="-585" y="1421" type="line"/>
+      <point x="-379" y="1147" type="line"/>
+      <point x="-230" y="1147" type="line"/>
+      <point x="-484" y="1568" type="line"/>
+      <point x="-654" y="1568" type="line"/>
+      <point x="-1079" y="1147" type="line"/>
+    </contour>
+    <contour>
+      <point x="-229" y="1147" type="line"/>
+      <point x="115" y="1421" type="line"/>
+      <point x="321" y="1147" type="line"/>
+      <point x="470" y="1147" type="line"/>
+      <point x="216" y="1568" type="line"/>
+      <point x="46" y="1568" type="line"/>
+      <point x="-379" y="1147" type="line"/>
+    </contour>
   </outline>
 </glyph>

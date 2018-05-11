@@ -1,9 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombWigglyLineBlw" format="2">
   <unicode hex="1AB6"/>
-  <anchor x="-755" y="-500" name="L"/>
-  <anchor x="-655" y="-100" name="_L"/>
+  <anchor x="-588" y="-29" name="L"/>
+  <anchor x="-688" y="-429" name="_L"/>
   <outline>
-    <component base="CombInvDblArchBlw"/>
+    <contour>
+      <point x="-77" y="-390" type="line"/>
+      <point x="-69" y="-358"/>
+      <point x="-65" y="-329"/>
+      <point x="-65" y="-304" type="curve" smooth="yes"/>
+      <point x="-65" y="-197"/>
+      <point x="-129" y="-150"/>
+      <point x="-187" y="-150" type="curve" smooth="yes"/>
+      <point x="-243" y="-150"/>
+      <point x="-290" y="-199"/>
+      <point x="-330" y="-243" type="curve" smooth="yes"/>
+      <point x="-360" y="-276"/>
+      <point x="-390" y="-306"/>
+      <point x="-420" y="-306" type="curve" smooth="yes"/>
+      <point x="-459" y="-306"/>
+      <point x="-483" y="-275"/>
+      <point x="-497" y="-240" type="curve" smooth="yes"/>
+      <point x="-514" y="-198"/>
+      <point x="-534" y="-150"/>
+      <point x="-608" y="-150" type="curve" smooth="yes"/>
+      <point x="-676" y="-150"/>
+      <point x="-715" y="-197"/>
+      <point x="-750" y="-239" type="curve" smooth="yes"/>
+      <point x="-781" y="-277"/>
+      <point x="-815" y="-306"/>
+      <point x="-854" y="-306" type="curve" smooth="yes"/>
+      <point x="-884" y="-306"/>
+      <point x="-908" y="-278"/>
+      <point x="-922" y="-245" type="curve" smooth="yes"/>
+      <point x="-941" y="-201"/>
+      <point x="-965" y="-150"/>
+      <point x="-1039" y="-150" type="curve" smooth="yes"/>
+      <point x="-1116" y="-150"/>
+      <point x="-1207" y="-222"/>
+      <point x="-1249" y="-390" type="curve"/>
+      <point x="-1169" y="-390" type="line"/>
+      <point x="-1146" y="-297"/>
+      <point x="-1100" y="-250"/>
+      <point x="-1044" y="-250" type="curve" smooth="yes"/>
+      <point x="-1008" y="-250"/>
+      <point x="-994" y="-282"/>
+      <point x="-979" y="-317" type="curve" smooth="yes"/>
+      <point x="-961" y="-360"/>
+      <point x="-931" y="-406"/>
+      <point x="-869" y="-406" type="curve" smooth="yes"/>
+      <point x="-811" y="-406"/>
+      <point x="-765" y="-366"/>
+      <point x="-728" y="-322" type="curve" smooth="yes"/>
+      <point x="-697" y="-285"/>
+      <point x="-667" y="-250"/>
+      <point x="-623" y="-250" type="curve" smooth="yes"/>
+      <point x="-580" y="-250"/>
+      <point x="-562" y="-285"/>
+      <point x="-545" y="-322" type="curve" smooth="yes"/>
+      <point x="-526" y="-363"/>
+      <point x="-495" y="-406"/>
+      <point x="-435" y="-406" type="curve" smooth="yes"/>
+      <point x="-378" y="-406"/>
+      <point x="-330" y="-360"/>
+      <point x="-299" y="-319" type="curve" smooth="yes"/>
+      <point x="-270" y="-280"/>
+      <point x="-247" y="-250"/>
+      <point x="-212" y="-250" type="curve" smooth="yes"/>
+      <point x="-171" y="-250"/>
+      <point x="-148" y="-275"/>
+      <point x="-148" y="-326" type="curve" smooth="yes"/>
+      <point x="-148" y="-344"/>
+      <point x="-151" y="-365"/>
+      <point x="-157" y="-390" type="curve"/>
+    </contour>
   </outline>
 </glyph>
