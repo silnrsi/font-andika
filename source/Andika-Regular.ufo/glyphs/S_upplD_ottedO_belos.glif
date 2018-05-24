@@ -1,8 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="SupplDottedObelos" format="2">
-  <advance width="1200"/>
+  <advance width="1340"/>
   <unicode hex="2E13"/>
   <outline>
-    <component base="DivSgn"/>
+    <contour>
+      <point x="165" y="450" type="line"/>
+      <point x="1175" y="450" type="line"/>
+      <point x="1175" y="600" type="line"/>
+      <point x="165" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="535" y="820" type="curve" smooth="yes"/>
+      <point x="535" y="747"/>
+      <point x="597" y="685"/>
+      <point x="670" y="685" type="curve" smooth="yes"/>
+      <point x="744" y="685"/>
+      <point x="806" y="747"/>
+      <point x="806" y="820" type="curve" smooth="yes"/>
+      <point x="806" y="894"/>
+      <point x="744" y="955"/>
+      <point x="670" y="955" type="curve" smooth="yes"/>
+      <point x="597" y="955"/>
+      <point x="535" y="894"/>
+    </contour>
+    <contour>
+      <point x="535" y="230" type="curve" smooth="yes"/>
+      <point x="535" y="157"/>
+      <point x="597" y="95"/>
+      <point x="670" y="95" type="curve" smooth="yes"/>
+      <point x="744" y="95"/>
+      <point x="806" y="157"/>
+      <point x="806" y="230" type="curve" smooth="yes"/>
+      <point x="806" y="304"/>
+      <point x="744" y="365"/>
+      <point x="670" y="365" type="curve" smooth="yes"/>
+      <point x="597" y="365"/>
+      <point x="535" y="304"/>
+    </contour>
   </outline>
 </glyph>
