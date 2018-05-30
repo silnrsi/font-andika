@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombDwnArrw" format="2">
   <unicode hex="1AB3"/>
-  <guideline x="-521" y="293" angle="283.9633"/>
   <anchor x="-185" y="1635" name="U"/>
   <anchor x="-318" y="1100" name="_U"/>
   <outline>

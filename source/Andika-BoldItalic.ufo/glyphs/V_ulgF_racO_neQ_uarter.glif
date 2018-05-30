@@ -25,14 +25,20 @@
     <contour>
       <point x="1670" y="218" type="line"/>
       <point x="1705" y="359" type="line"/>
-      <point x="1164" y="359" type="line"/>
-      <point x="1525" y="724" type="line"/>
-      <point x="1345" y="0" type="line"/>
-      <point x="1514" y="0" type="line"/>
+      <point x="1603" y="359" type="line"/>
       <point x="1744" y="923" type="line"/>
       <point x="1543" y="923" type="line"/>
       <point x="998" y="359" type="line"/>
       <point x="963" y="218" type="line"/>
+      <point x="1399" y="218" type="line"/>
+      <point x="1345" y="0" type="line"/>
+      <point x="1514" y="0" type="line"/>
+      <point x="1569" y="218" type="line"/>
+    </contour>
+    <contour>
+      <point x="1434" y="359" type="line"/>
+      <point x="1164" y="359" type="line"/>
+      <point x="1525" y="724" type="line"/>
     </contour>
   </outline>
 </glyph>

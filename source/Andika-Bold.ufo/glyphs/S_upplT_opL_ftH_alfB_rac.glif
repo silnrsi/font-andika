@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="SupplTopLftHalfBrac" format="2">
-  <advance width="800"/>
+  <advance width="875"/>
   <unicode hex="2E22"/>
   <outline>
-    <component base="SqrTxtBracHighLft"/>
+    <contour>
+      <point x="190" y="1600" type="line"/>
+      <point x="190" y="510" type="line"/>
+      <point x="460" y="510" type="line"/>
+      <point x="460" y="1390" type="line"/>
+      <point x="735" y="1390" type="line"/>
+      <point x="735" y="1600" type="line"/>
+    </contour>
   </outline>
 </glyph>
