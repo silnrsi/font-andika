@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmCapQ.DiagTail" format="2">
+  <advance width="1203"/>
+  <anchor x="820" y="1100" name="U"/>
+  <anchor x="560" y="-100" name="L"/>
+  <outline>
+    <component base="LtnSmCapO"/>
+  </outline>
+</glyph>

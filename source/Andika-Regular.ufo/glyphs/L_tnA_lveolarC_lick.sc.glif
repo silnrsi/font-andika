@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnAlveolarClick.sc" format="2">
+  <advance width="855"/>
+  <anchor x="437" y="1635" name="U"/>
+  <anchor x="437" y="-500" name="L"/>
+  <outline>
+    <component base="LtnAlveolarClick"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnRetrClick.sc" format="2">
+  <advance width="670"/>
+  <anchor x="335" y="1555" name="U"/>
+  <anchor x="335" y="-100" name="L"/>
+  <outline>
+    <component base="LtnRetrClick"/>
+  </outline>
+</glyph>

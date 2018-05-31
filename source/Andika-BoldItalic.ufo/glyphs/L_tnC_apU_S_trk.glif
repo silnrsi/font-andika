@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnCapUStrk" format="2">
+  <advance width="1470"/>
+  <unicode hex="A7B8"/>
+  <anchor x="672" y="0" name="H"/>
+  <anchor x="1720" y="1200" name="R"/>
+  <anchor x="1054" y="1530" name="U"/>
+  <anchor x="647" y="-100" name="L"/>
+  <anchor x="890" y="0" name="O"/>
+  <outline>
+    <component base="LtnCapU"/>
+  </outline>
+</glyph>
