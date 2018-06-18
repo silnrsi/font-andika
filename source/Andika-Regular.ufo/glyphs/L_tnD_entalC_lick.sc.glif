@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnDentalClick.sc" format="2">
   <advance width="495"/>
-  <anchor x="248" y="1635" name="U"/>
   <anchor x="248" y="-500" name="L"/>
+  <anchor x="248" y="1635" name="U"/>
   <outline>
     <component base="LtnDentalClick"/>
   </outline>

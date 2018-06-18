@@ -3,10 +3,10 @@
   <advance width="1185"/>
   <unicode hex="A7B9"/>
   <anchor x="589" y="0" name="H"/>
-  <anchor x="1185" y="1000" name="R"/>
-  <anchor x="589" y="1100" name="U"/>
   <anchor x="589" y="-100" name="L"/>
   <anchor x="1192" y="0" name="O"/>
+  <anchor x="1185" y="1000" name="R"/>
+  <anchor x="589" y="1100" name="U"/>
   <outline>
     <component base="LtnSmU"/>
   </outline>
