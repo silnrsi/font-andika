@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnBilabialClick.sc" format="2">
   <advance width="1700"/>
-  <anchor x="1190" y="1560" name="U"/>
   <anchor x="775" y="-100" name="L"/>
+  <anchor x="1190" y="1560" name="U"/>
   <outline>
     <component base="LtnBilabialClick"/>
   </outline>

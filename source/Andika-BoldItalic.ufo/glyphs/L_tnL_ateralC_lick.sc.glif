@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnLateralClick.sc" format="2">
   <advance width="870"/>
-  <anchor x="773" y="1635" name="U"/>
   <anchor x="270" y="-500" name="L"/>
+  <anchor x="773" y="1635" name="U"/>
   <outline>
     <component base="LtnLateralClick"/>
   </outline>
