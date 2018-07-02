@@ -7,12 +7,12 @@
   <outline>
     <contour>
       <point x="460" y="500" type="line"/>
-      <point x="466" y="790"/>
+      <point x="460" y="790"/>
       <point x="461" y="1076"/>
       <point x="500" y="1510" type="curve"/>
       <point x="165" y="1510" type="line"/>
       <point x="203" y="1076"/>
-      <point x="198" y="790"/>
+      <point x="204" y="790"/>
       <point x="205" y="500" type="curve"/>
     </contour>
     <contour>
