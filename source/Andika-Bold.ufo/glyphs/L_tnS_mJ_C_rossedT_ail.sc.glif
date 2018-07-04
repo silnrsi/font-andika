@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmJCrossedTail.sc" format="2">
+  <advance width="923"/>
+  <unicode hex="(029D)"/>
+  <anchor x="590" y="1530" name="U"/>
+  <anchor x="440" y="-100" name="L"/>
+  <outline>
+    <component base="LtnCapJCrossedTail"/>
+  </outline>
+</glyph>

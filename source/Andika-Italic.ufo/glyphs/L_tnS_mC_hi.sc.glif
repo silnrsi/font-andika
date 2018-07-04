@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmChi.sc" format="2">
+  <advance width="1360"/>
+  <unicode hex="(AB53)"/>
+  <anchor x="955" y="1530" name="U"/>
+  <anchor x="450" y="-500" name="L"/>
+  <outline>
+    <component base="LtnCapChi"/>
+  </outline>
+</glyph>

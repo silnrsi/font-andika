@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModSmLMiddleTilde" format="2">
+  <advance width="422"/>
+  <unicode hex="AB5E"/>
+  <anchor x="601" y="1745" name="U"/>
+  <anchor x="318" y="615" name="L"/>
+  <outline>
+    <component base="LtnSmL" xOffset="109" yOffset="673"/>
+  </outline>
+</glyph>

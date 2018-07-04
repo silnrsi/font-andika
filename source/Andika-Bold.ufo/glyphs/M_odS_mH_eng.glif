@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModSmHeng" format="2">
+  <advance width="864"/>
+  <unicode hex="AB5C"/>
+  <anchor x="414" y="1745" name="U"/>
+  <anchor x="414" y="615" name="L"/>
+  <outline>
+    <component base="LtnSmH" xOffset="5" yOffset="680"/>
+  </outline>
+</glyph>
