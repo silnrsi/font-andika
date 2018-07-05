@@ -2,8 +2,8 @@
 <glyph name="ModSmLMiddleTilde" format="2">
   <advance width="442"/>
   <unicode hex="AB5E"/>
-  <anchor x="225" y="1745" name="U"/>
   <anchor x="225" y="615" name="L"/>
+  <anchor x="225" y="1745" name="U"/>
   <outline>
     <component base="LtnSmL" xOffset="2" yOffset="680"/>
   </outline>
