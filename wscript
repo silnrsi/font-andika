@@ -27,8 +27,8 @@ DEBPKG = 'fonts-sil-charis'
 
 # set the build and test parameters
 
-#for style in ('-Regular','-Italic','-Bold','-BoldItalic') :
-for style in ['-Regular'] :
+for style in ('-Regular','-Italic','-Bold','-BoldItalic') :
+#for style in ['-Regular'] :
     fname = FILENAMEBASE + style
     source_fname = 'source/' + fname
     feabase = 'source/opentype/' + FILENAMEBASE
