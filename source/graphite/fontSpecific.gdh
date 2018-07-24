@@ -1,0 +1,8 @@
+/*
+	Font-specific stuff for Andika
+	
+	This file gets copied to fontSpecific.gdh as part of the build process,
+	and thus is #included in main.gdh.
+*/
+
+#define FONT ANDIKAfont

@@ -1,0 +1,337 @@
+/*
+	Description: GDL rules and definitions to handle tone ligatures for Roman fonts.
+	Author: Sharon Correll and Mark Anderson
+
+
+	This file is part of Charis font family
+	(http://scripts.sil.org/CharisSIL) and is
+	Copyright (c) 2003-2010 SIL International (http://www.sil.org/),
+	with Reserved Font Names "Charis" and "SIL".
+
+	This Font Software is licensed under the SIL Open Font License,
+	Version 1.1.
+
+	You should have received a copy of the license along with this Font Software.
+	If this is not the case, go to (http://scripts.sil.org/OFL) for all the
+	details including a FAQ.
+
+
+	Changes
+
+SJC     2017-10-05	Moved 9-lovel pitch system into a different file that is no longer included
+SJC     2007-01-23	9-level pitch tramlines only happen on spaces that are surrounded by pitches
+SJC     2006-12-15	Added 9-level pitch system
+SJC/MAA 2005-05-10	Reworked to use attachments rather than ligatures.
+
+*/
+
+#include "stddef.gdh"
+
+//////////////////////////////////////////////////////////////////////////////////////
+//
+//	Five-pitch system
+//
+
+// Identical-tone chain handling:
+#define TLSTATE user1
+#define TLSfirst 0  // 0 is the initial value
+#define TLSchain 1
+#define TLSstop 2
+
+// Special handling for identical-tone chain with a left-staff; these are tricky.
+#define LTFLAG user2
+#define LThit 1
+#define LTback 2
+
+// Debuggers:
+#define BBLEFT user3
+#define BBRIGHT user4
+
+table(glyph)
+
+	// Individual glyph definitions
+
+	// Right staves representing the last tone in a sequence:
+	gRightStaff1 = postscript("TnStaffRt1") {tone = 1};
+gRightStaff2 = postscript("TnStaffRt2") {tone = 2};
+gRightStaff3 = postscript("TnStaffRt3") {tone = 3};
+gRightStaff4 = postscript("TnStaffRt4") {tone = 4};
+gRightStaff5 = postscript("TnStaffRt5") {tone = 5};
+
+	// Invisible glyphs representing a hidden staff at the end of a sequence:
+	gRightStaff1_no = postscript("TnStaffRt1no") {tone = 1};
+gRightStaff2_no = postscript("TnStaffRt2no") {tone = 2};
+gRightStaff3_no = postscript("TnStaffRt3no") {tone = 3};
+gRightStaff4_no = postscript("TnStaffRt4no") {tone = 4};
+gRightStaff5_no = postscript("TnStaffRt5no") {tone = 5};
+
+	gRightTone1  = postscript("TnLtr1")   {tone = 1};
+gRightTone11 = postscript("TnContRt11") {tone = 1};
+gRightTone12 = postscript("TnContRt12") {tone = 1};
+gRightTone13 = postscript("TnContRt13") {tone = 1};
+gRightTone14 = postscript("TnContRt14") {tone = 1};
+gRightTone15 = postscript("TnContRt15") {tone = 1};
+gRightTone2  = postscript("TnLtr2")   {tone = 2};
+gRightTone21 = postscript("TnContRt21") {tone = 2};
+gRightTone22 = postscript("TnContRt22") {tone = 2};
+gRightTone23 = postscript("TnContRt23") {tone = 2};
+gRightTone24 = postscript("TnContRt24") {tone = 2};
+gRightTone25 = postscript("TnContRt25") {tone = 2};
+gRightTone3  = postscript("TnLtr3")   {tone = 3};
+gRightTone31 = postscript("TnContRt31") {tone = 3};
+gRightTone32 = postscript("TnContRt32") {tone = 3};
+gRightTone33 = postscript("TnContRt33") {tone = 3};
+gRightTone34 = postscript("TnContRt34") {tone = 3};
+gRightTone35 = postscript("TnContRt35") {tone = 3};
+gRightTone4  = postscript("TnLtr4")   {tone = 4};
+gRightTone41 = postscript("TnContRt41") {tone = 4};
+gRightTone42 = postscript("TnContRt42") {tone = 4};
+gRightTone43 = postscript("TnContRt43") {tone = 4};
+gRightTone44 = postscript("TnContRt44") {tone = 4};
+gRightTone45 = postscript("TnContRt45") {tone = 4};
+gRightTone5  = postscript("TnLtr5")   {tone = 5};
+gRightTone51 = postscript("TnContRt51") {tone = 5};
+gRightTone52 = postscript("TnContRt52") {tone = 5};
+gRightTone53 = postscript("TnContRt53") {tone = 5};
+gRightTone54 = postscript("TnContRt54") {tone = 5};
+gRightTone55 = postscript("TnContRt55") {tone = 5};
+
+	// Left staves representing the first tone in a sequence:
+	gLeftStaff1 = postscript("TnStaffLft1") {tone = 1};
+gLeftStaff2 = postscript("TnStaffLft2") {tone = 2};
+gLeftStaff3 = postscript("TnStaffLft3") {tone = 3};
+gLeftStaff4 = postscript("TnStaffLft4") {tone = 4};
+gLeftStaff5 = postscript("TnStaffLft5") {tone = 5};
+
+	// Invisible glyphs representing a hidden staff at the beginning of a sequence:
+	gLeftStaff1_no = postscript("TnStaffLft1no") {tone = 1};
+gLeftStaff2_no = postscript("TnStaffLft2no") {tone = 2};
+gLeftStaff3_no = postscript("TnStaffLft3no") {tone = 3};
+gLeftStaff4_no = postscript("TnStaffLft4no") {tone = 4};
+gLeftStaff5_no = postscript("TnStaffLft5no") {tone = 5};
+
+/*
+	gLeftTone1 = postscript("uniA716");
+	gLeftTone2 = postscript("uniA715");
+	gLeftTone3 = postscript("uniA714");
+	gLeftTone4 = postscript("uniA713");
+	gLeftTone5 = postscript("uniA712");
+*/
+	gLeftTone1 = U+A716 {tone = 1};
+	gLeftTone2 = U+A715 {tone = 2};
+	gLeftTone3 = U+A714 {tone = 3};
+	gLeftTone4 = U+A713 {tone = 4};
+	gLeftTone5 = U+A712 {tone = 5};
+
+	gLeftTone11 = postscript("TnContLft11") {tone = 1};
+gLeftTone12 = postscript("TnContLft12") {tone = 1}; // 1878
+gLeftTone13 = postscript("TnContLft13") {tone = 1};
+gLeftTone14 = postscript("TnContLft14") {tone = 1};
+gLeftTone15 = postscript("TnContLft15") {tone = 1};
+gLeftTone21 = postscript("TnContLft21") {tone = 2};
+gLeftTone22 = postscript("TnContLft22") {tone = 2};
+gLeftTone23 = postscript("TnContLft23") {tone = 2};
+gLeftTone24 = postscript("TnContLft24") {tone = 2};
+gLeftTone25 = postscript("TnContLft25") {tone = 2};
+gLeftTone31 = postscript("TnContLft31") {tone = 3};
+gLeftTone32 = postscript("TnContLft32") {tone = 3};
+gLeftTone33 = postscript("TnContLft33") {tone = 3};
+gLeftTone34 = postscript("TnContLft34") {tone = 3};
+gLeftTone35 = postscript("TnContLft35") {tone = 3};
+gLeftTone41 = postscript("TnContLft41") {tone = 4};
+gLeftTone42 = postscript("TnContLft42") {tone = 4};
+gLeftTone43 = postscript("TnContLft43") {tone = 4};
+gLeftTone44 = postscript("TnContLft44") {tone = 4};
+gLeftTone45 = postscript("TnContLft45") {tone = 4};
+gLeftTone51 = postscript("TnContLft51") {tone = 5};
+gLeftTone52 = postscript("TnContLft52") {tone = 5};
+gLeftTone53 = postscript("TnContLft53") {tone = 5};
+gLeftTone54 = postscript("TnContLft54") {tone = 5};
+gLeftTone55 = postscript("TnContLft55") {tone = 5};
+
+
+	cSupNum = (g__sup_one, g__sup_two, g__sup_three, g__sup_four, g__sup_five);
+
+
+	// Right staff
+
+	cRightTone1 = (gRightTone1, gRightStaff1, gRightStaff1_no);
+	cRightTone2 = (gRightTone2, gRightStaff2, gRightStaff2_no);
+	cRightTone3 = (gRightTone3, gRightStaff3, gRightStaff3_no);
+	cRightTone4 = (gRightTone4, gRightStaff4, gRightStaff4_no);
+	cRightTone5 = (gRightTone5, gRightStaff5, gRightStaff5_no);
+
+	// indexed classes:
+	cRightTone      = (gRightTone1,    gRightTone2,    gRightTone3,    gRightTone4,    gRightTone5);
+	cRightTone_no1  = (gRightTone11,   gRightTone22,   gRightTone33,   gRightTone44,   gRightTone55); // for singletons
+	cRightStaff     = (gRightStaff1,   gRightStaff2,   gRightStaff3,   gRightStaff4,   gRightStaff5);
+	cRightStaff_no  = (gRightStaff1_no,gRightStaff2_no,gRightStaff3_no,gRightStaff4_no,gRightStaff5_no);
+
+	cRightTone1Contour = (gRightTone11, gRightTone12, gRightTone13, gRightTone14, gRightTone15);
+	cRightTone2Contour = (gRightTone21, gRightTone22, gRightTone23, gRightTone24, gRightTone25);
+	cRightTone3Contour = (gRightTone31, gRightTone32, gRightTone33, gRightTone34, gRightTone35);
+	cRightTone4Contour = (gRightTone41, gRightTone42, gRightTone43, gRightTone44, gRightTone45);
+	cRightTone5Contour = (gRightTone51, gRightTone52, gRightTone53, gRightTone54, gRightTone55);
+
+	cRightToneHoriz = (gRightTone11, gRightTone22, gRightTone33, gRightTone44, gRightTone55);
+
+	// for positioning:
+	cRightContour = (cRightTone1Contour, cRightTone2Contour,
+			cRightTone3Contour, cRightTone4Contour, cRightTone5Contour);
+
+	cRightContourOrStaff = (cRightContour, cRightStaff, cRightStaff_no);
+
+
+	// Left staff
+
+	cLeftContourOrStaff1 = (gLeftStaff1, gLeftStaff1_no,
+			gLeftTone11, gLeftTone21, gLeftTone31, gLeftTone41, gLeftTone51);
+	cLeftContourOrStaff2 = (gLeftStaff2, gLeftStaff2_no,
+			gLeftTone12, gLeftTone22, gLeftTone32, gLeftTone42, gLeftTone52);
+	cLeftContourOrStaff3 = (gLeftStaff3, gLeftStaff3_no,
+			gLeftTone13, gLeftTone23, gLeftTone33, gLeftTone43, gLeftTone53);
+	cLeftContourOrStaff4 = (gLeftStaff4, gLeftStaff4_no,
+			gLeftTone14, gLeftTone24, gLeftTone34, gLeftTone44, gLeftTone54);
+	cLeftContourOrStaff5 = (gLeftStaff5, gLeftStaff5_no,
+			gLeftTone15, gLeftTone25, gLeftTone35, gLeftTone45, gLeftTone55);
+
+	// indexed classes:
+	cLeftTone      = (gLeftTone1,    gLeftTone2,    gLeftTone3,    gLeftTone4,    gLeftTone5);
+	cLeftTone_no1  = (gLeftTone11,   gLeftTone22,   gLeftTone33,   gLeftTone44,   gLeftTone55); // for singletons
+	cLeftStaff     = (gLeftStaff1,   gLeftStaff2,   gLeftStaff3,   gLeftStaff4,   gLeftStaff5);
+	cLeftStaff_no  = (gLeftStaff1_no,gLeftStaff2_no,gLeftStaff3_no,gLeftStaff4_no,gLeftStaff5_no);
+
+	cLeftTone1Contour = (gLeftTone11, gLeftTone12, gLeftTone13, gLeftTone14, gLeftTone15);
+	cLeftTone2Contour = (gLeftTone21, gLeftTone22, gLeftTone23, gLeftTone24, gLeftTone25);
+	cLeftTone3Contour = (gLeftTone31, gLeftTone32, gLeftTone33, gLeftTone34, gLeftTone35);
+	cLeftTone4Contour = (gLeftTone41, gLeftTone42, gLeftTone43, gLeftTone44, gLeftTone45);
+	cLeftTone5Contour = (gLeftTone51, gLeftTone52, gLeftTone53, gLeftTone54, gLeftTone55);
+
+	cLeftToneHoriz = (gLeftTone11, gLeftTone22, gLeftTone33, gLeftTone44, gLeftTone55);
+
+	// for positioning:
+	cLeftContour = (cLeftTone1Contour, cLeftTone2Contour, cLeftTone3Contour,
+			cLeftTone4Contour, cLeftTone5Contour);
+	cLeftContourOrStaff = (cLeftContour, cLeftStaff, cLeftStaff_no);
+
+endtable; // glyph
+
+
+table(subs)
+
+pass(1) {MaxBackup = 15; MaxRuleLoop = 30}
+
+	// Right staff
+
+	if (supernum)
+	//  _ cPitch > g207B:3 cSupNum:3 / cSupNum _ _;	// include minus sign between digits
+	    cRightTone > cSupNum;
+	    cLeftTone  > cSupNum;
+	//else
+	// NB: The normal algorithm includes this else-clause, but it cannot in this
+	// case because the cSupNum contains encoded characters that should NOT be displayed
+	// as tone bars if the feature happens to be off!
+	//	cSupNum > cPitch;
+	endif;
+
+	// else...
+
+	// For each of the rules below, if we have an identical-tone chain going,
+	// and the two tones are still equal, continue the chain. Identical-tone chains
+	// need to be handled specially below (in pass 2).
+	#define SETSTATE {TLSTATE = ((@1.tone == @2.tone) && (@1.TLSTATE != TLSstop)) ? TLSchain : TLSstop}
+
+	if (!supernum && hide_tone_staff)
+		// hidden staves
+		cRightTone1  cRightTone  >  cRightTone1Contour$2  cRightStaff_no$2  SETSTATE  /  _  ^  _;
+		cRightTone2  cRightTone  >  cRightTone2Contour$2  cRightStaff_no$2  SETSTATE  /  _  ^  _;
+		cRightTone3  cRightTone  >  cRightTone3Contour$2  cRightStaff_no$2  SETSTATE  /  _  ^  _;
+		cRightTone4  cRightTone  >  cRightTone4Contour$2  cRightStaff_no$2  SETSTATE  /  _  ^  _;
+		cRightTone5  cRightTone  >  cRightTone5Contour$2  cRightStaff_no$2  SETSTATE  /  _  ^  _;
+	endif;
+
+	if (!supernum && !hide_tone_staff)
+		cRightTone1  cRightTone  >  cRightTone1Contour$2  cRightStaff$2  SETSTATE  /  _  ^  _;
+		cRightTone2  cRightTone  >  cRightTone2Contour$2  cRightStaff$2  SETSTATE  /  _  ^  _;
+		cRightTone3  cRightTone  >  cRightTone3Contour$2  cRightStaff$2  SETSTATE  /  _  ^  _;
+		cRightTone4  cRightTone  >  cRightTone4Contour$2  cRightStaff$2  SETSTATE  /  _  ^  _;
+		cRightTone5  cRightTone  >  cRightTone5Contour$2  cRightStaff$2  SETSTATE  /  _  ^  _;
+	endif;
+
+	// Left staff
+
+	if (!supernum && hide_tone_staff)
+		cLeftTone  >  cLeftStaff_no$1  / ^ _  cLeftTone;
+	endif;
+	if (!supernum && !hide_tone_staff)
+		cLeftTone  >  cLeftStaff$1  / ^ _  cLeftTone;
+	endif;
+
+	// These will only fire in the case of !supernum. (It is more efficient to omit
+	// unnecessary constraints.)
+	cLeftContourOrStaff1  cLeftTone  >  @1  cLeftTone1Contour$2  SETSTATE  /  _  ^  _;
+	cLeftContourOrStaff2  cLeftTone  >  @1  cLeftTone2Contour$2  SETSTATE  /  _  ^  _;
+	cLeftContourOrStaff3  cLeftTone  >  @1  cLeftTone3Contour$2  SETSTATE  /  _  ^  _;
+	cLeftContourOrStaff4  cLeftTone  >  @1  cLeftTone4Contour$2  SETSTATE  /  _  ^  _;
+	cLeftContourOrStaff5  cLeftTone  >  @1  cLeftTone5Contour$2  SETSTATE  /  _  ^  _;
+
+endpass; // sub - 1
+
+// pass 2 used for ASCII-relevant features
+
+pass(3) {MaxBackup = 15; MaxRuleLoop = 30}
+
+	// Identical-tone chains need special handling: the staff needs to be replaced by a staff
+	// plus a horizontal bar.
+
+	_  cRightStaff     >  cRightToneHoriz$2:2  @2  /  _  _ {TLSTATE == TLSchain};
+	_  cRightStaff_no  >  cRightToneHoriz$2:2  @2  /  _  _ {TLSTATE == TLSchain};
+
+
+	// Left-staff identical-tone chains are tricky. We have to search backwards from
+	// the end of the chain to be sure they are all the same tone. A proper chain is
+	// marked with TLSTATE == TLSchain all the way through. (An improper chain may have
+	// TLSTATE == TLSchain just at the beginning.
+
+  	// Keep progressing through a chain (till we get to the end):
+  	cLeftContourOrStaff { LTFLAG = LThit }  /  _  { LTFLAG == 0 }  cLeftContour {LTFLAG == 0};
+
+    // Found the end of the chain; start backing up:
+    cLeftContour { LTFLAG = LTback }
+        /  ^ cLeftContourOrStaff {LTFLAG == LThit} // the first item might not have TLSTATE == TLSchain
+				_ {TLSTATE == TLSchain};
+
+    // Hit the beginning of the sequence; do the insertion:
+    cLeftStaff   _    >  @1  cLeftToneHoriz$1:1
+        /  _  _  cLeftContour {LTFLAG == LTback && TLSTATE == TLSchain};
+    cLeftStaff_no  _  >  @1  cLeftToneHoriz$1:1
+        /  _  _  cLeftContour {LTFLAG == LTback && TLSTATE == TLSchain};
+
+    // Finally, handle any singleton glyphs with staves.
+    if (!supernum && hide_tone_staff)
+        cRightTone  >  cRightTone_no1;
+        cLeftTone   >  cLeftTone_no1;
+    endif;
+
+endpass; // sub - 3
+
+endtable;  // subs
+
+
+table(positioning)
+
+pass(1)
+
+	cRightContour {BBLEFT = bb.left; BBRIGHT = bb.right}
+		cRightContourOrStaff { attach {to = @1; at = TLS; with = TLM }; insert = true; /* BBLEFT = bb.left; BBRIGHT = bb.right */ }
+			/ _  ^  _;
+
+	cLeftContourOrStaff  cLeftContour { attach {to = @1; at = TLS; with = TLM }; insert = true}
+			/ _  ^  _;
+
+endpass; // pos - 1
+
+endtable; // positioning
+
+
+//include "pitches9.gdh"
