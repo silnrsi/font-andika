@@ -1,41 +1,45 @@
-#!/usr/bin/python
+#!/usr/bin/python2
+# encoding: utf-8
 # this is a smith configuration file
 
 # set the default output folders
-out="results"
-DOCDIR="documentation"
-OUTDIR="installers"
-ZIPDIR="releases"
-STANDARDS = 'standards'
+# out="results"
+# DOCDIR="documentation"
+# OUTDIR="installers"
+# ZIPDIR="releases"
+# STANDARDS = 'standards'
+
+# set the version control system
+VCS = 'git'
 
 # set the font name, version, licensing and description
 APPNAME="Andika"
-FILENAMEBASE="Andika"
-VERSION="6.000"
-TTF_VERSION="6.000"
-COPYRIGHT="Copyright (c) 2007-2018, SIL International (http://www.sil.org)"
-LICENSE='OFL.txt'
-
+# VERSION="5.701"
+# BUILDLABEL = "alpha1"
+# COPYRIGHT="Copyright (c) 2007-2018, SIL International (http://www.sil.org)"
+# LICENSE = "OFL.txt"
+# RESERVEDOFL = "Andika and SIL"
 DESC_SHORT = "Unicode font for Roman- and Cyrillic-based writing systems"
-DESC_LONG = """
-Andika is a Unicode font for Roman- and Cyrillic-based writing systems
-Font sources are published in the repository and a smith open workflow is
-used for building, testing and releasing.
-"""
-DESC_NAME = "Andika"
-DEBPKG = 'fonts-sil-charis'
+
+# packaging
+# DESC_NAME = "Andika"
+# DEBPKG = 'fonts-sil-andika'
 
 # set the build and test parameters
+# TESTSTRING = u'\u0E07\u0331 \u0E0D\u0331 \u0E19\u0331 \u0E21\u0331'
 
+FILENAMEBASE="Andika"
 for style in ('-Regular','-Italic','-Bold','-BoldItalic') :
-#for style in ['-Regular'] :
+# for style in ['-Regular'] :
     fname = FILENAMEBASE + style
     source_fname = 'source/' + fname
     feabase = 'source/opentype/' + FILENAMEBASE
-    font( target = process(fname + '.ttf', name(FILENAMEBASE, lang='en-US', subfamily=(style[1:])),
+    font(target = process(fname + '.ttf', name(FILENAMEBASE, lang='en-US', subfamily=(style[1:])),
             cmd('psfchangettfglyphnames ${SRC} ${DEP} ${TGT}', [source_fname + '.ufo'])),
         source = source_fname + '.ufo',
-        version = VERSION,
+        # version = VERSION,
+        # copyright = COPYRIGHT;
+        # license = ofl('Andika','SIL'),
         ap =  source_fname +'_ap' + '.xml',
         opentype = fea(source_fname + '.fea',
             master = feabase + style + '.fea',
@@ -44,7 +48,6 @@ for style in ('-Regular','-Italic','-Bold','-BoldItalic') :
             ),
         graphite = gdl(source_fname + '.gdl',
             master = 'source/graphite/main.gdh', params = '-e gdlerr' + style + '.txt',
-                      ),
-        license = ofl('Andika','SIL'),
+            ),
         woff = woff()
         )
