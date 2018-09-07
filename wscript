@@ -9,6 +9,7 @@ VCS = 'git'
 
 # set the font name, version, licensing and description
 APPNAME="Andika"
+FAMILYNAME = APPNAME
 DESC_SHORT = "Unicode font for Roman- and Cyrillic-based writing systems"
 DESC_LONG = """
 Andika is a Unicode font for Roman- and Cyrillic-based writing systems
@@ -19,6 +20,10 @@ used for building, testing and releasing.
 # packaging
 DESC_NAME = "Andika"
 DEBPKG = 'fonts-sil-andika'
+
+# Get version and authorship information from Regular UFO; must be first function call:
+getufoinfo('source/' + FAMILYNAME + '-Regular' + '.ufo')
+BUILDLABEL="alpha"
 
 fontfamily="Andika"
 for dspace in ('Roman', 'Italic'):
