@@ -1,0 +1,4 @@
+#!/bin/sh
+
+psfufo2glyphs source/AndikaRoman.designspace source/AndikaRoman.glyphs -l source/logs/ufo2gR.log
+psfufo2glyphs source/AndikaItalic.designspace source/AndikaItalic.glyphs -l source/logs/ufo2gI.log

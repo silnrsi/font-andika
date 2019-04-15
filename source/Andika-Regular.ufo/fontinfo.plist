@@ -7,13 +7,13 @@
   <key>capHeight</key>
   <integer>1485</integer>
   <key>copyright</key>
-  <string>Copyright (c) 2004-2017 SIL International</string>
+  <string>Copyright (c) 2004-2019 SIL International</string>
   <key>descender</key>
   <integer>-800</integer>
   <key>familyName</key>
   <string>Andika</string>
   <key>openTypeHeadCreated</key>
-  <string>2018/12/03 14:34:02</string>
+  <string>2019/04/15 15:09:45</string>
   <key>openTypeHheaAscender</key>
   <integer>2500</integer>
   <key>openTypeHheaDescender</key>
@@ -21,13 +21,13 @@
   <key>openTypeHheaLineGap</key>
   <integer>0</integer>
   <key>openTypeNameDescription</key>
-  <string>Copyright (c) 2004-2017 SIL International</string>
+  <string>Copyright (c) 2004-2019 SIL International</string>
   <key>openTypeNameDesigner</key>
   <string>Victor Gaultney, Annie Olsen, Julie Remington, Don Collingsworth, Eric Hays, Becca Hirsbrunner</string>
   <key>openTypeNameDesignerURL</key>
   <string>http://scripts.sil.org/</string>
   <key>openTypeNameLicense</key>
-  <string>Copyright (c) 2004-2017 SIL International (http://www.sil.org/) with Reserved Font Names "Andika" and "SIL".
+  <string>Copyright (c) 2004-2019 SIL International (http://www.sil.org/) with Reserved Font Names "Andika" and "SIL".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
 
@@ -81,9 +81,9 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameUniqueID</key>
-  <string>SIL International: Andika Regular: 2018</string>
+  <string>SIL International: Andika Regular: 2019</string>
   <key>openTypeNameVersion</key>
-  <string>Version 5.801</string>
+  <string>Version 5.802</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -242,7 +242,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>versionMajor</key>
   <integer>5</integer>
   <key>versionMinor</key>
-  <integer>801</integer>
+  <integer>802</integer>
   <key>xHeight</key>
   <integer>1040</integer>
 </dict>
