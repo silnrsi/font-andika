@@ -2,6 +2,7 @@
 <glyph name="LtnCapM" format="2">
   <advance width="1855"/>
   <unicode hex="004D"/>
+  <anchor x="1544" y="0" name="H"/>
   <anchor x="915" y="-100" name="L"/>
   <anchor x="915" y="1530" name="U"/>
   <outline>
@@ -27,12 +28,18 @@
     </contour>
     <contour>
       <point x="1680" y="0" type="line"/>
-      <point x="1651" y="198"/>
-      <point x="1610" y="1460"/>
+      <point x="1659" y="145"/>
+      <point x="1628" y="917"/>
       <point x="1610" y="1460" type="curve"/>
       <point x="1340" y="1460" type="line"/>
       <point x="1385" y="1205" type="line"/>
       <point x="1410" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
 </glyph>
