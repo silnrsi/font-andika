@@ -3,8 +3,30 @@
   <advance width="445"/>
   <unicode hex="02DB"/>
   <anchor x="355" y="-400" name="L"/>
+  <anchor x="465" y="0" name="_O"/>
   <outline>
-    <component base="CombOgonek" xOffset="770"/>
+    <contour>
+      <point x="205" y="0" type="line"/>
+      <point x="101" y="-50"/>
+      <point x="45" y="-121"/>
+      <point x="45" y="-225" type="curve" smooth="yes"/>
+      <point x="45" y="-345"/>
+      <point x="163" y="-430"/>
+      <point x="285" y="-430" type="curve" smooth="yes"/>
+      <point x="359" y="-430"/>
+      <point x="432" y="-398"/>
+      <point x="490" y="-340" type="curve"/>
+      <point x="460" y="-240" type="line"/>
+      <point x="423" y="-284"/>
+      <point x="348" y="-315"/>
+      <point x="305" y="-315" type="curve" smooth="yes"/>
+      <point x="231" y="-315"/>
+      <point x="185" y="-270"/>
+      <point x="185" y="-195" type="curve" smooth="yes"/>
+      <point x="185" y="-125"/>
+      <point x="242" y="-65"/>
+      <point x="345" y="0" type="curve"/>
+    </contour>
   </outline>
   <lib>
     <dict>

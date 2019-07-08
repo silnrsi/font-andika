@@ -3,8 +3,14 @@
   <advance width="580"/>
   <unicode hex="00B4"/>
   <anchor x="180" y="1635" name="U"/>
+  <anchor x="180" y="1100" name="_U"/>
   <outline>
-    <component base="CombAcute" xOffset="750"/>
+    <contour>
+      <point x="350" y="1600" type="line"/>
+      <point x="0" y="1170" type="line"/>
+      <point x="160" y="1170" type="line"/>
+      <point x="580" y="1600" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

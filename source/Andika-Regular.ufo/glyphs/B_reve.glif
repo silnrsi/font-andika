@@ -3,8 +3,24 @@
   <advance width="750"/>
   <unicode hex="02D8"/>
   <anchor x="375" y="1635" name="U"/>
+  <anchor x="375" y="1100" name="_U"/>
   <outline>
-    <component base="CombBreve" xOffset="945"/>
+    <contour>
+      <point x="750" y="1550" type="curve"/>
+      <point x="628" y="1550" type="line"/>
+      <point x="608" y="1415"/>
+      <point x="506" y="1300"/>
+      <point x="375" y="1300" type="curve" smooth="yes"/>
+      <point x="245" y="1300"/>
+      <point x="136" y="1415"/>
+      <point x="120" y="1550" type="curve"/>
+      <point x="0" y="1550" type="line"/>
+      <point x="0" y="1356"/>
+      <point x="140" y="1150"/>
+      <point x="375" y="1150" type="curve" smooth="yes"/>
+      <point x="608" y="1150"/>
+      <point x="750" y="1356"/>
+    </contour>
   </outline>
   <lib>
     <dict>

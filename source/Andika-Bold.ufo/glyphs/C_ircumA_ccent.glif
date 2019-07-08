@@ -2,7 +2,8 @@
 <glyph name="CircumAccent" format="2">
   <advance width="880"/>
   <unicode hex="005E"/>
-  <anchor x="440" y="1635" name="U"/>
+  <anchor x="448" y="1635" name="U"/>
+  <anchor x="448" y="1100" name="_U"/>
   <outline>
     <contour>
       <point x="888" y="1200" type="line"/>
