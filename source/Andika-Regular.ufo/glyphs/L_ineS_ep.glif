@@ -2,10 +2,4 @@
 <glyph name="LineSep" format="2">
   <unicode hex="2028"/>
   <outline/>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.98,0.36,0.67,1</string>
-    </dict>
-  </lib>
 </glyph>
