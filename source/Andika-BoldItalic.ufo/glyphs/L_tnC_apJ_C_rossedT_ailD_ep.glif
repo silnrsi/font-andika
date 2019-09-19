@@ -5,6 +5,50 @@
   <anchor x="355" y="-100" name="L"/>
   <anchor x="912" y="1530" name="U"/>
   <outline>
-    <component base="LtnCapJCrossedTail"/>
+    <contour>
+      <point x="1039" y="1450" type="line"/>
+      <point x="775" y="390" type="line" smooth="yes"/>
+      <point x="713" y="142"/>
+      <point x="537" y="-25"/>
+      <point x="286" y="-25" type="curve" smooth="yes"/>
+      <point x="142" y="-25"/>
+      <point x="33" y="93"/>
+      <point x="33" y="235" type="curve" smooth="yes"/>
+      <point x="33" y="438"/>
+      <point x="213" y="557"/>
+      <point x="416" y="557" type="curve" smooth="yes"/>
+      <point x="657" y="557"/>
+      <point x="897" y="370"/>
+      <point x="897" y="72" type="curve" smooth="yes"/>
+      <point x="897" y="36"/>
+      <point x="894" y="-2"/>
+      <point x="886" y="-42" type="curve"/>
+      <point x="726" y="-93" type="line"/>
+      <point x="732" y="-60"/>
+      <point x="735" y="-28"/>
+      <point x="735" y="2" type="curve" smooth="yes"/>
+      <point x="735" y="240"/>
+      <point x="558" y="389"/>
+      <point x="384" y="389" type="curve" smooth="yes"/>
+      <point x="308" y="389"/>
+      <point x="220" y="351"/>
+      <point x="220" y="259" type="curve" smooth="yes"/>
+      <point x="220" y="212"/>
+      <point x="255" y="163"/>
+      <point x="311" y="163" type="curve" smooth="yes"/>
+      <point x="414" y="163"/>
+      <point x="454" y="247"/>
+      <point x="495" y="411" type="curve" smooth="yes"/>
+      <point x="633" y="965" type="line" smooth="yes"/>
+      <point x="681" y="1158"/>
+      <point x="726" y="1346"/>
+      <point x="739" y="1450" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1069" y="-123" type="line"/>
+      <point x="1069" y="1480" type="line"/>
+      <point x="3" y="1480" type="line"/>
+      <point x="3" y="-123" type="line"/>
+    </contour>
   </outline>
 </glyph>
