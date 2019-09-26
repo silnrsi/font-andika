@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmUStrk.sc" format="2">
+  <advance width="1344"/>
+  <anchor x="656" y="-84" name="L"/>
+  <anchor x="656" y="1279" name="U"/>
+  <outline>
+    <contour>
+      <point x="962" y="1221" type="line"/>
+      <point x="962" y="478" type="line" smooth="yes"/>
+      <point x="962" y="260"/>
+      <point x="897" y="127"/>
+      <point x="659" y="127" type="curve" smooth="yes"/>
+      <point x="417" y="127"/>
+      <point x="352" y="260"/>
+      <point x="352" y="478" type="curve" smooth="yes"/>
+      <point x="352" y="1221" type="line"/>
+      <point x="153" y="1221" type="line"/>
+      <point x="166" y="1154"/>
+      <point x="167" y="1022"/>
+      <point x="167" y="857" type="curve" smooth="yes"/>
+      <point x="167" y="431" type="line"/>
+      <point x="167" y="159"/>
+      <point x="323" y="-21"/>
+      <point x="659" y="-21" type="curve" smooth="yes"/>
+      <point x="991" y="-21"/>
+      <point x="1147" y="159"/>
+      <point x="1147" y="431" type="curve"/>
+      <point x="1147" y="857" type="line" smooth="yes"/>
+      <point x="1147" y="1030"/>
+      <point x="1149" y="1154"/>
+      <point x="1161" y="1221" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1187" y="1279" type="line"/>
+      <point x="6" y="-63" type="line"/>
+      <point x="151" y="-63" type="line"/>
+      <point x="1331" y="1279" type="line"/>
+    </contour>
+  </outline>
+</glyph>
