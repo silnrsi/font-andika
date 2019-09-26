@@ -101,14 +101,18 @@
     <dict>
       <key>adjustMetrics</key>
       <integer>10</integer>
-      <key>boldX</key>
-      <integer>7</integer>
-      <key>boldY</key>
-      <integer>7</integer>
+      <key>manAdjustX</key>
+      <integer>10</integer>
+      <key>manAdjustY</key>
+      <integer>14</integer>
       <key>scaleX</key>
       <real>0.92</real>
       <key>scaleY</key>
-      <real>0.84</real>
+      <real>0.836</real>
+      <key>shiftX</key>
+      <integer>-4</integer>
+      <key>shiftY</key>
+      <integer>0</integer>
     </dict>
     <key>subscript</key>
     <dict>
