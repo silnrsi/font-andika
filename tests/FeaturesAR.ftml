@@ -28,15 +28,15 @@
       <style feats="'Qalt' 1, 'smcp' 1" name="Qalt_1_smcp_1"/>
       <style feats="'R_tl' 1" name="R_tl_1"/>
       <style feats="'R_tl' 1, 'smcp' 1" name="R_tl_1_smcp_1"/>
-      <style feats="'Y_hk' 1" name="Y_hk_1"/>
-      <style feats="'Y_hk' 1, 'smcp' 1" name="Y_hk_1_smcp_1"/>
-      <style feats="'Y_hk' 1, 'smcp' 1, 'y_tl' 1" name="Y_hk_1_smcp_1_y_tl_1"/>
-      <style feats="'Y_hk' 1, 'y_tl' 1" name="Y_hk_1_y_tl_1"/>
+      <style feats="'Y_hk' 0" name="Y_hk_0"/>
+      <style feats="'Y_hk' 0, 'smcp' 1" name="Y_hk_0_smcp_1"/>
+      <style feats="'Y_hk' 0, 'smcp' 1, 'y_tl' 1" name="Y_hk_0_smcp_1_y_tl_1"/>
+      <style feats="'Y_hk' 0, 'y_tl' 1" name="Y_hk_0_y_tl_1"/>
       <style feats="'apos' 1" name="apos_1"/>
       <style feats="'apos' 1, 'smcp' 1" name="apos_1_smcp_1"/>
       <style feats="'bowl' 1" name="bowl_1"/>
-      <style feats="'bowl' 1, 'litr' 1" name="bowl_1_litr_1"/>
-      <style feats="'bowl' 1, 'litr' 1, 'smcp' 1" name="bowl_1_litr_1_smcp_1"/>
+      <style feats="'bowl' 1, 'litr' 0" name="bowl_1_litr_0"/>
+      <style feats="'bowl' 1, 'litr' 0, 'smcp' 1" name="bowl_1_litr_0_smcp_1"/>
       <style feats="'bowl' 1, 'smcp' 1" name="bowl_1_smcp_1"/>
       <style feats="'carn' 1" name="carn_1"/>
       <style feats="'carn' 1, 'l_tl' 1" name="carn_1_l_tl_1"/>
@@ -63,12 +63,12 @@
       <style feats="'ital' 1" name="ital_1"/>
       <style feats="'ital' 1, 'l_tl' 1" name="ital_1_l_tl_1"/>
       <style feats="'ital' 1, 'l_tl' 1, 'smcp' 1" name="ital_1_l_tl_1_smcp_1"/>
-      <style feats="'ital' 1, 'litr' 1" name="ital_1_litr_1"/>
-      <style feats="'ital' 1, 'litr' 1, 'ogon' 1" name="ital_1_litr_1_ogon_1"/>
-      <style feats="'ital' 1, 'litr' 1, 'ogon' 1, 'smcp' 1" name="ital_1_litr_1_ogon_1_smcp_1"/>
-      <style feats="'ital' 1, 'litr' 1, 'smcp' 1" name="ital_1_litr_1_smcp_1"/>
-      <style feats="'ital' 1, 'litr' 1, 'smcp' 1, 'viet' 1" name="ital_1_litr_1_smcp_1_viet_1"/>
-      <style feats="'ital' 1, 'litr' 1, 'viet' 1" name="ital_1_litr_1_viet_1"/>
+      <style feats="'ital' 1, 'litr' 0" name="ital_1_litr_0"/>
+      <style feats="'ital' 1, 'litr' 0, 'ogon' 1" name="ital_1_litr_0_ogon_1"/>
+      <style feats="'ital' 1, 'litr' 0, 'ogon' 1, 'smcp' 1" name="ital_1_litr_0_ogon_1_smcp_1"/>
+      <style feats="'ital' 1, 'litr' 0, 'smcp' 1" name="ital_1_litr_0_smcp_1"/>
+      <style feats="'ital' 1, 'litr' 0, 'smcp' 1, 'viet' 1" name="ital_1_litr_0_smcp_1_viet_1"/>
+      <style feats="'ital' 1, 'litr' 0, 'viet' 1" name="ital_1_litr_0_viet_1"/>
       <style feats="'ital' 1, 'ogon' 1" name="ital_1_ogon_1"/>
       <style feats="'ital' 1, 'ogon' 1, 'smcp' 1" name="ital_1_ogon_1_smcp_1"/>
       <style feats="'ital' 1, 'smcp' 1" name="ital_1_smcp_1"/>
@@ -82,12 +82,12 @@
       <style feats="'l_tl' 1, 'smcp' 1" name="l_tl_1_smcp_1"/>
       <style feats="'litJ' 1" name="litJ_1"/>
       <style feats="'litJ' 1, 'smcp' 1" name="litJ_1_smcp_1"/>
-      <style feats="'litr' 1" name="litr_1"/>
-      <style feats="'litr' 1, 'ogon' 1" name="litr_1_ogon_1"/>
-      <style feats="'litr' 1, 'ogon' 1, 'smcp' 1" name="litr_1_ogon_1_smcp_1"/>
-      <style feats="'litr' 1, 'smcp' 1" name="litr_1_smcp_1"/>
-      <style feats="'litr' 1, 'smcp' 1, 'viet' 1" name="litr_1_smcp_1_viet_1"/>
-      <style feats="'litr' 1, 'viet' 1" name="litr_1_viet_1"/>
+      <style feats="'litr' 0" name="litr_0"/>
+      <style feats="'litr' 0, 'ogon' 1" name="litr_0_ogon_1"/>
+      <style feats="'litr' 0, 'ogon' 1, 'smcp' 1" name="litr_0_ogon_1_smcp_1"/>
+      <style feats="'litr' 0, 'smcp' 1" name="litr_0_smcp_1"/>
+      <style feats="'litr' 0, 'smcp' 1, 'viet' 1" name="litr_0_smcp_1_viet_1"/>
+      <style feats="'litr' 0, 'viet' 1" name="litr_0_viet_1"/>
       <style feats="'mone' 1" name="mone_1"/>
       <style feats="'mone' 1, 'smcp' 1" name="mone_1_smcp_1"/>
       <style feats="'ogon' 1" name="ogon_1"/>
@@ -268,7 +268,7 @@ U+01B4">
       <string>\u0001B3\u0001B4</string>
     </test>
     <test label="U+01B3
-U+01B4" stylename="Y_hk_1">
+U+01B4" stylename="Y_hk_0">
       <comment>LtnCapYHook.RtHook LtnSmYHook.RtHook</comment>
       <string>\u0001B3\u0001B4</string>
     </test>
@@ -956,7 +956,7 @@ U+011D
 U+011F
 U+0121
 U+0123
-U+01CE" stylename="litr_1">
+U+01CE" stylename="litr_0">
       <comment>LtnSmA.SngStory LtnSmG.SngBowl LtnSmAGrave.SngStory LtnSmAAcute.SngStory LtnSmACircum.SngStory LtnSmATilde.SngStory LtnSmADiaer.SngStory LtnSmARingAbv.SngStory LtnSmAMacron.SngStory LtnSmABreve.SngStory LtnSmAOgonek.SngStory LtnSmGCircum.SngBowl LtnSmGBreve.SngBowl LtnSmGDotAbv.SngBowl LtnSmGCedilla.SngBowl LtnSmACaron.SngStory</comment>
       <string>ag\u0000E0\u0000E1\u0000E2\u0000E3\u0000E4\u0000E5\u000101\u000103\u000105\u00011D\u00011F\u000121\u000123\u0001CE</string>
     </test>
@@ -975,7 +975,7 @@ U+1D4D
 U+1E01
 U+1E21
 U+1E9A
-U+1EA1" stylename="litr_1">
+U+1EA1" stylename="litr_0">
       <comment>LtnSmADiaerMacron.SngStory LtnSmADotAbvMacron.SngStory LtnSmGBarredSngBowl LtnSmGCaron.SngBowl LtnSmGAcute.SngBowl LtnSmARingAbvAcute.SngStory LtnSmADblGrave.SngStory LtnSmAInvBreve.SngStory LtnSmADotAbv.SngStory CombLtnSmA.SngStory LtnSupSmA.SngStory LtnSupSmG.SngBowl LtnSmARingBlw.SngStory LtnSmGMacron.SngBowl LtnSmARtHalfRing.SngStory LtnSmADotBlw.SngStory</comment>
       <string>\u0001DF\u0001E1\u0001E5\u0001E7\u0001F5\u0001FB\u000201\u000203\u000227\u000363\u001D43\u001D4D\u001E01\u001E21\u001E9A\u001EA1</string>
     </test>
@@ -992,7 +992,7 @@ U+1EB5
 U+1EB7
 U+2090
 U+2C65
-U+A7A1" stylename="litr_1">
+U+A7A1" stylename="litr_0">
       <comment>LtnSmAHookAbv.SngStory LtnSmACircumAcute.SngStory LtnSmACircumGrave.SngStory LtnSmACircumHookAbv.SngStory LtnSmACircumTilde.SngStory LtnSmACircumDotBlw.SngStory LtnSmABreveAcute.SngStory LtnSmABreveGrave.SngStory LtnSmABreveHookAbv.SngStory LtnSmABreveTilde.SngStory LtnSmABreveDotBlw.SngStory LtnSubSmA.SngStory LtnSmAStrk.SngStory LtnSmGDiagStrk.SngBowl</comment>
       <string>\u001EA3\u001EA5\u001EA7\u001EA9\u001EAB\u001EAD\u001EAF\u001EB1\u001EB3\u001EB5\u001EB7\u002090\u002C65\u00A7A1</string>
     </test>
@@ -2201,7 +2201,7 @@ U+A759" stylename="Qalt_1_smcp_1">
       <comment>LtnSmYHook.RtHook</comment>
       <string>\u0001B4</string>
     </test>
-    <test label="U+01B4" stylename="Y_hk_1_smcp_1">
+    <test label="U+01B4" stylename="Y_hk_0_smcp_1">
       <comment>LtnSmYHook.RtHook</comment>
       <string>\u0001B4</string>
     </test>
@@ -2211,7 +2211,7 @@ U+A759" stylename="Qalt_1_smcp_1">
       <comment>LtnSmYHook.RtHook</comment>
       <string>\u0001B4</string>
     </test>
-    <test label="U+01B4" stylename="Y_hk_1_y_tl_1">
+    <test label="U+01B4" stylename="Y_hk_0_y_tl_1">
       <comment>LtnSmYHook.RtHook</comment>
       <string>\u0001B4</string>
     </test>
@@ -2231,7 +2231,7 @@ U+A759" stylename="Qalt_1_smcp_1">
       <comment>LtnSmGBarredSngBowl</comment>
       <string>\u0001E5</string>
     </test>
-    <test label="U+01E5" stylename="bowl_1_litr_1">
+    <test label="U+01E5" stylename="bowl_1_litr_0">
       <comment>LtnSmGBarredSngBowl</comment>
       <string>\u0001E5</string>
     </test>
@@ -2462,7 +2462,7 @@ U+01DF
 U+01E1
 U+01FB
 U+0201
-U+0203" stylename="ital_1_litr_1">
+U+0203" stylename="ital_1_litr_0">
       <comment>LtnSmA.SngStory LtnSmAGrave.SngStory LtnSmAAcute.SngStory LtnSmACircum.SngStory LtnSmATilde.SngStory LtnSmADiaer.SngStory LtnSmARingAbv.SngStory LtnSmAMacron.SngStory LtnSmABreve.SngStory LtnSmAOgonek.SngStory LtnSmACaron.SngStory LtnSmADiaerMacron.SngStory LtnSmADotAbvMacron.SngStory LtnSmARingAbvAcute.SngStory LtnSmADblGrave.SngStory LtnSmAInvBreve.SngStory</comment>
       <string>a\u0000E0\u0000E1\u0000E2\u0000E3\u0000E4\u0000E5\u000101\u000103\u000105\u0001CE\u0001DF\u0001E1\u0001FB\u000201\u000203</string>
     </test>
@@ -2481,7 +2481,7 @@ U+1EB1
 U+1EB3
 U+1EB5
 U+1EB7
-U+2C65" stylename="ital_1_litr_1">
+U+2C65" stylename="ital_1_litr_0">
       <comment>LtnSmADotAbv.SngStory LtnSmARingBlw.SngStory LtnSmARtHalfRing.SngStory LtnSmADotBlw.SngStory LtnSmAHookAbv.SngStory LtnSmACircumAcute.SngStory LtnSmACircumGrave.SngStory LtnSmACircumHookAbv.SngStory LtnSmACircumTilde.SngStory LtnSmACircumDotBlw.SngStory LtnSmABreveAcute.SngStory LtnSmABreveGrave.SngStory LtnSmABreveHookAbv.SngStory LtnSmABreveTilde.SngStory LtnSmABreveDotBlw.SngStory LtnSmAStrk.SngStory</comment>
       <string>\u000227\u001E01\u001E9A\u001EA1\u001EA3\u001EA5\u001EA7\u001EA9\u001EAB\u001EAD\u001EAF\u001EB1\u001EB3\u001EB5\u001EB7\u002C65</string>
     </test>
@@ -2793,7 +2793,7 @@ U+029D" stylename="litJ_1_smcp_1">
       <comment>LtnSmAOgonek.SngStory</comment>
       <string>\u000105</string>
     </test>
-    <test label="U+0105" stylename="litr_1_ogon_1">
+    <test label="U+0105" stylename="litr_0_ogon_1">
       <comment>LtnSmAOgonek.SngStory</comment>
       <string>\u000105</string>
     </test>
@@ -2865,7 +2865,7 @@ U+011D
 U+011F
 U+0121
 U+0123
-U+01CE" stylename="litr_1_smcp_1">
+U+01CE" stylename="litr_0_smcp_1">
       <comment>LtnSmA.SngStory LtnSmG.SngBowl LtnSmAGrave.SngStory LtnSmAAcute.SngStory LtnSmACircum.SngStory LtnSmATilde.SngStory LtnSmADiaer.SngStory LtnSmARingAbv.SngStory LtnSmAMacron.SngStory LtnSmABreve.SngStory LtnSmAOgonek.SngStory LtnSmGCircum.SngBowl LtnSmGBreve.SngBowl LtnSmGDotAbv.SngBowl LtnSmGCedilla.SngBowl LtnSmACaron.SngStory</comment>
       <string>ag\u0000E0\u0000E1\u0000E2\u0000E3\u0000E4\u0000E5\u000101\u000103\u000105\u00011D\u00011F\u000121\u000123\u0001CE</string>
     </test>
@@ -2884,7 +2884,7 @@ U+1E9A
 U+1EA1
 U+1EA3
 U+1EA5
-U+1EA7" stylename="litr_1_smcp_1">
+U+1EA7" stylename="litr_0_smcp_1">
       <comment>LtnSmADiaerMacron.SngStory LtnSmADotAbvMacron.SngStory LtnSmGBarredSngBowl LtnSmGCaron.SngBowl LtnSmGAcute.SngBowl LtnSmARingAbvAcute.SngStory LtnSmADblGrave.SngStory LtnSmAInvBreve.SngStory LtnSmADotAbv.SngStory LtnSmARingBlw.SngStory LtnSmGMacron.SngBowl LtnSmARtHalfRing.SngStory LtnSmADotBlw.SngStory LtnSmAHookAbv.SngStory LtnSmACircumAcute.SngStory LtnSmACircumGrave.SngStory</comment>
       <string>\u0001DF\u0001E1\u0001E5\u0001E7\u0001F5\u0001FB\u000201\u000203\u000227\u001E01\u001E21\u001E9A\u001EA1\u001EA3\u001EA5\u001EA7</string>
     </test>
@@ -2897,7 +2897,7 @@ U+1EB3
 U+1EB5
 U+1EB7
 U+2C65
-U+A7A1" stylename="litr_1_smcp_1">
+U+A7A1" stylename="litr_0_smcp_1">
       <comment>LtnSmACircumHookAbv.SngStory LtnSmACircumTilde.SngStory LtnSmACircumDotBlw.SngStory LtnSmABreveAcute.SngStory LtnSmABreveGrave.SngStory LtnSmABreveHookAbv.SngStory LtnSmABreveTilde.SngStory LtnSmABreveDotBlw.SngStory LtnSmAStrk.SngStory LtnSmGDiagStrk.SngBowl</comment>
       <string>\u001EA9\u001EAB\u001EAD\u001EAF\u001EB1\u001EB3\u001EB5\u001EB7\u002C65\u00A7A1</string>
     </test>
@@ -2921,7 +2921,7 @@ U+1EAB
 U+1EAF
 U+1EB1
 U+1EB3
-U+1EB5" stylename="litr_1_viet_1">
+U+1EB5" stylename="litr_0_viet_1">
       <comment>LtnSmACircumAcute.SngStory LtnSmACircumGrave.SngStory LtnSmACircumHookAbv.SngStory LtnSmACircumTilde.SngStory LtnSmABreveAcute.SngStory LtnSmABreveGrave.SngStory LtnSmABreveHookAbv.SngStory LtnSmABreveTilde.SngStory</comment>
       <string>\u001EA5\u001EA7\u001EA9\u001EAB\u001EAF\u001EB1\u001EB3\u001EB5</string>
     </test>
@@ -3201,7 +3201,7 @@ U+A759" stylename="Qalt_1_q_tl_1_smcp_1">
       <comment>LtnSmYHook.RtHook</comment>
       <string>\u0001B4</string>
     </test>
-    <test label="U+01B4" stylename="Y_hk_1_smcp_1_y_tl_1">
+    <test label="U+01B4" stylename="Y_hk_0_smcp_1_y_tl_1">
       <comment>LtnSmYHook.RtHook</comment>
       <string>\u0001B4</string>
     </test>
@@ -3211,7 +3211,7 @@ U+A759" stylename="Qalt_1_q_tl_1_smcp_1">
       <comment>LtnSmGBarredSngBowl</comment>
       <string>\u0001E5</string>
     </test>
-    <test label="U+01E5" stylename="bowl_1_litr_1_smcp_1">
+    <test label="U+01E5" stylename="bowl_1_litr_0_smcp_1">
       <comment>LtnSmGBarredSngBowl</comment>
       <string>\u0001E5</string>
     </test>
@@ -3313,7 +3313,7 @@ U+A749" stylename="ital_1_l_tl_1_smcp_1">
       <comment>LtnSmAOgonek.SngStory</comment>
       <string>\u000105</string>
     </test>
-    <test label="U+0105" stylename="ital_1_litr_1_ogon_1">
+    <test label="U+0105" stylename="ital_1_litr_0_ogon_1">
       <comment>LtnSmAOgonek.SngStory</comment>
       <string>\u000105</string>
     </test>
@@ -3372,7 +3372,7 @@ U+01DF
 U+01E1
 U+01FB
 U+0201
-U+0203" stylename="ital_1_litr_1_smcp_1">
+U+0203" stylename="ital_1_litr_0_smcp_1">
       <comment>LtnSmA.SngStory LtnSmAGrave.SngStory LtnSmAAcute.SngStory LtnSmACircum.SngStory LtnSmATilde.SngStory LtnSmADiaer.SngStory LtnSmARingAbv.SngStory LtnSmAMacron.SngStory LtnSmABreve.SngStory LtnSmAOgonek.SngStory LtnSmACaron.SngStory LtnSmADiaerMacron.SngStory LtnSmADotAbvMacron.SngStory LtnSmARingAbvAcute.SngStory LtnSmADblGrave.SngStory LtnSmAInvBreve.SngStory</comment>
       <string>a\u0000E0\u0000E1\u0000E2\u0000E3\u0000E4\u0000E5\u000101\u000103\u000105\u0001CE\u0001DF\u0001E1\u0001FB\u000201\u000203</string>
     </test>
@@ -3391,7 +3391,7 @@ U+1EB1
 U+1EB3
 U+1EB5
 U+1EB7
-U+2C65" stylename="ital_1_litr_1_smcp_1">
+U+2C65" stylename="ital_1_litr_0_smcp_1">
       <comment>LtnSmADotAbv.SngStory LtnSmARingBlw.SngStory LtnSmARtHalfRing.SngStory LtnSmADotBlw.SngStory LtnSmAHookAbv.SngStory LtnSmACircumAcute.SngStory LtnSmACircumGrave.SngStory LtnSmACircumHookAbv.SngStory LtnSmACircumTilde.SngStory LtnSmACircumDotBlw.SngStory LtnSmABreveAcute.SngStory LtnSmABreveGrave.SngStory LtnSmABreveHookAbv.SngStory LtnSmABreveTilde.SngStory LtnSmABreveDotBlw.SngStory LtnSmAStrk.SngStory</comment>
       <string>\u000227\u001E01\u001E9A\u001EA1\u001EA3\u001EA5\u001EA7\u001EA9\u001EAB\u001EAD\u001EAF\u001EB1\u001EB3\u001EB5\u001EB7\u002C65</string>
     </test>
@@ -3415,7 +3415,7 @@ U+1EAB
 U+1EAF
 U+1EB1
 U+1EB3
-U+1EB5" stylename="ital_1_litr_1_viet_1">
+U+1EB5" stylename="ital_1_litr_0_viet_1">
       <comment>LtnSmACircumAcute.SngStory LtnSmACircumGrave.SngStory LtnSmACircumHookAbv.SngStory LtnSmACircumTilde.SngStory LtnSmABreveAcute.SngStory LtnSmABreveGrave.SngStory LtnSmABreveHookAbv.SngStory LtnSmABreveTilde.SngStory</comment>
       <string>\u001EA5\u001EA7\u001EA9\u001EAB\u001EAF\u001EB1\u001EB3\u001EB5</string>
     </test>
@@ -3475,7 +3475,7 @@ U+029D" stylename="jser_1_litJ_1_smcp_1">
       <comment>LtnSmAOgonek.SngStory</comment>
       <string>\u000105</string>
     </test>
-    <test label="U+0105" stylename="litr_1_ogon_1_smcp_1">
+    <test label="U+0105" stylename="litr_0_ogon_1_smcp_1">
       <comment>LtnSmAOgonek.SngStory</comment>
       <string>\u000105</string>
     </test>
@@ -3499,7 +3499,7 @@ U+1EAB
 U+1EAF
 U+1EB1
 U+1EB3
-U+1EB5" stylename="litr_1_smcp_1_viet_1">
+U+1EB5" stylename="litr_0_smcp_1_viet_1">
       <comment>LtnSmACircumAcute.SngStory LtnSmACircumGrave.SngStory LtnSmACircumHookAbv.SngStory LtnSmACircumTilde.SngStory LtnSmABreveAcute.SngStory LtnSmABreveGrave.SngStory LtnSmABreveHookAbv.SngStory LtnSmABreveTilde.SngStory</comment>
       <string>\u001EA5\u001EA7\u001EA9\u001EAB\u001EAF\u001EB1\u001EB3\u001EB5</string>
     </test>
@@ -3519,7 +3519,7 @@ U+1EB5" stylename="litr_1_smcp_1_viet_1">
       <comment>LtnSmAOgonek.SngStory</comment>
       <string>\u000105</string>
     </test>
-    <test label="U+0105" stylename="ital_1_litr_1_ogon_1_smcp_1">
+    <test label="U+0105" stylename="ital_1_litr_0_ogon_1_smcp_1">
       <comment>LtnSmAOgonek.SngStory</comment>
       <string>\u000105</string>
     </test>
@@ -3543,7 +3543,7 @@ U+1EAB
 U+1EAF
 U+1EB1
 U+1EB3
-U+1EB5" stylename="ital_1_litr_1_smcp_1_viet_1">
+U+1EB5" stylename="ital_1_litr_0_smcp_1_viet_1">
       <comment>LtnSmACircumAcute.SngStory LtnSmACircumGrave.SngStory LtnSmACircumHookAbv.SngStory LtnSmACircumTilde.SngStory LtnSmABreveAcute.SngStory LtnSmABreveGrave.SngStory LtnSmABreveHookAbv.SngStory LtnSmABreveTilde.SngStory</comment>
       <string>\u001EA5\u001EA7\u001EA9\u001EAB\u001EAF\u001EB1\u001EB3\u001EB5</string>
     </test>
