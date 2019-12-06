@@ -1,23 +1,34 @@
 #!/bin/sh
 
-# Produce individual UFOs from Glyphs files
-psfglyphs2ufo --nofea source/AndikaRoman.glyphs source -l source/logs/glyphsexportR.log
-psfglyphs2ufo --nofea source/AndikaItalic.glyphs source -l source/logs/glyphsexportI.log
+echo "-----Updating UFOs from Glyphs file..."
+psfglyphs2ufo --nofea source/AndikaRoman.glyphs source  &
+psfglyphs2ufo --nofea source/AndikaItalic.glyphs source &
+wait
 
-# update psnames and sort order in Regular, which also normalizes it
-psfsetpsnames -p checkfix=fix -i source/glyph_data.csv source/Andika-Regular.ufo -l source/logs/psnames.log
-psfsetglyphorder --header sort_final_a -i source/glyph_data.csv source/Andika-Regular.ufo -l source/logs/sortorder.log
+echo "-----Normalizing Regular UFO..."
+echo "-----Updating production names in Regular..."
+psfsetpsnames -p checkfix=fix -i source/glyph_data.csv source/Andika-Regular.ufo -x
 
-# normalize other family members
-psfnormalize -p checkfix=fix source/Andika-Bold.ufo -l source/logs/normB.log
-psfnormalize -p checkfix=fix source/Andika-Italic.ufo -l source/logs/normI.log
-psfnormalize -p checkfix=fix source/Andika-BoldItalic.ufo -l source/logs/normBI.log
+echo "-----Updating glyph orders in Regular..."
+psfsetglyphorder -q --header sort_final_a -i source/glyph_data.csv source/Andika-Regular.ufo -p backup=False -x
 
-# copy psnames and glyphorder and any other updates to all fonts
-psfsyncmasters source/AndikaRoman.designspace source/AndikaItalic.designspace -l source/logs/sync.log
+echo "-----Normalizing other UFOs..."
+psfnormalize -p checkfix=fix source/Andika-Bold.ufo       &
+psfnormalize -p checkfix=fix source/Andika-Italic.ufo     &
+psfnormalize -p checkfix=fix source/Andika-BoldItalic.ufo &
+wait
+
+# add building of composites here
+
+echo "-----Syncing glyph orders, psnames, and other metadata to other UFOs..."
+psfsyncmasters -q source/AndikaRoman.designspace source/AndikaItalic.designspace
 
  # Fix problem with non-spacing marks due to glyphsLib bug
-psfremovegliflibkeys source/Andika-Regular.ufo com.schriftgestaltung.Glyphs.originalWidth  -l source/logs/widthfixR.log
-psfremovegliflibkeys source/Andika-Bold.ufo com.schriftgestaltung.Glyphs.originalWidth  -l source/logs/widthfixB.log
-psfremovegliflibkeys source/Andika-Italic.ufo com.schriftgestaltung.Glyphs.originalWidth  -l source/logs/widthfixI.log
-psfremovegliflibkeys source/Andika-BoldItalic.ufo com.schriftgestaltung.Glyphs.originalWidth  -l source/logs/widthfixBI.log
+echo "-----Fixing width of non-spacing marks..."
+psfremovegliflibkeys -q source/Andika-Regular.ufo com.schriftgestaltung.Glyphs.originalWidth    &
+psfremovegliflibkeys -q source/Andika-Bold.ufo com.schriftgestaltung.Glyphs.originalWidth       &
+psfremovegliflibkeys -q source/Andika-Italic.ufo com.schriftgestaltung.Glyphs.originalWidth     &
+psfremovegliflibkeys -q source/Andika-BoldItalic.ufo com.schriftgestaltung.Glyphs.originalWidth &
+wait
+
+echo "-----Preflight completed!"

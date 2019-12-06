@@ -1,1 +1,0 @@
-This folder is for only temporary use for log files

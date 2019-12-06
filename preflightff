@@ -1,17 +1,17 @@
 #!/bin/sh
 
-echo "-----Normalizing Regular UFO..."
+echo "-----Fixing FontForge debris and normalizing UFOs..."
+psffixffglifs source/Andika-Regular.ufo -p checkfix=fix     &
+psffixffglifs source/Andika-Bold.ufo -p checkfix=fix        &
+psffixffglifs source/Andika-Italic.ufo -p checkfix=fix      &
+psffixffglifs source/Andika-BoldItalic.ufo -p checkfix=fix  &
+wait
+
 echo "-----Updating production names in Regular..."
-psfsetpsnames -p checkfix=fix -i source/glyph_data.csv source/Andika-Regular.ufo -x
+psfsetpsnames -q -p checkfix=fix -i source/glyph_data.csv source/Andika-Regular.ufo -p backup=False -x
 
 echo "-----Updating glyph orders in Regular..."
 psfsetglyphorder -q --header sort_final_a -i source/glyph_data.csv source/Andika-Regular.ufo -p backup=False -x
-
-echo "-----Normalizing other UFOs..."
-psfnormalize -p checkfix=fix source/Andika-Bold.ufo       &
-psfnormalize -p checkfix=fix source/Andika-Italic.ufo     &
-psfnormalize -p checkfix=fix source/Andika-BoldItalic.ufo &
-wait
 
 # add building of composites here
 

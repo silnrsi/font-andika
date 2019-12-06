@@ -7,13 +7,13 @@
   <key>capHeight</key>
   <integer>1485</integer>
   <key>copyright</key>
-  <string>Copyright (c) 2004-2019 SIL International</string>
+  <string>Copyright (c) 2004-2020 SIL International</string>
   <key>descender</key>
   <integer>-800</integer>
   <key>familyName</key>
   <string>Andika</string>
   <key>openTypeHeadCreated</key>
-  <string>2019/09/27 12:47:00</string>
+  <string>2019/12/06 13:38:52</string>
   <key>openTypeHheaAscender</key>
   <integer>2500</integer>
   <key>openTypeHheaDescender</key>
@@ -21,13 +21,13 @@
   <key>openTypeHheaLineGap</key>
   <integer>0</integer>
   <key>openTypeNameDescription</key>
-  <string>Copyright (c) 2004-2019 SIL International</string>
+  <string>Andika is a Unicode-based font family for literacy that supports the wide range of languages that use the Latin and Cyrillic scripts.</string>
   <key>openTypeNameDesigner</key>
   <string>Victor Gaultney, Annie Olsen, Julie Remington, Don Collingsworth, Eric Hays, Becca Hirsbrunner</string>
   <key>openTypeNameDesignerURL</key>
   <string>http://scripts.sil.org/</string>
   <key>openTypeNameLicense</key>
-  <string>Copyright (c) 2004-2019 SIL International (http://www.sil.org/) with Reserved Font Names "Andika" and "SIL".
+  <string>Copyright (c) 2004-2020 SIL International (http://www.sil.org/) with Reserved Font Names "Andika" and "SIL".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
 
