@@ -6,6 +6,12 @@
   <anchor x="544" y="1698" name="U"/>
   <outline>
     <component base="LtnSmS.sc"/>
-    <component base="DotAbv" xOffset="409" yOffset="193"/>
+    <component base="CombDotAbv" xOffset="1114" yOffset="193"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
 </glyph>

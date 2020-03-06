@@ -8,6 +8,12 @@
   <outline>
     <component base="LtnSmS"/>
     <component base="CombCaron" xOffset="1065"/>
-    <component base="DotAbv" xOffset="360" yOffset="535"/>
+    <component base="CombDotAbv" xOffset="1065" yOffset="535"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
 </glyph>

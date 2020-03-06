@@ -5,6 +5,12 @@
   <anchor x="567" y="1698" name="U"/>
   <outline>
     <component base="LtnSmZ.sc"/>
-    <component base="DotAbv" xOffset="432" yOffset="193"/>
+    <component base="CombDotAbv" xOffset="1137" yOffset="193"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
 </glyph>

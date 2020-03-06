@@ -7,7 +7,13 @@
   <anchor x="642" y="2048" name="U"/>
   <outline>
     <component base="LtnSmA.sc"/>
-    <component base="DotAbv" xOffset="507" yOffset="193"/>
+    <component base="CombDotAbv" xOffset="1212" yOffset="193"/>
     <component base="CombMacron" xOffset="1212" yOffset="598"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
 </glyph>

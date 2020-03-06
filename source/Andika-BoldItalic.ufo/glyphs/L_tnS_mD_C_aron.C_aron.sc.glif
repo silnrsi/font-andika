@@ -4,7 +4,12 @@
   <anchor x="668" y="-76" name="L"/>
   <anchor x="802" y="1828" name="U"/>
   <outline>
-    <component base="LtnSmD.sc"/>
-    <component base="CombCaron" xOffset="1041" yOffset="193"/>
+    <component base="LtnSmDCaron.sc"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
 </glyph>

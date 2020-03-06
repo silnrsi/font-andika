@@ -9,7 +9,13 @@
   <anchor x="570" y="1825" name="U"/>
   <outline>
     <component base="LtnSmO"/>
-    <component base="SmTilde" xOffset="220"/>
+    <component base="CombTilde" xOffset="1145"/>
     <component base="CombMacron" xOffset="1140" yOffset="375"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
 </glyph>

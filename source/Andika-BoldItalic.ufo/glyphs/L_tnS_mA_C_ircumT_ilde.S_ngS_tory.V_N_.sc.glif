@@ -6,7 +6,12 @@
   <anchor x="1344" y="0" name="O"/>
   <anchor x="812" y="2113" name="U"/>
   <outline>
-    <component base="LtnSmA.sc"/>
-    <component base="CombCircumTilde.VN" xOffset="972" yOffset="193"/>
+    <component base="LtnSmACircumTilde.VN.sc"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
 </glyph>

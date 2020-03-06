@@ -8,8 +8,14 @@
   <anchor x="1440" y="1000" name="R"/>
   <anchor x="1032" y="1905" name="U"/>
   <outline>
-    <component base="LtnSmAlpha"/>
+    <component base="LtnSmA.SngStory"/>
     <component base="CombDotAbv" xOffset="1185"/>
     <component base="CombMacron" xOffset="1299" yOffset="455"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
 </glyph>

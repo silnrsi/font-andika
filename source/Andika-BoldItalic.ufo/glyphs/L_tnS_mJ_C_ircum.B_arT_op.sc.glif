@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmJCircum.BarTop.sc" format="2">
-  <advance width="908"/>
-  <anchor x="387" y="-76" name="L"/>
-  <anchor x="722" y="1828" name="U"/>
+  <advance width="1087"/>
+  <anchor x="310" y="-84" name="L"/>
+  <anchor x="1040" y="1814" name="U"/>
   <outline>
-    <component base="LtnSmJ.sc"/>
-    <component base="CombCircum" xOffset="961" yOffset="193"/>
+    <component base="LtnSmJ.BarTop.sc"/>
+    <component base="CombCircum" xOffset="1279" yOffset="179"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
 </glyph>

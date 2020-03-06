@@ -8,6 +8,12 @@
   <anchor x="660" y="1828" name="U"/>
   <outline>
     <component base="LtnSmU.sc"/>
-    <component base="DblAcuteAccent" xOffset="330" yOffset="193"/>
+    <component base="CombDblAcute" xOffset="1230" yOffset="193"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
 </glyph>

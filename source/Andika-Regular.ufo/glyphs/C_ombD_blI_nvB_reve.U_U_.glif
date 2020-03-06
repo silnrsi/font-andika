@@ -4,6 +4,12 @@
   <anchor x="375" y="1530" name="U"/>
   <anchor x="-522" y="1100" name="_U"/>
   <outline>
-    <component base="CombInvBreve" xOffset="945"/>
+    <component base="CombInvBreve.UU"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
 </glyph>

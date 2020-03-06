@@ -2,10 +2,17 @@
 <glyph name="LtnCapMAcute" format="2">
   <advance width="1855"/>
   <unicode hex="1E3E"/>
+  <anchor x="1544" y="0" name="H"/>
   <anchor x="915" y="-100" name="L"/>
   <anchor x="855" y="2065" name="U"/>
   <outline>
     <component base="LtnCapM"/>
     <component base="CombAcute" xOffset="1455" yOffset="430"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
 </glyph>

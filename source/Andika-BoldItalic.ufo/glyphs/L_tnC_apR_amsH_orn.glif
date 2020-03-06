@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnCapRamsHorn" format="2">
-  <advance width="1522"/>
+  <advance width="1405"/>
   <unicode hex="F26E"/>
-  <anchor x="772" y="-100" name="L"/>
-  <anchor x="1100" y="1530" name="U"/>
+  <anchor x="645" y="-100" name="L"/>
+  <anchor x="1022" y="1530" name="U"/>
   <outline>
-    <component base="LtnCapYHook"/>
+    <component base="LtnCapGamma"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
 </glyph>

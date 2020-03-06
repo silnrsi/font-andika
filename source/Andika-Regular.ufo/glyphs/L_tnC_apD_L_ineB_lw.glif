@@ -6,6 +6,12 @@
   <anchor x="715" y="1530" name="U"/>
   <outline>
     <component base="LtnCapD"/>
-    <component base="ModLowMacron" xOffset="340"/>
+    <component base="CombMacronBlw" xOffset="1280"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
 </glyph>

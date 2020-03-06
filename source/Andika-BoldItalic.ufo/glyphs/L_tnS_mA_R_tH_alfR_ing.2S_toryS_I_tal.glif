@@ -8,6 +8,12 @@
   <anchor x="974" y="1635" name="U"/>
   <outline>
     <component base="LtnSmA.2StorySItal"/>
-    <component base="CombRtHalfRingBlw" xOffset="1543" yOffset="1678"/>
+    <component base="CombRtHalfRingAbv" xOffset="1185"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
 </glyph>
