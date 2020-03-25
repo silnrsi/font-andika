@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmGBarredSngBowl" format="2">
   <advance width="1248"/>
-  <unicode hex="01E5"/>
   <anchor x="449" y="-500" name="L"/>
   <anchor x="900" y="1100" name="U"/>
   <outline>
