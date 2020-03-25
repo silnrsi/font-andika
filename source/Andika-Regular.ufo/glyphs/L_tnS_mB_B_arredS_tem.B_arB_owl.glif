@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmBBarredStem.BarBowl" format="2">
+  <advance width="1268"/>
+  <anchor x="660" y="-100" name="L"/>
+  <anchor x="660" y="1595" name="U"/>
+  <outline>
+    <contour>
+      <point x="170" y="1600" type="line"/>
+      <point x="185" y="1488"/>
+      <point x="185" y="1273"/>
+      <point x="185" y="1130" type="curve" smooth="yes"/>
+      <point x="185" y="936"/>
+      <point x="185" y="228"/>
+      <point x="185" y="65" type="curve"/>
+      <point x="312" y="26"/>
+      <point x="453" y="-25"/>
+      <point x="615" y="-25" type="curve" smooth="yes"/>
+      <point x="910" y="-25"/>
+      <point x="1100" y="197"/>
+      <point x="1100" y="540" type="curve" smooth="yes"/>
+      <point x="1100" y="832"/>
+      <point x="957" y="1040"/>
+      <point x="755" y="1040" type="curve" smooth="yes"/>
+      <point x="587" y="1040"/>
+      <point x="463" y="947"/>
+      <point x="370" y="825" type="curve"/>
+      <point x="370" y="916"/>
+      <point x="370" y="1600"/>
+      <point x="370" y="1600" type="curve"/>
+    </contour>
+    <contour>
+      <point x="30" y="475" type="line"/>
+      <point x="1238" y="475" type="line"/>
+      <point x="1238" y="620" type="line"/>
+      <point x="30" y="620" type="line"/>
+    </contour>
+    <contour>
+      <point x="370" y="585" type="line"/>
+      <point x="438" y="751"/>
+      <point x="571" y="865"/>
+      <point x="695" y="865" type="curve" smooth="yes"/>
+      <point x="839" y="865"/>
+      <point x="920" y="727"/>
+      <point x="920" y="505" type="curve" smooth="yes"/>
+      <point x="920" y="280"/>
+      <point x="792" y="130"/>
+      <point x="615" y="130" type="curve" smooth="yes"/>
+      <point x="529" y="130"/>
+      <point x="468" y="144"/>
+      <point x="370" y="185" type="curve"/>
+    </contour>
+  </outline>
+</glyph>
