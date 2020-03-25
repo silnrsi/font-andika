@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmTCaron.NoTailT" format="2">
-  <advance width="1122"/>
+  <advance width="822"/>
   <anchor x="419" y="0" name="H"/>
   <anchor x="408" y="-100" name="L"/>
   <anchor x="408" y="1415" name="U"/>
