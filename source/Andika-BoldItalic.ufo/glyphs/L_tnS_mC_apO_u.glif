@@ -2,8 +2,8 @@
 <glyph name="LtnSmCapOu" format="2">
   <advance width="1086"/>
   <unicode hex="1D15"/>
-  <guideline x="238" y="618" angle="75.9638"/>
-  <guideline x="486" y="618" angle="75.9638"/>
+  <anchor x="470" y="-100" name="L"/>
+  <anchor x="770" y="1100" name="U"/>
   <outline>
     <contour>
       <point x="589" y="1020" type="curve"/>
