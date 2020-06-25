@@ -13,7 +13,7 @@
   <string>Italic</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/LtnSmCapH/LtnSmCapOu/LtnSmCapH/LtnSmCapO/LtnSmCapOu/LtnSmCapO</string>
+    <string>xd/LtnSmTrndInsularG hd/LtnSmTurnedG ho</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
