@@ -305,10 +305,88 @@ lookup hstrk_sub {
     sub LtnSmHStrk.sc from [LtnSmHStrk.VertStrk.sc ];
 } hstrk_sub;
 
+# Andika
+lookup itl_sub {
+  lookupflag 0;
+    sub LtnSmI from [LtnSmI.TailI ];
+    sub LtnSmIAcute from [LtnSmIAcute.TailI ];
+    sub LtnSmIGrave from [LtnSmIGrave.TailI ];
+    sub LtnSmICircum from [LtnSmICircum.TailI ];
+    sub LtnSmIDiaer from [LtnSmIDiaer.TailI ];
+    sub LtnSmLigFi from [LtnSmLigFi.TailI ];
+    sub LtnSmDotlessI from [LtnSmDotlessI.TailI ];
+    sub LtnLigSmFSmI from [LtnLigSmFSmI.TailI ];
+    sub LtnLigSmFSmFSmI from [LtnLigSmFSmFSmI.TailI ];
+    sub LtnSmLigFfi from [LtnSmLigFfi.TailI ];
+    sub LtnSubSmI from [LtnSubSmI.TailI ];
+    sub LtnSupSmI from [LtnSupSmI.TailI ];
+    sub CombLtnSmI from [CombLtnSmI.TailI ];
+    sub LtnSmIDblGrave from [LtnSmIDblGrave.TailI ];
+    sub LtnSmIInvBreve from [LtnSmIInvBreve.TailI ];
+    sub LtnSmIBreve from [LtnSmIBreve.TailI ];
+    sub LtnSmICaron from [LtnSmICaron.TailI ];
+    sub LtnSmITilde from [LtnSmITilde.TailI ];
+    sub LtnSmIMacron from [LtnSmIMacron.TailI ];
+    sub LtnSmIDiaerAcute from [LtnSmIDiaerAcute.TailI ];
+    sub LtnSmIHookAbv from [LtnSmIHookAbv.TailI ];
+    sub LtnSmITildeBlw from [LtnSmITildeBlw.TailI ];
+    sub LtnSmIDotBlw from [LtnSmIDotBlw.TailI ];
+    sub LtnSmIOgonek from [LtnSmIOgonek.TailI ];
+    sub LtnSmIStrk from [LtnSmIStrk.TailI ];
+    sub LtnSupSmIStrk from [LtnSupSmIStrk.TailI ];
+    sub LtnSupSmIStrk.Dotless from [LtnSupSmIStrk.Dotless.TailI ];
+} itl_sub;
+
+lookup jsrf_sub {
+  lookupflag 0;
+    sub LtnSmJ from [LtnSmJ.TopLftSerif ];
+    sub LtnSubSmJ from [LtnSubSmJ.TopLftSerif ];
+    sub ModSmJ from [ModSmJ.TopLftSerif ];
+    sub LtnSmJCircum from [LtnSmJCircum.TopLftSerif ];
+    sub LtnSmJCaron from [LtnSmJCaron.TopLftSerif ];
+    sub LtnSmJStrk from [LtnSmJStrk.TopLftSerif ];
+    sub LtnSmJCrossedTail from [LtnSmJCrossedTail.TopLftSerif ];
+    sub ModSmJCrossedTail from [ModSmJCrossedTail.TopLftSerif ];
+    sub LtnSmDotlessJ from [LtnSmDotlessJ.TopLftSerif ];
+    sub ModSmJ.Dotless from [ModSmJ.Dotless.TopLftSerif ];
+    sub LtnSmDotlessJStrk from [LtnSmDotlessJStrk.TopLftSerif ];
+    sub LtnSupSmDotlessJStrk from [LtnSupSmDotlessJStrk.TopLftSerif ];
+    sub LtnSmJCrossedTail.Dotless from [LtnSmJCrossedTail.Dotless.TopLftSerif ];
+    sub ModSmJCrossedTail.Dotless from [ModSmJCrossedTail.Dotless.TopLftSerif ];
+} jsrf_sub;
+
 lookup jstrk_sub {
   lookupflag 0;
     sub LtnSmDotlessJStrkHook from [LtnSmDotlessJStrkHook.DblSerif ];
 } jstrk_sub;
+
+# Andika
+lookup ltl_sub {
+  lookupflag 0;
+    sub \LtnSmL from [\LtnSmL.TailL ];
+    sub \LtnSmLigFl from [\LtnSmLigFl.TailL ];
+    sub \LtnLigSmFSmL from [\LtnLigSmFSmL.TailL ];
+    sub \LtnLigSmFSmFSmL from [\LtnLigSmFSmFSmL.TailL ];
+    sub \LtnSmLigFfl from [\LtnSmLigFfl.TailL ];
+    sub \LtnSubSmL from [\LtnSubSmL.TailL ];
+    sub \ModSmL from [\ModSmL.TailL ];
+    sub \LtnSmLAcute from [\LtnSmLAcute.TailL ];
+    sub \LtnSmLCircumBlw from [\LtnSmLCircumBlw.TailL ];
+    sub \LtnSmLLineBlw from [\LtnSmLLineBlw.TailL ];
+    sub \LtnSmLDotBlw from [\LtnSmLDotBlw.TailL ];
+    sub \LtnSmLDotBlwMacron from [\LtnSmLDotBlwMacron.TailL ];
+    sub \LtnSmLCedilla from [\LtnSmLCedilla.TailL ];
+    sub \LtnSmLMiddleDot from [\LtnSmLMiddleDot.TailL ];
+    sub \LtnSmLCaron from [\LtnSmLCaron.TailL ];
+    sub \LtnSmLPalHook from [\LtnSmLPalHook.TailL ];
+    sub \ModSmLPalHook from [\ModSmLPalHook.TailL ];
+    sub \LtnSmLBar from [\LtnSmLBar.TailL ];
+    sub \LtnSmLHighBar from [\LtnSmLHighBar.TailL ];
+    sub \LtnSmDblBarredL from [\LtnSmDblBarredL.TailL ];
+    sub \LtnSmLMiddleTilde from [\LtnSmLMiddleTilde.TailL ];
+    sub \LtnSmLStrk from [\LtnSmLStrk.TailL ];
+    sub \LtnSmLBelt from [\LtnSmLBelt.TailL ];
+} ltl_sub;
 
 lookup engs_sub {
   lookupflag 0;
@@ -346,11 +424,59 @@ lookup phk_sub {
     sub LtnSmPHook from [LtnSmPHook.BowlHook ];
 } phk_sub;
 
+# Andika
+lookup qtl_sub {
+  lookupflag 0;
+    sub LtnSmQ from [LtnSmQ.Point ];
+    sub LtnSmQStrk from [LtnSmQStrk.Point ];
+    sub LtnSmQDiagStrk from [LtnSmQDiagStrk.Point ];
+    sub LtnSmQHook from [LtnSmQHook.Point ];
+} qtl_sub;
+
+lookup q_sub {
+  lookupflag 0;
+    sub LtnCapQ from [LtnCapQ.DiagTail ];
+    sub LtnCapQStrk from [LtnCapQStrk.DiagTail ];
+    sub LtnCapQDiagStrk from [LtnCapQDiagStrk.DiagTail ];
+    sub LtnSmQ.sc from [LtnSmQ.DiagTail.sc ];
+    sub LtnSmQStrk.sc from [LtnSmQStrk.DiagTail.sc ];
+    sub LtnSmQDiagStrk.sc from [LtnSmQDiagStrk.DiagTail.sc ];
+} q_sub;
+
 lookup rtl_sub {
   lookupflag 0;
     sub LtnCapRHookTail from [LtnCapSmRHookTail ];
     sub LtnSmRHookTail.sc from [LtnSmCapSmRHookTail ];
 } rtl_sub;
+
+# Andika
+lookup ttl_sub {
+  lookupflag 0;
+    sub LtnSmT from [LtnSmT.NoTailT ];
+    sub LtnSubSmT from [LtnSubSmT.NoTailT ];
+    sub LtnSupSmT from [LtnSupSmT.NoTailT ];
+    sub CombLtnSmT from [CombLtnSmT.NoTailT ];
+    sub LtnSmTDiaer from [LtnSmTDiaer.NoTailT ];
+    sub LtnSmTDotAbv from [LtnSmTDotAbv.NoTailT ];
+    sub LtnSmTCircumBlw from [LtnSmTCircumBlw.NoTailT ];
+    sub LtnSmTLineBlw from [LtnSmTLineBlw.NoTailT ];
+    sub LtnSmTDotBlw from [LtnSmTDotBlw.NoTailT ];
+    sub LtnSmTCommaBlw from [LtnSmTCommaBlw.NoTailT ];
+    sub LtnSmTCaron from [LtnSmTCaron.NoTailT ];
+    sub LtnSmTCedilla from [LtnSmTCedilla.NoTailT ];
+    sub LtnSmTPalHook from [LtnSmTPalHook.NoTailT ];
+    sub ModSmTPalHook from [ModSmTPalHook.NoTailT ];
+    sub LtnSmTStrk from [LtnSmTStrk.NoTailT ];
+    sub LtnSmTMiddleTilde from [LtnSmTMiddleTilde.NoTailT ];
+    sub LtnSmTDiagStrk from [LtnSmTDiagStrk.NoTailT ];
+    sub LtnSmTHook from [LtnSmTHook.NoTailT ];
+    sub LtnSmTHStrk from [LtnSmTHStrk.NoTailT ];
+    sub LtnSmTcDigraphCurl from [LtnSmTcDigraphCurl.NoTailT ];
+    sub LtnSmTsDigraph from [LtnSmTsDigraph.NoTailT ];
+    sub LtnSmTeshDigraph from [LtnSmTeshDigraph.NoTailT ];
+    sub LtnSmTzDigraph from [LtnSmTzDigraph.NoTailT ];
+    sub LtnSmTurnedT from [LtnSmTurnedT.NoTailT ];
+} ttl_sub;
 
 lookup thk_sub {
   lookupflag 0;
@@ -365,6 +491,28 @@ lookup vhk_sub {
     sub LtnCapVHook from [LtnCapVHook.StraightLft LtnCapVHook.StraightLftHighHook ];
     sub LtnSmVHook.sc from [LtnSmVHook.StraightLft.sc LtnSmVHook.StraightLftHighHook.sc ];
 } vhk_sub;
+
+# Andika
+lookup ytl_sub {
+  lookupflag 0;
+    sub LtnSmY from [LtnSmY.NoTailY ];
+    sub LtnSmYDiaer from [LtnSmYDiaer.NoTailY ];
+    sub ModSmY from [ModSmY.NoTailY ];
+    sub LtnSmYAcute from [LtnSmYAcute.NoTailY ];
+    sub LtnSmYGrave from [LtnSmYGrave.NoTailY ];
+    sub LtnSmYCircum from [LtnSmYCircum.NoTailY ];
+    sub LtnSmYTilde from [LtnSmYTilde.NoTailY ];
+    sub LtnSmYMacron from [LtnSmYMacron.NoTailY ];
+    sub LtnSmYDotAbv from [LtnSmYDotAbv.NoTailY ];
+    sub LtnSmYRingAbv from [LtnSmYRingAbv.NoTailY ];
+    sub LtnSmYHookAbv from [LtnSmYHookAbv.NoTailY ];
+    sub LtnSmYDotBlw from [LtnSmYDotBlw.NoTailY ];
+    sub LtnSmYStrk from [LtnSmYStrk.NoTailY ];
+    sub LtnSmYHook.RtHook from [LtnSmYHook.RtHook.NoTailY ];
+    sub LtnSmTurnedY from [LtnSmTurnedY.NoTailY ];
+    sub ModSmTurnedY from [ModSmTurnedY.NoTailY ];
+    sub LtnSmTurnedYBelt from [LtnSmTurnedYBelt.NoTailY ];
+} ytl_sub;
 
 lookup yhk_sub {
   lookupflag 0;
@@ -513,15 +661,21 @@ feature aalt {
   feature cv20;
   feature cv25;
   feature cv28;
+  feature cv31; #Andika
+  feature cv34; #Andika
   feature cv37;
+  feature cv39; #Andika
   feature cv43;
   feature cv44;
   feature cv46;
   feature cv47;
   feature cv49;
+  feature cv51;
+  feature cv52; #Andika
   feature cv55;
   feature cv57;
   feature cv62;
+  feature cv67; #Andika
   feature cv68;
   feature cv70;
   feature cv71;
@@ -874,6 +1028,61 @@ feature cv28 {
   lookup hstrk_sub;
 } cv28;
 
+# Andika
+feature cv31 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "Small i-tail alternates";  # English US
+       name 1 0 0 "Small i-tail alternates";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "Small i-tail alts";  # English US
+       name 1 0 0 "Small i-tail alts";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "iìíîï";  # English US
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Curved tail";  # English US
+       name 1 0 0 "Curved tail";  # Mac English
+      };
+  };
+
+  lookup itl_sub;
+} cv31;
+
+feature cv34 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "Small j-serif alternates";  # English US
+       name 1 0 0 "Small j-serif alternates";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "Small j-serif alts";  # English US
+       name 1 0 0 "Small j-serif alts";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "jĵǰȷɉɟʝʲᶡᶨⱼ";  # English US
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Top serif";  # English US
+       name 1 0 0 "Top serif";  # Mac English
+      };
+  };
+
+  lookup jsrf_sub;
+} cv34;
+
 feature cv37 {
 
   cvParameters {
@@ -900,6 +1109,34 @@ feature cv37 {
 
   lookup jstrk_sub;
 } cv37;
+
+# Andika
+feature cv39 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "Small l-tailf alternates";  # English US
+       name 1 0 0 "Small l-tailf alternates";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "Small l-tail alts";  # English US
+       name 1 0 0 "Small l-tail alts";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "lĺļľŀłƚ";  # English US
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Curved tail";  # English US
+       name 1 0 0 "Curved tail";  # Mac English
+      };
+  };
+
+  lookup ltl_sub;
+} cv39;
 
 feature cv43 {
 
@@ -1051,6 +1288,61 @@ feature cv49 {
   lookup phk_sub;
 } cv49;
 
+# Andika
+feature cv51 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "Small q-tail alternates";  # English US
+       name 1 0 0 "Small q-tail alternates";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "Small q-tail alts";  # English US
+       name 1 0 0 "Small q-tail alts";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "qʠꝗꝙ";  # English US
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Point";  # English US
+       name 1 0 0 "Point";  # Mac English
+      };
+  };
+
+  lookup qtl_sub;
+} cv51;
+
+feature cv52 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "Capital Q alternates";  # English US
+       name 1 0 0 "Capital Q alternates";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "Cap Q alts";  # English US
+       name 1 0 0 "Cap Q alts";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "QꝖꝘ";  # English US
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Tail across";  # English US
+       name 1 0 0 "Tail across";  # Mac English
+      };
+  };
+
+  lookup q_sub;
+} cv52;
+
 feature cv55 {
 
   cvParameters {
@@ -1077,6 +1369,34 @@ feature cv55 {
 
   lookup rtl_sub;
 } cv55;
+
+# Andika
+feature cv56 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "Small t-tail alternates";  # English US
+       name 1 0 0 "Small t-tail alternates";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "Small t-tail alts";  # English US
+       name 1 0 0 "Small t-tail alts";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "tţťŧƫƭ";  # English US
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Straight";  # English US
+       name 1 0 0 "Straight";  # Mac English
+      };
+  };
+
+  lookup ttl_sub;
+} cv56;
 
 feature cv57 {
 
@@ -1137,6 +1457,34 @@ feature cv62 {
 
   lookup vhk_sub;
 } cv62;
+
+# Andika
+feature cv67 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "Small y-tail alternates";  # English US
+       name 1 0 0 "Small y-tail alternates";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "Small y-tail alts";  # English US
+       name 1 0 0 "Small y-tail alts";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "yýÿŷƴ";  # English US
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Straight";  # English US
+       name 1 0 0 "Straight";  # Mac English
+      };
+  };
+
+  lookup ytl_sub;
+} cv67;
 
 feature cv68 {
 
