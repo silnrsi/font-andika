@@ -363,29 +363,29 @@ lookup jstrk_sub {
 # Andika
 lookup ltl_sub {
   lookupflag 0;
-    sub \LtnSmL from [\LtnSmL.TailL ];
-    sub \LtnSmLigFl from [\LtnSmLigFl.TailL ];
-    sub \LtnLigSmFSmL from [\LtnLigSmFSmL.TailL ];
-    sub \LtnLigSmFSmFSmL from [\LtnLigSmFSmFSmL.TailL ];
-    sub \LtnSmLigFfl from [\LtnSmLigFfl.TailL ];
-    sub \LtnSubSmL from [\LtnSubSmL.TailL ];
-    sub \ModSmL from [\ModSmL.TailL ];
-    sub \LtnSmLAcute from [\LtnSmLAcute.TailL ];
-    sub \LtnSmLCircumBlw from [\LtnSmLCircumBlw.TailL ];
-    sub \LtnSmLLineBlw from [\LtnSmLLineBlw.TailL ];
-    sub \LtnSmLDotBlw from [\LtnSmLDotBlw.TailL ];
-    sub \LtnSmLDotBlwMacron from [\LtnSmLDotBlwMacron.TailL ];
-    sub \LtnSmLCedilla from [\LtnSmLCedilla.TailL ];
-    sub \LtnSmLMiddleDot from [\LtnSmLMiddleDot.TailL ];
-    sub \LtnSmLCaron from [\LtnSmLCaron.TailL ];
-    sub \LtnSmLPalHook from [\LtnSmLPalHook.TailL ];
-    sub \ModSmLPalHook from [\ModSmLPalHook.TailL ];
-    sub \LtnSmLBar from [\LtnSmLBar.TailL ];
-    sub \LtnSmLHighBar from [\LtnSmLHighBar.TailL ];
-    sub \LtnSmDblBarredL from [\LtnSmDblBarredL.TailL ];
-    sub \LtnSmLMiddleTilde from [\LtnSmLMiddleTilde.TailL ];
-    sub \LtnSmLStrk from [\LtnSmLStrk.TailL ];
-    sub \LtnSmLBelt from [\LtnSmLBelt.TailL ];
+    sub LtnSmL from [LtnSmL.TailL ];
+    sub LtnSmLigFl from [LtnSmLigFl.TailL ];
+    sub LtnLigSmFSmL from [LtnLigSmFSmL.TailL ];
+    sub LtnLigSmFSmFSmL from [LtnLigSmFSmFSmL.TailL ];
+    sub LtnSmLigFfl from [LtnSmLigFfl.TailL ];
+    sub LtnSubSmL from [LtnSubSmL.TailL ];
+    sub ModSmL from [ModSmL.TailL ];
+    sub LtnSmLAcute from [LtnSmLAcute.TailL ];
+    sub LtnSmLCircumBlw from [LtnSmLCircumBlw.TailL ];
+    sub LtnSmLLineBlw from [LtnSmLLineBlw.TailL ];
+    sub LtnSmLDotBlw from [LtnSmLDotBlw.TailL ];
+    sub LtnSmLDotBlwMacron from [LtnSmLDotBlwMacron.TailL ];
+    sub LtnSmLCedilla from [LtnSmLCedilla.TailL ];
+    sub LtnSmLMiddleDot from [LtnSmLMiddleDot.TailL ];
+    sub LtnSmLCaron from [LtnSmLCaron.TailL ];
+    sub LtnSmLPalHook from [LtnSmLPalHook.TailL ];
+    sub ModSmLPalHook from [ModSmLPalHook.TailL ];
+    sub LtnSmLBar from [LtnSmLBar.TailL ];
+    sub LtnSmLHighBar from [LtnSmLHighBar.TailL ];
+    sub LtnSmDblBarredL from [LtnSmDblBarredL.TailL ];
+    sub LtnSmLMiddleTilde from [LtnSmLMiddleTilde.TailL ];
+    sub LtnSmLStrk from [LtnSmLStrk.TailL ];
+    sub LtnSmLBelt from [LtnSmLBelt.TailL ];
 } ltl_sub;
 
 lookup engs_sub {
@@ -670,10 +670,11 @@ feature aalt {
   feature cv46;
   feature cv47;
   feature cv49;
-  feature cv51;
+  feature cv51; #Andika
   feature cv52; #Andika
   feature cv55;
-  feature cv57;
+  feature cv56; #Andika
+  feature cv57; #Andika
   feature cv62;
   feature cv67; #Andika
   feature cv68;
