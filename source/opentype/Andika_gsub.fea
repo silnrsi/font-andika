@@ -231,6 +231,44 @@ lookup tne_ctx {
     TnContLft51 TnContLft52 TnContLft53 TnContLft54 ] ;
 } tne_ctx;
 
+# Andika
+lookup one_sub {
+  lookupflag 0;
+    sub DigitOne from [DigitOne.NoBase ];
+    sub SubOne from [SubOne.NoBase ];
+    sub SupOne from [SupOne.NoBase ];
+} one_sub;
+
+lookup four_sub {
+  lookupflag 0;
+    sub DigitFour from [DigitFour.Open ];
+    sub SubFour from [SubFour.Open ];
+    sub SupFour from [SupFour.Open ];
+} four_sub;
+
+lookup six_sub {
+  lookupflag 0;
+    sub DigitSix from [DigitSix.Diag ];
+    sub DigitNine from [DigitNine.Diag ];
+    sub SubSix from [SubSix.Diag ];
+    sub SupSix from [SupSix.Diag ];
+    sub SubNine from [SubNine.Diag ];
+    sub SupNine from [SupNine.Diag ];
+} six_sub;
+
+lookup seven_sub {
+  lookupflag 0;
+    sub DigitSeven from [DigitSeven.Bar ];
+    sub SubSeven from [SubSeven.Bar ];
+    sub SupSeven from [SupSeven.Bar ];
+} seven_sub;
+
+lookup zero_sub {
+  lookupflag 0;
+    sub DigitZero from [DigitZero.Slash ];
+    sub SubZero from [SubZero.Slash ];
+} zero_sub;
+
 lookup bhk_sub {
   lookupflag 0;
     sub LtnCapBHook from [LtnCapBHook.TopBar ];
@@ -464,6 +502,11 @@ feature aalt {
   feature smcp;
   feature c2sc;
 #  feature liga; #cannot include many-to-one substitutions
+  feature cv01; #Andika
+  feature cv04; #Andika
+  feature cv06; #Andika
+  feature cv07; #Andika
+  feature cv10; #Andika
   feature cv13;
   feature cv17;
   feature cv19;
@@ -527,6 +570,142 @@ feature c2sc {
 feature liga {
   lookup f_sub;
 } liga;
+
+# Andika
+feature cv01 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "Digit One without base";  # English US
+       name 1 0 0 "Digit One without base";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "Dig One no base";  # English US
+       name 1 0 0 "Dig One no base";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "1₁¹";  # English US
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "No base";  # English US
+       name 1 0 0 "No base";  # Mac English
+      };
+  };
+
+  lookup one_sub;
+} cv01;
+
+feature cv04 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "Digit Four with open loop";  # English US
+       name 1 0 0 "Digit Four with open loop";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "Dig Four open";  # English US
+       name 1 0 0 "Dig Four open";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "4₄⁴";  # English US
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Open";  # English US
+       name 1 0 0 "Open";  # Mac English
+      };
+  };
+
+  lookup four_sub;
+} cv04;
+
+feature cv06 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "Digit Six and Nine alternates";  # English US
+       name 1 0 0 "Digit Six and Nine alternates";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "Dig Six & Nine alts";  # English US
+       name 1 0 0 "Dig Six & Nine alts";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "6₆⁹9₉⁹";  # English US
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Diagonal stem";  # English US
+       name 1 0 0 "Diagonal stem";  # Mac English
+      };
+  };
+
+  lookup six_sub;
+} cv06;
+
+feature cv07 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "Digit Seven with bar";  # English US
+       name 1 0 0 "Digit Seven with bar";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "Dig Seven bar";  # English US
+       name 1 0 0 "Dig Seven bar";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "7₇⁷";  # English US
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Bar";  # English US
+       name 1 0 0 "Bar";  # Mac English
+      };
+  };
+
+  lookup seven_sub;
+} cv07;
+
+feature cv10 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "Digit Zero with slash";  # English US
+       name 1 0 0 "Digit Zero with slash";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "Dig Zero slash";  # English US
+       name 1 0 0 "Dig Zero slash";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "0⁰₀";  # English US
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Slash";  # English US
+       name 1 0 0 "Slash";  # Mac English
+      };
+  };
+
+  lookup zero_sub;
+} cv10;
 
 feature cv13 {
 
