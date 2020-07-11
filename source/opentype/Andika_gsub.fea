@@ -308,33 +308,7 @@ lookup hstrk_sub {
 # Andika
 lookup itl_sub {
   lookupflag 0;
-    sub LtnSmI from [LtnSmI.TailI ];
-    sub LtnSmIAcute from [LtnSmIAcute.TailI ];
-    sub LtnSmIGrave from [LtnSmIGrave.TailI ];
-    sub LtnSmICircum from [LtnSmICircum.TailI ];
-    sub LtnSmIDiaer from [LtnSmIDiaer.TailI ];
-    sub LtnSmLigFi from [LtnSmLigFi.TailI ];
-    sub LtnSmDotlessI from [LtnSmDotlessI.TailI ];
-    sub LtnLigSmFSmI from [LtnLigSmFSmI.TailI ];
-    sub LtnLigSmFSmFSmI from [LtnLigSmFSmFSmI.TailI ];
-    sub LtnSmLigFfi from [LtnSmLigFfi.TailI ];
-    sub LtnSubSmI from [LtnSubSmI.TailI ];
-    sub LtnSupSmI from [LtnSupSmI.TailI ];
-    sub CombLtnSmI from [CombLtnSmI.TailI ];
-    sub LtnSmIDblGrave from [LtnSmIDblGrave.TailI ];
-    sub LtnSmIInvBreve from [LtnSmIInvBreve.TailI ];
-    sub LtnSmIBreve from [LtnSmIBreve.TailI ];
-    sub LtnSmICaron from [LtnSmICaron.TailI ];
-    sub LtnSmITilde from [LtnSmITilde.TailI ];
-    sub LtnSmIMacron from [LtnSmIMacron.TailI ];
-    sub LtnSmIDiaerAcute from [LtnSmIDiaerAcute.TailI ];
-    sub LtnSmIHookAbv from [LtnSmIHookAbv.TailI ];
-    sub LtnSmITildeBlw from [LtnSmITildeBlw.TailI ];
-    sub LtnSmIDotBlw from [LtnSmIDotBlw.TailI ];
-    sub LtnSmIOgonek from [LtnSmIOgonek.TailI ];
-    sub LtnSmIStrk from [LtnSmIStrk.TailI ];
-    sub LtnSupSmIStrk from [LtnSupSmIStrk.TailI ];
-    sub LtnSupSmIStrk.Dotless from [LtnSupSmIStrk.Dotless.TailI ];
+    sub @cno_TailI by @c_TailI;
 } itl_sub;
 
 lookup jsrf_sub {
@@ -363,29 +337,7 @@ lookup jstrk_sub {
 # Andika
 lookup ltl_sub {
   lookupflag 0;
-    sub LtnSmL from [LtnSmL.TailL ];
-    sub LtnSmLigFl from [LtnSmLigFl.TailL ];
-    sub LtnLigSmFSmL from [LtnLigSmFSmL.TailL ];
-    sub LtnLigSmFSmFSmL from [LtnLigSmFSmFSmL.TailL ];
-    sub LtnSmLigFfl from [LtnSmLigFfl.TailL ];
-    sub LtnSubSmL from [LtnSubSmL.TailL ];
-    sub ModSmL from [ModSmL.TailL ];
-    sub LtnSmLAcute from [LtnSmLAcute.TailL ];
-    sub LtnSmLCircumBlw from [LtnSmLCircumBlw.TailL ];
-    sub LtnSmLLineBlw from [LtnSmLLineBlw.TailL ];
-    sub LtnSmLDotBlw from [LtnSmLDotBlw.TailL ];
-    sub LtnSmLDotBlwMacron from [LtnSmLDotBlwMacron.TailL ];
-    sub LtnSmLCedilla from [LtnSmLCedilla.TailL ];
-    sub LtnSmLMiddleDot from [LtnSmLMiddleDot.TailL ];
-    sub LtnSmLCaron from [LtnSmLCaron.TailL ];
-    sub LtnSmLPalHook from [LtnSmLPalHook.TailL ];
-    sub ModSmLPalHook from [ModSmLPalHook.TailL ];
-    sub LtnSmLBar from [LtnSmLBar.TailL ];
-    sub LtnSmLHighBar from [LtnSmLHighBar.TailL ];
-    sub LtnSmDblBarredL from [LtnSmDblBarredL.TailL ];
-    sub LtnSmLMiddleTilde from [LtnSmLMiddleTilde.TailL ];
-    sub LtnSmLStrk from [LtnSmLStrk.TailL ];
-    sub LtnSmLBelt from [LtnSmLBelt.TailL ];
+    sub @cno_TailL by @c_TailL;
 } ltl_sub;
 
 lookup engs_sub {
@@ -452,30 +404,7 @@ lookup rtl_sub {
 # Andika
 lookup ttl_sub {
   lookupflag 0;
-    sub LtnSmT from [LtnSmT.NoTailT ];
-    sub LtnSubSmT from [LtnSubSmT.NoTailT ];
-    sub LtnSupSmT from [LtnSupSmT.NoTailT ];
-    sub CombLtnSmT from [CombLtnSmT.NoTailT ];
-    sub LtnSmTDiaer from [LtnSmTDiaer.NoTailT ];
-    sub LtnSmTDotAbv from [LtnSmTDotAbv.NoTailT ];
-    sub LtnSmTCircumBlw from [LtnSmTCircumBlw.NoTailT ];
-    sub LtnSmTLineBlw from [LtnSmTLineBlw.NoTailT ];
-    sub LtnSmTDotBlw from [LtnSmTDotBlw.NoTailT ];
-    sub LtnSmTCommaBlw from [LtnSmTCommaBlw.NoTailT ];
-    sub LtnSmTCaron from [LtnSmTCaron.NoTailT ];
-    sub LtnSmTCedilla from [LtnSmTCedilla.NoTailT ];
-    sub LtnSmTPalHook from [LtnSmTPalHook.NoTailT ];
-    sub ModSmTPalHook from [ModSmTPalHook.NoTailT ];
-    sub LtnSmTStrk from [LtnSmTStrk.NoTailT ];
-    sub LtnSmTMiddleTilde from [LtnSmTMiddleTilde.NoTailT ];
-    sub LtnSmTDiagStrk from [LtnSmTDiagStrk.NoTailT ];
-    sub LtnSmTHook from [LtnSmTHook.NoTailT ];
-    sub LtnSmTHStrk from [LtnSmTHStrk.NoTailT ];
-    sub LtnSmTcDigraphCurl from [LtnSmTcDigraphCurl.NoTailT ];
-    sub LtnSmTsDigraph from [LtnSmTsDigraph.NoTailT ];
-    sub LtnSmTeshDigraph from [LtnSmTeshDigraph.NoTailT ];
-    sub LtnSmTzDigraph from [LtnSmTzDigraph.NoTailT ];
-    sub LtnSmTurnedT from [LtnSmTurnedT.NoTailT ];
+    sub @cno_NoTailT by @c_NoTailT;
 } ttl_sub;
 
 lookup thk_sub {
@@ -495,23 +424,7 @@ lookup vhk_sub {
 # Andika
 lookup ytl_sub {
   lookupflag 0;
-    sub LtnSmY from [LtnSmY.NoTailY ];
-    sub LtnSmYDiaer from [LtnSmYDiaer.NoTailY ];
-    sub ModSmY from [ModSmY.NoTailY ];
-    sub LtnSmYAcute from [LtnSmYAcute.NoTailY ];
-    sub LtnSmYGrave from [LtnSmYGrave.NoTailY ];
-    sub LtnSmYCircum from [LtnSmYCircum.NoTailY ];
-    sub LtnSmYTilde from [LtnSmYTilde.NoTailY ];
-    sub LtnSmYMacron from [LtnSmYMacron.NoTailY ];
-    sub LtnSmYDotAbv from [LtnSmYDotAbv.NoTailY ];
-    sub LtnSmYRingAbv from [LtnSmYRingAbv.NoTailY ];
-    sub LtnSmYHookAbv from [LtnSmYHookAbv.NoTailY ];
-    sub LtnSmYDotBlw from [LtnSmYDotBlw.NoTailY ];
-    sub LtnSmYStrk from [LtnSmYStrk.NoTailY ];
-    sub LtnSmYHook.RtHook from [LtnSmYHook.RtHook.NoTailY ];
-    sub LtnSmTurnedY from [LtnSmTurnedY.NoTailY ];
-    sub ModSmTurnedY from [ModSmTurnedY.NoTailY ];
-    sub LtnSmTurnedYBelt from [LtnSmTurnedYBelt.NoTailY ];
+    sub @cno_NoTailY by @c_NoTailY;
 } ytl_sub;
 
 lookup yhk_sub {
