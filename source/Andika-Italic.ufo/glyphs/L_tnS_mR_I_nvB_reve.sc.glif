@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmRInvBreve.sc" format="2">
-  <advance width="1221"/>
-  <anchor x="262" y="8" name="H"/>
-  <anchor x="571" y="-76" name="L"/>
-  <anchor x="705" y="1828" name="U"/>
+  <advance width="1211"/>
+  <anchor x="549" y="0" name="H"/>
+  <anchor x="489" y="-84" name="L"/>
+  <anchor x="996" y="1814" name="U"/>
   <outline>
     <component base="LtnSmR.sc"/>
-    <component base="CombInvBreve" xOffset="926" yOffset="193"/>
+    <component base="CombInvBreve" xOffset="1217" yOffset="179"/>
   </outline>
   <lib>
     <dict>

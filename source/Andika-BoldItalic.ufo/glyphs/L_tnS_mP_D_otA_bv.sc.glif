@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmPDotAbv.sc" format="2">
-  <advance width="1119"/>
-  <anchor x="596" y="-76" name="L"/>
-  <anchor x="675" y="1748" name="U"/>
+  <advance width="1174"/>
+  <anchor x="558" y="-84" name="L"/>
+  <anchor x="977" y="1734" name="U"/>
   <outline>
     <component base="LtnSmP.sc"/>
-    <component base="CombDotAbv" xOffset="916" yOffset="193"/>
+    <component base="CombDotAbv" xOffset="1218" yOffset="179"/>
   </outline>
   <lib>
     <dict>

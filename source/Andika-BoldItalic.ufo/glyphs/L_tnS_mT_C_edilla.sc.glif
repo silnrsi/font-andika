@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmTCedilla.sc" format="2">
-  <advance width="1184"/>
-  <anchor x="420" y="-522" name="L"/>
-  <anchor x="582" y="1293" name="U"/>
+  <advance width="1174"/>
+  <anchor x="370" y="-530" name="L"/>
+  <anchor x="884" y="1279" name="U"/>
   <outline>
     <component base="LtnSmT.sc"/>
-    <component base="CombCedilla" xOffset="1072" yOffset="8"/>
+    <component base="CombCedilla" xOffset="1022"/>
   </outline>
   <lib>
     <dict>

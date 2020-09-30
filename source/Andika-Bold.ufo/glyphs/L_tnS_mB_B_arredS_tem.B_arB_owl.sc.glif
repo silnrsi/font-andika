@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmBBarredStem.BarBowl.sc" format="2">
-  <advance width="1207"/>
-  <anchor x="562" y="-76" name="L"/>
-  <anchor x="562" y="1293" name="U"/>
+  <advance width="1340"/>
+  <anchor x="578" y="-84" name="L"/>
+  <anchor x="578" y="1279" name="U"/>
   <outline>
     <component base="LtnSmBBarredStem.sc"/>
   </outline>

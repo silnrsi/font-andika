@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmKCaron.sc" format="2">
-  <advance width="1225"/>
-  <anchor x="258" y="8" name="H"/>
-  <anchor x="649" y="-76" name="L"/>
-  <anchor x="697" y="1828" name="U"/>
+  <advance width="1180"/>
+  <anchor x="199" y="0" name="H"/>
+  <anchor x="567" y="-84" name="L"/>
+  <anchor x="989" y="1814" name="U"/>
   <outline>
     <component base="LtnSmK.sc"/>
-    <component base="CombCaron" xOffset="928" yOffset="193"/>
+    <component base="CombCaron" xOffset="1220" yOffset="179"/>
   </outline>
   <lib>
     <dict>

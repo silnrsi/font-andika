@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmECedillaBreve.sc" format="2">
-  <advance width="1087"/>
-  <anchor x="402" y="-512" name="L"/>
-  <anchor x="854" y="8" name="O"/>
-  <anchor x="1077" y="1016" name="R"/>
-  <anchor x="676" y="1828" name="U"/>
+  <advance width="1068"/>
+  <anchor x="343" y="-520" name="L"/>
+  <anchor x="794" y="0" name="O"/>
+  <anchor x="1294" y="1003" name="R"/>
+  <anchor x="968" y="1814" name="U"/>
   <outline>
     <component base="LtnSmE.sc"/>
-    <component base="CombCedilla" xOffset="1052" yOffset="8"/>
-    <component base="CombBreve" xOffset="897" yOffset="193"/>
+    <component base="CombCedilla" xOffset="993"/>
+    <component base="CombBreve" xOffset="1189" yOffset="179"/>
   </outline>
   <lib>
     <dict>

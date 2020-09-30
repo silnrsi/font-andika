@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmGDiagStrk.SngBowl.sc" format="2">
-  <advance width="1354"/>
-  <anchor x="709" y="-76" name="L"/>
-  <anchor x="709" y="1293" name="U"/>
+  <advance width="1427"/>
+  <anchor x="733" y="-84" name="L"/>
+  <anchor x="760" y="1279" name="U"/>
   <outline>
     <component base="LtnSmGDiagStrk.sc"/>
   </outline>

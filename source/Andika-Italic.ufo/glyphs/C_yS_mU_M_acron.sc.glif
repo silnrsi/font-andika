@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CySmUMacron.sc" format="2">
-  <advance width="1133"/>
-  <anchor x="557" y="-76" name="L"/>
-  <anchor x="634" y="1643" name="U"/>
+  <advance width="1114"/>
+  <anchor x="475" y="-84" name="L"/>
+  <anchor x="897" y="1629" name="U"/>
   <outline>
     <component base="CySmU.sc"/>
-    <component base="CombMacron" xOffset="901" yOffset="193"/>
+    <component base="CombMacron" xOffset="1164" yOffset="179"/>
   </outline>
   <lib>
     <dict>

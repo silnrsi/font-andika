@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmWGrave.sc" format="2">
-  <advance width="1934"/>
-  <anchor x="955" y="-76" name="L"/>
-  <anchor x="1089" y="1828" name="U"/>
+  <advance width="1915"/>
+  <anchor x="873" y="-84" name="L"/>
+  <anchor x="1381" y="1814" name="U"/>
   <outline>
     <component base="LtnSmW.sc"/>
-    <component base="CombGrave" xOffset="1290" yOffset="193"/>
+    <component base="CombGrave" xOffset="1582" yOffset="179"/>
   </outline>
   <lib>
     <dict>

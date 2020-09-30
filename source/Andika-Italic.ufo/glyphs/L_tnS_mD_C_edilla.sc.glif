@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmDCedilla.sc" format="2">
-  <advance width="1340"/>
-  <anchor x="598" y="-476" name="L"/>
-  <anchor x="668" y="1293" name="U"/>
+  <advance width="1327"/>
+  <anchor x="516" y="-484" name="L"/>
+  <anchor x="960" y="1279" name="U"/>
   <outline>
     <component base="LtnSmD.sc"/>
-    <component base="CombCommaBlw" xOffset="1350" yOffset="24"/>
+    <component base="CombCommaBlw" xOffset="1268" yOffset="16"/>
   </outline>
   <lib>
     <dict>

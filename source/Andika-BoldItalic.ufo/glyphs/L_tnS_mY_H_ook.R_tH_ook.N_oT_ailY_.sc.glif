@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmYHook.RtHook.NoTailY.sc" format="2">
-  <advance width="1330"/>
-  <anchor x="603" y="-56" name="L"/>
-  <anchor x="603" y="1094" name="U"/>
+  <advance width="1433"/>
+  <anchor x="542" y="-84" name="L"/>
+  <anchor x="917" y="1279" name="U"/>
   <outline>
     <component base="LtnSmYHook.RtHook.sc"/>
   </outline>

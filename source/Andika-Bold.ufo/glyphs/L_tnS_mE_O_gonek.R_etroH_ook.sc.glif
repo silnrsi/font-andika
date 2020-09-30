@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmEOgonek.RetroHook.sc" format="2">
-  <advance width="1087"/>
-  <anchor x="562" y="8" name="H"/>
-  <anchor x="562" y="-476" name="L"/>
-  <anchor x="854" y="8" name="O"/>
-  <anchor x="1077" y="1016" name="R"/>
-  <anchor x="562" y="1293" name="U"/>
+  <advance width="1135"/>
+  <anchor x="567" y="0" name="H"/>
+  <anchor x="567" y="-484" name="L"/>
+  <anchor x="930" y="0" name="O"/>
+  <anchor x="1153" y="1003" name="R"/>
+  <anchor x="567" y="1279" name="U"/>
   <outline>
     <component base="LtnSmE.sc"/>
-    <component base="CombOgonek.RetroHook" xOffset="1142" yOffset="24"/>
+    <component base="CombOgonek.RetroHook" xOffset="1147" yOffset="16"/>
   </outline>
   <lib>
     <dict>

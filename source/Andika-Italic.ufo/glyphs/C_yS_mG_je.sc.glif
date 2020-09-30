@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CySmGje.sc" format="2">
-  <advance width="1014"/>
-  <anchor x="555" y="-76" name="L"/>
-  <anchor x="689" y="1828" name="U"/>
+  <advance width="995"/>
+  <anchor x="471" y="-84" name="L"/>
+  <anchor x="982" y="1814" name="U"/>
   <outline>
     <component base="CySmGhe.sc"/>
-    <component base="CombAcute" xOffset="910" yOffset="193"/>
+    <component base="CombAcute" xOffset="1203" yOffset="179"/>
   </outline>
   <lib>
     <dict>

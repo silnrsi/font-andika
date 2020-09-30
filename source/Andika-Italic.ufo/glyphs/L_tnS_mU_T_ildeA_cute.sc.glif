@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmUTildeAcute.sc" format="2">
-  <advance width="1345"/>
-  <anchor x="660" y="8" name="H"/>
-  <anchor x="660" y="-76" name="L"/>
-  <anchor x="861" y="8" name="O"/>
-  <anchor x="1298" y="1016" name="R"/>
-  <anchor x="889" y="2203" name="U"/>
+  <advance width="1326"/>
+  <anchor x="601" y="0" name="H"/>
+  <anchor x="578" y="-84" name="L"/>
+  <anchor x="802" y="0" name="O"/>
+  <anchor x="1515" y="1003" name="R"/>
+  <anchor x="1182" y="2189" name="U"/>
   <outline>
     <component base="LtnSmU.sc"/>
-    <component base="CombTilde" xOffset="1045" yOffset="193"/>
-    <component base="CombAcute" xOffset="1110" yOffset="568"/>
+    <component base="CombTilde" xOffset="1338" yOffset="179"/>
+    <component base="CombAcute" xOffset="1403" yOffset="554"/>
   </outline>
   <lib>
     <dict>

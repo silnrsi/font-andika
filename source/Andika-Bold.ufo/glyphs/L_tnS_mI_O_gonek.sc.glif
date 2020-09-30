@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmIOgonek.sc" format="2">
-  <advance width="917"/>
-  <anchor x="449" y="8" name="H"/>
-  <anchor x="564" y="-422" name="L"/>
-  <anchor x="907" y="1016" name="R"/>
-  <anchor x="449" y="1293" name="U"/>
+  <advance width="981"/>
+  <anchor x="484" y="0" name="H"/>
+  <anchor x="596" y="-430" name="L"/>
+  <anchor x="939" y="1003" name="R"/>
+  <anchor x="484" y="1279" name="U"/>
   <outline>
     <component base="LtnSmI.sc"/>
-    <component base="CombOgonek" xOffset="979" yOffset="8"/>
+    <component base="CombOgonek" xOffset="1011"/>
   </outline>
   <lib>
     <dict>

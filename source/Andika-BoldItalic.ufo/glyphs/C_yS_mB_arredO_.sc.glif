@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CySmBarredO.sc" format="2">
-  <advance width="1363"/>
-  <anchor x="670" y="-76" name="L"/>
-  <anchor x="670" y="1293" name="U"/>
+  <advance width="1381"/>
+  <anchor x="609" y="-84" name="L"/>
+  <anchor x="991" y="1279" name="U"/>
   <outline>
     <component base="LtnSmOMiddleTilde.sc"/>
   </outline>

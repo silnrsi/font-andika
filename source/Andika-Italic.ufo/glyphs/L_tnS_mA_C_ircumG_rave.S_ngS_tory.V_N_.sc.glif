@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmACircumGrave.SngStory.VN.sc" format="2">
   <advance width="1303"/>
-  <anchor x="642" y="0" name="H"/>
-  <anchor x="642" y="-76" name="L"/>
-  <anchor x="1344" y="0" name="O"/>
+  <anchor x="1082" y="0" name="H"/>
+  <anchor x="558" y="-84" name="L"/>
+  <anchor x="1285" y="0" name="O"/>
   <outline>
     <component base="LtnSmACircumGrave.VN.sc"/>
   </outline>

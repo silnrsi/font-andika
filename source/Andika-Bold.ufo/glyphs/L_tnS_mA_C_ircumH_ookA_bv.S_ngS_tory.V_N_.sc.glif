@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmACircumHookAbv.SngStory.VN.sc" format="2">
-  <advance width="1303"/>
-  <anchor x="642" y="0" name="H"/>
-  <anchor x="642" y="-76" name="L"/>
-  <anchor x="1344" y="0" name="O"/>
+  <advance width="1386"/>
+  <anchor x="1179" y="0" name="H"/>
+  <anchor x="679" y="-84" name="L"/>
+  <anchor x="1381" y="0" name="O"/>
   <outline>
     <component base="LtnSmACircumHookAbv.VN.sc"/>
   </outline>

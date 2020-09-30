@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CySmKje.sc" format="2">
-  <advance width="1271"/>
-  <anchor x="608" y="-76" name="L"/>
-  <anchor x="548" y="1828" name="U"/>
+  <advance width="1395"/>
+  <anchor x="682" y="-84" name="L"/>
+  <anchor x="622" y="1814" name="U"/>
   <outline>
     <component base="CySmKa.sc"/>
-    <component base="CombAcute" xOffset="1148" yOffset="193"/>
+    <component base="CombAcute" xOffset="1222" yOffset="179"/>
   </outline>
   <lib>
     <dict>

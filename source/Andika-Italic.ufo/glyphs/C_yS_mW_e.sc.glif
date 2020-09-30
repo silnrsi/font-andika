@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CySmWe.sc" format="2">
-  <advance width="1934"/>
-  <anchor x="955" y="-76" name="L"/>
-  <anchor x="955" y="1293" name="U"/>
+  <advance width="1915"/>
+  <anchor x="873" y="-84" name="L"/>
+  <anchor x="1247" y="1279" name="U"/>
   <outline>
     <component base="LtnSmW.sc"/>
   </outline>

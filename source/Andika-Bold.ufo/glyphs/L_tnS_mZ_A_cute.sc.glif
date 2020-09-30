@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmZAcute.sc" format="2">
-  <advance width="1152"/>
-  <anchor x="567" y="-76" name="L"/>
-  <anchor x="507" y="1828" name="U"/>
+  <advance width="1170"/>
+  <anchor x="590" y="-84" name="L"/>
+  <anchor x="530" y="1814" name="U"/>
   <outline>
     <component base="LtnSmZ.sc"/>
-    <component base="CombAcute" xOffset="1107" yOffset="193"/>
+    <component base="CombAcute" xOffset="1130" yOffset="179"/>
   </outline>
   <lib>
     <dict>

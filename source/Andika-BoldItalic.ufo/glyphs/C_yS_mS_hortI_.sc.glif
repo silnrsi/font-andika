@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CySmShortI.sc" format="2">
-  <advance width="1400"/>
-  <anchor x="688" y="-76" name="L"/>
-  <anchor x="788" y="1838" name="U"/>
+  <advance width="1495"/>
+  <anchor x="661" y="-84" name="L"/>
+  <anchor x="1135" y="1824" name="U"/>
   <outline>
     <component base="CySmI.sc"/>
-    <component base="CombBreve.CyShortMrkAlt.UCHt" xOffset="998" yOffset="-152"/>
+    <component base="CombBreve.CyShortMrkAlt.UCHt" xOffset="1345" yOffset="-166"/>
   </outline>
   <lib>
     <dict>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmOOgonekMacron.sc" format="2">
-  <advance width="1363"/>
-  <anchor x="670" y="8" name="H"/>
-  <anchor x="825" y="-422" name="L"/>
-  <anchor x="1353" y="1016" name="R"/>
-  <anchor x="670" y="1643" name="U"/>
+  <advance width="1400"/>
+  <anchor x="687" y="0" name="H"/>
+  <anchor x="839" y="-430" name="L"/>
+  <anchor x="1368" y="1003" name="R"/>
+  <anchor x="687" y="1629" name="U"/>
   <outline>
     <component base="LtnSmO.sc"/>
-    <component base="CombMacron" xOffset="1240" yOffset="193"/>
-    <component base="CombOgonek" xOffset="1240" yOffset="8"/>
+    <component base="CombMacron" xOffset="1257" yOffset="179"/>
+    <component base="CombOgonek" xOffset="1254"/>
   </outline>
   <lib>
     <dict>

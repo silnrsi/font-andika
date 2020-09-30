@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmAeMacron.sc" format="2">
-  <advance width="1681"/>
-  <anchor x="944" y="-76" name="L"/>
-  <anchor x="944" y="1643" name="U"/>
+  <advance width="1704"/>
+  <anchor x="935" y="-84" name="L"/>
+  <anchor x="935" y="1629" name="U"/>
   <outline>
     <component base="LtnSmAe.sc"/>
-    <component base="CombMacron" xOffset="1514" yOffset="193"/>
+    <component base="CombMacron" xOffset="1505" yOffset="179"/>
   </outline>
   <lib>
     <dict>

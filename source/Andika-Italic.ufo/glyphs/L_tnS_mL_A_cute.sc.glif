@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmLAcute.sc" format="2">
-  <advance width="1014"/>
-  <anchor x="555" y="8" name="H"/>
-  <anchor x="555" y="-76" name="L"/>
-  <anchor x="507" y="1016" name="R"/>
-  <anchor x="689" y="1828" name="U"/>
+  <advance width="995"/>
+  <anchor x="495" y="0" name="H"/>
+  <anchor x="471" y="-84" name="L"/>
+  <anchor x="724" y="1003" name="R"/>
+  <anchor x="982" y="1814" name="U"/>
   <outline>
     <component base="LtnSmL.sc"/>
-    <component base="CombAcute" xOffset="910" yOffset="193"/>
+    <component base="CombAcute" xOffset="1203" yOffset="179"/>
   </outline>
   <lib>
     <dict>

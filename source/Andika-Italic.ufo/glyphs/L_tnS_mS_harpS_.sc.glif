@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmSharpS.sc" format="2">
-  <advance width="2202"/>
-  <anchor x="1645" y="8" name="H"/>
-  <anchor x="1645" y="-76" name="L"/>
-  <anchor x="1645" y="1293" name="U"/>
+  <advance width="2164"/>
+  <anchor x="1566" y="0" name="H"/>
+  <anchor x="1543" y="-84" name="L"/>
+  <anchor x="1916" y="1279" name="U"/>
   <outline>
     <component base="LtnSmS.sc"/>
-    <component base="LtnSmS.sc" xOffset="1101"/>
+    <component base="LtnSmS.sc" xOffset="1082"/>
   </outline>
   <lib>
     <dict>

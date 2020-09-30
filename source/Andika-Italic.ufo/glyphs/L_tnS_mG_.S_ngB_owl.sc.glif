@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmG.SngBowl.sc" format="2">
-  <advance width="1326"/>
-  <anchor x="695" y="8" name="H"/>
-  <anchor x="695" y="-76" name="L"/>
-  <anchor x="695" y="1293" name="U"/>
+  <advance width="1313"/>
+  <anchor x="636" y="0" name="H"/>
+  <anchor x="641" y="-84" name="L"/>
+  <anchor x="990" y="1279" name="U"/>
   <outline>
     <component base="LtnSmG.sc"/>
   </outline>

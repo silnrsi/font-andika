@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmBLineBlw.sc" format="2">
-  <advance width="1202"/>
-  <anchor x="476" y="-476" name="L"/>
-  <anchor x="576" y="1293" name="U"/>
+  <advance width="1189"/>
+  <anchor x="394" y="-484" name="L"/>
+  <anchor x="868" y="1279" name="U"/>
   <outline>
     <component base="LtnSmB.sc"/>
-    <component base="CombMacronBlw" xOffset="1226" yOffset="24"/>
+    <component base="CombMacronBlw" xOffset="1144" yOffset="16"/>
   </outline>
   <lib>
     <dict>

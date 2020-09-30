@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmACircum.SngStory.sc" format="2">
-  <advance width="1303"/>
-  <anchor x="642" y="0" name="H"/>
-  <anchor x="642" y="-76" name="L"/>
-  <anchor x="1344" y="0" name="O"/>
-  <anchor x="733" y="1828" name="U"/>
+  <advance width="1367"/>
+  <anchor x="1124" y="0" name="H"/>
+  <anchor x="604" y="-84" name="L"/>
+  <anchor x="1326" y="0" name="O"/>
+  <anchor x="1068" y="1814" name="U"/>
   <outline>
     <component base="LtnSmA.sc"/>
-    <component base="CombCircum" xOffset="972" yOffset="193"/>
+    <component base="CombCircum" xOffset="1307" yOffset="179"/>
   </outline>
   <lib>
     <dict>

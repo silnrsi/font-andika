@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmTCommaBlw.sc" format="2">
-  <advance width="1184"/>
-  <anchor x="582" y="8" name="H"/>
-  <anchor x="582" y="-526" name="L"/>
-  <anchor x="582" y="1293" name="U"/>
+  <advance width="1183"/>
+  <anchor x="578" y="0" name="H"/>
+  <anchor x="578" y="-534" name="L"/>
+  <anchor x="578" y="1279" name="U"/>
   <outline>
     <component base="LtnSmT.sc"/>
-    <component base="CombCommaBlw" xOffset="1162" yOffset="24"/>
+    <component base="CombCommaBlw" xOffset="1158" yOffset="16"/>
   </outline>
   <lib>
     <dict>

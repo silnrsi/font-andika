@@ -1,27 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmL.sc" format="2">
-  <advance width="1014"/>
-  <anchor x="555" y="8" name="H"/>
-  <anchor x="555" y="-76" name="L"/>
-  <anchor x="507" y="1016" name="R"/>
-  <anchor x="555" y="1293" name="U"/>
+  <advance width="1059"/>
+  <anchor x="576" y="0" name="H"/>
+  <anchor x="576" y="-84" name="L"/>
+  <anchor x="604" y="1003" name="R"/>
+  <anchor x="576" y="1279" name="U"/>
   <outline>
     <contour>
-      <point x="351" y="151" type="line"/>
-      <point x="351" y="1221" type="line"/>
-      <point x="151" y="1221" type="line"/>
-      <point x="166" y="1145"/>
-      <point x="166" y="1016"/>
-      <point x="166" y="853" type="curve" smooth="yes"/>
-      <point x="166" y="366" type="line" smooth="yes"/>
-      <point x="166" y="205"/>
-      <point x="166" y="75"/>
-      <point x="151" y="0" type="curve"/>
-      <point x="947" y="0" type="line"/>
-      <point x="947" y="165" type="line"/>
-      <point x="871" y="152"/>
-      <point x="727" y="151"/>
-      <point x="547" y="151" type="curve" smooth="yes"/>
+      <point x="420" y="192" type="line"/>
+      <point x="420" y="1221" type="line"/>
+      <point x="144" y="1221" type="line"/>
+      <point x="158" y="1154"/>
+      <point x="158" y="1022"/>
+      <point x="158" y="857" type="curve" smooth="yes"/>
+      <point x="158" y="364" type="line" smooth="yes"/>
+      <point x="158" y="199"/>
+      <point x="158" y="67"/>
+      <point x="144" y="0" type="curve"/>
+      <point x="1004" y="0" type="line"/>
+      <point x="1004" y="205" type="line"/>
+      <point x="933" y="193"/>
+      <point x="793" y="192"/>
+      <point x="619" y="192" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
 </glyph>

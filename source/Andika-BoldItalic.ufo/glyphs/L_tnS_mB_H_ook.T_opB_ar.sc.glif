@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmBHook.TopBar.sc" format="2">
-  <advance width="1184"/>
-  <anchor x="599" y="-76" name="L"/>
-  <anchor x="599" y="1293" name="U"/>
+  <advance width="1257"/>
+  <anchor x="517" y="-84" name="L"/>
+  <anchor x="891" y="1279" name="U"/>
   <outline>
     <component base="LtnSmBTopbar.sc"/>
   </outline>

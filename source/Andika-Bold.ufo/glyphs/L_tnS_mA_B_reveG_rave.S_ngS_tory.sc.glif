@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmABreveGrave.SngStory.sc" format="2">
-  <advance width="1303"/>
-  <anchor x="642" y="0" name="H"/>
-  <anchor x="642" y="-76" name="L"/>
-  <anchor x="1344" y="0" name="O"/>
-  <anchor x="682" y="2363" name="U"/>
+  <advance width="1386"/>
+  <anchor x="1179" y="0" name="H"/>
+  <anchor x="679" y="-84" name="L"/>
+  <anchor x="1381" y="0" name="O"/>
+  <anchor x="719" y="2349" name="U"/>
   <outline>
     <component base="LtnSmA.sc"/>
-    <component base="CombBreve" xOffset="1222" yOffset="193"/>
-    <component base="CombGrave" xOffset="1272" yOffset="728"/>
+    <component base="CombBreve" xOffset="1259" yOffset="179"/>
+    <component base="CombGrave" xOffset="1309" yOffset="714"/>
   </outline>
   <lib>
     <dict>

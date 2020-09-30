@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmOTildeMacron.sc" format="2">
-  <advance width="1363"/>
-  <anchor x="670" y="8" name="H"/>
-  <anchor x="670" y="-76" name="L"/>
-  <anchor x="890" y="8" name="O"/>
-  <anchor x="1353" y="1016" name="R"/>
-  <anchor x="793" y="2033" name="U"/>
+  <advance width="1381"/>
+  <anchor x="632" y="0" name="H"/>
+  <anchor x="609" y="-84" name="L"/>
+  <anchor x="849" y="0" name="O"/>
+  <anchor x="1588" y="1003" name="R"/>
+  <anchor x="1109" y="2019" name="U"/>
   <outline>
     <component base="LtnSmO.sc"/>
-    <component base="CombTilde" xOffset="1060" yOffset="193"/>
-    <component base="CombMacron" xOffset="1060" yOffset="583"/>
+    <component base="CombTilde" xOffset="1376" yOffset="179"/>
+    <component base="CombMacron" xOffset="1376" yOffset="569"/>
   </outline>
   <lib>
     <dict>

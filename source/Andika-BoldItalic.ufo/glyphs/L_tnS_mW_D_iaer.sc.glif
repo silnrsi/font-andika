@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmWDiaer.sc" format="2">
-  <advance width="1934"/>
-  <anchor x="955" y="-76" name="L"/>
-  <anchor x="1077" y="1778" name="U"/>
+  <advance width="1965"/>
+  <anchor x="896" y="-84" name="L"/>
+  <anchor x="1392" y="1764" name="U"/>
   <outline>
     <component base="LtnSmW.sc"/>
-    <component base="CombDiaer" xOffset="1320" yOffset="193"/>
+    <component base="CombDiaer" xOffset="1635" yOffset="179"/>
   </outline>
   <lib>
     <dict>

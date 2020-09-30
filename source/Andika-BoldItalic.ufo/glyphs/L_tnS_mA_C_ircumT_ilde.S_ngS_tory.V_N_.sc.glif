@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmACircumTilde.SngStory.VN.sc" format="2">
-  <advance width="1303"/>
-  <anchor x="642" y="0" name="H"/>
-  <anchor x="642" y="-76" name="L"/>
-  <anchor x="1344" y="0" name="O"/>
-  <anchor x="812" y="2113" name="U"/>
+  <advance width="1367"/>
+  <anchor x="1124" y="0" name="H"/>
+  <anchor x="604" y="-84" name="L"/>
+  <anchor x="1326" y="0" name="O"/>
+  <anchor x="1147" y="2099" name="U"/>
   <outline>
     <component base="LtnSmACircumTilde.VN.sc"/>
   </outline>

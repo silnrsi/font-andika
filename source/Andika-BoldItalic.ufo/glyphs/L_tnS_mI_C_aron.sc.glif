@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmICaron.sc" format="2">
-  <advance width="917"/>
-  <anchor x="449" y="8" name="H"/>
-  <anchor x="449" y="-76" name="L"/>
-  <anchor x="629" y="8" name="O"/>
-  <anchor x="907" y="1016" name="R"/>
-  <anchor x="583" y="1828" name="U"/>
+  <advance width="963"/>
+  <anchor x="429" y="0" name="H"/>
+  <anchor x="402" y="-84" name="L"/>
+  <anchor x="604" y="0" name="O"/>
+  <anchor x="1161" y="1003" name="R"/>
+  <anchor x="913" y="1814" name="U"/>
   <outline>
     <component base="LtnSmI.sc"/>
-    <component base="CombCaron" xOffset="822" yOffset="193"/>
+    <component base="CombCaron" xOffset="1152" yOffset="179"/>
   </outline>
   <lib>
     <dict>

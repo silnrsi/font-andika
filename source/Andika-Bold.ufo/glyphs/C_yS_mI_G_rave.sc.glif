@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CySmIGrave.sc" format="2">
-  <advance width="1400"/>
-  <anchor x="688" y="-76" name="L"/>
-  <anchor x="728" y="1828" name="U"/>
+  <advance width="1510"/>
+  <anchor x="739" y="-84" name="L"/>
+  <anchor x="779" y="1814" name="U"/>
   <outline>
     <component base="CySmI.sc"/>
-    <component base="CombGrave" xOffset="1318" yOffset="193"/>
+    <component base="CombGrave" xOffset="1369" yOffset="179"/>
   </outline>
   <lib>
     <dict>
