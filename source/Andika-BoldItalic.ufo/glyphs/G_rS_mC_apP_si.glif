@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="GrSmCapPsi" format="2">
   <advance width="1515"/>
+  <unicode hex="1D2A"/>
   <outline>
     <contour>
       <point x="906" y="1208" type="line"/>

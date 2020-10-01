@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="GrSmCapLamda" format="2">
   <advance width="1377"/>
+  <unicode hex="1D27"/>
   <anchor x="675" y="-84" name="L"/>
   <anchor x="675" y="1279" name="U"/>
   <outline>
