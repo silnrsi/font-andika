@@ -7,10 +7,4 @@
     <component base="CySmAbkhasChe.sc"/>
     <component base="CombOgonek.Lrg" xOffset="743" yOffset="8"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>
