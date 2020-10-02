@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSupSmCapY" format="2">
-  <unicode hex="F1B4"/>
   <advance width="770"/>
+  <unicode hex="F1B4"/>
   <anchor x="397" y="615" name="L"/>
   <anchor x="806" y="1362" name="R"/>
   <anchor x="397" y="1395" name="U"/>
