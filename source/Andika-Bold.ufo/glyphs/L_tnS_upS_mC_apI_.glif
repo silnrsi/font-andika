@@ -1,23 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSupSmCapI" format="2">
-  <advance width="588"/>
+  <advance width="658"/>
   <unicode hex="1DA6"/>
-  <anchor x="300" y="615" name="L"/>
-  <anchor x="300" y="1395" name="U"/>
+  <anchor x="334" y="680" name="H"/>
+  <anchor x="334" y="615" name="L"/>
+  <anchor x="442" y="680" name="O"/>
+  <anchor x="516" y="1258" name="R"/>
+  <anchor x="334" y="1389" name="U"/>
   <outline>
     <contour>
-      <point x="106" y="1343" type="line"/>
-      <point x="106" y="1258" type="line"/>
-      <point x="236" y="1258" type="line"/>
-      <point x="236" y="765" type="line"/>
-      <point x="106" y="765" type="line"/>
-      <point x="106" y="680" type="line"/>
-      <point x="498" y="680" type="line"/>
-      <point x="498" y="765" type="line"/>
-      <point x="367" y="765" type="line"/>
-      <point x="367" y="1258" type="line"/>
-      <point x="498" y="1258" type="line"/>
-      <point x="498" y="1343" type="line"/>
+      <point x="100" y="1343" type="line"/>
+      <point x="100" y="1226" type="line"/>
+      <point x="242" y="1226" type="line"/>
+      <point x="242" y="797" type="line"/>
+      <point x="100" y="797" type="line"/>
+      <point x="100" y="680" type="line"/>
+      <point x="576" y="680" type="line"/>
+      <point x="576" y="797" type="line"/>
+      <point x="431" y="797" type="line"/>
+      <point x="431" y="1226" type="line"/>
+      <point x="576" y="1226" type="line"/>
+      <point x="576" y="1343" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
 </glyph>
