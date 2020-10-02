@@ -120,9 +120,9 @@
       <key>adjustMetrics</key>
       <integer>10</integer>
       <key>manAdjustX</key>
-      <integer>10</integer>
+      <integer>0</integer>
       <key>manAdjustY</key>
-      <integer>14</integer>
+      <integer>0</integer>
       <key>scaleX</key>
       <real>0.92</real>
       <key>scaleY</key>
