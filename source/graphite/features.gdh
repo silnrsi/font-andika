@@ -101,11 +101,35 @@ literacy {
 	////boolWDefTrue
 }
 
+literacy_a {
+	id = "ss02";
+	name.1033 = string("Literacy a alternates");
+#if (ANDIKAfamily)
+	boolWDefTrue
+#else
+	bool // default is false
+#endif // !ANDIKAfamily
+	// to create the hacked literacy font, use this line instead:
+	////boolWDefTrue
+}
+
+literacy_g {
+	id = "ss03";
+	name.1033 = string("Literacy g alternates");
+#if (ANDIKAfamily)
+	boolWDefTrue
+#else
+	bool // default is false
+#endif // !ANDIKAfamily
+	// to create the hacked literacy font, use this line instead:
+	////boolWDefTrue
+}
+
 slant_italic {
 	id = "ss05";
-  id.hidden = "ital";
-  name.1033 = string("Slant italic specials");
-  bool
+	id.hidden = "ital";
+	name.1033 = string("Slant italic specials");
+	bool
 }
 
 barred_bowl {
@@ -568,12 +592,12 @@ ezh {
 	settings {
 		ipa {
 			value = 0;
-    	name.1033 = string("Normal");
-    }
-    rev_sigma {
-    	value = 1;
-    	name.1033 = string("Reversed sigma");
-    }
+			name.1033 = string("Normal");
+		}
+		rev_sigma {
+			value = 1;
+			name.1033 = string("Reversed sigma");
+		}
 	}
 }
 
@@ -728,6 +752,21 @@ caron {
 	}
 }
 
+kayan_diacs {
+	id ="cv79";
+	name.1033 = string("Kayan-style diacritics");
+	default = false;
+	settings {
+		ffalse {
+			value = 0;
+			name.1033 = string("Non-Kayan style");
+		}
+		ftrue {
+			value = 1;
+			name.1033 = string("Kayan style");
+		}
+	}
+}
 
 emptyset {
 	id = "cv98";
@@ -991,12 +1030,14 @@ dep_pua {
 }
 --------------------------- */
 
+/*----- obsolete feature -----
 invis {
 	id = "ss06";
 	id.hidden = "invs";
 	name.1033 = string("Show invisible characters");
 	bool
 }
+--------------------------- */
 
 /*----- obsolete feature -----
 select_diac {

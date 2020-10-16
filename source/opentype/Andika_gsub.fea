@@ -86,12 +86,13 @@ lookup ss_sub {
 
 lookup ss_ctx {
   lookupflag 0;
-    sub @c_superscripts' @cno_Sup' lookup ss_sub;
+    sub @c_superscripts @cno_Sup' lookup ss_sub;
 } ss_ctx;
 
 lookup sc1_sub {
   lookupflag 0;
-    sub @cno_sc by @c_sc;
+    # sub @cno_sc by @c_sc;
+    sub @cno_smcp by @c_smcp;
     sub LtnSmRBar by LtnSmRBarredStem.sc;
     sub CySmPalochka by CyPalochka.sc;
     sub LtnSmTurnedE by LtnSmRevE.sc;
@@ -521,17 +522,17 @@ lookup set_sub {
 
 lookup lit_sub {
   lookupflag 0;
-    sub @cno_lit by @c_lit;
+    sub @c_lit by @cno_lit;
 } lit_sub;
 
 lookup lita_sub {
   lookupflag 0;
-    sub @cno_lita by @c_lita;
+    sub @c_lita by @cno_lita;
 } lita_sub;
 
 lookup litg_sub {
   lookupflag 0;
-    sub @cno_litg by @c_litg;
+    sub @c_litg by @cno_litg;
 } litg_sub;
 
 lookup bbwl_sub {
@@ -1070,11 +1071,6 @@ feature cv43 {
        name 1 0 0 "?";  # Mac English
       };
       
-      ParamUILabelNameID {
-       name 3 1 0x0409 "Large eng with descender";  # English US
-       name 1 0 0 "Large eng with descender";  # Mac English
-      };
-
       ParamUILabelNameID {
        name 3 1 0x0409 "Large eng on baseline";  # English US
        name 1 0 0 "Large eng on baseline";  # Mac English

@@ -4,8 +4,8 @@
 # output folders use smith defaults and don't need to be set here
 
 # set some default folders (most are already set by default)
-STANDARDS = 'references/v5'
-#STANDARDS = 'references/b1'
+#STANDARDS = 'references/v5'
+STANDARDS = 'references/b1'
 
 APPNAME = 'Andika'
 familyname = APPNAME
@@ -26,18 +26,18 @@ for dspace in ('Roman', 'Italic'):
 #for dspace in ('Roman',):
 #for dspace in ('Italic',):
     designspace('source/' + familyname + dspace + '.designspace',
-                target = process('${DS:FILENAME_BASE}.ttf',
+                target = process('${DS:FILENAME_BASE}.ttf', 
                     cmd('psfchangettfglyphnames ${SRC} ${DEP} ${TGT}', ['${DS:FILE}'])),
                 instances = ['Andika Regular'] if '--quick' in opts else None,
                 ap = 'source/${DS:FILENAME_BASE}_ap.xml',
-#                classes = 'source/opentype/${DS:FAMILYNAME_NOSPC}_classes.xml', #fails for Book fonts
-                classes = 'source/opentype/{}_classes.xml'.format(familyname),
+#                classes = 'source/${DS:FAMILYNAME_NOSPC}_classes.xml', # fails for Gentium Book
+                classes = 'source/{}_classes.xml'.format(familyname),
                 opentype = fea('source/${DS:FILENAME_BASE}.fea',
                     master = 'source/opentype/${DS:FILENAME_BASE}.fea',
                     make_params = omitapps,
-                    depends = ('source/opentype/{}_gsub.fea'.format(familyname), 
-                        'source/opentype/${DS:FILENAME_BASE}_gpos_lkups.fea', 
-                        'source/opentype/{}_gpos_feats.fea'.format(familyname), 
+                    depends = ('source/opentype/{}_gsub.fea'.format(familyname),
+                        'source/opentype/${DS:FILENAME_BASE}_gpos_lkups.fea',
+                        'source/opentype/{}_gpos_feats.fea'.format(familyname),
                         'source/opentype/{}_gdef.fea'.format(familyname)),
                     to_ufo = 'True' # copies to instance UFOs
                     ),
