@@ -5,28 +5,8 @@
   <anchor x="390" y="-100" name="L"/>
   <anchor x="679" y="1415" name="U"/>
   <outline>
-    <contour>
-      <point x="466" y="0" type="line"/>
-      <point x="477" y="360"/>
-      <point x="721" y="1136"/>
-      <point x="744" y="1348" type="curve"/>
-      <point x="554" y="1348" type="line"/>
-      <point x="534" y="1145"/>
-      <point x="280" y="248"/>
-      <point x="266" y="0" type="curve"/>
-    </contour>
-    <contour>
-      <point x="183" y="858" type="line"/>
-      <point x="898" y="858" type="line"/>
-      <point x="934" y="1000" type="line"/>
-      <point x="219" y="1000" type="line"/>
-    </contour>
-    <contour>
-      <point x="980" y="1568" type="line"/>
-      <point x="820" y="1147" type="line"/>
-      <point x="950" y="1147" type="line"/>
-      <point x="1175" y="1568" type="line"/>
-    </contour>
+    <component base="LtnSmT.NoTailT" xOffset="40"/>
+    <component base="CombCommaAbvRt" xOffset="630"/>
   </outline>
   <lib>
     <dict>

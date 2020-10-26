@@ -6,7 +6,7 @@
   <anchor x="408" y="1415" name="U"/>
   <outline>
     <component base="LtnSmT.NoTailT"/>
-    <component base="CombCommaAbvRt" xOffset="817"/>
+    <component base="CombCommaAbvRt" xOffset="627"/>
   </outline>
   <lib>
     <dict>
