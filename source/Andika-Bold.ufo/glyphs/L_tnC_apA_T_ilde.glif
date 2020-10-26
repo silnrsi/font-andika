@@ -6,56 +6,14 @@
   <anchor x="732" y="-100" name="L"/>
   <anchor x="1495" y="0" name="O"/>
   <anchor x="732" y="1920" name="U"/>
-  <anchor x="732" y="1530" name="_U"/>
   <outline>
-    <contour>
-      <point x="482" y="1620" type="line"/>
-      <point x="488" y="1662"/>
-      <point x="509" y="1710"/>
-      <point x="559" y="1710" type="curve" smooth="yes"/>
-      <point x="602" y="1710"/>
-      <point x="659" y="1694"/>
-      <point x="742" y="1659" type="curve" smooth="yes"/>
-      <point x="812" y="1629"/>
-      <point x="864" y="1610"/>
-      <point x="926" y="1610" type="curve" smooth="yes"/>
-      <point x="1062" y="1610"/>
-      <point x="1157" y="1737"/>
-      <point x="1157" y="1910" type="curve"/>
-      <point x="1002" y="1910" type="line"/>
-      <point x="994" y="1868"/>
-      <point x="972" y="1820"/>
-      <point x="925" y="1820" type="curve" smooth="yes"/>
-      <point x="877" y="1820"/>
-      <point x="840" y="1838"/>
-      <point x="762" y="1867" type="curve" smooth="yes"/>
-      <point x="683" y="1896"/>
-      <point x="617" y="1920"/>
-      <point x="552" y="1920" type="curve" smooth="yes"/>
-      <point x="420" y="1920"/>
-      <point x="327" y="1779"/>
-      <point x="327" y="1620" type="curve"/>
-    </contour>
-    <contour>
-      <point x="350" y="0" type="line"/>
-      <point x="460" y="355" type="line"/>
-      <point x="1004" y="355" type="line"/>
-      <point x="1115" y="0" type="line"/>
-      <point x="1408" y="0" type="line"/>
-      <point x="1373" y="80"/>
-      <point x="1341" y="168"/>
-      <point x="1278" y="355" type="curve" smooth="yes"/>
-      <point x="908" y="1460" type="line"/>
-      <point x="552" y="1460" type="line"/>
-      <point x="182" y="355" type="line" smooth="yes"/>
-      <point x="119" y="166"/>
-      <point x="88" y="81"/>
-      <point x="52" y="0" type="curve"/>
-    </contour>
-    <contour>
-      <point x="936" y="570" type="line"/>
-      <point x="526" y="570" type="line"/>
-      <point x="730" y="1228" type="line"/>
-    </contour>
+    <component base="LtnCapA"/>
+    <component base="CombTilde" xOffset="1312" yOffset="430"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
 </glyph>
