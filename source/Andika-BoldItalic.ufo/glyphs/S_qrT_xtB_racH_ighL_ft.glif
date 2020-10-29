@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="SqrTxtBracHighLft" format="2">
-  <advance width="780"/>
+  <advance width="800"/>
   <unicode hex="2308"/>
   <outline>
     <contour>
-      <point x="506" y="1470" type="line"/>
-      <point x="234" y="381" type="line"/>
-      <point x="334" y="381" type="line"/>
-      <point x="581" y="1371" type="line"/>
-      <point x="881" y="1371" type="line"/>
-      <point x="906" y="1470" type="line"/>
+      <point x="200" y="1485" type="line"/>
+      <point x="200" y="385" type="line"/>
+      <point x="300" y="385" type="line"/>
+      <point x="300" y="1385" type="line"/>
+      <point x="600" y="1385" type="line"/>
+      <point x="600" y="1485" type="line"/>
     </contour>
   </outline>
 </glyph>
