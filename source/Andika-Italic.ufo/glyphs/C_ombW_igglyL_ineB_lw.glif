@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombWigglyLineBlw" format="2">
   <unicode hex="1AB6"/>
-  <anchor x="-588" y="-29" name="L"/>
-  <anchor x="-688" y="-429" name="_L"/>
+  <anchor x="-677" y="-500" name="L"/>
+  <anchor x="-595" y="-100" name="_L"/>
   <outline>
     <contour>
       <point x="-77" y="-390" type="line"/>
