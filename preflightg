@@ -27,12 +27,4 @@ psfbuildcomp -i source/composites.txt -c -n source/Andika-BoldItalic.ufo -p back
 echo "-----Syncing glyph orders, psnames, and other metadata to other UFOs..."
 psfsyncmasters -q source/AndikaRoman.designspace source/AndikaItalic.designspace
 
- # Fix problem with non-spacing marks due to glyphsLib bug
-echo "-----Fixing width of non-spacing marks..."
-psfremovegliflibkeys -q source/Andika-Regular.ufo com.schriftgestaltung.Glyphs.originalWidth    &
-psfremovegliflibkeys -q source/Andika-Bold.ufo com.schriftgestaltung.Glyphs.originalWidth       &
-psfremovegliflibkeys -q source/Andika-Italic.ufo com.schriftgestaltung.Glyphs.originalWidth     &
-psfremovegliflibkeys -q source/Andika-BoldItalic.ufo com.schriftgestaltung.Glyphs.originalWidth &
-wait
-
 echo "-----Preflight completed!"
