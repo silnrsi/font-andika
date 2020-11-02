@@ -1,26 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ModCapI" format="2">
-  <advance width="496"/>
+  <advance width="668"/>
   <unicode hex="1D35"/>
-  <anchor x="357" y="680" name="H"/>
-  <anchor x="344" y="636" name="L"/>
-  <anchor x="459" y="680" name="O"/>
-  <anchor x="772" y="1202" name="R"/>
-  <anchor x="555" y="1346" name="U"/>
+  <anchor x="432" y="680" name="H"/>
+  <anchor x="414" y="615" name="L"/>
+  <anchor x="569" y="680" name="O"/>
+  <anchor x="990" y="1460" name="R"/>
+  <anchor x="699" y="1674" name="U"/>
   <outline>
     <contour>
-      <point x="367" y="1302" type="line"/>
-      <point x="349" y="1241" type="line"/>
-      <point x="473" y="1241" type="line"/>
-      <point x="325" y="742" type="line"/>
-      <point x="200" y="742" type="line"/>
-      <point x="182" y="680" type="line"/>
-      <point x="533" y="680" type="line"/>
-      <point x="551" y="742" type="line"/>
-      <point x="423" y="742" type="line"/>
-      <point x="572" y="1241" type="line"/>
-      <point x="700" y="1241" type="line"/>
-      <point x="718" y="1302" type="line"/>
+      <point x="445" y="1610" type="line"/>
+      <point x="421" y="1518" type="line"/>
+      <point x="589" y="1518" type="line"/>
+      <point x="388" y="772" type="line"/>
+      <point x="220" y="772" type="line"/>
+      <point x="196" y="680" type="line"/>
+      <point x="668" y="680" type="line"/>
+      <point x="693" y="772" type="line"/>
+      <point x="522" y="772" type="line"/>
+      <point x="722" y="1518" type="line"/>
+      <point x="893" y="1518" type="line"/>
+      <point x="918" y="1610" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
 </glyph>
