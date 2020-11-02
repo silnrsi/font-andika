@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="SupNine" format="2">
-  <advance width="840"/>
+  <advance width="826"/>
   <unicode hex="2079"/>
-  <anchor x="420" y="615" name="L"/>
-  <anchor x="420" y="1675" name="U"/>
+  <anchor x="500" y="615" name="L"/>
+  <anchor x="785" y="1674" name="U"/>
   <outline>
-    <component base="DigitNine" xScale="0.7" yScale="0.65" xOffset="5" yOffset="680"/>
+    <contour>
+      <point x="250" y="741" type="line"/>
+      <point x="286" y="699"/>
+      <point x="388" y="664"/>
+      <point x="471" y="664" type="curve" smooth="yes"/>
+      <point x="839" y="664"/>
+      <point x="1027" y="1018"/>
+      <point x="1027" y="1318" type="curve" smooth="yes"/>
+      <point x="1027" y="1491"/>
+      <point x="929" y="1626"/>
+      <point x="746" y="1626" type="curve" smooth="yes"/>
+      <point x="557" y="1626"/>
+      <point x="352" y="1505"/>
+      <point x="352" y="1286" type="curve" smooth="yes"/>
+      <point x="352" y="1175"/>
+      <point x="438" y="1053"/>
+      <point x="603" y="1053" type="curve" smooth="yes"/>
+      <point x="736" y="1053"/>
+      <point x="865" y="1124"/>
+      <point x="960" y="1226" type="curve"/>
+      <point x="925" y="1279" type="line"/>
+      <point x="853" y="1206"/>
+      <point x="750" y="1164"/>
+      <point x="642" y="1164" type="curve" smooth="yes"/>
+      <point x="549" y="1164"/>
+      <point x="489" y="1221"/>
+      <point x="489" y="1301" type="curve" smooth="yes"/>
+      <point x="489" y="1425"/>
+      <point x="587" y="1515"/>
+      <point x="715" y="1515" type="curve" smooth="yes"/>
+      <point x="839" y="1515"/>
+      <point x="891" y="1407"/>
+      <point x="891" y="1301" type="curve" smooth="yes"/>
+      <point x="891" y="976"/>
+      <point x="672" y="776"/>
+      <point x="487" y="776" type="curve" smooth="yes"/>
+      <point x="427" y="776"/>
+      <point x="349" y="816"/>
+      <point x="314" y="865" type="curve"/>
+    </contour>
   </outline>
 </glyph>

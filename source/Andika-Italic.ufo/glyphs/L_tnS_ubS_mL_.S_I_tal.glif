@@ -1,28 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSubSmL.SItal" format="2">
   <advance width="381"/>
-  <anchor x="85" y="-300" name="H"/>
-  <anchor x="85" y="-365" name="L"/>
-  <anchor x="466" y="415" name="R"/>
-  <anchor x="371" y="763" name="U"/>
+  <anchor x="65" y="-300" name="H"/>
+  <anchor x="65" y="-365" name="L"/>
+  <anchor x="446" y="415" name="R"/>
+  <anchor x="351" y="763" name="U"/>
   <outline>
     <contour>
-      <point x="424" y="719" type="line"/>
-      <point x="280" y="719" type="line"/>
-      <point x="270" y="646"/>
-      <point x="247" y="544"/>
-      <point x="214" y="420" type="curve" smooth="yes"/>
-      <point x="21" y="-300" type="line"/>
-      <point x="164" y="-300" type="line"/>
-      <point x="174" y="-230"/>
-      <point x="209" y="-80"/>
-      <point x="232" y="3" type="curve" smooth="yes"/>
+      <point x="403" y="719" type="line"/>
+      <point x="260" y="719" type="line"/>
+      <point x="250" y="646"/>
+      <point x="227" y="544"/>
+      <point x="194" y="420" type="curve" smooth="yes"/>
+      <point x="1" y="-300" type="line"/>
+      <point x="144" y="-300" type="line"/>
+      <point x="154" y="-230"/>
+      <point x="189" y="-80"/>
+      <point x="212" y="3" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>

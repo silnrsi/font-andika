@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="SubEqSgn" format="2">
-  <advance width="840"/>
+  <advance width="826"/>
   <unicode hex="208C"/>
   <outline>
-    <component base="EqSgn" xScale="0.7" yScale="0.65" xOffset="5" yOffset="-300"/>
+    <contour>
+      <point x="28" y="-17" type="line"/>
+      <point x="700" y="-17" type="line"/>
+      <point x="736" y="118" type="line"/>
+      <point x="64" y="118" type="line"/>
+    </contour>
+    <contour>
+      <point x="91" y="221" type="line"/>
+      <point x="763" y="221" type="line"/>
+      <point x="800" y="356" type="line"/>
+      <point x="128" y="356" type="line"/>
+    </contour>
   </outline>
 </glyph>

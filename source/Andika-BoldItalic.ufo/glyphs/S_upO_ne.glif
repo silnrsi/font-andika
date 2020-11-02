@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="SupOne" format="2">
-  <advance width="820"/>
+  <advance width="826"/>
   <unicode hex="00B9"/>
-  <anchor x="513" y="615" name="L"/>
-  <anchor x="778" y="1675" name="U"/>
+  <anchor x="500" y="615" name="L"/>
+  <anchor x="785" y="1674" name="U"/>
   <outline>
     <contour>
-      <point x="432" y="824" type="line"/>
-      <point x="217" y="824" type="line"/>
-      <point x="177" y="673" type="line"/>
-      <point x="800" y="673" type="line"/>
-      <point x="840" y="824" type="line"/>
-      <point x="624" y="824" type="line"/>
-      <point x="836" y="1612" type="line"/>
-      <point x="643" y="1612" type="line"/>
-      <point x="391" y="1495" type="line"/>
-      <point x="371" y="1328" type="line"/>
-      <point x="593" y="1426" type="line"/>
+      <point x="483" y="831" type="line"/>
+      <point x="268" y="831" type="line"/>
+      <point x="228" y="680" type="line"/>
+      <point x="850" y="680" type="line"/>
+      <point x="891" y="831" type="line"/>
+      <point x="676" y="831" type="line"/>
+      <point x="887" y="1619" type="line"/>
+      <point x="694" y="1619" type="line"/>
+      <point x="442" y="1502" type="line"/>
+      <point x="422" y="1335" type="line"/>
+      <point x="644" y="1433" type="line"/>
     </contour>
   </outline>
 </glyph>

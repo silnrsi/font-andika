@@ -1,8 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="SupLftParen" format="2">
-  <advance width="556"/>
+  <advance width="542"/>
   <unicode hex="207D"/>
   <outline>
-    <component base="LftParen" xScale="0.7" yScale="0.65" xOffset="5" yOffset="720"/>
+    <contour>
+      <point x="766" y="1725" type="line"/>
+      <point x="547" y="1600"/>
+      <point x="360" y="1370"/>
+      <point x="285" y="1091" type="curve" smooth="yes"/>
+      <point x="263" y="1010"/>
+      <point x="253" y="931"/>
+      <point x="253" y="856" type="curve" smooth="yes"/>
+      <point x="253" y="691"/>
+      <point x="303" y="543"/>
+      <point x="402" y="419" type="curve"/>
+      <point x="494" y="511" type="line"/>
+      <point x="418" y="614"/>
+      <point x="384" y="729"/>
+      <point x="384" y="856" type="curve" smooth="yes"/>
+      <point x="384" y="930"/>
+      <point x="396" y="1009"/>
+      <point x="418" y="1091" type="curve" smooth="yes"/>
+      <point x="479" y="1318"/>
+      <point x="593" y="1495"/>
+      <point x="792" y="1626" type="curve"/>
+    </contour>
   </outline>
 </glyph>

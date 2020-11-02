@@ -135,7 +135,7 @@
       <key>scaleY</key>
       <real>0.65</real>
       <key>shiftX</key>
-      <integer>-70</integer>
+      <integer>-90</integer>
       <key>shiftY</key>
       <integer>-300</integer>
     </dict>
@@ -146,7 +146,7 @@
       <key>scaleY</key>
       <real>0.65</real>
       <key>shiftX</key>
-      <integer>100</integer>
+      <integer>140</integer>
       <key>shiftY</key>
       <integer>680</integer>
     </dict>
@@ -157,7 +157,7 @@
       <key>scaleY</key>
       <real>0.435</real>
       <key>shiftX</key>
-      <integer>100</integer>
+      <integer>140</integer>
       <key>shiftY</key>
       <integer>680</integer>
     </dict>

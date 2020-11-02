@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ModCapRevE" format="2">
-  <advance width="848"/>
+  <advance width="619"/>
   <unicode hex="1D32"/>
-  <anchor x="397" y="615" name="L"/>
-  <anchor x="397" y="1675" name="U"/>
+  <anchor x="397" y="636" name="L"/>
+  <anchor x="609" y="1346" name="U"/>
   <outline>
-    <component base="LtnCapRevE" xScale="0.7" yScale="0.65" xOffset="5" yOffset="680"/>
+    <contour>
+      <point x="332" y="1057" type="line"/>
+      <point x="304" y="960" type="line"/>
+      <point x="588" y="960" type="line"/>
+      <point x="534" y="779" type="line"/>
+      <point x="400" y="779" type="line" smooth="yes"/>
+      <point x="301" y="779"/>
+      <point x="236" y="780"/>
+      <point x="197" y="786" type="curve"/>
+      <point x="166" y="680" type="line"/>
+      <point x="661" y="680" type="line"/>
+      <point x="663" y="714"/>
+      <point x="683" y="783"/>
+      <point x="709" y="867" type="curve" smooth="yes"/>
+      <point x="785" y="1122" type="line" smooth="yes"/>
+      <point x="810" y="1206"/>
+      <point x="830" y="1274"/>
+      <point x="848" y="1309" type="curve"/>
+      <point x="369" y="1309" type="line"/>
+      <point x="339" y="1210" type="line"/>
+      <point x="663" y="1210" type="line"/>
+      <point x="617" y="1057" type="line"/>
+    </contour>
   </outline>
 </glyph>

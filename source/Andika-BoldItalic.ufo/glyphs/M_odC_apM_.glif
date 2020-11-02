@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ModCapM" format="2">
-  <advance width="1298"/>
+  <advance width="954"/>
   <unicode hex="1D39"/>
-  <anchor x="624" y="615" name="L"/>
-  <anchor x="624" y="1675" name="U"/>
+  <anchor x="572" y="636" name="L"/>
+  <anchor x="782" y="1346" name="U"/>
   <outline>
-    <component base="LtnCapM" xScale="0.7" yScale="0.65" xOffset="5" yOffset="680"/>
+    <contour>
+      <point x="618" y="798" type="line"/>
+      <point x="590" y="1309" type="line"/>
+      <point x="460" y="1309" type="line"/>
+      <point x="485" y="1184" type="line"/>
+      <point x="509" y="680" type="line"/>
+      <point x="663" y="680" type="line"/>
+      <point x="985" y="1184" type="line"/>
+      <point x="1085" y="1309" type="line"/>
+      <point x="946" y="1309" type="line"/>
+    </contour>
+    <contour>
+      <point x="410" y="1309" type="line"/>
+      <point x="410" y="1309"/>
+      <point x="225" y="765"/>
+      <point x="187" y="680" type="curve"/>
+      <point x="327" y="680" type="line"/>
+      <point x="497" y="1199" type="line"/>
+      <point x="548" y="1309" type="line"/>
+    </contour>
+    <contour>
+      <point x="988" y="680" type="line"/>
+      <point x="997" y="765"/>
+      <point x="1133" y="1309"/>
+      <point x="1133" y="1309" type="curve"/>
+      <point x="993" y="1309" type="line"/>
+      <point x="983" y="1199" type="line"/>
+      <point x="847" y="680" type="line"/>
+    </contour>
   </outline>
 </glyph>

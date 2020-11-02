@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="SupPlusSgn" format="2">
-  <advance width="840"/>
+  <advance width="826"/>
   <unicode hex="207A"/>
   <outline>
-    <component base="PlusSgn" xScale="0.7" yScale="0.65" xOffset="5" yOffset="680"/>
+    <contour>
+      <point x="645" y="1439" type="line"/>
+      <point x="490" y="863" type="line"/>
+      <point x="640" y="863" type="line"/>
+      <point x="795" y="1439" type="line"/>
+    </contour>
+    <contour>
+      <point x="315" y="1086" type="line"/>
+      <point x="938" y="1086" type="line"/>
+      <point x="974" y="1221" type="line"/>
+      <point x="351" y="1221" type="line"/>
+    </contour>
   </outline>
 </glyph>

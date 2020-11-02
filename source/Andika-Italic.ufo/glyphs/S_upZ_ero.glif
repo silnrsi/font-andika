@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="SupZero" format="2">
-  <advance width="840"/>
+  <advance width="826"/>
   <unicode hex="2070"/>
-  <anchor x="420" y="615" name="L"/>
-  <anchor x="420" y="1675" name="U"/>
+  <anchor x="504" y="615" name="L"/>
+  <anchor x="789" y="1674" name="U"/>
   <outline>
-    <component base="DigitZero" xScale="0.7" yScale="0.65" xOffset="5" yOffset="680"/>
+    <contour>
+      <point x="857" y="1142" type="curve" smooth="yes"/>
+      <point x="788" y="883"/>
+      <point x="663" y="772"/>
+      <point x="536" y="772" type="curve" smooth="yes"/>
+      <point x="442" y="772"/>
+      <point x="392" y="822"/>
+      <point x="392" y="929" type="curve" smooth="yes"/>
+      <point x="392" y="984"/>
+      <point x="404" y="1056"/>
+      <point x="428" y="1148" type="curve" smooth="yes"/>
+      <point x="498" y="1408"/>
+      <point x="615" y="1518"/>
+      <point x="750" y="1518" type="curve" smooth="yes"/>
+      <point x="844" y="1518"/>
+      <point x="894" y="1475"/>
+      <point x="894" y="1363" type="curve" smooth="yes"/>
+      <point x="894" y="1308"/>
+      <point x="882" y="1235"/>
+    </contour>
+    <contour>
+      <point x="1001" y="1145" type="curve" smooth="yes"/>
+      <point x="1023" y="1227"/>
+      <point x="1033" y="1297"/>
+      <point x="1033" y="1356" type="curve" smooth="yes"/>
+      <point x="1033" y="1548"/>
+      <point x="927" y="1626"/>
+      <point x="771" y="1626" type="curve" smooth="yes"/>
+      <point x="569" y="1626"/>
+      <point x="381" y="1504"/>
+      <point x="284" y="1145" type="curve" smooth="yes"/>
+      <point x="261" y="1060"/>
+      <point x="251" y="988"/>
+      <point x="251" y="928" type="curve" smooth="yes"/>
+      <point x="251" y="748"/>
+      <point x="359" y="664"/>
+      <point x="513" y="664" type="curve" smooth="yes"/>
+      <point x="703" y="664"/>
+      <point x="900" y="770"/>
+    </contour>
   </outline>
 </glyph>

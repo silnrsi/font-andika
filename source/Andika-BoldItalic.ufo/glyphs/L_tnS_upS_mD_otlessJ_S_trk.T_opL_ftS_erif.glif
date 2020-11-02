@@ -1,9 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSupSmDotlessJStrk.TopLftSerif" format="2">
-  <advance width="635"/>
-  <anchor x="175" y="345" name="L"/>
-  <anchor x="335" y="1395" name="U"/>
+  <advance width="623"/>
+  <anchor x="200" y="355" name="L"/>
+  <anchor x="833" y="1330" name="R"/>
+  <anchor x="553" y="1395" name="U"/>
   <outline>
-    <component base="LtnSmDotlessJStrk.TopLftSerif" xScale="0.7" yScale="0.65" xOffset="7" yOffset="680"/>
+    <contour>
+      <point x="259" y="1110" type="line"/>
+      <point x="224" y="982" type="line"/>
+      <point x="774" y="982" type="line"/>
+      <point x="808" y="1110" type="line"/>
+    </contour>
+    <contour>
+      <point x="298" y="1336" type="line"/>
+      <point x="263" y="1205" type="line"/>
+      <point x="492" y="1205" type="line"/>
+      <point x="472" y="1070"/>
+      <point x="433" y="874"/>
+      <point x="396" y="737" type="curve" smooth="yes"/>
+      <point x="356" y="592"/>
+      <point x="290" y="536"/>
+      <point x="213" y="536" type="curve" smooth="yes"/>
+      <point x="156" y="536"/>
+      <point x="100" y="558"/>
+      <point x="76" y="582" type="curve"/>
+      <point x="4" y="430" type="line"/>
+      <point x="27" y="409"/>
+      <point x="132" y="378"/>
+      <point x="197" y="378" type="curve" smooth="yes"/>
+      <point x="371" y="378"/>
+      <point x="524" y="488"/>
+      <point x="589" y="729" type="curve" smooth="yes"/>
+      <point x="603" y="782"/>
+      <point x="704" y="1253"/>
+      <point x="704" y="1336" type="curve"/>
+    </contour>
   </outline>
 </glyph>

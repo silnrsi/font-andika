@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ModSmGrGamma" format="2">
-  <advance width="783"/>
+  <advance width="772"/>
   <unicode hex="1D5E"/>
-  <anchor x="415" y="345" name="L"/>
-  <anchor x="400" y="1395" name="U"/>
+  <anchor x="424" y="332" name="L"/>
+  <anchor x="656" y="1395" name="U"/>
   <outline>
-    <component base="GrSmGamma" xScale="0.7" yScale="0.65" xOffset="5" yOffset="680"/>
+    <contour>
+      <point x="794" y="1336" type="line"/>
+      <point x="796" y="1324"/>
+      <point x="797" y="1310"/>
+      <point x="797" y="1295" type="curve" smooth="yes"/>
+      <point x="797" y="1134"/>
+      <point x="668" y="924"/>
+      <point x="467" y="717" type="curve"/>
+      <point x="547" y="601" type="line"/>
+      <point x="766" y="828"/>
+      <point x="1009" y="1101"/>
+      <point x="1009" y="1314" type="curve" smooth="yes"/>
+      <point x="1009" y="1322"/>
+      <point x="1009" y="1329"/>
+      <point x="1008" y="1336" type="curve"/>
+    </contour>
+    <contour>
+      <point x="272" y="1336" type="line"/>
+      <point x="370" y="1181"/>
+      <point x="412" y="943"/>
+      <point x="412" y="718" type="curve" smooth="yes"/>
+      <point x="412" y="705"/>
+      <point x="412" y="692"/>
+      <point x="412" y="680" type="curve"/>
+      <point x="372" y="549"/>
+      <point x="326" y="425"/>
+      <point x="326" y="365" type="curve"/>
+      <point x="536" y="365" type="line"/>
+      <point x="535" y="372"/>
+      <point x="534" y="380"/>
+      <point x="534" y="388" type="curve" smooth="yes"/>
+      <point x="534" y="449"/>
+      <point x="557" y="516"/>
+      <point x="568" y="556" type="curve" smooth="yes"/>
+      <point x="595" y="655" type="line"/>
+      <point x="596" y="677"/>
+      <point x="596" y="700"/>
+      <point x="596" y="722" type="curve" smooth="yes"/>
+      <point x="596" y="965"/>
+      <point x="567" y="1213"/>
+      <point x="482" y="1336" type="curve"/>
+    </contour>
   </outline>
 </glyph>

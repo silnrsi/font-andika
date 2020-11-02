@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ModSmCapIStrk" format="2">
-  <advance width="634"/>
+  <advance width="597"/>
   <unicode hex="1DA7"/>
-  <anchor x="315" y="615" name="L"/>
-  <anchor x="315" y="1395" name="U"/>
+  <anchor x="410" y="615" name="L"/>
+  <anchor x="581" y="1395" name="U"/>
   <outline>
-    <component base="LtnSmCapIStrk" xScale="0.7" yScale="0.65" xOffset="5" yOffset="680"/>
+    <contour>
+      <point x="299" y="1051" type="line"/>
+      <point x="281" y="987" type="line"/>
+      <point x="697" y="987" type="line"/>
+      <point x="715" y="1051" type="line"/>
+    </contour>
+    <contour>
+      <point x="388" y="1330" type="line"/>
+      <point x="366" y="1246" type="line"/>
+      <point x="496" y="1246" type="line"/>
+      <point x="365" y="763" type="line"/>
+      <point x="236" y="763" type="line"/>
+      <point x="214" y="680" type="line"/>
+      <point x="606" y="680" type="line"/>
+      <point x="628" y="763" type="line"/>
+      <point x="496" y="763" type="line"/>
+      <point x="626" y="1246" type="line"/>
+      <point x="758" y="1246" type="line"/>
+      <point x="780" y="1330" type="line"/>
+    </contour>
   </outline>
 </glyph>

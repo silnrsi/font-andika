@@ -2,31 +2,25 @@
 <glyph name="LtnSupSmCapI" format="2">
   <advance width="574"/>
   <unicode hex="1DA6"/>
-  <anchor x="352" y="680" name="H"/>
-  <anchor x="352" y="615" name="L"/>
-  <anchor x="460" y="680" name="O"/>
-  <anchor x="692" y="1258" name="R"/>
-  <anchor x="542" y="1389" name="U"/>
+  <anchor x="392" y="680" name="H"/>
+  <anchor x="392" y="615" name="L"/>
+  <anchor x="500" y="680" name="O"/>
+  <anchor x="732" y="1258" name="R"/>
+  <anchor x="582" y="1389" name="U"/>
   <outline>
     <contour>
-      <point x="334" y="1330" type="line"/>
-      <point x="311" y="1246" type="line"/>
-      <point x="441" y="1246" type="line"/>
-      <point x="311" y="763" type="line"/>
-      <point x="181" y="763" type="line"/>
-      <point x="160" y="680" type="line"/>
-      <point x="552" y="680" type="line"/>
-      <point x="573" y="763" type="line"/>
-      <point x="442" y="763" type="line"/>
-      <point x="572" y="1246" type="line"/>
-      <point x="703" y="1246" type="line"/>
-      <point x="726" y="1330" type="line"/>
+      <point x="374" y="1330" type="line"/>
+      <point x="351" y="1246" type="line"/>
+      <point x="481" y="1246" type="line"/>
+      <point x="351" y="763" type="line"/>
+      <point x="221" y="763" type="line"/>
+      <point x="200" y="680" type="line"/>
+      <point x="592" y="680" type="line"/>
+      <point x="613" y="763" type="line"/>
+      <point x="482" y="763" type="line"/>
+      <point x="612" y="1246" type="line"/>
+      <point x="743" y="1246" type="line"/>
+      <point x="766" y="1330" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>

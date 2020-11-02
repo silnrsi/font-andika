@@ -1,9 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="SupZero.Slash" format="2">
-  <advance width="840"/>
-  <anchor x="420" y="615" name="L"/>
-  <anchor x="420" y="1675" name="U"/>
+  <advance width="826"/>
+  <anchor x="504" y="615" name="L"/>
+  <anchor x="789" y="1674" name="U"/>
   <outline>
-    <component base="DigitZero.Slash" xScale="0.7" yScale="0.65" xOffset="5" yOffset="680"/>
+    <contour>
+      <point x="1001" y="1145" type="curve" smooth="yes"/>
+      <point x="1023" y="1227"/>
+      <point x="1033" y="1297"/>
+      <point x="1033" y="1356" type="curve" smooth="yes"/>
+      <point x="1033" y="1548"/>
+      <point x="927" y="1626"/>
+      <point x="771" y="1626" type="curve" smooth="yes"/>
+      <point x="569" y="1626"/>
+      <point x="381" y="1504"/>
+      <point x="284" y="1145" type="curve" smooth="yes"/>
+      <point x="261" y="1060"/>
+      <point x="251" y="988"/>
+      <point x="251" y="928" type="curve" smooth="yes"/>
+      <point x="251" y="748"/>
+      <point x="359" y="664"/>
+      <point x="513" y="664" type="curve" smooth="yes"/>
+      <point x="703" y="664"/>
+      <point x="900" y="770"/>
+    </contour>
+    <contour>
+      <point x="386" y="945" type="line"/>
+      <point x="388" y="996"/>
+      <point x="400" y="1070"/>
+      <point x="421" y="1148" type="curve" smooth="yes"/>
+      <point x="491" y="1408"/>
+      <point x="615" y="1518"/>
+      <point x="750" y="1518" type="curve" smooth="yes"/>
+      <point x="811" y="1518"/>
+      <point x="861" y="1494"/>
+      <point x="878" y="1446" type="curve"/>
+    </contour>
+    <contour>
+      <point x="901" y="1351" type="line"/>
+      <point x="899" y="1298"/>
+      <point x="888" y="1230"/>
+      <point x="864" y="1142" type="curve" smooth="yes"/>
+      <point x="794" y="883"/>
+      <point x="663" y="772"/>
+      <point x="536" y="772" type="curve" smooth="yes"/>
+      <point x="471" y="772"/>
+      <point x="424" y="787"/>
+      <point x="402" y="846" type="curve"/>
+    </contour>
   </outline>
 </glyph>

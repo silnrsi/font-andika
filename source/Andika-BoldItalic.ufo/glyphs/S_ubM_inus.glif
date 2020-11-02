@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="SubMinus" format="2">
-  <advance width="602"/>
+  <advance width="612"/>
   <unicode hex="208B"/>
+  <anchor x="375" y="415" name="U"/>
   <outline>
-    <component base="HyphenMinus" xScale="0.7" yScale="0.65" xOffset="5" yOffset="-240"/>
+    <contour>
+      <point x="14" y="38" type="line"/>
+      <point x="529" y="38" type="line"/>
+      <point x="565" y="173" type="line"/>
+      <point x="51" y="173" type="line"/>
+    </contour>
   </outline>
 </glyph>

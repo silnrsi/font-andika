@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="SupFour.Open" format="2">
-  <advance width="840"/>
-  <anchor x="420" y="615" name="L"/>
-  <anchor x="420" y="1675" name="U"/>
+  <advance width="826"/>
+  <anchor x="505" y="615" name="L"/>
+  <anchor x="790" y="1674" name="U"/>
   <outline>
-    <component base="DigitFour.Open" xScale="0.7" yScale="0.65" xOffset="5" yOffset="680"/>
+    <contour>
+      <point x="1008" y="1060" type="line"/>
+      <point x="434" y="1060" type="line"/>
+      <point x="648" y="1619" type="line"/>
+      <point x="462" y="1619" type="line"/>
+      <point x="203" y="915" type="line"/>
+      <point x="970" y="915" type="line"/>
+    </contour>
+    <contour>
+      <point x="998" y="1439" type="line"/>
+      <point x="813" y="1439" type="line"/>
+      <point x="609" y="680" type="line"/>
+      <point x="794" y="680" type="line"/>
+    </contour>
   </outline>
 </glyph>

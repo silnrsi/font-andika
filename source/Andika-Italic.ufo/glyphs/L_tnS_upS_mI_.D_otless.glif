@@ -1,10 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSupSmI.Dotless" format="2">
-  <advance width="371"/>
-  <anchor x="190" y="615" name="L"/>
-  <anchor x="371" y="1320" name="R"/>
-  <anchor x="190" y="1395" name="U"/>
+  <advance width="387"/>
+  <anchor x="298" y="680" name="H"/>
+  <anchor x="280" y="615" name="L"/>
+  <anchor x="462" y="680" name="O"/>
+  <anchor x="658" y="1330" name="R"/>
+  <anchor x="476" y="1395" name="U"/>
   <outline>
-    <component base="LtnSmDotlessI" xScale="0.7" yScale="0.65" xOffset="-15" yOffset="680"/>
+    <contour>
+      <point x="374" y="1330" type="line"/>
+      <point x="374" y="1256"/>
+      <point x="340" y="1127"/>
+      <point x="312" y="1029" type="curve" smooth="yes"/>
+      <point x="285" y="932" type="line" smooth="yes"/>
+      <point x="266" y="865"/>
+      <point x="256" y="792"/>
+      <point x="256" y="737" type="curve" smooth="yes"/>
+      <point x="256" y="714"/>
+      <point x="257" y="696"/>
+      <point x="260" y="680" type="curve"/>
+      <point x="400" y="680" type="line"/>
+      <point x="396" y="704"/>
+      <point x="392" y="735"/>
+      <point x="392" y="768" type="curve" smooth="yes"/>
+      <point x="392" y="815"/>
+      <point x="398" y="867"/>
+      <point x="410" y="912" type="curve" smooth="yes"/>
+      <point x="442" y="1028" type="line" smooth="yes"/>
+      <point x="473" y="1143"/>
+      <point x="508" y="1273"/>
+      <point x="508" y="1330" type="curve"/>
+    </contour>
   </outline>
 </glyph>
