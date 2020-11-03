@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombRtArrwhdAbv" format="2">
   <unicode hex="0350"/>
-  <anchor x="-630" y="1940" name="U"/>
-  <anchor x="-630" y="1100" name="_U"/>
+  <anchor x="-260" y="1940" name="U"/>
+  <anchor x="-490" y="1100" name="_U"/>
   <outline>
     <component base="ModRtArrwhd" xOffset="-1144" yOffset="323"/>
   </outline>

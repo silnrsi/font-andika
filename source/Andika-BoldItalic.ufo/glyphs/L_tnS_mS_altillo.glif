@@ -2,6 +2,8 @@
 <glyph name="LtnSmSaltillo" format="2">
   <advance width="659"/>
   <unicode hex="A78C"/>
+  <anchor x="300" y="70" name="L"/>
+  <anchor x="680" y="1635" name="U"/>
   <outline>
     <contour>
       <point x="551" y="636" type="line"/>

@@ -2,8 +2,8 @@
 <glyph name="CySmCapEl" format="2">
   <advance width="1231"/>
   <unicode hex="1D2B"/>
-  <anchor x="643" y="-100" name="L"/>
-  <anchor x="643" y="1100" name="U"/>
+  <anchor x="683" y="-100" name="L"/>
+  <anchor x="763" y="1100" name="U"/>
   <outline>
     <contour>
       <point x="896" y="875" type="line"/>

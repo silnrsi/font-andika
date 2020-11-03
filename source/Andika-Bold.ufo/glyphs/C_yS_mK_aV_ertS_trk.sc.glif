@@ -23,18 +23,6 @@
       <point x="719" y="276" type="line"/>
     </contour>
     <contour>
-      <point x="425" y="1221" type="line"/>
-      <point x="139" y="1221" type="line"/>
-      <point x="153" y="1154"/>
-      <point x="153" y="1022"/>
-      <point x="153" y="857" type="curve" smooth="yes"/>
-      <point x="153" y="364" type="line" smooth="yes"/>
-      <point x="153" y="199"/>
-      <point x="153" y="67"/>
-      <point x="139" y="0" type="curve"/>
-      <point x="425" y="0" type="line"/>
-    </contour>
-    <contour>
       <point x="351" y="528" type="line"/>
       <point x="676" y="528" type="line"/>
       <point x="746" y="528"/>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombRtArrwhdDwnArrwhdBlw" format="2">
   <unicode hex="1DFF"/>
-  <anchor x="-552" y="-850" name="L"/>
-  <anchor x="-552" y="-100" name="_L"/>
+  <anchor x="-782" y="-850" name="L"/>
+  <anchor x="-612" y="-100" name="_L"/>
   <outline>
     <contour>
       <point x="159" y="-132" type="line"/>

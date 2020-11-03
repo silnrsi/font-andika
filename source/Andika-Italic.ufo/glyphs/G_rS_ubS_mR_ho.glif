@@ -2,6 +2,8 @@
 <glyph name="GrSubSmRho" format="2">
   <advance width="756"/>
   <unicode hex="1D68"/>
+  <anchor x="230" y="-645" name="L"/>
+  <anchor x="480" y="450" name="U"/>
   <outline>
     <contour>
       <point x="60" y="-612" type="line"/>
