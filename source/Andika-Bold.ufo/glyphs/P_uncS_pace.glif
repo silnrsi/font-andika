@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="PuncSpace" format="2">
-  <advance width="645"/>
+  <advance width="710"/>
   <unicode hex="2008"/>
   <anchor x="322" y="0" name="H"/>
   <anchor x="322" y="-100" name="L"/>
