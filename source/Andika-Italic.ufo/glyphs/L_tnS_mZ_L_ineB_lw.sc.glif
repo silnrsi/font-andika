@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmZLineBlw.sc" format="2">
   <advance width="1133"/>
-  <anchor x="430" y="-484" name="L"/>
+  <anchor x="450" y="-434" name="L"/>
   <anchor x="859" y="1279" name="U"/>
   <outline>
     <component base="LtnSmZ.sc"/>

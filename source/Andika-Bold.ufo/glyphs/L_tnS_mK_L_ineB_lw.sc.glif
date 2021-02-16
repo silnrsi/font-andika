@@ -2,7 +2,7 @@
 <glyph name="LtnSmKLineBlw.sc" format="2">
   <advance width="1335"/>
   <anchor x="300" y="0" name="H"/>
-  <anchor x="687" y="-484" name="L"/>
+  <anchor x="687" y="-434" name="L"/>
   <anchor x="673" y="1279" name="U"/>
   <outline>
     <component base="LtnSmK.sc"/>

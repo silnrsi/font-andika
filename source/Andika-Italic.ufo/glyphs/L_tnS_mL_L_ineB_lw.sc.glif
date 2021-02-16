@@ -2,7 +2,7 @@
 <glyph name="LtnSmLLineBlw.sc" format="2">
   <advance width="995"/>
   <anchor x="495" y="0" name="H"/>
-  <anchor x="371" y="-484" name="L"/>
+  <anchor x="391" y="-434" name="L"/>
   <anchor x="724" y="1003" name="R"/>
   <anchor x="848" y="1279" name="U"/>
   <outline>

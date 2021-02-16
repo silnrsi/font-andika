@@ -2,7 +2,7 @@
 <glyph name="LtnCapZLineBlw" format="2">
   <advance width="1230"/>
   <unicode hex="1E94"/>
-  <anchor x="450" y="-500" name="L"/>
+  <anchor x="470" y="-450" name="L"/>
   <anchor x="932" y="1530" name="U"/>
   <outline>
     <component base="LtnCapZ"/>
