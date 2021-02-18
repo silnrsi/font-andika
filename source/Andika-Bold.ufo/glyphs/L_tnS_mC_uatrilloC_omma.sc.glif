@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmCuatrilloComma.sc" format="2">
   <advance width="1275"/>
-  <anchor x="517" y="-418" name="L"/>
-  <anchor x="583" y="1279" name="U"/>
   <outline>
     <contour>
       <point x="1009" y="72" type="line"/>

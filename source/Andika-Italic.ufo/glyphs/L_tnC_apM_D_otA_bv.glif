@@ -2,6 +2,7 @@
 <glyph name="LtnCapMDotAbv" format="2">
   <advance width="1785"/>
   <unicode hex="1E40"/>
+  <anchor x="1463" y="0" name="H"/>
   <anchor x="800" y="-100" name="L"/>
   <anchor x="1310" y="1935" name="U"/>
   <outline>

@@ -2,6 +2,7 @@
 <glyph name="LtnSmGCircum.SngBowl" format="2">
   <advance width="1109"/>
   <unicode hex="011D"/>
+  <anchor x="415" y="-432" name="H"/>
   <anchor x="400" y="-500" name="L"/>
   <anchor x="1315" y="1000" name="R"/>
   <anchor x="909" y="1635" name="U"/>

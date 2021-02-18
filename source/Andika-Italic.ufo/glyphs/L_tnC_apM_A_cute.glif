@@ -2,6 +2,7 @@
 <glyph name="LtnCapMAcute" format="2">
   <advance width="1785"/>
   <unicode hex="1E3E"/>
+  <anchor x="1463" y="0" name="H"/>
   <anchor x="800" y="-100" name="L"/>
   <anchor x="1341" y="2065" name="U"/>
   <outline>

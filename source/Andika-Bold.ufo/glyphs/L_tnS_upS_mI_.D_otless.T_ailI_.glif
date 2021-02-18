@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSupSmI.Dotless.TailI" format="2">
   <advance width="493"/>
-  <anchor x="320" y="680" name="H"/>
   <anchor x="320" y="615" name="L"/>
-  <anchor x="534" y="680" name="O"/>
-  <anchor x="456" y="1330" name="R"/>
+  <anchor x="354" y="680" name="O"/>
   <anchor x="222" y="1395" name="U"/>
   <outline>
     <contour>

@@ -2,6 +2,7 @@
 <glyph name="LtnSmGCaron.SngBowl" format="2">
   <advance width="1183"/>
   <unicode hex="01E7"/>
+  <anchor x="455" y="-432" name="H"/>
   <anchor x="440" y="-500" name="L"/>
   <anchor x="1375" y="1000" name="R"/>
   <anchor x="999" y="1635" name="U"/>

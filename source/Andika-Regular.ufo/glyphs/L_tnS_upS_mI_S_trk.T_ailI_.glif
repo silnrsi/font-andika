@@ -2,6 +2,7 @@
 <glyph name="LtnSupSmIStrk.TailI" format="2">
   <advance width="535"/>
   <anchor x="360" y="615" name="L"/>
+  <anchor x="388" y="680" name="O"/>
   <anchor x="285" y="1675" name="U"/>
   <outline>
     <contour>

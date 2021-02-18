@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmMDotBlw.sc" format="2">
   <advance width="1708"/>
+  <anchor x="1382" y="0" name="H"/>
   <anchor x="670" y="-484" name="L"/>
   <anchor x="1142" y="1279" name="U"/>
   <outline>

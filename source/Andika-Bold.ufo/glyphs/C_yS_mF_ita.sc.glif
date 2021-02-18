@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CySmFita.sc" format="2">
   <advance width="1400"/>
-  <anchor x="678" y="-84" name="L"/>
-  <anchor x="678" y="1279" name="U"/>
   <outline>
     <contour>
       <point x="1285" y="619" type="curve" smooth="yes"/>
