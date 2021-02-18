@@ -2,7 +2,6 @@
 <glyph name="LtnSubSmI.Dotless.TailI" format="2">
   <advance width="451"/>
   <anchor x="275" y="-365" name="L"/>
-  <anchor x="334" y="-300" name="O"/>
   <anchor x="200" y="435" name="U"/>
   <outline>
     <contour>

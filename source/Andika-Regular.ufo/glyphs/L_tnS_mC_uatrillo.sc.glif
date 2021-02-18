@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmCuatrillo.sc" format="2">
   <advance width="1124"/>
+  <anchor x="577" y="-454" name="L"/>
+  <anchor x="577" y="1279" name="U"/>
   <outline>
     <contour>
       <point x="1057" y="326" type="line"/>

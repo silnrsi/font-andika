@@ -2,10 +2,7 @@
 <glyph name="ModSmIota" format="2">
   <advance width="567"/>
   <unicode hex="1DA5"/>
-  <anchor x="350" y="680" name="H"/>
   <anchor x="350" y="615" name="L"/>
-  <anchor x="648" y="680" name="O"/>
-  <anchor x="682" y="1330" name="R"/>
   <anchor x="480" y="1395" name="U"/>
   <outline>
     <contour>

@@ -2,7 +2,6 @@
 <glyph name="LtnSupSmDotlessJStrk.TopLftSerif" format="2">
   <advance width="623"/>
   <anchor x="200" y="355" name="L"/>
-  <anchor x="833" y="1330" name="R"/>
   <anchor x="553" y="1395" name="U"/>
   <outline>
     <contour>

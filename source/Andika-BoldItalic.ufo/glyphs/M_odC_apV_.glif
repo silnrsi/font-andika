@@ -2,9 +2,7 @@
 <glyph name="ModCapV" format="2">
   <advance width="1011"/>
   <unicode hex="2C7D"/>
-  <anchor x="609" y="680" name="H"/>
   <anchor x="586" y="615" name="L"/>
-  <anchor x="749" y="680" name="O"/>
   <anchor x="872" y="1674" name="U"/>
   <outline>
     <contour>

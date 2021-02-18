@@ -2,7 +2,6 @@
 <glyph name="ModCapR" format="2">
   <advance width="951"/>
   <unicode hex="1D3F"/>
-  <anchor x="581" y="680" name="H"/>
   <anchor x="564" y="615" name="L"/>
   <anchor x="826" y="1674" name="U"/>
   <outline>

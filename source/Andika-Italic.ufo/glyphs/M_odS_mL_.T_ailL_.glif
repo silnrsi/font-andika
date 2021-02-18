@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ModSmL.TailL" format="2">
   <advance width="451"/>
-  <anchor x="378" y="680" name="H"/>
   <anchor x="360" y="615" name="L"/>
-  <anchor x="661" y="1330" name="R"/>
   <anchor x="560" y="1743" name="U"/>
   <outline>
     <contour>

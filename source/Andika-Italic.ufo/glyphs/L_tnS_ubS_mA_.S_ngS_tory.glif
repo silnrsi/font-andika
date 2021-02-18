@@ -2,10 +2,7 @@
 <glyph name="LtnSubSmA.SngStory" format="2">
   <advance width="792"/>
   <unicode hex="2090"/>
-  <anchor x="540" y="-300" name="H"/>
   <anchor x="267" y="-365" name="L"/>
-  <anchor x="680" y="-300" name="O"/>
-  <anchor x="848" y="350" name="R"/>
   <anchor x="477" y="415" name="U"/>
   <outline>
     <contour>

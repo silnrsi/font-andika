@@ -2,9 +2,7 @@
 <glyph name="LtnSupSmP" format="2">
   <advance width="829"/>
   <unicode hex="1D56"/>
-  <anchor x="214" y="397" name="H"/>
   <anchor x="424" y="355" name="L"/>
-  <anchor x="1092" y="1330" name="R"/>
   <anchor x="704" y="1395" name="U"/>
   <outline>
     <contour>

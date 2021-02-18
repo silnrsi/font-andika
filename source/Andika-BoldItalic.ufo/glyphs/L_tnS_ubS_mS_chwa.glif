@@ -2,9 +2,7 @@
 <glyph name="LtnSubSmSchwa" format="2">
   <advance width="761"/>
   <unicode hex="2094"/>
-  <anchor x="252" y="-300" name="H"/>
   <anchor x="235" y="-365" name="L"/>
-  <anchor x="428" y="-300" name="O"/>
   <anchor x="403" y="415" name="U"/>
   <outline>
     <contour>

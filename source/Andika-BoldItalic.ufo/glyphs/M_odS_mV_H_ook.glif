@@ -2,9 +2,7 @@
 <glyph name="ModSmVHook" format="2">
   <advance width="816"/>
   <unicode hex="1DB9"/>
-  <anchor x="528" y="680" name="H"/>
   <anchor x="522" y="615" name="L"/>
-  <anchor x="656" y="680" name="O"/>
   <anchor x="710" y="1395" name="U"/>
   <outline>
     <contour>

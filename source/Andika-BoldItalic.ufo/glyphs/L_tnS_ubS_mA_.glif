@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSubSmA" format="2">
   <advance width="829"/>
-  <anchor x="295" y="-300" name="H"/>
   <anchor x="278" y="-365" name="L"/>
-  <anchor x="698" y="-300" name="O"/>
-  <anchor x="844" y="350" name="R"/>
   <anchor x="488" y="415" name="U"/>
   <outline>
     <contour>

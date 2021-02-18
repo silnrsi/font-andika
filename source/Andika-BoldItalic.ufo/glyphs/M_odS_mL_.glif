@@ -2,9 +2,7 @@
 <glyph name="ModSmL" format="2">
   <advance width="448"/>
   <unicode hex="02E1"/>
-  <anchor x="332" y="680" name="H"/>
   <anchor x="385" y="615" name="L"/>
-  <anchor x="735" y="1330" name="R"/>
   <anchor x="581" y="1743" name="U"/>
   <outline>
     <contour>

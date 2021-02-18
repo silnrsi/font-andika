@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ModSmVHook.StraightLftHighHook" format="2">
   <advance width="765"/>
-  <anchor x="483" y="680" name="H"/>
   <anchor x="469" y="615" name="L"/>
-  <anchor x="623" y="680" name="O"/>
   <anchor x="707" y="1587" name="U"/>
   <outline>
     <contour>

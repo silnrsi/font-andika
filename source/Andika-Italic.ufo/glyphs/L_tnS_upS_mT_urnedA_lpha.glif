@@ -2,10 +2,7 @@
 <glyph name="LtnSupSmTurnedAlpha" format="2">
   <advance width="809"/>
   <unicode hex="1D9B"/>
-  <anchor x="476" y="680" name="H"/>
   <anchor x="518" y="615" name="L"/>
-  <anchor x="630" y="680" name="O"/>
-  <anchor x="1092" y="1330" name="R"/>
   <anchor x="704" y="1395" name="U"/>
   <outline>
     <contour>

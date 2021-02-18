@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSupSmIStrk.Dotless" format="2">
   <advance width="535"/>
-  <anchor x="372" y="680" name="H"/>
   <anchor x="355" y="615" name="L"/>
-  <anchor x="539" y="680" name="O"/>
-  <anchor x="735" y="1330" name="R"/>
   <anchor x="565" y="1395" name="U"/>
   <outline>
     <contour>

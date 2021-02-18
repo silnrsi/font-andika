@@ -2,7 +2,6 @@
 <glyph name="SupMinus" format="2">
   <advance width="612"/>
   <unicode hex="207B"/>
-  <anchor x="606" y="1395" name="U"/>
   <outline>
     <contour>
       <point x="244" y="1018" type="line"/>
