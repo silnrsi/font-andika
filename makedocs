@@ -1,0 +1,7 @@
+#!/bin/sh
+
+echo "-----Rebuilding documentation..."
+echo "     > Andika-font-features.html"
+pandoc -s -f markdown-smart --template documentation/source/template.html documentation/source/Andika-font-features.md -o documentation/Andika-font-features.html
+
+echo "-----Completed!"
