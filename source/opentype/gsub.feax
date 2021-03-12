@@ -1020,7 +1020,7 @@ feature cv35 {
       };
       
       SampleTextNameID {
-       name 3 1 0x0409 "TODO";  # English US
+       name 3 1 0x0409 "JĴɈᴊᴶꞲ";  # English US
        name 1 0 0 "?";  # Mac English
       };
       
