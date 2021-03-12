@@ -606,6 +606,18 @@
 		LtnSmIOgonek.TailI LtnSmOOgonek LtnSmOOgonek.sc LtnSmOOgonekMacron
 		LtnSmOOgonekMacron.sc LtnSmUOgonek LtnSmUOgonek.sc Ogonek
 	</class>
+	<class name="c_bartp" fixed="0">
+		LtnCapJ.BarTop LtnCapJCircum.BarTop LtnCapJCrossedTail.BarTop LtnCapJStrk.BarTop
+		LtnSmCapJ.BarTop LtnSmJ.BarTop LtnSmJ.BarTop.sc LtnSmJCircum.BarTop
+		LtnSmJCircum.BarTop.sc LtnSmJCrossedTail.BarTop LtnSmJCrossedTail.BarTop.sc LtnSmJStrk.BarTop
+		LtnSmJStrk.BarTop.sc ModCapJ.BarTop
+	</class>
+	<class name="cno_bartp" fixed="0">
+		LtnCapJ LtnCapJCircum LtnCapJCrossedTail LtnCapJStrk
+		LtnSmCapJ LtnSmJ LtnSmJ.sc LtnSmJCircum
+		LtnSmJCircum.sc LtnSmJCrossedTail LtnSmJCrossedTail.sc LtnSmJStrk
+		LtnSmJStrk.sc ModCapJ
+	</class>
 	<class name="cno_c2sc" fixed="0">
 		CyCapA CyCapABreve CyCapADiaer CyCapAbkhasChe
 		CyCapAbkhasCheDesc CyCapAbkhasDze CyCapAbkhasDze.RevSigmaStyle CyCapAbkhasHa

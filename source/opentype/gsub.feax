@@ -330,6 +330,12 @@ lookup jsrf_sub {
     sub ModSmJCrossedTail.Dotless from [ModSmJCrossedTail.Dotless.TopLftSerif ];
 } jsrf_sub;
 
+# Andika
+lookup j_sub {
+  lookupflag 0;
+    sub @cno_bartp by @c_bartp;
+} j_sub;
+
 lookup jstrk_sub {
   lookupflag 0;
     sub LtnSmDotlessJStrkHook from [LtnSmDotlessJStrkHook.DblSerif ];
@@ -577,6 +583,7 @@ feature aalt {
   feature cv28;
   feature cv31; #Andika
   feature cv34; #Andika
+  feature cv35; #Andika
   feature cv37;
   feature cv39; #Andika
   feature cv43;
@@ -997,6 +1004,34 @@ feature cv34 {
 
   lookup jsrf_sub;
 } cv34;
+
+# Andika
+feature cv35 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "Capital J alternates";  # English US
+       name 1 0 0 "Capital J alternates";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "Cap J alts";  # English US
+       name 1 0 0 "Cap J alts";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "TODO";  # English US
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Top bar";  # English US
+       name 1 0 0 "Top bar";  # Mac English
+      };
+  };
+
+  lookup j_sub;
+} cv35;
 
 feature cv37 {
 
