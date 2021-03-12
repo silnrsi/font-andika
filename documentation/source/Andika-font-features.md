@@ -33,32 +33,32 @@ Feature | Sample                      | Feature setting
 Standard   | <span class='andika-dflt-R normal'>A ... Z</span> (all capitals) | <span class='code'>c2sc=0</span>
 Small caps | <span class='andika-c2sc-R normal'>A ... Z</span> (all capitals) | <span class='code'>c2sc=1</span>
 
-#### Literacy a and g
+#### Double-story a and g
 
 <span class='affects'>Affects: U+0061 U+00E0 U+00E1 U+00E2 U+00E3 U+00E4 U+00E5 U+0101 U+0103 U+0105 U+01CE U+01DF U+01E1 U+01FB U+0201 U+0203 U+0227 U+1E01 U+1E9A U+1EA1 U+1EA3 U+1EA5 U+1EA7 U+1EA9 U+1EAB U+1EAD U+1EAF U+1EB1 U+1EB3 U+1EB5 U+1EB7 U+2C65 U+2090 U+1D43 U+0363 U+0067 U+011D U+011F U+0121 U+0123 U+01E7 U+01F5 U+01E5 U+1E21 U+A7A1 U+1D4D</span>
 
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard     | <span class='andika-dflt-R normal'>a à á â ã ä å ā ă ą ǎ ǟ ǡ ǻ ȁ ȃ ȧ ḁ ẚ ạ ả ấ ầ ẩ ẫ ậ ắ ằ ẳ ẵ ặ ⱥ ₐ ᵃ ◌ͣ g ĝ ğ ġ ģ ǧ ǵ ǥ ḡ ꞡ ᵍ </span> | <span class='code'>ss01=0</span>
-Single-story | <span class='andika-ss01-R normal'>a à á â ã ä å ā ă ą ǎ ǟ ǡ ǻ ȁ ȃ ȧ ḁ ẚ ạ ả ấ ầ ẩ ẫ ậ ắ ằ ẳ ẵ ặ ⱥ ₐ ᵃ ◌ͣ g ĝ ğ ġ ģ ǧ ǵ ǥ ḡ ꞡ ᵍ </span> | <span class='code'>ss01=1</span>
+Double-story | <span class='andika-ss01-R normal'>a à á â ã ä å ā ă ą ǎ ǟ ǡ ǻ ȁ ȃ ȧ ḁ ẚ ạ ả ấ ầ ẩ ẫ ậ ắ ằ ẳ ẵ ặ ⱥ ₐ ᵃ ◌ͣ g ĝ ğ ġ ģ ǧ ǵ ǥ ḡ ꞡ ᵍ </span> | <span class='code'>ss01=1</span>
 
-#### Literacy a (only)
+#### Double-story a (only)
 
 <span class='affects'>Affects: U+0061 U+00E0 U+00E1 U+00E2 U+00E3 U+00E4 U+00E5 U+0101 U+0103 U+0105 U+01CE U+01DF U+01E1 U+01FB U+0201 U+0203 U+0227 U+1E01 U+1E9A U+1EA1 U+1EA3 U+1EA5 U+1EA7 U+1EA9 U+1EAB U+1EAD U+1EAF U+1EB1 U+1EB3 U+1EB5 U+1EB7 U+2C65 U+2090 U+1D43 U+0363</span>
 
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
-Standard     | <span class='andika-dflt-R normal'>a à á â ã ä å ā ă ą ǎ ǟ ǡ ǻ ȁ ȃ ȧ ḁ ẚ ạ ả ấ ầ ẩ ẫ ậ ắ ằ ẳ ẵ ặ ⱥ ₐ ᵃ ◌ͣ </span> | <span class='code'>ss11=0</span>
-Single-story | <span class='andika-ss11-R normal'>a à á â ã ä å ā ă ą ǎ ǟ ǡ ǻ ȁ ȃ ȧ ḁ ẚ ạ ả ấ ầ ẩ ẫ ậ ắ ằ ẳ ẵ ặ ⱥ ₐ ᵃ ◌ͣ </span> | <span class='code'>ss11=1</span>
+Standard     | <span class='andika-dflt-R normal'>a à á â ã ä å ā ă ą ǎ ǟ ǡ ǻ ȁ ȃ ȧ ḁ ẚ ạ ả ấ ầ ẩ ẫ ậ ắ ằ ẳ ẵ ặ ⱥ ₐ ᵃ ◌ͣ </span> | <span class='code'>ss13=0</span>
+Double-story | <span class='andika-ss13-R normal'>a à á â ã ä å ā ă ą ǎ ǟ ǡ ǻ ȁ ȃ ȧ ḁ ẚ ạ ả ấ ầ ẩ ẫ ậ ắ ằ ẳ ẵ ặ ⱥ ₐ ᵃ ◌ͣ </span> | <span class='code'>ss13=1</span>
 
-#### Literacy g (only)
+#### Double-story g (only)
 
 <span class='affects'>Affects: U+0067 U+011D U+011F U+0121 U+0123 U+01E7 U+01F5 U+01E5 U+1E21 U+A7A1 U+1D4D</span>
 
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
-Standard     | <span class='andika-dflt-R normal'>g ĝ ğ ġ ģ ǧ ǵ ǥ ḡ ꞡ ᵍ </span> | <span class='code'>ss12=0</span>
-Single-story | <span class='andika-ss12-R normal'>g ĝ ğ ġ ģ ǧ ǵ ǥ ḡ ꞡ ᵍ </span> | <span class='code'>ss12=1</span>
+Standard     | <span class='andika-dflt-R normal'>g ĝ ğ ġ ģ ǧ ǵ ǥ ḡ ꞡ ᵍ </span> | <span class='code'>ss14=0</span>
+Double-story | <span class='andika-ss14-R normal'>g ĝ ğ ġ ģ ǧ ǵ ǥ ḡ ꞡ ᵍ </span> | <span class='code'>ss14=1</span>
 
 #### Barred-bowl forms 
 
@@ -107,6 +107,33 @@ Feature | Sample                      | Feature setting
 Standard        | <span class='andika-dflt-R normal'>Ħ</span> | <span class='code'>cv28=0</span>
 Vertical stroke | <span class='andika-cv28-R normal'>Ħ</span> | <span class='code'>cv28=1</span>
 
+#### i
+
+<span class='affects'>Affects: U+0069 U+00EC U+00ED U+00EE U+00EF U+0129 U+012B U+012D U+012F U+0131 U+01D0 U+0209 U+020B U+0365 U+1D62 U+1E2C U+1E2D U+1E2F U+1EC9 U+1ECB U+2071</span>
+
+Feature | Sample                      | Feature setting
+------- | --------------------------- | -------
+Standard    | <span class='andika-dflt-R normal'>i ì í î ï ĩ ī ĭ į ı ǐ ȉ ȋ ◌ͥ ᵢ ḭ ḭ ḯ ỉ ị ⁱ fi ffi</span> | <span class='code'>cv31=0</span>
+Curved tail | <span class='andika-cv31-R normal'>i ì í î ï ĩ ī ĭ į ı ǐ ȉ ȋ ◌ͥ ᵢ ḭ ḭ ḯ ỉ ị ⁱ fi ffi</span> | <span class='code'>cv31=1</span>
+
+#### J
+
+<span class='affects'>Affects: U+004A U+006A U+0134 U+0135 U+0248 U+0249 U+029D U+1D0A U+1D36 U+A7B2</span>
+
+Feature | Sample                      | Feature setting
+------- | --------------------------- | -------
+Standard | <span class='andika-dflt-R normal'>J Ĵ Ɉ ᴊ ᴶ Ʝ</span> | <span class='code'>cv35=0</span>
+Bar top  | <span class='andika-cv35-R normal'>J Ĵ Ɉ ᴊ ᴶ Ʝ</span> | <span class='code'>cv35=1</span>
+
+#### j
+
+<span class='affects'>Affects: U+006A U+0135 U+01F0 U+0237 U+0249 U+025F U+029d U+02B2 U+1DA1 U+1DA8</span>
+
+Feature | Sample                      | Feature setting
+------- | --------------------------- | -------
+Standard  | <span class='andika-dflt-R normal'>j ĵ ǰ ȷ ɉ ɟ ʝ ʲ ᶡ ᶨ</span> | <span class='code'>cv34=0</span>
+Top serif | <span class='andika-cv34-R normal'>j ĵ ǰ ȷ ɉ ɟ ʝ ʲ ᶡ ᶨ</span> | <span class='code'>cv34=1</span>
+
 #### J stroke hook
 
 <span class='affects'>Affects: U+0284</span>
@@ -115,6 +142,15 @@ Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard  | <span class='andika-dflt-R normal'>ʄ</span> | <span class='code'>cv37=0</span>
 Top serif | <span class='andika-cv37-R normal'>ʄ</span> | <span class='code'>cv37=1</span>
+
+#### l
+
+<span class='affects'>Affects: U+006C U+013A U+013C U+013E U+0140 U+0142 U+019A U+026B U+026C U+02E1 U+1D85 U+1DAA U+1E37 U+1E39 U+1E3B U+1E3D U+2C61 U+A749 U+2097</span>
+
+Feature | Sample                      | Feature setting
+------- | --------------------------- | -------
+Standard        | <span class='andika-dflt-R normal'>l ĺ ļ ľ ŀ ł ƚ ɫ ɬ ˡ ᶅ ᶪ ḷ ḹ ḻ ḽ ⱡ ꝉ ₗ</span> | <span class='code'>cv39=0</span>
+Vertical stroke | <span class='andika-cv39-R normal'>l ĺ ļ ľ ŀ ł ƚ ɫ ɬ ˡ ᶅ ᶪ ḷ ḹ ḻ ḽ ⱡ ꝉ ₗ</span> | <span class='code'>cv39=1</span>
 
 #### Eng
 
@@ -163,7 +199,25 @@ Feature | Sample                      | Feature setting
 Standard   | <span class='andika-dflt-R normal'>ƥ</span> | <span class='code'>cv49=0</span>
 Right hook | <span class='andika-cv49-R normal'>ƥ</span> | <span class='code'>cv49=1</span>
 
-####  R tail
+#### Q
+
+<span class='affects'>Affects: U+0051 U+A756 U+A758</span>
+
+Feature | Sample                      | Feature setting
+------- | --------------------------- | -------
+Standard    | <span class='andika-dflt-R normal'>Q Ꝗ Ꝙ</span> | <span class='code'>cv52=0</span>
+Tail across | <span class='andika-cv52-R normal'>Q Ꝗ Ꝙ</span> | <span class='code'>cv52=1</span>
+
+#### q
+
+<span class='affects'>Affects: U+0071 U+A757 U+A759 U+02A0</span>
+
+Feature | Sample                      | Feature setting
+------- | --------------------------- | -------
+Standard | <span class='andika-dflt-R normal'>q ꝗ ꝙ ʠ</span> | <span class='code'>cv51=0</span>
+Pointed  | <span class='andika-cv51-R normal'>q ꝗ  ꝙ ʠ</span> | <span class='code'>cv51=1</span>
+
+#### R tail
 
 <span class='affects'>Affects: U+2C64</span>
 
@@ -171,6 +225,15 @@ Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard        | <span class='andika-dflt-R normal'>Ɽ</span> | <span class='code'>cv55=0</span>
 Lowercase-style | <span class='andika-cv55-R normal'>Ɽ</span> | <span class='code'>cv55=1</span>
+
+#### t
+
+<span class='affects'>Affects: U+0074 U+1D57 U+209C U+0165 U+1E97 U+1E6B U+0163 U+1E6D U+021B U+1E71 U+1E6F U+02A8 U+1D7A U+02A6 U+02A7 U+0167 U+1D75 U+01AB U+1DB5 U+01AD U+0287 U+2C66 U+036D</span>
+
+Feature | Sample                      | Feature setting
+------- | --------------------------- | -------
+Standard      | <span class='andika-dflt-R normal'>t ᵗ ₜ ť ẗ ṫ ţ ṭ ț ṱ ṯ ʨ ᵺ ʦ ʧ ŧ ᵵ ƫ ᶵ ƭ ʇ ⱦ ◌ͭ</span> | <span class='code'>cv56=0</span>
+Straight stem | <span class='andika-cv56-R normal'>t ᵗ ₜ ť ẗ ṫ ţ ṭ ț ṱ ṯ ʨ ᵺ ʦ ʧ ŧ ᵵ ƫ ᶵ ƭ ʇ ⱦ ◌ͭ</span> | <span class='code'>cv56=1</span>
 
 #### T hook
 
@@ -199,6 +262,15 @@ Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard  | <span class='andika-dflt-R normal'>Ƴ</span> | <span class='code'>cv68=0</span>
 Left hook | <span class='andika-cv68-R normal'>Ƴ</span> | <span class='code'>cv68=1</span>
+
+#### y
+
+<span class='affects'>Affects: U+0079 U+024F U+02B8 U+00FD U+1EF3 U+0177 U+1E99 U+00FF U+1EF9 U+1E8F U+0233 U+1EF7 U+1EF5 U+01B4 U+028E U+F1CE U+F267</span>
+
+Feature | Sample                      | Feature setting
+------- | --------------------------- | -------
+Standard      | <span class='andika-dflt-R normal'>y ɏ ʸ ý ỳ ŷ ẙ ÿ ỹ ẏ ȳ ỷ ỵ ƴ ʎ  </span> | <span class='code'>cv67=0</span>
+Straight tail | <span class='andika-cv67-R normal'>y ɏ ʸ ý ỳ ŷ ẙ ÿ ỹ ẏ ȳ ỷ ỵ ƴ ʎ  </span> | <span class='code'>cv67=1</span>
 
 #### Ezh
 
@@ -365,3 +437,51 @@ Feature | Sample                      | Feature setting
 Standard | <span class='andika-dflt-R normal'>˥ ˦ ˧ ˨ ˩ ꜒ ꜓ ꜔ ꜕ ꜖ (˩˦˥˧˨ ꜖꜓꜒꜔꜕)</span> | <span class='code'>cv92=0</span>
 Numbers  | <span class='andika-cv92-R normal'>˥ ˦ ˧ ˨ ˩ ꜒ ꜓ ꜔ ꜕ ꜖ (˩˦˥˧˨ ꜖꜓꜒꜔꜕)</span> | <span class='code'>cv92=1</span>
 -->
+
+### Numeral alternates
+
+#### 0
+
+<span class='affects'>Affects: U+0030 U+2070 U+2080</span>
+
+Feature | Sample                      | Feature setting
+------- | --------------------------- | -------
+Standard | <span class='andika-dflt-R normal'>0 ⁰ ₀</span> | <span class='code'>cv10=0</span>
+Slashed  | <span class='andika-cv10-R normal'>0 ⁰ ₀</span> | <span class='code'>cv10=1</span>
+
+#### 1
+
+<span class='affects'>Affects: U+0031 U+00B9 U+2081</span>
+
+Feature | Sample                      | Feature setting
+------- | --------------------------- | -------
+Standard      | <span class='andika-dflt-R normal'>1 ¹ ₁</span> | <span class='code'>cv01=0</span>
+No Base Serif | <span class='andika-cv01-R normal'>1 ¹ ₁</span> | <span class='code'>cv01=1</span>
+
+#### 4
+
+<span class='affects'>Affects: U+0034 U+2074 U+2084</span>
+
+Feature | Sample                      | Feature setting
+------- | --------------------------- | -------
+Standard | <span class='andika-dflt-R normal'>4 ⁴ ₄</span> | <span class='code'>cv04=0</span>
+Open     | <span class='andika-cv04-R normal'>4 ⁴ ₄</span> | <span class='code'>cv04=1</span>
+
+#### 6 and 9
+
+<span class='affects'>Affects: U+0036 U+0039 U+2076 U+2079 U+2086 U+2089</span>
+
+Feature | Sample                      | Feature setting
+------- | --------------------------- | -------
+Standard      | <span class='andika-dflt-R normal'>6 9 ⁶ ⁹ ₆ ₉</span> | <span class='code'>cv06=0</span>
+Diagonal stem | <span class='andika-cv06-R normal'>6 9 ⁶ ⁹ ₆ ₉</span> | <span class='code'>cv06=1</span>
+
+#### 7
+
+<span class='affects'>Affects: U+0037 U+2077 U+2087</span>
+
+Feature | Sample                      | Feature setting
+------- | --------------------------- | -------
+Standard | <span class='andika-dflt-R normal'>7 ⁷ ₇</span> | <span class='code'>cv07=0</span>
+Barred   | <span class='andika-cv07-R normal'>7 ⁷ ₇</span> | <span class='code'>cv07=1</span>
+
