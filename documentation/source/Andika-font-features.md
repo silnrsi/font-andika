@@ -109,12 +109,12 @@ Vertical stroke | <span class='andika-cv28-R normal'>Ħ</span> | <span class='co
 
 #### i
 
-<span class='affects'>Affects: U+0069 U+00EC U+00ED U+00EE U+00EF U+0129 U+012B U+012D U+012F U+0131 U+01D0 U+0209 U+020B U+0365 U+1D62 U+1E2C U+1E2D U+1E2F U+1EC9 U+1ECB U+2071</span>
+<span class='affects'>Affects: U+0069 U+00EC U+00ED U+00EE U+00EF U+0129 U+012B U+012D U+012F U+0131 U+01D0 U+0209 U+020B U+0365 U+1D62 U+1DA4 U+1E2C U+1E2D U+1E2F U+1EC9 U+1ECB U+2071</span>
 
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
-Standard    | <span class='andika-dflt-R normal'>i ì í î ï ĩ ī ĭ į ı ǐ ȉ ȋ ◌ͥ ᵢ ḭ ḭ ḯ ỉ ị ⁱ fi ffi</span> | <span class='code'>cv31=0</span>
-Curved tail | <span class='andika-cv31-R normal'>i ì í î ï ĩ ī ĭ į ı ǐ ȉ ȋ ◌ͥ ᵢ ḭ ḭ ḯ ỉ ị ⁱ fi ffi</span> | <span class='code'>cv31=1</span>
+Standard    | <span class='andika-dflt-R normal'>i ì í î ï ĩ ī ĭ į ı ǐ ȉ ȋ ◌ͥ ᵢ ᶤ ḭ ḭ ḯ ỉ ị ⁱ fi ffi</span> | <span class='code'>cv31=0</span>
+Curved tail | <span class='andika-cv31-R normal'>i ì í î ï ĩ ī ĭ į ı ǐ ȉ ȋ ◌ͥ ᵢ ᶤ ḭ ḭ ḯ ỉ ị ⁱ fi ffi</span> | <span class='code'>cv31=1</span>
 
 #### J
 
@@ -127,12 +127,12 @@ Bar top  | <span class='andika-cv35-R normal'>J Ĵ Ɉ ᴊ ᴶ Ʝ</span> | <span
 
 #### j
 
-<span class='affects'>Affects: U+006A U+0135 U+01F0 U+0237 U+0249 U+025F U+029d U+02B2 U+1DA1 U+1DA8</span>
+<span class='affects'>Affects: U+006A U+0135 U+01F0 U+0237 U+0249 U+025F U+029d U+02B2 U+1DA1 U+1DA8 U+2C7C</span>
 
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
-Standard  | <span class='andika-dflt-R normal'>j ĵ ǰ ȷ ɉ ɟ ʝ ʲ ᶡ ᶨ</span> | <span class='code'>cv34=0</span>
-Top serif | <span class='andika-cv34-R normal'>j ĵ ǰ ȷ ɉ ɟ ʝ ʲ ᶡ ᶨ</span> | <span class='code'>cv34=1</span>
+Standard  | <span class='andika-dflt-R normal'>j ĵ ǰ ȷ ɉ ɟ ʝ ʲ ᶡ ᶨ ⱼ</span> | <span class='code'>cv34=0</span>
+Top serif | <span class='andika-cv34-R normal'>j ĵ ǰ ȷ ɉ ɟ ʝ ʲ ᶡ ᶨ ⱼ</span> | <span class='code'>cv34=1</span>
 
 #### J stroke hook
 
@@ -228,12 +228,12 @@ Lowercase-style | <span class='andika-cv55-R normal'>Ɽ</span> | <span class='c
 
 #### t
 
-<span class='affects'>Affects: U+0074 U+1D57 U+209C U+0165 U+1E97 U+1E6B U+0163 U+1E6D U+021B U+1E71 U+1E6F U+02A8 U+1D7A U+02A6 U+02A7 U+0167 U+1D75 U+01AB U+1DB5 U+01AD U+0287 U+2C66 U+036D</span>
+<span class='affects'>Affects: U+0074 U+0163 U+0165 U+0167 U+01AB U+01AD U+021B U+0287 U+02A6 U+02A7 U+02A8 U+036D U+1D57 U+1D75 U+1D7A U+1DB5 U+1E6B U+1E6D U+1E6F U+1E71 U+1E97 U+209C U+2C66 U+A729</span>
 
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
-Standard      | <span class='andika-dflt-R normal'>t ᵗ ₜ ť ẗ ṫ ţ ṭ ț ṱ ṯ ʨ ᵺ ʦ ʧ ŧ ᵵ ƫ ᶵ ƭ ʇ ⱦ ◌ͭ</span> | <span class='code'>cv56=0</span>
-Straight stem | <span class='andika-cv56-R normal'>t ᵗ ₜ ť ẗ ṫ ţ ṭ ț ṱ ṯ ʨ ᵺ ʦ ʧ ŧ ᵵ ƫ ᶵ ƭ ʇ ⱦ ◌ͭ</span> | <span class='code'>cv56=1</span>
+Standard      | <span class='andika-dflt-R normal'>t ţ ť ŧ ƫ ƭ ț ʇ ʦ ʧ ʨ ◌ͭ ᵗ ᵵ ᵺ ᶵ ṫ ṭ ṯ ṱ ẗ ₜ ⱦ ꜩ </span> | <span class='code'>cv56=0</span>
+Straight stem | <span class='andika-cv56-R normal'>t ţ ť ŧ ƫ ƭ ț ʇ ʦ ʧ ʨ ◌ͭ ᵗ ᵵ ᵺ ᶵ ṫ ṭ ṯ ṱ ẗ ₜ ⱦ ꜩ </span> | <span class='code'>cv56=1</span>
 
 #### T hook
 
