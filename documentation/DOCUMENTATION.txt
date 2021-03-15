@@ -2,15 +2,18 @@ DOCUMENTATION
 Andika
 ========================
 
-This file describes the documentation files included with the Andika 
-font family. This information should be distributed along with the 
-Andika fonts and any derivative works.
+This file describes the documentation file included with the Andika font
+family. This information should be distributed along with the Andika 
+fonts and any derivative works.
 
-Primary documentation for the Andika font family is on the Andika 
-website (http://scripts.sil.org/andika).
+Primary documentation for the Andika font family is on the Andika
+website (http://software.sil.org/andika), however the information there
+is for version 5 and will be updated when version 6 is released. Please see
+the [FONTLOG.txt](../FONTLOG.txt) for information on the changes since
+version 5.
 
-The Andika-features.pdf file illustrates the use of OpenType and 
-Graphite features.
-
-The Andika-features.odt file illustrates the use of OpenType and 
-Graphite features (source file for the pdf).
+For information on using the OpenType features included in this font family
+see [Andika-font-features.html](Andika-font-features.html).
+For a concise example of how to use CAndika as a web font see
+[Andika Webfont Example](../web/Andika-webfont-example.html).
+See [Using SIL Fonts on Web Pages: OpenType and Graphite feature support](http://scripts.sil.org/using_web_fonts#feat) for more information.

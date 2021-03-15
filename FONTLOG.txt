@@ -34,27 +34,6 @@ Four fonts from this typeface family are included in this release:
      * Andika Bold Italic
 
 
-Features
---------
-
-Andika supports all of the smart font features that the Charis SIL
-font supports. It also contains features specific to Andika. 
-These are:
-   Capital Q alternate
-   Lower case j serif alternate
-   Capital j serif alternate
-   Lower case q alternate
-   No-tail t and y alternates
-   Numeral 0 1 4 6 7 9 alternates
-   Tail i and l alternates
-
-More detail on features can be seen at
-http://scripts.sil.org/SILUnicodeRF_Features.
-
-With the SIL TypeTuner utility (see http://scripts.sil.org/TypeTuner),
-you can select which alternates to use as Andika's default letterforms.
-
-
 A Note Regarding the Open Font License and TypeTuner
 ----------------------------------------------------
 
@@ -82,7 +61,7 @@ ChangeLog
 ----------
 (This should list both major and minor changes, most recent first.)
 
-28 Feb 2021 (SIL NRSI team) Andika version 5.960 (beta2)
+17 Mar 2021 (SIL NRSI team) Andika version 5.960 (beta2)
 *This is a beta version of the next major release.*
 *Please use it only for testing, not production, and give us your feedback.*
 *This major release includes spacing changes to some glyphs, so text in*
@@ -95,6 +74,8 @@ ChangeLog
 "Andika New Basic" fonts, although note that the new weights may not be
 identical in metrics or form to the Basic fonts, though care has been taken
 to minimize differences.
+
+- Web fonts are provided in both WOFF and WOFF2 formats
 
 - First (beta) release that uses a UFO-based design and production workflow
     All sources are in open formats
@@ -156,6 +137,9 @@ to minimize differences.
 
 - Added support for clicks to small caps feature and improved other small
 cap correspondences
+
+- Replaced font features documentation with updated version in a new format
+    (see documentation/DoulosSIL-font-features.html)
 
 - Improved miscellaneous anchor positions, including the position of diacritics
 below glyphs with macrons below (e.g. U+1E0F LATIN SMALL LETTER D WITH LINE BELOW)
