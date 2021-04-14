@@ -2,6 +2,8 @@
 <glyph name="DblExclamationMrk" format="2">
   <advance width="1349"/>
   <unicode hex="203C"/>
+  <anchor x="590" y="-100" name="L"/>
+  <anchor x="1003" y="1555" name="U"/>
   <outline>
     <contour>
       <point x="593" y="495" type="line"/>
