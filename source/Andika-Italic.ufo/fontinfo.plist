@@ -15,7 +15,7 @@
   <key>italicAngle</key>
   <integer>-14</integer>
   <key>openTypeHeadCreated</key>
-  <string>2021/02/18 19:49:56</string>
+  <string>2021/04/14 19:31:14</string>
   <key>openTypeHheaAscender</key>
   <integer>2500</integer>
   <key>openTypeHheaDescender</key>
@@ -85,7 +85,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNameUniqueID</key>
   <string>SIL International: Andika Italic: 2021</string>
   <key>openTypeNameVersion</key>
-  <string>Version 5.960 beta2</string>
+  <string>Version 5.970 RC1</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -243,7 +243,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>versionMajor</key>
   <integer>5</integer>
   <key>versionMinor</key>
-  <integer>960</integer>
+  <integer>970</integer>
   <key>xHeight</key>
   <integer>1040</integer>
 </dict>

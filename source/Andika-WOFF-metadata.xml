@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata version="1.0">
-  <uniqueid id="org.sil.fonts.Andika.5.960" />
+  <uniqueid id="org.sil.fonts.Andika.5.970" />
   <vendor name="SIL International" url="http://www.sil.org/" />
   <credits>
     <credit
@@ -152,8 +152,8 @@
       U+F26E CAPITAL RAMS HORN (in SIL PUA)
       
       - Added two new features for controlling literacy forms of a and g separately
-      Literacy a alternates (ss02)
-      Literacy g alternates (ss03)
+      Double-story a alternates (ss13)
+      Double-story g alternates (ss14)
       
       - Added feature to support side-by-side rendering of U+0300 plus U+0301
       Kayan diacritics (cv79)
