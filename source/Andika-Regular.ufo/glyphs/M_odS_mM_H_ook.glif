@@ -2,7 +2,7 @@
 <glyph name="ModSmMHook" format="2">
   <advance width="1179"/>
   <unicode hex="1DAC"/>
-  <anchor x="600" y="345" name="L"/>
+  <anchor x="417" y="615" name="L"/>
   <anchor x="600" y="1395" name="U"/>
   <outline>
     <component base="LtnSmMHook" xScale="0.7" yScale="0.65" xOffset="5" yOffset="680"/>

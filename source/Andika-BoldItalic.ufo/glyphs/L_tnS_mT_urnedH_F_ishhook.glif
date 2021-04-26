@@ -2,7 +2,7 @@
 <glyph name="LtnSmTurnedHFishhook" format="2">
   <advance width="1389"/>
   <unicode hex="02AE"/>
-  <anchor x="514" y="-500" name="L"/>
+  <anchor x="565" y="-100" name="L"/>
   <anchor x="939" y="1100" name="U"/>
   <outline>
     <contour>
@@ -23,7 +23,7 @@
       <point x="878" y="93"/>
       <point x="1006" y="265" type="curve"/>
       <point x="940" y="5" type="line" smooth="yes"/>
-      <point x="900" y="-155"/>
+      <point x="899" y="-155"/>
       <point x="861" y="-374"/>
       <point x="861" y="-485" type="curve"/>
       <point x="1141" y="-485" type="line"/>

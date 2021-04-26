@@ -2,7 +2,7 @@
 <glyph name="LtnSupSmP" format="2">
   <advance width="890"/>
   <unicode hex="1D56"/>
-  <anchor x="494" y="355" name="L"/>
+  <anchor x="624" y="625" name="L"/>
   <anchor x="738" y="1395" name="U"/>
   <outline>
     <contour>
@@ -30,12 +30,12 @@
       <point x="343" y="1125"/>
       <point x="330" y="1076" type="curve" smooth="yes"/>
       <point x="192" y="563" type="line" smooth="yes"/>
-      <point x="174" y="494"/>
+      <point x="173" y="494"/>
       <point x="158" y="418"/>
       <point x="158" y="365" type="curve"/>
       <point x="360" y="365" type="line"/>
       <point x="360" y="425"/>
-      <point x="370" y="493"/>
+      <point x="369" y="493"/>
       <point x="393" y="583" type="curve" smooth="yes"/>
       <point x="430" y="722" type="line"/>
       <point x="486" y="686"/>

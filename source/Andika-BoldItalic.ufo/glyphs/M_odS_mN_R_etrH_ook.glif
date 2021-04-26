@@ -2,7 +2,7 @@
 <glyph name="ModSmNRetrHook" format="2">
   <advance width="896"/>
   <unicode hex="1DAF"/>
-  <anchor x="466" y="355" name="L"/>
+  <anchor x="474" y="625" name="L"/>
   <anchor x="724" y="1395" name="U"/>
   <outline>
     <contour>

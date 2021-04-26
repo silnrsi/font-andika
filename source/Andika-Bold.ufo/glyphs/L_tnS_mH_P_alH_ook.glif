@@ -2,7 +2,7 @@
 <glyph name="LtnSmHPalHook" format="2">
   <advance width="1235"/>
   <unicode hex="A795"/>
-  <anchor x="620" y="-500" name="L"/>
+  <anchor x="445" y="-100" name="L"/>
   <anchor x="620" y="1635" name="U"/>
   <outline>
     <contour>

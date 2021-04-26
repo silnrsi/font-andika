@@ -2,7 +2,7 @@
 <glyph name="CySmErTick" format="2">
   <advance width="1272"/>
   <unicode hex="048F"/>
-  <anchor x="505" y="-500" name="L"/>
+  <anchor x="705" y="-100" name="L"/>
   <anchor x="855" y="1100" name="U"/>
   <outline>
     <contour>

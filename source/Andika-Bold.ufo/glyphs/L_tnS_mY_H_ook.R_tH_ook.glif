@@ -2,7 +2,7 @@
 <glyph name="LtnSmYHook.RtHook" format="2">
   <advance width="1357"/>
   <unicode hex="01B4"/>
-  <anchor x="810" y="-100" name="L"/>
+  <anchor x="845" y="-100" name="L"/>
   <anchor x="507" y="1100" name="U"/>
   <outline>
     <contour>

@@ -2,7 +2,7 @@
 <glyph name="LtnCapFHookStrk" format="2">
   <advance width="1154"/>
   <unicode hex="A798"/>
-  <anchor x="374" y="-500" name="L"/>
+  <anchor x="645" y="-100" name="L"/>
   <anchor x="947" y="1530" name="U"/>
   <outline>
     <contour>

@@ -2,13 +2,13 @@
 <glyph name="CySmRha" format="2">
   <advance width="1549"/>
   <unicode hex="0517"/>
-  <anchor x="690" y="-500" name="L"/>
+  <anchor x="805" y="-100" name="L"/>
   <anchor x="990" y="1100" name="U"/>
   <outline>
     <contour>
       <point x="215" y="-480" type="line"/>
       <point x="215" y="-388"/>
-      <point x="229" y="-282"/>
+      <point x="228" y="-282"/>
       <point x="255" y="-175" type="curve" smooth="yes"/>
       <point x="320" y="85" type="line"/>
       <point x="399" y="20"/>

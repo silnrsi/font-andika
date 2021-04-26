@@ -2,7 +2,7 @@
 <glyph name="LtnSupSmNLftHook" format="2">
   <advance width="912"/>
   <unicode hex="1DAE"/>
-  <anchor x="538" y="355" name="L"/>
+  <anchor x="594" y="625" name="L"/>
   <anchor x="746" y="1395" name="U"/>
   <outline>
     <contour>

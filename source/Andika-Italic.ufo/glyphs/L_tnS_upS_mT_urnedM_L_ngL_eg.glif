@@ -2,7 +2,7 @@
 <glyph name="LtnSupSmTurnedMLngLeg" format="2">
   <advance width="1165"/>
   <unicode hex="1DAD"/>
-  <anchor x="602" y="355" name="L"/>
+  <anchor x="624" y="625" name="L"/>
   <anchor x="861" y="1395" name="U"/>
   <outline>
     <contour>

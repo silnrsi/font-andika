@@ -2,7 +2,7 @@
 <glyph name="CySmQa" format="2">
   <advance width="1130"/>
   <unicode hex="051B"/>
-  <anchor x="555" y="-500" name="L"/>
+  <anchor x="470" y="-100" name="L"/>
   <anchor x="1130" y="1000" name="R"/>
   <anchor x="555" y="1100" name="U"/>
   <outline>

@@ -2,7 +2,7 @@
 <glyph name="LtnCapNLngRtLeg" format="2">
   <advance width="1546"/>
   <unicode hex="0220"/>
-  <anchor x="720" y="-500" name="L"/>
+  <anchor x="645" y="-100" name="L"/>
   <anchor x="740" y="1530" name="U"/>
   <outline>
     <contour>

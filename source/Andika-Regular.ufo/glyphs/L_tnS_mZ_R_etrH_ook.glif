@@ -2,7 +2,7 @@
 <glyph name="LtnSmZRetrHook" format="2">
   <advance width="1040"/>
   <unicode hex="0290"/>
-  <anchor x="475" y="-500" name="L"/>
+  <anchor x="455" y="-100" name="L"/>
   <anchor x="525" y="1100" name="U"/>
   <outline>
     <contour>

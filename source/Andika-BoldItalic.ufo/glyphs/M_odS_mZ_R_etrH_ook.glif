@@ -2,7 +2,7 @@
 <glyph name="ModSmZRetrHook" format="2">
   <advance width="728"/>
   <unicode hex="1DBC"/>
-  <anchor x="455" y="355" name="L"/>
+  <anchor x="404" y="625" name="L"/>
   <anchor x="668" y="1395" name="U"/>
   <outline>
     <contour>
@@ -50,7 +50,7 @@
       <point x="838" y="792" type="line"/>
       <point x="690" y="753" type="line"/>
       <point x="643" y="590" type="line" smooth="yes"/>
-      <point x="638" y="570"/>
+      <point x="637" y="570"/>
       <point x="635" y="550"/>
       <point x="635" y="530" type="curve" smooth="yes"/>
       <point x="635" y="445"/>

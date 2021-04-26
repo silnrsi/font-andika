@@ -2,7 +2,7 @@
 <glyph name="LtnSmAYDigraph" format="2">
   <advance width="1550"/>
   <unicode hex="A73D"/>
-  <anchor x="815" y="-500" name="L"/>
+  <anchor x="1295" y="-100" name="L"/>
   <anchor x="815" y="1100" name="U"/>
   <outline>
     <contour>

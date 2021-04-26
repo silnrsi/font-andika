@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnCapNLftHook.LCStyle" format="2">
   <advance width="1558"/>
-  <anchor x="550" y="-500" name="L"/>
+  <anchor x="715" y="-100" name="L"/>
   <anchor x="1077" y="1530" name="U"/>
   <outline>
     <contour>
