@@ -4,16 +4,16 @@
   <anchor x="-335" y="1100" name="_U"/>
   <outline>
     <contour>
-      <point x="-889" y="1568" type="line"/>
-      <point x="-554" y="1147" type="line"/>
-      <point x="-404" y="1147" type="line"/>
-      <point x="-679" y="1568" type="line"/>
+      <point x="-914" y="1568" type="line"/>
+      <point x="-579" y="1147" type="line"/>
+      <point x="-429" y="1147" type="line"/>
+      <point x="-704" y="1568" type="line"/>
     </contour>
     <contour>
-      <point x="201" y="1568" type="line"/>
-      <point x="-224" y="1147" type="line"/>
-      <point x="-54" y="1147" type="line"/>
-      <point x="450" y="1568" type="line"/>
+      <point x="216" y="1568" type="line"/>
+      <point x="-209" y="1147" type="line"/>
+      <point x="-39" y="1147" type="line"/>
+      <point x="465" y="1568" type="line"/>
     </contour>
   </outline>
 </glyph>
