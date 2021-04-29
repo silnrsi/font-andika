@@ -3,6 +3,7 @@
   <advance width="1212"/>
   <unicode hex="F1A1"/>
   <anchor x="686" y="615" name="L"/>
+  <anchor x="892" y="680" name="O"/>
   <anchor x="906" y="1395" name="U"/>
   <outline>
     <contour>
@@ -66,7 +67,7 @@
       <point x="781" y="1234"/>
       <point x="803" y="1229" type="curve"/>
       <point x="781" y="1148" type="line" smooth="yes"/>
-      <point x="746" y="1017"/>
+      <point x="745" y="1017"/>
       <point x="513" y="771"/>
     </contour>
     <contour>

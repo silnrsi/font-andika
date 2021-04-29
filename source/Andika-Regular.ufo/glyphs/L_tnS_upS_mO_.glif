@@ -3,8 +3,9 @@
   <advance width="798"/>
   <unicode hex="1D52"/>
   <anchor x="403" y="615" name="L"/>
+  <anchor x="485" y="680" name="O"/>
   <anchor x="403" y="1395" name="U"/>
   <outline>
-    <component base="LtnSmO" xScale="0.7" yScale="0.65" xOffset="62" yOffset="680"/>
+    <component base="LtnSmO" xScale="0.7" yScale="0.65" xOffset="7" yOffset="680"/>
   </outline>
 </glyph>

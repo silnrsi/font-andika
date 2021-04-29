@@ -2,6 +2,7 @@
 <glyph name="LtnSupSmI.Dotless" format="2">
   <advance width="371"/>
   <anchor x="190" y="615" name="L"/>
+  <anchor x="265" y="680" name="O"/>
   <anchor x="371" y="1320" name="R"/>
   <anchor x="190" y="1395" name="U"/>
   <outline>
