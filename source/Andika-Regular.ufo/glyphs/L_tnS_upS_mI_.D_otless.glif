@@ -3,7 +3,7 @@
   <advance width="371"/>
   <anchor x="190" y="615" name="L"/>
   <anchor x="265" y="680" name="O"/>
-  <anchor x="371" y="1320" name="R"/>
+  <anchor x="445" y="1316" name="R"/>
   <anchor x="190" y="1395" name="U"/>
   <outline>
     <component base="LtnSmDotlessI" xScale="0.7" yScale="0.65" xOffset="-15" yOffset="680"/>

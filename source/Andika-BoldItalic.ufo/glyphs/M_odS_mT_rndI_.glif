@@ -3,12 +3,13 @@
   <advance width="434"/>
   <unicode hex="1D4E"/>
   <anchor x="242" y="336" name="L"/>
+  <anchor x="787" y="1310" name="R"/>
   <anchor x="469" y="1395" name="U"/>
   <outline>
     <contour>
       <point x="447" y="680" type="line"/>
       <point x="447" y="766"/>
-      <point x="482" y="883"/>
+      <point x="483" y="883"/>
       <point x="509" y="981" type="curve" smooth="yes"/>
       <point x="536" y="1083" type="line" smooth="yes"/>
       <point x="550" y="1136"/>
