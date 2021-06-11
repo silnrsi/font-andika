@@ -9,6 +9,7 @@
     <fontsrc>url(../results/Andika-BoldItalic.ttf)</fontsrc>
     <fontsrc label="ARv5">url(../references/v5/Andika-Regular.ttf)</fontsrc>
     <styles>
+      <style lang="cnr" name="cnr"/>
       <style feats="'cv31' 1" name="cv31_1"/>
       <style feats="'cv31' 1, 'cv76' 1" name="cv31_1_cv76_1"/>
       <style feats="'cv31' 1, 'cv76' 1, 'smcp' 1" name="cv31_1_cv76_1_smcp_1"/>
@@ -76,6 +77,7 @@
       <style feats="'smcp' 1, 'ss05' 1, 'ss13' 1" name="smcp_1_ss05_1_ss13_1"/>
       <style feats="'smcp' 1, 'ss13' 1" name="smcp_1_ss13_1"/>
       <style feats="'smcp' 1, 'ss14' 1" name="smcp_1_ss14_1"/>
+      <style lang="sr" name="sr"/>
       <style feats="'ss01' 1" name="ss01_1"/>
       <style feats="'ss01' 1, 'ss05' 1" name="ss01_1_ss05_1"/>
       <style feats="'ss01' 1, 'ss05' 1, 'ss13' 1" name="ss01_1_ss05_1_ss13_1"/>
@@ -448,9 +450,7 @@ U+0165" stylename="cv77_1">
   </testgroup>
   <testgroup label="cv82"/>
   <testgroup label="cv90"/>
-  <testgroup label="cv91"/>
   <testgroup label="cv98"/>
-  <testgroup label="locl"/>
   <testgroup label="opOU"/>
   <testgroup label="ss01">
     <test label="U+0061
@@ -1449,7 +1449,6 @@ U+0165" stylename="cv77_1_smcp_1">
       <string>\u0004BB\u000327</string>
     </test>
   </testgroup>
-  <testgroup label="locl smcp"/>
   <testgroup label="opOU smcp"/>
   <testgroup label="smcp ss01">
     <test label="U+0061
@@ -3216,6 +3215,29 @@ U+1EB5" stylename="cv75_1_smcp_1_ss01_1_ss05_1_ss13_1">
     <test label="U+0105" stylename="cv76_1_smcp_1_ss01_1_ss05_1_ss13_1">
       <comment>LtnSmAOgonek.SngStory</comment>
       <string>\u000105\u000327</string>
+    </test>
+  </testgroup>
+  <testgroup label="locl - Serbian">
+    <test label="U+0431
+U+0433
+U+043F
+U+0434">
+      <comment>CySmBe CySmGhe CySmPe CySmDe</comment>
+      <string>\u000431\u00030D\u000433\u00030D\u00043F\u00030D\u000434\u00030D</string>
+    </test>
+    <test label="U+0431
+U+0433
+U+043F
+U+0434" stylename="cnr">
+      <comment>CySmBe CySmGhe CySmPe CySmDe</comment>
+      <string>\u000431\u00030D\u000433\u00030D\u00043F\u00030D\u000434\u00030D</string>
+    </test>
+    <test label="U+0431
+U+0433
+U+043F
+U+0434" stylename="sr">
+      <comment>CySmBe CySmGhe CySmPe CySmDe</comment>
+      <string>\u000431\u00030D\u000433\u00030D\u00043F\u00030D\u000434\u00030D</string>
     </test>
   </testgroup>
 </ftml>

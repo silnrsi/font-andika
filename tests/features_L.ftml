@@ -9,6 +9,7 @@
     <fontsrc>url(../results/Andika-BoldItalic.ttf)</fontsrc>
     <fontsrc label="ARv5">url(../references/v5/Andika-Regular.ttf)</fontsrc>
     <styles>
+      <style lang="cnr" name="cnr"/>
       <style feats="'cv01' 1" name="cv01_1"/>
       <style feats="'cv04' 1" name="cv04_1"/>
       <style feats="'cv06' 1" name="cv06_1"/>
@@ -124,8 +125,6 @@
       <style feats="'cv80' 1, 'smcp' 1" name="cv80_1_smcp_1"/>
       <style feats="'cv81' 1" name="cv81_1"/>
       <style feats="'cv81' 1, 'smcp' 1" name="cv81_1_smcp_1"/>
-      <style feats="'locl' 1" name="locl_1"/>
-      <style feats="'locl' 1, 'smcp' 1" name="locl_1_smcp_1"/>
       <style feats="'opOU' 1" name="opOU_1"/>
       <style feats="'opOU' 1, 'smcp' 1" name="opOU_1_smcp_1"/>
       <style feats="'smcp' 1, 'ss01' 1" name="smcp_1_ss01_1"/>
@@ -141,6 +140,7 @@
       <style feats="'smcp' 1, 'ss05' 1, 'ss13' 1" name="smcp_1_ss05_1_ss13_1"/>
       <style feats="'smcp' 1, 'ss13' 1" name="smcp_1_ss13_1"/>
       <style feats="'smcp' 1, 'ss14' 1" name="smcp_1_ss14_1"/>
+      <style lang="sr" name="sr"/>
       <style feats="'ss01' 1" name="ss01_1"/>
       <style feats="'ss01' 1, 'ss04' 1" name="ss01_1_ss04_1"/>
       <style feats="'ss01' 1, 'ss04' 1, 'ss14' 1" name="ss01_1_ss04_1_ss14_1"/>
@@ -160,66 +160,78 @@
   <testgroup label="Features from glyph_data"/>
   <testgroup label="cv01">
     <test label="U+0031
-U+00B9">
-      <comment>DigitOne SupOne</comment>
-      <string>1\u000329\u0000B9\u000329</string>
+U+00B9
+U+2081">
+      <comment>DigitOne SupOne SubOne</comment>
+      <string>1\u000329\u0000B9\u000329\u002081\u000329</string>
     </test>
     <test label="U+0031
-U+00B9" stylename="cv01_1">
-      <comment>DigitOne SupOne</comment>
-      <string>1\u000329\u0000B9\u000329</string>
+U+00B9
+U+2081" stylename="cv01_1">
+      <comment>DigitOne SupOne SubOne</comment>
+      <string>1\u000329\u0000B9\u000329\u002081\u000329</string>
     </test>
   </testgroup>
   <testgroup label="cv04">
     <test label="U+0034
-U+2074">
-      <comment>DigitFour SupFour</comment>
-      <string>4\u000329\u002074\u000329</string>
+U+2074
+U+2084">
+      <comment>DigitFour SupFour SubFour</comment>
+      <string>4\u000329\u002074\u000329\u002084\u000329</string>
     </test>
     <test label="U+0034
-U+2074" stylename="cv04_1">
-      <comment>DigitFour SupFour</comment>
-      <string>4\u000329\u002074\u000329</string>
+U+2074
+U+2084" stylename="cv04_1">
+      <comment>DigitFour SupFour SubFour</comment>
+      <string>4\u000329\u002074\u000329\u002084\u000329</string>
     </test>
   </testgroup>
   <testgroup label="cv06">
     <test label="U+0036
 U+0039
 U+2076
-U+2079">
-      <comment>DigitSix DigitNine SupSix SupNine</comment>
-      <string>6\u0003299\u000329\u002076\u000329\u002079\u000329</string>
+U+2079
+U+2086
+U+2089">
+      <comment>DigitSix DigitNine SupSix SupNine SubSix SubNine</comment>
+      <string>6\u0003299\u000329\u002076\u000329\u002079\u000329\u002086\u000329\u002089\u000329</string>
     </test>
     <test label="U+0036
 U+0039
 U+2076
-U+2079" stylename="cv06_1">
-      <comment>DigitSix DigitNine SupSix SupNine</comment>
-      <string>6\u0003299\u000329\u002076\u000329\u002079\u000329</string>
+U+2079
+U+2086
+U+2089" stylename="cv06_1">
+      <comment>DigitSix DigitNine SupSix SupNine SubSix SubNine</comment>
+      <string>6\u0003299\u000329\u002076\u000329\u002079\u000329\u002086\u000329\u002089\u000329</string>
     </test>
   </testgroup>
   <testgroup label="cv07">
     <test label="U+0037
-U+2077">
-      <comment>DigitSeven SupSeven</comment>
-      <string>7\u000329\u002077\u000329</string>
+U+2077
+U+2087">
+      <comment>DigitSeven SupSeven SubSeven</comment>
+      <string>7\u000329\u002077\u000329\u002087\u000329</string>
     </test>
     <test label="U+0037
-U+2077" stylename="cv07_1">
-      <comment>DigitSeven SupSeven</comment>
-      <string>7\u000329\u002077\u000329</string>
+U+2077
+U+2087" stylename="cv07_1">
+      <comment>DigitSeven SupSeven SubSeven</comment>
+      <string>7\u000329\u002077\u000329\u002087\u000329</string>
     </test>
   </testgroup>
   <testgroup label="cv10">
     <test label="U+0030
-U+2070">
-      <comment>DigitZero SupZero</comment>
-      <string>0\u000329\u002070\u000329</string>
+U+2070
+U+2080">
+      <comment>DigitZero SupZero SubZero</comment>
+      <string>0\u000329\u002070\u000329\u002080\u000329</string>
     </test>
     <test label="U+0030
-U+2070" stylename="cv10_1">
-      <comment>DigitZero SupZero</comment>
-      <string>0\u000329\u002070\u000329</string>
+U+2070
+U+2080" stylename="cv10_1">
+      <comment>DigitZero SupZero SubZero</comment>
+      <string>0\u000329\u002070\u000329\u002080\u000329</string>
     </test>
   </testgroup>
   <testgroup label="cv13">
@@ -257,17 +269,19 @@ U+0257" stylename="cv17_1">
     </test>
   </testgroup>
   <testgroup label="cv20">
-    <test label="U+0292
+    <test label="U+01B7
+U+0292
 U+04E0
 U+04E1">
-      <comment>LtnSmEzh CyCapAbkhasDze CySmAbkhasDze</comment>
-      <string>\u000292\u000329\u0004E0\u000329\u0004E1\u000329</string>
+      <comment>LtnCapEzh LtnSmEzh CyCapAbkhasDze CySmAbkhasDze</comment>
+      <string>\u0001B7\u000329\u000292\u000329\u0004E0\u000329\u0004E1\u000329</string>
     </test>
-    <test label="U+0292
+    <test label="U+01B7
+U+0292
 U+04E0
 U+04E1" stylename="cv20_1">
-      <comment>LtnSmEzh CyCapAbkhasDze CySmAbkhasDze</comment>
-      <string>\u000292\u000329\u0004E0\u000329\u0004E1\u000329</string>
+      <comment>LtnCapEzh LtnSmEzh CyCapAbkhasDze CySmAbkhasDze</comment>
+      <string>\u0001B7\u000329\u000292\u000329\u0004E0\u000329\u0004E1\u000329</string>
     </test>
   </testgroup>
   <testgroup label="cv25">
@@ -998,26 +1012,7 @@ U+044D" stylename="cv80_1">
   </testgroup>
   <testgroup label="cv82"/>
   <testgroup label="cv90"/>
-  <testgroup label="cv91"/>
   <testgroup label="cv98"/>
-  <testgroup label="locl">
-    <test label="U+0431
-U+0433
-U+0434
-U+043F
-U+0442">
-      <comment>CySmBe CySmGhe CySmDe CySmPe CySmTe</comment>
-      <string>\u000431\u000329\u000433\u000329\u000434\u000329\u00043F\u000329\u000442\u000329</string>
-    </test>
-    <test label="U+0431
-U+0433
-U+0434
-U+043F
-U+0442" stylename="locl_1">
-      <comment>CySmBe CySmGhe CySmDe CySmPe CySmTe</comment>
-      <string>\u000431\u000329\u000433\u000329\u000434\u000329\u00043F\u000329\u000442\u000329</string>
-    </test>
-  </testgroup>
   <testgroup label="opOU">
     <test label="U+0222
 U+0223
@@ -2382,24 +2377,6 @@ U+0165" stylename="cv77_1_smcp_1">
     <test label="U+04BB" stylename="cv81_1_smcp_1">
       <comment>CySmShha</comment>
       <string>\u0004BB\u000329</string>
-    </test>
-  </testgroup>
-  <testgroup label="locl smcp">
-    <test label="U+0431
-U+0433
-U+0434
-U+043F
-U+0442">
-      <comment>CySmBe CySmGhe CySmDe CySmPe CySmTe</comment>
-      <string>\u000431\u000329\u000433\u000329\u000434\u000329\u00043F\u000329\u000442\u000329</string>
-    </test>
-    <test label="U+0431
-U+0433
-U+0434
-U+043F
-U+0442" stylename="locl_1_smcp_1">
-      <comment>CySmBe CySmGhe CySmDe CySmPe CySmTe</comment>
-      <string>\u000431\u000329\u000433\u000329\u000434\u000329\u00043F\u000329\u000442\u000329</string>
     </test>
   </testgroup>
   <testgroup label="opOU smcp">
@@ -4338,6 +4315,29 @@ U+1EB5" stylename="cv75_1_smcp_1_ss01_1_ss05_1_ss13_1">
     <test label="U+0105" stylename="cv76_1_smcp_1_ss01_1_ss05_1_ss13_1">
       <comment>LtnSmAOgonek.SngStory</comment>
       <string>\u000105\u000329</string>
+    </test>
+  </testgroup>
+  <testgroup label="locl - Serbian">
+    <test label="U+0431
+U+0433
+U+043F
+U+0434">
+      <comment>CySmBe CySmGhe CySmPe CySmDe</comment>
+      <string>\u000431\u00030D\u000433\u00030D\u00043F\u00030D\u000434\u00030D</string>
+    </test>
+    <test label="U+0431
+U+0433
+U+043F
+U+0434" stylename="cnr">
+      <comment>CySmBe CySmGhe CySmPe CySmDe</comment>
+      <string>\u000431\u00030D\u000433\u00030D\u00043F\u00030D\u000434\u00030D</string>
+    </test>
+    <test label="U+0431
+U+0433
+U+043F
+U+0434" stylename="sr">
+      <comment>CySmBe CySmGhe CySmPe CySmDe</comment>
+      <string>\u000431\u00030D\u000433\u00030D\u00043F\u00030D\u000434\u00030D</string>
     </test>
   </testgroup>
 </ftml>

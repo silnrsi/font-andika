@@ -1379,7 +1379,7 @@ LtnSmTrndOe,uni1D14,2431.1,2431.1,,,,,
 LtnSmOi,uni01A3,2432.1,2432.1,,,,,
 LtnSmOODigraph,uniA74F,2433.1,2433.1,,,,,
 LtnSmOu,uni0223,2434.1,2434.1,,,,,
-LtnSmOu.OpenTop,uni0223.OpenTop,2434.12,2434.12,cv47,cv47,,0223,0223
+LtnSmOu.OpenTop,uni0223.OpenTop,2434.12,2434.12,cv47,opOU,,0223,0223
 LtnSmBottomHalfO,uni1D17,2440.1,2440.1,,,,,
 ModSmBottomHalfO,uni1D55,2440.23,2440.23,,,,,
 LtnSmTopHalfO,uni1D16,2441.1,2441.1,,,,,
@@ -1440,11 +1440,11 @@ LtnSupSmCapOe,uniF1AE,2480.2622,2480.2622,,,,,
 LtnCapOi,uni01A2,2481.1,2481.1,,,,,
 LtnCapOODigraph,uniA74E,2482.1,2482.1,,,,,
 LtnCapOu,uni0222,2483.1,2483.1,,,,,
-LtnCapOu.OpenTop,uni0222.OpenTop,2483.12,2483.12,cv47,cv47,,0222,0222
+LtnCapOu.OpenTop,uni0222.OpenTop,2483.12,2483.12,cv47,opOU,,0222,0222
 ModCapOu,uni1D3D,2483.23,2483.23,,,,,
-ModCapOu.OpenTop,uni1D3D.OpenTop,2483.232,2483.232,cv47,cv47,,1D3D,1D3D
+ModCapOu.OpenTop,uni1D3D.OpenTop,2483.232,2483.232,cv47,opOU,,1D3D,1D3D
 LtnSmCapOu,uni1D15,2483.26,2483.26,,,,,
-LtnSmCapOu.OpenTop,uni1D15.OpenTop,2483.262,2483.262,cv47,cv47,,1D15,1D15
+LtnSmCapOu.OpenTop,uni1D15.OpenTop,2483.262,2483.262,cv47,opOU,,1D15,1D15
 GrCapOmega,uni03A9,2490.1,2490.1,,,,,
 GrSmCapOmega,uniAB65,2490.2,2490.2,,,,,
 LtnBilabialClick,uni0298,2495.1,2495.1,,,,,
@@ -1987,7 +1987,7 @@ LtnCapZSwashTail,uni2C7F,3550.94,3550.94,,,,,
 LtnCapVisigothicZ,uniA762,3551.1,3551.1,,,,,
 LtnCapEsh,uni01A9,3580.1,3580.1,,,,,
 GrCapSigma,Sigma,3580.11,3580.11,,,,,
-LtnCapEzh.RevSigmaStyle,uni01B7.RevSigmaStyle,3590.1,3590.1,cv20,cv20,,,
+LtnCapEzh.RevSigmaStyle,uni01B7.RevSigmaStyle,3590.1,3590.1,cv20,cv20,,01B7,01B7
 CyCapAbkhasDze.RevSigmaStyle,uni04E0.RevSigmaStyle,3590.15,3590.15,cv20,cv20,,04E0,04E0
 LtnSmEzh,uni0292,3600.1,3600.1,,,,,
 LtnSmEzh.RevSigmaStyle,uni0292.RevSigmaStyle,3600.11,3600.11,cv20,cv20,,0292,0292

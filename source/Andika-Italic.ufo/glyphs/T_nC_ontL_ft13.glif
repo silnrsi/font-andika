@@ -2,7 +2,7 @@
 <glyph name="TnContLft13" format="2">
   <advance width="679"/>
   <anchor x="675" y="787" name="TL"/>
-  <anchor x="9" y="35" name="_TL"/>
+  <anchor x="9" y="35" name="TL_"/>
   <outline>
     <component base="TnLtrSeg13"/>
     <component base="TnLtrSpcPointRight" xOffset="480"/>

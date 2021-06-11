@@ -2,7 +2,7 @@
 <glyph name="CombHorn" format="2">
   <advance width="310"/>
   <unicode hex="031B"/>
-  <anchor x="290" y="1000" name="_R"/>
+  <anchor x="290" y="1000" name="R_"/>
   <outline>
     <contour>
       <point x="156" y="1049" type="line"/>

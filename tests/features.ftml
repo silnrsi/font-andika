@@ -9,6 +9,7 @@
     <fontsrc>url(../results/Andika-BoldItalic.ttf)</fontsrc>
     <fontsrc label="ARv5">url(../references/v5/Andika-Regular.ttf)</fontsrc>
     <styles>
+      <style lang="cnr" name="cnr"/>
       <style feats="'cv01' 1" name="cv01_1"/>
       <style feats="'cv04' 1" name="cv04_1"/>
       <style feats="'cv06' 1" name="cv06_1"/>
@@ -128,10 +129,7 @@
       <style feats="'cv81' 1, 'smcp' 1" name="cv81_1_smcp_1"/>
       <style feats="'cv82' 1" name="cv82_1"/>
       <style feats="'cv90' 1" name="cv90_1"/>
-      <style feats="'cv91' 1" name="cv91_1"/>
       <style feats="'cv98' 1" name="cv98_1"/>
-      <style feats="'locl' 1" name="locl_1"/>
-      <style feats="'locl' 1, 'smcp' 1" name="locl_1_smcp_1"/>
       <style feats="'opOU' 1" name="opOU_1"/>
       <style feats="'opOU' 1, 'smcp' 1" name="opOU_1_smcp_1"/>
       <style feats="'smcp' 1, 'ss01' 1" name="smcp_1_ss01_1"/>
@@ -147,6 +145,7 @@
       <style feats="'smcp' 1, 'ss05' 1, 'ss13' 1" name="smcp_1_ss05_1_ss13_1"/>
       <style feats="'smcp' 1, 'ss13' 1" name="smcp_1_ss13_1"/>
       <style feats="'smcp' 1, 'ss14' 1" name="smcp_1_ss14_1"/>
+      <style lang="sr" name="sr"/>
       <style feats="'ss01' 1" name="ss01_1"/>
       <style feats="'ss01' 1, 'ss04' 1" name="ss01_1_ss04_1"/>
       <style feats="'ss01' 1, 'ss04' 1, 'ss14' 1" name="ss01_1_ss04_1_ss14_1"/>
@@ -275,17 +274,19 @@ U+0257" stylename="cv17_1">
     </test>
   </testgroup>
   <testgroup label="cv20">
-    <test label="U+0292
+    <test label="U+01B7
+U+0292
 U+04E0
 U+04E1">
-      <comment>LtnSmEzh CyCapAbkhasDze CySmAbkhasDze</comment>
-      <string>\u000292\u0004E0\u0004E1</string>
+      <comment>LtnCapEzh LtnSmEzh CyCapAbkhasDze CySmAbkhasDze</comment>
+      <string>\u0001B7\u000292\u0004E0\u0004E1</string>
     </test>
-    <test label="U+0292
+    <test label="U+01B7
+U+0292
 U+04E0
 U+04E1" stylename="cv20_1">
-      <comment>LtnSmEzh CyCapAbkhasDze CySmAbkhasDze</comment>
-      <string>\u000292\u0004E0\u0004E1</string>
+      <comment>LtnCapEzh LtnSmEzh CyCapAbkhasDze CySmAbkhasDze</comment>
+      <string>\u0001B7\u000292\u0004E0\u0004E1</string>
     </test>
   </testgroup>
   <testgroup label="cv25">
@@ -1068,24 +1069,6 @@ U+02CB" stylename="cv90_1">
       <string>\u0002C8\u0002C9\u0002CA\u0002CB</string>
     </test>
   </testgroup>
-  <testgroup label="cv91">
-    <test label="U+02E5
-U+02E6
-U+02E7
-U+02E8
-U+02E9">
-      <comment>TnLtr5 TnLtr4 TnLtr3 TnLtr2 TnLtr1</comment>
-      <string>\u0002E5\u0002E6\u0002E7\u0002E8\u0002E9</string>
-    </test>
-    <test label="U+02E5
-U+02E6
-U+02E7
-U+02E8
-U+02E9" stylename="cv91_1">
-      <comment>TnLtr5 TnLtr4 TnLtr3 TnLtr2 TnLtr1</comment>
-      <string>\u0002E5\u0002E6\u0002E7\u0002E8\u0002E9</string>
-    </test>
-  </testgroup>
   <testgroup label="cv98">
     <test label="U+2205">
       <comment>EmptySet</comment>
@@ -1094,24 +1077,6 @@ U+02E9" stylename="cv91_1">
     <test label="U+2205" stylename="cv98_1">
       <comment>EmptySet</comment>
       <string>\u002205</string>
-    </test>
-  </testgroup>
-  <testgroup label="locl">
-    <test label="U+0431
-U+0433
-U+0434
-U+043F
-U+0442">
-      <comment>CySmBe CySmGhe CySmDe CySmPe CySmTe</comment>
-      <string>\u000431\u000433\u000434\u00043F\u000442</string>
-    </test>
-    <test label="U+0431
-U+0433
-U+0434
-U+043F
-U+0442" stylename="locl_1">
-      <comment>CySmBe CySmGhe CySmDe CySmPe CySmTe</comment>
-      <string>\u000431\u000433\u000434\u00043F\u000442</string>
     </test>
   </testgroup>
   <testgroup label="opOU">
@@ -2380,24 +2345,6 @@ U+0165" stylename="cv77_1_smcp_1">
     <test label="U+04BB" stylename="cv81_1_smcp_1">
       <comment>CySmShha</comment>
       <string>\u0004BB</string>
-    </test>
-  </testgroup>
-  <testgroup label="locl smcp">
-    <test label="U+0431
-U+0433
-U+0434
-U+043F
-U+0442">
-      <comment>CySmBe CySmGhe CySmDe CySmPe CySmTe</comment>
-      <string>\u000431\u000433\u000434\u00043F\u000442</string>
-    </test>
-    <test label="U+0431
-U+0433
-U+0434
-U+043F
-U+0442" stylename="locl_1_smcp_1">
-      <comment>CySmBe CySmGhe CySmDe CySmPe CySmTe</comment>
-      <string>\u000431\u000433\u000434\u00043F\u000442</string>
     </test>
   </testgroup>
   <testgroup label="opOU smcp">
@@ -4158,6 +4105,29 @@ U+1EB5" stylename="cv75_1_smcp_1_ss01_1_ss05_1_ss13_1">
     <test label="U+0105" stylename="cv76_1_smcp_1_ss01_1_ss05_1_ss13_1">
       <comment>LtnSmAOgonek.SngStory</comment>
       <string>\u000105</string>
+    </test>
+  </testgroup>
+  <testgroup label="locl - Serbian">
+    <test label="U+0431
+U+0433
+U+043F
+U+0434">
+      <comment>CySmBe CySmGhe CySmPe CySmDe</comment>
+      <string>\u000431\u00030D\u000433\u00030D\u00043F\u00030D\u000434\u00030D</string>
+    </test>
+    <test label="U+0431
+U+0433
+U+043F
+U+0434" stylename="cnr">
+      <comment>CySmBe CySmGhe CySmPe CySmDe</comment>
+      <string>\u000431\u00030D\u000433\u00030D\u00043F\u00030D\u000434\u00030D</string>
+    </test>
+    <test label="U+0431
+U+0433
+U+043F
+U+0434" stylename="sr">
+      <comment>CySmBe CySmGhe CySmPe CySmDe</comment>
+      <string>\u000431\u00030D\u000433\u00030D\u00043F\u00030D\u000434\u00030D</string>
     </test>
   </testgroup>
 </ftml>

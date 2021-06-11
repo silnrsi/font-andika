@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="TnLtr5no" format="2">
   <advance width="959"/>
-  <anchor x="180" y="1500" name="_TL"/>
+  <anchor x="180" y="1500" name="TL_"/>
   <outline>
     <component base="TnLtrSpcPointLeft"/>
     <component base="TnLtrSeg55" xOffset="179"/>
