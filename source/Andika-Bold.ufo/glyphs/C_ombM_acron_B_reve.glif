@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombMacron_Breve" format="2">
   <unicode hex="1DCC"/>
-  <anchor x="-580" y="1530" name="U"/>
+  <anchor x="-570" y="1635" name="U"/>
   <anchor x="-580" y="1100" name="_U"/>
   <outline>
     <contour>
