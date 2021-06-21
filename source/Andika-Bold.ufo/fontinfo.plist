@@ -13,7 +13,7 @@
   <key>familyName</key>
   <string>Andika</string>
   <key>openTypeHeadCreated</key>
-  <string>2021/04/29 17:20:18</string>
+  <string>2021/06/21 20:09:38</string>
   <key>openTypeHheaAscender</key>
   <integer>2500</integer>
   <key>openTypeHheaDescender</key>
@@ -198,8 +198,6 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <string>Andika-Bold</string>
   <key>postscriptFullName</key>
   <string>Andika Bold</string>
-  <key>postscriptIsFixedPitch</key>
-  <false/>
   <key>postscriptStemSnapH</key>
   <array>
     <integer>140</integer>

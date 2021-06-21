@@ -2,12 +2,12 @@
 <glyph name="EmptySet.SlashZero" format="2">
   <advance width="1180"/>
   <outline>
+    <component base="DigitZero"/>
     <contour>
       <point x="1260" y="1607" type="line"/>
       <point x="-21" y="-201" type="line"/>
       <point x="129" y="-201" type="line"/>
       <point x="1410" y="1607" type="line"/>
     </contour>
-    <component base="DigitZero"/>
   </outline>
 </glyph>

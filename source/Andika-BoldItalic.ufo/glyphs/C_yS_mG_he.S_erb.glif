@@ -4,6 +4,7 @@
   <anchor x="315" y="-100" name="L"/>
   <anchor x="590" y="1525" name="U"/>
   <outline>
+    <component base="CombMacron.Short" xOffset="739" yOffset="-5"/>
     <contour>
       <point x="341" y="1010" type="line"/>
       <point x="341" y="877"/>
@@ -28,6 +29,5 @@
       <point x="621" y="875"/>
       <point x="625" y="1010" type="curve"/>
     </contour>
-    <component base="CombMacron.Short" xOffset="739" yOffset="-5"/>
   </outline>
 </glyph>

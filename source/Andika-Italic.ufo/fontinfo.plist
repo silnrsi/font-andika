@@ -15,7 +15,7 @@
   <key>italicAngle</key>
   <integer>-14</integer>
   <key>openTypeHeadCreated</key>
-  <string>2021/04/29 17:20:08</string>
+  <string>2021/06/21 20:09:39</string>
   <key>openTypeHheaAscender</key>
   <integer>2500</integer>
   <key>openTypeHheaDescender</key>
@@ -200,8 +200,6 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <string>Andika-Italic</string>
   <key>postscriptFullName</key>
   <string>Andika Italic</string>
-  <key>postscriptIsFixedPitch</key>
-  <false/>
   <key>postscriptStemSnapH</key>
   <array>
     <integer>140</integer>

@@ -4,12 +4,12 @@
   <anchor x="700" y="-100" name="L"/>
   <anchor x="1100" y="1505" name="U"/>
   <outline>
+    <component base="CySmSha"/>
     <contour>
       <point x="608" y="1228" type="line"/>
       <point x="1438" y="1228" type="line"/>
       <point x="1489" y="1435" type="line"/>
       <point x="659" y="1435" type="line"/>
     </contour>
-    <component base="CySmSha"/>
   </outline>
 </glyph>
