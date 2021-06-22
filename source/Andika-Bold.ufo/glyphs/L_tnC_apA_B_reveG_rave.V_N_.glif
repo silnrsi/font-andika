@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnCapABreveGrave.VN" format="2">
   <advance width="1485"/>
-  <anchor x="1275" y="0" name="H"/>
+  <anchor x="735" y="0" name="H"/>
   <anchor x="732" y="-100" name="L"/>
   <anchor x="1495" y="0" name="O"/>
   <anchor x="732" y="2330" name="U"/>

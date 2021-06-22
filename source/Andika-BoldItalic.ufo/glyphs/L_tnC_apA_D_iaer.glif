@@ -2,7 +2,7 @@
 <glyph name="LtnCapADiaer" format="2">
   <advance width="1465"/>
   <unicode hex="00C4"/>
-  <anchor x="1215" y="0" name="H"/>
+  <anchor x="685" y="0" name="H"/>
   <anchor x="650" y="-100" name="L"/>
   <anchor x="1435" y="0" name="O"/>
   <anchor x="1177" y="2015" name="U"/>

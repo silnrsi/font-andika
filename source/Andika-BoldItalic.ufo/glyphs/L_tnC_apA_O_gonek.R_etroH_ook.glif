@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnCapAOgonek.RetroHook" format="2">
   <advance width="1465"/>
-  <anchor x="1215" y="0" name="H"/>
+  <anchor x="685" y="0" name="H"/>
   <anchor x="550" y="-500" name="L"/>
   <anchor x="1435" y="0" name="O"/>
   <anchor x="1055" y="1530" name="U"/>

@@ -2,7 +2,7 @@
 <glyph name="LtnSmATilde.SngStory" format="2">
   <advance width="1132"/>
   <unicode hex="00E3"/>
-  <anchor x="900" y="0" name="H"/>
+  <anchor x="500" y="0" name="H"/>
   <anchor x="510" y="-100" name="L"/>
   <anchor x="1100" y="0" name="O"/>
   <anchor x="1340" y="1000" name="R"/>
