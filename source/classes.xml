@@ -606,6 +606,16 @@
 		LtnSmIOgonek.TailI LtnSmOOgonek LtnSmOOgonek.sc LtnSmOOgonekMacron
 		LtnSmOOgonekMacron.sc LtnSmUOgonek LtnSmUOgonek.sc Ogonek
 	</class>
+	<class name="c_caron" fixed="0">
+		LtnCapLCaron.Caron LtnSmDCaron.Caron LtnSmDCaron.Caron.sc LtnSmLCaron.Caron
+		LtnSmLCaron.Caron.TailL LtnSmLCaron.Caron.sc LtnSmTCaron.Caron LtnSmTCaron.Caron.NoTailT
+		LtnSmTCaron.Caron.sc
+	</class>
+	<class name="cno_caron" fixed="0">
+		LtnCapLCaron LtnSmDCaron LtnSmDCaron.sc LtnSmLCaron
+		LtnSmLCaron.TailL LtnSmLCaron.sc LtnSmTCaron LtnSmTCaron.NoTailT
+		LtnSmTCaron.sc
+	</class>
 	<class name="c_bartp" fixed="0">
 		LtnCapJ.BarTop LtnCapJCircum.BarTop LtnCapJCrossedTail.BarTop LtnCapJStrk.BarTop
 		LtnSmCapJ.BarTop LtnSmJ.BarTop LtnSmJ.BarTop.sc LtnSmJCircum.BarTop

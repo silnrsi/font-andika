@@ -21,6 +21,7 @@ class_spec_lst = [('smcp', 'sc'),
                   ('viet', 'VN'),
                   ('dotlss', 'Dotless'),
                   ('rtrhk', 'RetroHook'),
+                  ('caron', 'Caron'),
                   ('iotasub', 'ISub'),
                   ('bartp', 'BarTop'),
                   ]
