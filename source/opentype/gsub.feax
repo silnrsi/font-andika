@@ -525,6 +525,7 @@ lookup q_sub {
     sub LtnCapQ from [LtnCapQ.DiagTail ];
     sub LtnCapQStrk from [LtnCapQStrk.DiagTail ];
     sub LtnCapQDiagStrk from [LtnCapQDiagStrk.DiagTail ];
+    sub LtnSmCapQ from [LtnSmCapQ.DiagTail ] ;
     sub LtnSmQ.sc from [LtnSmQ.DiagTail.sc ];
     sub LtnSmQStrk.sc from [LtnSmQStrk.DiagTail.sc ];
     sub LtnSmQDiagStrk.sc from [LtnSmQDiagStrk.DiagTail.sc ];
