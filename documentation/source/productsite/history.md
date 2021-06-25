@@ -126,6 +126,12 @@ Characters added to support Unicode versions 7.0-13.0, including feature support
     - U+A78E LATIN SMALL LETTER L WITH RETROFLEX HOOK AND BELT (form)
     - U+A7F8 MODIFIER LETTER CAPITAL H WITH STROKE (form)
 
+#### Known issues
+
+- There is no support for TypeTuner or TypeTuner Web. We hope to add that support soon.
+
+- There are no regional subsets. Please contact us if these are a priority for you and describe how you use them. We are reassessing whether to provide these subsets. With current web technology and WOFF2 compression most uses can be met equally well with the full fonts.
+
 ### 27 Oct 2014 (SIL NRSI team) Andika Regular version 5.000
 - Added Stylistic Sets to the font for OpenType support 
 	of previously Graphite-only features
