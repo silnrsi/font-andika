@@ -6,11 +6,11 @@ Open Font License, Version 1.1 (http://scripts.sil.org/OFL).
 */
 @font-face {
     font-family: Andika-R;
-    src: url("../../../web/Andika-Regular.woff2") format("woff2");
+    src: url("../../../results/Andika-Regular.ttf") format("truetype");
 }
 @font-face {
     font-family: Andika-I;
-    src: url("../../../web/Andika-Italic.woff2") format("woff2");
+    src: url("../../../results/Andika-Italic.ttf") format("truetype");
 }
 
 .andika-R { font-family: Andika-R; }
