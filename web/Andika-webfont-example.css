@@ -10,19 +10,19 @@ Open Font License, Version 1.1 (http://scripts.sil.org/OFL).
   font-family: AndikaW;
   src: url(Andika-Regular.woff2);
 }
-/* use Charis SIL - Italic in .woff2 format */
+/* use Andika - Italic in .woff2 format */
 @font-face {
   font-family: AndikaW;
   font-style: italic;
   src: url(Andika-Italic.woff2);
 }
-
+/* use Andika - Bold in .woff2 format */
 @font-face {
 	font-family: AndikaW;
 	font-weight: bold;
 	src: url(Andika-Bold.woff2);
 }
-
+/* use Andika - Bold Italic in .woff2 format */
 @font-face {
 	font-family: AndikaW;
 	font-weight: bold;
@@ -30,8 +30,7 @@ Open Font License, Version 1.1 (http://scripts.sil.org/OFL).
 	src: url(Andika-BoldItalic.woff2);
 }
 
-
-/* set body to use Andika in .ttf format */
+/* set body to use Andika */
 body {
   font-family: AndikaW, serif;
     /* fall back to serif so that it's really obvious if the fonts don't load */
