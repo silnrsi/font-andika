@@ -485,3 +485,6 @@ Feature | Sample                      | Feature setting
 Standard | <span class='andika-R normal'>7 ⁷ ₇</span> | `cv07=0`
 Barred   | <span class='andika-R normal' style='font-feature-settings: "cv07" 1'>7 ⁷ ₇</span> | `cv07=1`
 
+<!-- PRODUCT SITE ONLY
+[font id='andika' face='Andika-Regular' italic='Andika-Italic' size='150%']
+-->
