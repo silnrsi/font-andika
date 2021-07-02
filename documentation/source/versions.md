@@ -1,6 +1,6 @@
 ---
 title: Andika - Versions and Changes
-fontversion: 6.000
+fontversion: 6.001
 ---
 
 ## Announcement list
