@@ -7,7 +7,7 @@ Andika is an OpenType-enabled font family that supports the Latin and Cyrillic s
 
 These OpenType features are primarily specified using four-letter tags (e.g. 'cv17'), although some applications may provide a direct way to control certain common features such as small caps. For more information on how to access OpenType features in specific environments and applications, see [Using Font Features](http://software.sil.org/fonts/features).
 
-*Please note that Graphite support has been removed in the current release, but continues to be available in the version 5 fonts. See our [Previous Versions archive](http://software.sil.org/charis/download/previous-versions).*
+*Please note that Graphite support has been removed in the current release, but continues to be available in the version 5 fonts. See our [Previous Versions archive](http://software.sil.org/andika/download/previous-versions).*
 
 This page uses web fonts (WOFF2) to demonstrate font features and should display correctly in all modern browsers. For a more concise example of how to use Andika as a web font see *Andika-webfont-example.html* in the font package *web* folder. For detailed information see [Using SIL Fonts on Web Pages](http://software.sil.org/fonts/webfonts).
 
