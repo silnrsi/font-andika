@@ -763,23 +763,19 @@ feature cv01 {
 
   cvParameters {
       FeatUILabelNameID {
-       name 3 1 0x0409 "Digit One without base";  # English US
-       name 1 0 0 "Digit One without base";  # Mac English
+       name 3 1 0x0409 "One";  # English US
       };
       
       FeatUITooltipTextNameID {
-       name 3 1 0x0409 "Dig One no base";  # English US
-       name 1 0 0 "Dig One no base";  # Mac English
+       name 3 1 0x0409 "Alternate form of numeral one without base";  # English US
       };
       
       SampleTextNameID {
        name 3 1 0x0409 "1₁¹";  # English US
-       name 1 0 0 "?";  # Mac English
       };
       
       ParamUILabelNameID {
-       name 3 1 0x0409 "No base";  # English US
-       name 1 0 0 "No base";  # Mac English
+       name 3 1 0x0409 "No base serif";  # English US
       };
   };
 
@@ -790,23 +786,19 @@ feature cv04 {
 
   cvParameters {
       FeatUILabelNameID {
-       name 3 1 0x0409 "Digit Four with open loop";  # English US
-       name 1 0 0 "Digit Four with open loop";  # Mac English
+       name 3 1 0x0409 "Four";  # English US
       };
       
       FeatUITooltipTextNameID {
-       name 3 1 0x0409 "Dig Four open";  # English US
-       name 1 0 0 "Dig Four open";  # Mac English
+       name 3 1 0x0409 "Alternate form of numeral four with open top";  # English US
       };
       
       SampleTextNameID {
        name 3 1 0x0409 "4₄⁴";  # English US
-       name 1 0 0 "?";  # Mac English
       };
       
       ParamUILabelNameID {
-       name 3 1 0x0409 "Open";  # English US
-       name 1 0 0 "Open";  # Mac English
+       name 3 1 0x0409 "Open top";  # English US
       };
   };
 
@@ -817,23 +809,19 @@ feature cv06 {
 
   cvParameters {
       FeatUILabelNameID {
-       name 3 1 0x0409 "Digit Six and Nine alternates";  # English US
-       name 1 0 0 "Digit Six and Nine alternates";  # Mac English
+       name 3 1 0x0409 "Six and Nine";  # English US
       };
       
       FeatUITooltipTextNameID {
-       name 3 1 0x0409 "Dig Six & Nine alts";  # English US
-       name 1 0 0 "Dig Six & Nine alts";  # Mac English
+       name 3 1 0x0409 "Alternate forms of numerals six and nine with diagonal stems";  # English US
       };
       
       SampleTextNameID {
        name 3 1 0x0409 "6₆⁹9₉⁹";  # English US
-       name 1 0 0 "?";  # Mac English
       };
       
       ParamUILabelNameID {
-       name 3 1 0x0409 "Diagonal stem";  # English US
-       name 1 0 0 "Diagonal stem";  # Mac English
+       name 3 1 0x0409 "Diagonal stems";  # English US
       };
   };
 
@@ -844,23 +832,19 @@ feature cv07 {
 
   cvParameters {
       FeatUILabelNameID {
-       name 3 1 0x0409 "Digit Seven with bar";  # English US
-       name 1 0 0 "Digit Seven with bar";  # Mac English
+       name 3 1 0x0409 "Seven";  # English US
       };
       
       FeatUITooltipTextNameID {
-       name 3 1 0x0409 "Dig Seven bar";  # English US
-       name 1 0 0 "Dig Seven bar";  # Mac English
+       name 3 1 0x0409 "Alternate form of numeral seven with bar";  # English US
       };
       
       SampleTextNameID {
        name 3 1 0x0409 "7₇⁷";  # English US
-       name 1 0 0 "?";  # Mac English
       };
       
       ParamUILabelNameID {
-       name 3 1 0x0409 "Bar";  # English US
-       name 1 0 0 "Bar";  # Mac English
+       name 3 1 0x0409 "Barred";  # English US
       };
   };
 
@@ -871,23 +855,19 @@ feature cv10 {
 
   cvParameters {
       FeatUILabelNameID {
-       name 3 1 0x0409 "Digit Zero with slash";  # English US
-       name 1 0 0 "Digit Zero with slash";  # Mac English
+       name 3 1 0x0409 "Zero";  # English US
       };
       
       FeatUITooltipTextNameID {
-       name 3 1 0x0409 "Dig Zero slash";  # English US
-       name 1 0 0 "Dig Zero slash";  # Mac English
+       name 3 1 0x0409 "Alternate form of numeral zero with slash";  # English US
       };
       
       SampleTextNameID {
        name 3 1 0x0409 "0⁰₀";  # English US
-       name 1 0 0 "?";  # Mac English
       };
       
       ParamUILabelNameID {
-       name 3 1 0x0409 "Slash";  # English US
-       name 1 0 0 "Slash";  # Mac English
+       name 3 1 0x0409 "Slashed";  # English US
       };
   };
 
@@ -1066,23 +1046,19 @@ feature cv31 {
 
   cvParameters {
       FeatUILabelNameID {
-       name 3 1 0x0409 "Small i-tail alternates";  # English US
-       name 1 0 0 "Small i-tail alternates";  # Mac English
+       name 3 1 0x0409 "Lowercase i";  # English US
       };
       
       FeatUITooltipTextNameID {
-       name 3 1 0x0409 "Small i-tail alts";  # English US
-       name 1 0 0 "Small i-tail alts";  # Mac English
+       name 3 1 0x0409 "Alternate form of lowercase i with curved tail";  # English US
       };
       
       SampleTextNameID {
        name 3 1 0x0409 "iìíîï";  # English US
-       name 1 0 0 "?";  # Mac English
       };
       
       ParamUILabelNameID {
        name 3 1 0x0409 "Curved tail";  # English US
-       name 1 0 0 "Curved tail";  # Mac English
       };
   };
 
@@ -1093,23 +1069,19 @@ feature cv34 {
 
   cvParameters {
       FeatUILabelNameID {
-       name 3 1 0x0409 "Small j-serif alternates";  # English US
-       name 1 0 0 "Small j-serif alternates";  # Mac English
+       name 3 1 0x0409 "Lowercase j";  # English US
       };
       
       FeatUITooltipTextNameID {
-       name 3 1 0x0409 "Small j-serif alts";  # English US
-       name 1 0 0 "Small j-serif alts";  # Mac English
+       name 3 1 0x0409 "Alternate form of lowercase j with top serif";  # English US
       };
       
       SampleTextNameID {
        name 3 1 0x0409 "jĵǰȷɉɟʝʲᶡᶨⱼ";  # English US
-       name 1 0 0 "?";  # Mac English
       };
       
       ParamUILabelNameID {
        name 3 1 0x0409 "Top serif";  # English US
-       name 1 0 0 "Top serif";  # Mac English
       };
   };
 
@@ -1121,23 +1093,19 @@ feature cv35 {
 
   cvParameters {
       FeatUILabelNameID {
-       name 3 1 0x0409 "Capital J alternates";  # English US
-       name 1 0 0 "Capital J alternates";  # Mac English
+       name 3 1 0x0409 "Capital J";  # English US
       };
       
       FeatUITooltipTextNameID {
-       name 3 1 0x0409 "Cap J alts";  # English US
-       name 1 0 0 "Cap J alts";  # Mac English
+       name 3 1 0x0409 "Alternate form of capital J with bar across top";  # English US
       };
       
       SampleTextNameID {
        name 3 1 0x0409 "JĴɈᴊᴶꞲ";  # English US
-       name 1 0 0 "?";  # Mac English
       };
       
       ParamUILabelNameID {
        name 3 1 0x0409 "Top bar";  # English US
-       name 1 0 0 "Top bar";  # Mac English
       };
   };
 
@@ -1176,23 +1144,19 @@ feature cv39 {
 
   cvParameters {
       FeatUILabelNameID {
-       name 3 1 0x0409 "Small l-tail alternates";  # English US
-       name 1 0 0 "Small l-tail alternates";  # Mac English
+       name 3 1 0x0409 "Lowercase l";  # English US
       };
       
       FeatUITooltipTextNameID {
-       name 3 1 0x0409 "Small l-tail alts";  # English US
-       name 1 0 0 "Small l-tail alts";  # Mac English
+       name 3 1 0x0409 "Alternate form of lowercase l with curved tail";  # English US
       };
       
       SampleTextNameID {
        name 3 1 0x0409 "lĺļľŀłƚ";  # English US
-       name 1 0 0 "?";  # Mac English
       };
       
       ParamUILabelNameID {
        name 3 1 0x0409 "Curved tail";  # English US
-       name 1 0 0 "Curved tail";  # Mac English
       };
   };
 
@@ -1349,23 +1313,19 @@ feature cv51 {
 
   cvParameters {
       FeatUILabelNameID {
-       name 3 1 0x0409 "Small q-tail alternates";  # English US
-       name 1 0 0 "Small q-tail alternates";  # Mac English
+       name 3 1 0x0409 "Lowercase q";  # English US
       };
       
       FeatUITooltipTextNameID {
-       name 3 1 0x0409 "Small q-tail alts";  # English US
-       name 1 0 0 "Small q-tail alts";  # Mac English
+       name 3 1 0x0409 "Alternate form of lowercase q with pointed descender";  # English US
       };
       
       SampleTextNameID {
        name 3 1 0x0409 "qʠꝗꝙ";  # English US
-       name 1 0 0 "?";  # Mac English
       };
       
       ParamUILabelNameID {
-       name 3 1 0x0409 "Point";  # English US
-       name 1 0 0 "Point";  # Mac English
+       name 3 1 0x0409 "Pointed";  # English US
       };
   };
 
@@ -1376,23 +1336,19 @@ feature cv52 {
 
   cvParameters {
       FeatUILabelNameID {
-       name 3 1 0x0409 "Capital Q alternates";  # English US
-       name 1 0 0 "Capital Q alternates";  # Mac English
+       name 3 1 0x0409 "Capital Q";  # English US
       };
       
       FeatUITooltipTextNameID {
-       name 3 1 0x0409 "Cap Q alts";  # English US
-       name 1 0 0 "Cap Q alts";  # Mac English
+       name 3 1 0x0409 "Alternate form of capital Q with crossing tail";  # English US
       };
       
       SampleTextNameID {
        name 3 1 0x0409 "QꝖꝘ";  # English US
-       name 1 0 0 "?";  # Mac English
       };
       
       ParamUILabelNameID {
-       name 3 1 0x0409 "Tail across";  # English US
-       name 1 0 0 "Tail across";  # Mac English
+       name 3 1 0x0409 "Crossing tail";  # English US
       };
   };
 
@@ -1431,23 +1387,19 @@ feature cv56 {
 
   cvParameters {
       FeatUILabelNameID {
-       name 3 1 0x0409 "Small t-tail alternates";  # English US
-       name 1 0 0 "Small t-tail alternates";  # Mac English
+       name 3 1 0x0409 "Lowercase t";  # English US
       };
       
       FeatUITooltipTextNameID {
-       name 3 1 0x0409 "Small t-tail alts";  # English US
-       name 1 0 0 "Small t-tail alts";  # Mac English
+       name 3 1 0x0409 "Alternate form of lowercase t with no tail";  # English US
       };
       
       SampleTextNameID {
        name 3 1 0x0409 "tţťŧƫƭ";  # English US
-       name 1 0 0 "?";  # Mac English
       };
       
       ParamUILabelNameID {
-       name 3 1 0x0409 "Straight";  # English US
-       name 1 0 0 "Straight";  # Mac English
+       name 3 1 0x0409 "No tail";  # English US
       };
   };
 
@@ -1519,23 +1471,19 @@ feature cv67 {
 
   cvParameters {
       FeatUILabelNameID {
-       name 3 1 0x0409 "Small y-tail alternates";  # English US
-       name 1 0 0 "Small y-tail alternates";  # Mac English
+       name 3 1 0x0409 "Lowercase y";  # English US
       };
       
       FeatUITooltipTextNameID {
-       name 3 1 0x0409 "Small y-tail alts";  # English US
-       name 1 0 0 "Small y-tail alts";  # Mac English
+       name 3 1 0x0409 "Alternate form of lowercase y with straight tail";  # English US
       };
       
       SampleTextNameID {
        name 3 1 0x0409 "yýÿŷƴ";  # English US
-       name 1 0 0 "?";  # Mac English
       };
       
       ParamUILabelNameID {
-       name 3 1 0x0409 "Straight";  # English US
-       name 1 0 0 "Straight";  # Mac English
+       name 3 1 0x0409 "Straight tail";  # English US
       };
   };
 
@@ -1926,7 +1874,7 @@ feature cv98 {
 
 feature ss01 {
   featureNames {
-    name 3 1 0x409 "Literacy alternates";
+    name 3 1 0x409 "Double-story a and g";
   };
 
   lookup lit_sub;
@@ -1934,7 +1882,7 @@ feature ss01 {
 
 feature ss13 {
   featureNames {
-    name 3 1 0x409 "Literacy a alternates";
+    name 3 1 0x409 "Double-story a";
   };
 
   lookup lita_sub;
@@ -1942,7 +1890,7 @@ feature ss13 {
 
 feature ss14 {
   featureNames {
-    name 3 1 0x409 "Literacy g alternates";
+    name 3 1 0x409 "Double-story g";
   };
 
   lookup litg_sub;
