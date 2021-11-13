@@ -241,6 +241,7 @@ U+006C" stylename="cv39_1">
       <string>\u000254\u000327</string>
     </test>
   </testgroup>
+  <testgroup label="cv47"/>
   <testgroup label="cv49"/>
   <testgroup label="cv51"/>
   <testgroup label="cv52"/>
@@ -451,7 +452,6 @@ U+0165" stylename="cv77_1">
   <testgroup label="cv82"/>
   <testgroup label="cv90"/>
   <testgroup label="cv98"/>
-  <testgroup label="opOU"/>
   <testgroup label="ss01">
     <test label="U+0061
 U+0067
@@ -1195,6 +1195,7 @@ U+006C" stylename="cv39_1_ss05_1">
       <string>\u000254\u000327</string>
     </test>
   </testgroup>
+  <testgroup label="cv47 smcp"/>
   <testgroup label="cv49 smcp"/>
   <testgroup label="cv51 cv52"/>
   <testgroup label="cv51 smcp"/>
@@ -1449,7 +1450,6 @@ U+0165" stylename="cv77_1_smcp_1">
       <string>\u0004BB\u000327</string>
     </test>
   </testgroup>
-  <testgroup label="opOU smcp"/>
   <testgroup label="smcp ss01">
     <test label="U+0061
 U+0067
