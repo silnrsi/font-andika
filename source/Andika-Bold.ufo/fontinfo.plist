@@ -13,7 +13,7 @@
   <key>familyName</key>
   <string>Andika</string>
   <key>openTypeHeadCreated</key>
-  <string>2021/07/02 19:18:26</string>
+  <string>2021/12/06 11:32:16</string>
   <key>openTypeHheaAscender</key>
   <integer>2500</integer>
   <key>openTypeHheaDescender</key>
@@ -106,6 +106,10 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <integer>0</integer>
     <integer>0</integer>
     <integer>0</integer>
+  </array>
+  <key>openTypeOS2Selection</key>
+  <array>
+    <integer>7</integer>
   </array>
   <key>openTypeOS2StrikeoutPosition</key>
   <integer>700</integer>

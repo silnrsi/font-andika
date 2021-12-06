@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmTeshRetrHook.NoTailT" format="2">
+  <advance width="1240"/>
+  <anchor x="445" y="-500" name="L"/>
+  <anchor x="978" y="1635" name="U"/>
+  <outline>
+    <component base="LtnSmTeshDigraph.NoTailT"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

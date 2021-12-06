@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmTurnedTCurl.NoTailT" format="2">
+  <advance width="795"/>
+  <anchor x="397" y="-455" name="L"/>
+  <anchor x="386" y="1100" name="U"/>
+  <outline>
+    <component base="LtnSmTurnedT.NoTailT"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

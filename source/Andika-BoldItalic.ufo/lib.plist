@@ -660,6 +660,7 @@
     <string>LtnSmCDotAbv</string>
     <string>LtnSmCCedillaAcute</string>
     <string>CySmEsDesc</string>
+    <string>LtnSmCRetrHook</string>
     <string>LtnSmCPalHook</string>
     <string>LtnSmCBar</string>
     <string>LtnSmCStrk</string>
@@ -667,6 +668,7 @@
     <string>LtnSmCHook</string>
     <string>LtnSmCCurl</string>
     <string>LtnSupSmCCurl</string>
+    <string>LtnStretchedCCurl</string>
     <string>LtnSmOpnO</string>
     <string>LtnSmOpnO.TopSerif</string>
     <string>LtnSupSmOpnO</string>
@@ -690,6 +692,7 @@
     <string>LtnCapCDotAbv</string>
     <string>LtnCapCCedillaAcute</string>
     <string>CyCapEsDesc</string>
+    <string>LtnCapCPalHook</string>
     <string>LtnCapCBar</string>
     <string>LtnCapCStrk</string>
     <string>LtnCapCHook</string>
@@ -740,6 +743,8 @@
     <string>LtnSmDzDigraph</string>
     <string>LtnSmDzDigraphCurl</string>
     <string>LtnSmDezhDigraph</string>
+    <string>LtnSmDezhDigraphRetrHook</string>
+    <string>LtnSmDezhDigraphPalHook</string>
     <string>CySmKomiDje</string>
     <string>LtnSmDelta</string>
     <string>GrSmDelta</string>
@@ -922,6 +927,7 @@
     <string>LtnLigSmFSmF.SItal</string>
     <string>LtnSmLigFf</string>
     <string>LtnSmFengDigraph</string>
+    <string>LtnSmFengDigraphTrill</string>
     <string>LtnSmLngS</string>
     <string>LtnSmLngSDotAbv</string>
     <string>LtnSmLngSHighStrk</string>
@@ -979,6 +985,7 @@
     <string>LtnSmGStrk.SngBowl</string>
     <string>LtnSmG.BarBowl.SngBowl</string>
     <string>LtnSmGHook</string>
+    <string>LtnSmRevScriptG</string>
     <string>LtnSmTurnedG</string>
     <string>LtnSmInsularG</string>
     <string>LtnSmTrndInsularG</string>
@@ -996,6 +1003,7 @@
     <string>LtnCapGDiagStrk</string>
     <string>LtnCapGHook</string>
     <string>LtnSmCapGHook</string>
+    <string>LtnSmCapTurnedG</string>
     <string>LtnCapScriptG</string>
     <string>MathFrktCapG</string>
     <string>GuaraniSign</string>
@@ -1131,6 +1139,7 @@
     <string>LtnSmIRetrHook</string>
     <string>LtnSmIStrk</string>
     <string>LtnSupSmIStrk</string>
+    <string>LtnSmIStrkRetrHook</string>
     <string>LtnSmI.Dotless</string>
     <string>LtnSmDotlessI.SItal</string>
     <string>LtnSmI.Dotless.SItal</string>
@@ -1141,6 +1150,7 @@
     <string>LtnSmIRetrHook.Dotless</string>
     <string>LtnSmIStrk.Dotless</string>
     <string>LtnSupSmIStrk.Dotless</string>
+    <string>LtnSmIStrkRetrHook.Dotless</string>
     <string>LtnSmTrndI</string>
     <string>ModSmTrndI</string>
     <string>LtnSmLigIj</string>
@@ -1252,6 +1262,7 @@
     <string>LtnSmKHook</string>
     <string>LtnSmKDesc</string>
     <string>LtnSmTurnedK</string>
+    <string>LtnSmRevK</string>
     <string>LtnSmKra</string>
     <string>CySmKa</string>
     <string>CySmKje</string>
@@ -1267,6 +1278,7 @@
     <string>CySmZheDesc</string>
     <string>ModCapK</string>
     <string>LtnSmCapK</string>
+    <string>LtnSmCapTurnedK</string>
     <string>LtnCapKAcute</string>
     <string>LtnCapKCaron</string>
     <string>LtnCapKLineBlw</string>
@@ -1331,11 +1343,13 @@
     <string>LtnSmLum</string>
     <string>LtnSmLj</string>
     <string>LtnSmLLDigraph</string>
+    <string>LtnSmLFishhook</string>
     <string>LtnSmLSDigraph</string>
     <string>LivreTourSgn</string>
     <string>TurkishLiraSgn</string>
     <string>LtnSmLZDigraph</string>
     <string>LtnSmLezh</string>
+    <string>LtnSmLezhRetrHook</string>
     <string>LtrScriptSmL</string>
     <string>GermanPennySgn</string>
     <string>LiraSgn</string>
@@ -1424,6 +1438,8 @@
     <string>LtnSmEng.UCStyle</string>
     <string>LtnSupSmEng</string>
     <string>LtnSmEng.Kom</string>
+    <string>LtnSmEngPalHook</string>
+    <string>LtnSmRevEng</string>
     <string>LtnSmNRetrHook</string>
     <string>ModSmNRetrHook</string>
     <string>LtnSmNCurl</string>
@@ -1502,6 +1518,7 @@
     <string>LtnSmOOgonekMacron</string>
     <string>LtnSmOOgonek.RetroHook</string>
     <string>LtnSmOOgonekMacron.RetroHook</string>
+    <string>LtnSmORetrHook</string>
     <string>LtnSmTrndDelta</string>
     <string>LtnSmBarredO</string>
     <string>CySmBarredO</string>
@@ -1693,12 +1710,14 @@
     <string>LtnSmInsularF</string>
     <string>LtnSmTurnedR</string>
     <string>ModSmTrndR</string>
+    <string>LtnSmTurnedRPalHook</string>
     <string>LtnSmTurnedRHook</string>
     <string>ModSmTrndRHook</string>
     <string>LtnSmTurnedRLngLegHook</string>
     <string>LtnSmTurnedRLngLeg</string>
     <string>LtnSmTurnedRHookTail</string>
     <string>LtnSmRFishhook</string>
+    <string>LtnSmRFishhookPalHook</string>
     <string>LtnSmRFishhookMiddleTilde</string>
     <string>LtnSmRum</string>
     <string>LtnSmSquatRevEsh</string>
@@ -1754,13 +1773,16 @@
     <string>LtnSmSPalHook</string>
     <string>LtnSmSMiddleTilde</string>
     <string>LtnSmSDiagStrk</string>
+    <string>LtnSmSCurl</string>
     <string>LtnSmSSwashTail</string>
     <string>LtnSmTnTwo</string>
     <string>LtnSmEsh</string>
     <string>LtnSupSmEsh</string>
     <string>LtnSmEshHook</string>
     <string>LtnSmEshPalHook</string>
+    <string>LtnSmEshDblBar</string>
     <string>LtnSmEshCurl</string>
+    <string>LtnSmEshCurlDblBar</string>
     <string>LtnSmUm</string>
     <string>CyCapDze</string>
     <string>LtnSmCapS</string>
@@ -1774,6 +1796,7 @@
     <string>LtnCapSDotBlwDotAbv</string>
     <string>LtnCapSCommaBlw</string>
     <string>LtnCapSCedilla</string>
+    <string>LtnCapSHook</string>
     <string>LtnCapSDiagStrk</string>
     <string>LtnCapSSwashTail</string>
     <string>LtnCapTnTwo</string>
@@ -1799,16 +1822,21 @@
     <string>LtnSmTDiagStrk</string>
     <string>LtnSmTHook</string>
     <string>LtnSmTHook.RtHook</string>
+    <string>LtnSmTHookRetrHook</string>
     <string>LtnSmTRetrHook</string>
     <string>LtnSmTCurl</string>
+    <string>LtnSmLBeltPalHook</string>
     <string>LtnSmTum</string>
     <string>LtnSmTHStrk</string>
     <string>LtnSmTcDigraphCurl</string>
     <string>LtnSmTsDigraph</string>
     <string>LtnSmTeshDigraph</string>
+    <string>LtnSmTeshRetrHook</string>
+    <string>LtnSmTeshPalHook</string>
     <string>LtnSmTzDigraph</string>
     <string>LtnSmInsularT</string>
     <string>LtnSmTurnedT</string>
+    <string>LtnSmTurnedTCurl</string>
     <string>CySmTe</string>
     <string>CySmTe.Serb</string>
     <string>CySmTeDesc</string>
@@ -2166,6 +2194,7 @@
     <string>LtnRevGlottalStopStrk</string>
     <string>LtnInvGlottalStop</string>
     <string>LtnInvGlottalStopStrk</string>
+    <string>LtnInvGlottalStopCurl</string>
     <string>LtnVcdLrynglSpirant</string>
     <string>LtnAin</string>
     <string>ModSmAin</string>
@@ -2174,6 +2203,7 @@
     <string>NordicMarkSgn</string>
     <string>ManatSgn</string>
     <string>LariSgn</string>
+    <string>SomSgn</string>
     <string>SubZero</string>
     <string>SupZero</string>
     <string>SubOne</string>
@@ -2181,9 +2211,11 @@
     <string>SubTwo</string>
     <string>SupTwo</string>
     <string>LtnTwoStrk</string>
+    <string>TurnedDigitTwo</string>
     <string>VulgFracZeroThirds</string>
     <string>SubThree</string>
     <string>SupThree</string>
+    <string>TurnedDigitThree</string>
     <string>SubFour</string>
     <string>SupFour</string>
     <string>LtnCapCuatrillo</string>
@@ -2226,7 +2258,10 @@
     <string>VulgFracFiveSixths</string>
     <string>VulgFracFiveEighths</string>
     <string>VulgFracSevenEighths</string>
+    <string>PerTenThousandSgn</string>
+    <string>Interrobang</string>
     <string>LtnRetrClick</string>
+    <string>LtnRetroflexClickRetrHook</string>
     <string>ModRaisedExclamationMrk</string>
     <string>ModLowInvExclamationMrk</string>
     <string>ModRaisedInvExclamationMrk</string>
@@ -2292,6 +2327,7 @@
     <string>RtTopCurlyBrac</string>
     <string>RtMidCurlyBrac</string>
     <string>RtBtmCurlyBrac</string>
+    <string>WigglyVerticalLine</string>
     <string>LtnDentalClick</string>
     <string>LtnLateralClick</string>
     <string>LtnAlveolarClick</string>
@@ -2450,6 +2486,7 @@
     <string>CombDblMacron</string>
     <string>CombLowLine</string>
     <string>CombOverline</string>
+    <string>Overline</string>
     <string>DblLowLine</string>
     <string>CombDblLowLine</string>
     <string>CombEqSgnBlw</string>
@@ -2681,6 +2718,7 @@
     <string>LftStemTnLtr3</string>
     <string>LftStemTnLtr2</string>
     <string>LftStemTnLtr1</string>
+    <string>CopyleftSgn</string>
     <string>ShadowedWhiteCirc</string>
     <string>TriangularBullet</string>
     <string>DwnArrw</string>
@@ -2734,6 +2772,7 @@
     <string>MathRtAngBrac</string>
     <string>CombRtArrwhdUpArrwhdBlw</string>
     <string>CombRtArrwhdDwnArrwhdBlw</string>
+    <string>TironianSignEt</string>
     <string>FemaleSgn</string>
     <string>MaleSgn</string>
     <string>MusicFlatSign</string>
@@ -2917,6 +2956,7 @@
     <string>LtnSmLMiddleTilde.TailL</string>
     <string>LtnSmLStrk.TailL</string>
     <string>LtnSmLBelt.TailL</string>
+    <string>LtnSmLFishhook.TailL</string>
     <string>LtnSmQStrk.Point</string>
     <string>LtnSmQDiagStrk.Point</string>
     <string>LtnSmQ.Point</string>
@@ -2930,6 +2970,7 @@
     <string>LtnSmCapQ.DiagTail</string>
     <string>LtnSubSmT.NoTailT</string>
     <string>LtnSmTCaron.Caron.NoTailT</string>
+    <string>LtnSmLBeltPalHook.TailL</string>
     <string>LtnSmT.NoTailT</string>
     <string>LtnSupSmT.NoTailT</string>
     <string>CombLtnSmT.NoTailT</string>
@@ -2951,8 +2992,11 @@
     <string>LtnSmTcDigraphCurl.NoTailT</string>
     <string>LtnSmTsDigraph.NoTailT</string>
     <string>LtnSmTeshDigraph.NoTailT</string>
+    <string>LtnSmTeshRetrHook.NoTailT</string>
+    <string>LtnSmTeshPalHook.NoTailT</string>
     <string>LtnSmTzDigraph.NoTailT</string>
     <string>LtnSmTurnedT.NoTailT</string>
+    <string>LtnSmTurnedTCurl.NoTailT</string>
     <string>LtnSmY.NoTailY</string>
     <string>ModSmY.NoTailY</string>
     <string>LtnSmYAcute.NoTailY</string>
@@ -4305,6 +4349,8 @@
     <string>compComma</string>
     <key>CopCapEie</key>
     <string>uni2C88</string>
+    <key>CopyleftSgn</key>
+    <string>u1F12F</string>
     <key>CopyrightSgn</key>
     <string>copyright</string>
     <key>CruzeiroSgn</key>
@@ -5475,6 +5521,8 @@
     <string>uni206A</string>
     <key>Integral</key>
     <string>integral</string>
+    <key>Interrobang</key>
+    <string>uni203D</string>
     <key>IntlnrAnnotationAnchor</key>
     <string>uniFFF9</string>
     <key>IntlnrAnnotationSeparator</key>
@@ -5751,6 +5799,8 @@
     <string>Cdotaccent</string>
     <key>LtnCapCHook</key>
     <string>uni0187</string>
+    <key>LtnCapCPalHook</key>
+    <string>uniA7C4</string>
     <key>LtnCapCStrk</key>
     <string>uni023B</string>
     <key>LtnCapChi</key>
@@ -6399,6 +6449,8 @@
     <string>uni1E62</string>
     <key>LtnCapSDotBlwDotAbv</key>
     <string>uni1E68</string>
+    <key>LtnCapSHook</key>
+    <string>uniA7C5</string>
     <key>LtnCapSSwashTail</key>
     <string>uni2C7E</string>
     <key>LtnCapSaltillo</key>
@@ -6687,6 +6739,8 @@
     <string>uni02A1</string>
     <key>LtnInvGlottalStop</key>
     <string>uni0296</string>
+    <key>LtnInvGlottalStopCurl</key>
+    <string>u1DF0E</string>
     <key>LtnInvGlottalStopStrk</key>
     <string>uni01BE</string>
     <key>LtnLateralClick</key>
@@ -6745,6 +6799,8 @@
     <string>uni01C3</string>
     <key>LtnRetrClick.sc</key>
     <string>uni01C3.sc</string>
+    <key>LtnRetroflexClickRetrHook</key>
+    <string>u1DF0A</string>
     <key>LtnRevEshLoop</key>
     <string>uni01AA</string>
     <key>LtnRevGlottalStop</key>
@@ -7321,6 +7377,8 @@
     <string>uniA794</string>
     <key>LtnSmCPalHookDep</key>
     <string>uniF225</string>
+    <key>LtnSmCRetrHook</key>
+    <string>u1DF1D</string>
     <key>LtnSmCStrk</key>
     <string>uni023C</string>
     <key>LtnSmCStrk.sc</key>
@@ -7421,6 +7479,10 @@
     <string>uni1D1A</string>
     <key>LtnSmCapTurnedE</key>
     <string>uni2C7B</string>
+    <key>LtnSmCapTurnedG</key>
+    <string>u1DF02</string>
+    <key>LtnSmCapTurnedK</key>
+    <string>u1DF10</string>
     <key>LtnSmCapU</key>
     <string>uni1D1C</string>
     <key>LtnSmCapUBar</key>
@@ -7541,6 +7603,10 @@
     <string>uni1E9F</string>
     <key>LtnSmDezhDigraph</key>
     <string>uni02A4</string>
+    <key>LtnSmDezhDigraphPalHook</key>
+    <string>u1DF12</string>
+    <key>LtnSmDezhDigraphRetrHook</key>
+    <string>u1DF19</string>
     <key>LtnSmDotlessI</key>
     <string>dotlessi</string>
     <key>LtnSmDotlessI.SItal</key>
@@ -7735,12 +7801,18 @@
     <string>eng.UCStyle.sc</string>
     <key>LtnSmEng.sc</key>
     <string>eng.sc</string>
+    <key>LtnSmEngPalHook</key>
+    <string>u1DF14</string>
     <key>LtnSmEsh</key>
     <string>uni0283</string>
     <key>LtnSmEsh.sc</key>
     <string>uni0283.sc</string>
     <key>LtnSmEshCurl</key>
     <string>uni0286</string>
+    <key>LtnSmEshCurlDblBar</key>
+    <string>u1DF0C</string>
+    <key>LtnSmEshDblBar</key>
+    <string>u1DF0B</string>
     <key>LtnSmEshHook</key>
     <string>uni1D98</string>
     <key>LtnSmEshHookDep</key>
@@ -7815,6 +7887,8 @@
     <string>uniF227</string>
     <key>LtnSmFengDigraph</key>
     <string>uni02A9</string>
+    <key>LtnSmFengDigraphTrill</key>
+    <string>u1DF00</string>
     <key>LtnSmG</key>
     <string>g</string>
     <key>LtnSmG.BarBowl</key>
@@ -8133,6 +8207,10 @@
     <string>uni0268.TailI</string>
     <key>LtnSmIStrk.sc</key>
     <string>uni0268.sc</string>
+    <key>LtnSmIStrkRetrHook</key>
+    <string>u1DF1A</string>
+    <key>LtnSmIStrkRetrHook.Dotless</key>
+    <string>u1DF1A.Dotless</string>
     <key>LtnSmITilde</key>
     <string>itilde</string>
     <key>LtnSmITilde.SItal</key>
@@ -8325,6 +8403,10 @@
     <string>uni026C.TailL</string>
     <key>LtnSmLBelt.sc</key>
     <string>uni026C.sc</string>
+    <key>LtnSmLBeltPalHook</key>
+    <string>u1DF13</string>
+    <key>LtnSmLBeltPalHook.TailL</key>
+    <string>u1DF11.TailL</string>
     <key>LtnSmLBrkn</key>
     <string>uniA747</string>
     <key>LtnSmLBrkn.sc</key>
@@ -8373,6 +8455,10 @@
     <string>uni1E39.TailL</string>
     <key>LtnSmLDotBlwMacron.sc</key>
     <string>uni1E39.sc</string>
+    <key>LtnSmLFishhook</key>
+    <string>u1DF11</string>
+    <key>LtnSmLFishhook.TailL</key>
+    <string>u1DF11.TailL</string>
     <key>LtnSmLHighBar</key>
     <string>uniA749</string>
     <key>LtnSmLHighBar.SItal</key>
@@ -8435,6 +8521,8 @@
     <string>uni019B</string>
     <key>LtnSmLezh</key>
     <string>uni026E</string>
+    <key>LtnSmLezhRetrHook</key>
+    <string>u1DF05</string>
     <key>LtnSmLigFf</key>
     <string>ff</string>
     <key>LtnSmLigFfi</key>
@@ -8745,6 +8833,8 @@
     <string>uni01ED.RetroHook.sc</string>
     <key>LtnSmOOgonekMacron.sc</key>
     <string>uni01ED.sc</string>
+    <key>LtnSmORetrHook</key>
+    <string>u1DF1B</string>
     <key>LtnSmORingInside</key>
     <string>uni2C7A</string>
     <key>LtnSmOStrk</key>
@@ -8955,6 +9045,8 @@
     <string>uni1D73</string>
     <key>LtnSmRFishhookMiddleTildeDep</key>
     <string>uniF250</string>
+    <key>LtnSmRFishhookPalHook</key>
+    <string>u1DF16</string>
     <key>LtnSmRHookTail</key>
     <string>uni027D</string>
     <key>LtnSmRHookTail.LCStyle</key>
@@ -9001,6 +9093,10 @@
     <string>uni0258</string>
     <key>LtnSmRevE.sc</key>
     <string>uni01DD.sc</string>
+    <key>LtnSmRevEng</key>
+    <string>u1DF07</string>
+    <key>LtnSmRevK</key>
+    <string>u1DF03</string>
     <key>LtnSmRevOpnE</key>
     <string>uni025C</string>
     <key>LtnSmRevOpnE.sc</key>
@@ -9013,6 +9109,8 @@
     <string>uniF23A</string>
     <key>LtnSmRevRFishhook</key>
     <string>uni027F</string>
+    <key>LtnSmRevScriptG</key>
+    <string>u1DF01</string>
     <key>LtnSmRum</key>
     <string>uniA775</string>
     <key>LtnSmRumRotunda</key>
@@ -9051,6 +9149,8 @@
     <string>uni0219</string>
     <key>LtnSmSCommaBlw.sc</key>
     <string>uni0219.sc</string>
+    <key>LtnSmSCurl</key>
+    <string>u1DF1E</string>
     <key>LtnSmSDiagStrk</key>
     <string>uniA7A9</string>
     <key>LtnSmSDiagStrk.sc</key>
@@ -9205,6 +9305,8 @@
     <string>uni01AD.RtHook.sc</string>
     <key>LtnSmTHook.sc</key>
     <string>uni01AD.sc</string>
+    <key>LtnSmTHookRetrHook</key>
+    <string>u1DF09</string>
     <key>LtnSmTLineBlw</key>
     <string>uni1E6F</string>
     <key>LtnSmTLineBlw.NoTailT</key>
@@ -9239,6 +9341,14 @@
     <string>uni02A7</string>
     <key>LtnSmTeshDigraph.NoTailT</key>
     <string>uni02A7.NoTailT</string>
+    <key>LtnSmTeshPalHook</key>
+    <string>u1DF17</string>
+    <key>LtnSmTeshPalHook.NoTailT</key>
+    <string>u1DF17.NoTailT</string>
+    <key>LtnSmTeshRetrHook</key>
+    <string>u1DF1C</string>
+    <key>LtnSmTeshRetrHook.NoTailT</key>
+    <string>u1DF1C.NoTailT</string>
     <key>LtnSmThorn</key>
     <string>thorn</string>
     <key>LtnSmThorn.sc</key>
@@ -9333,12 +9443,18 @@
     <string>uni027A</string>
     <key>LtnSmTurnedRLngLegHook</key>
     <string>uniF269</string>
+    <key>LtnSmTurnedRPalHook</key>
+    <string>u1DF15</string>
     <key>LtnSmTurnedT</key>
     <string>uni0287</string>
     <key>LtnSmTurnedT.NoTailT</key>
     <string>uni0287.NoTailT</string>
     <key>LtnSmTurnedT.sc</key>
     <string>uni0287.sc</string>
+    <key>LtnSmTurnedTCurl</key>
+    <string>u1DF0D</string>
+    <key>LtnSmTurnedTCurl.NoTailT</key>
+    <string>u1DF0D.NoTailT</string>
     <key>LtnSmTurnedV</key>
     <string>uni028C</string>
     <key>LtnSmTurnedV.sc</key>
@@ -9797,6 +9913,8 @@
     <string>uniF257</string>
     <key>LtnStretchedC</key>
     <string>uni0297</string>
+    <key>LtnStretchedCCurl</key>
+    <string>u1DF0F</string>
     <key>LtnSubSmA</key>
     <string>uni2090</string>
     <key>LtnSubSmA.SngStory</key>
@@ -10573,6 +10691,8 @@
     <string>onedotenleader</string>
     <key>OpnBx</key>
     <string>uni2423</string>
+    <key>Overline</key>
+    <string>uni203E</string>
     <key>ParagraphSeparator</key>
     <string>uni2029</string>
     <key>ParallelTo</key>
@@ -10581,6 +10701,8 @@
     <string>partialdiff</string>
     <key>PerMilleSgn</key>
     <string>perthousand</string>
+    <key>PerTenThousandSgn</key>
+    <string>uni2031</string>
     <key>PercentSgn</key>
     <string>percent</string>
     <key>PesetaSgn</key>
@@ -10783,6 +10905,8 @@
     <string>tilde</string>
     <key>Solidus</key>
     <string>slash</string>
+    <key>SomSgn</key>
+    <string>uni20C0</string>
     <key>Space</key>
     <string>space</string>
     <key>SpesmiloSgn</key>
@@ -10963,6 +11087,8 @@
     <string>asciitilde</string>
     <key>TildeOperator</key>
     <string>similar</string>
+    <key>TironianSignEt</key>
+    <string>uni204A</string>
     <key>TnContLft11</key>
     <string>uniA716.1</string>
     <key>TnContLft12</key>
@@ -11209,6 +11335,10 @@
     <string>uni20AE</string>
     <key>TurkishLiraSgn</key>
     <string>uni20BA</string>
+    <key>TurnedDigitThree</key>
+    <string>uni218B</string>
+    <key>TurnedDigitTwo</key>
+    <string>uni218A</string>
     <key>TwoDotLeader</key>
     <string>twodotenleader</string>
     <key>TwoEmDash</key>
@@ -11297,6 +11427,8 @@
     <string>twothirds</string>
     <key>VulgFracZeroThirds</key>
     <string>uni2189</string>
+    <key>WigglyVerticalLine</key>
+    <string>uni2E3E</string>
     <key>WonSgn</key>
     <string>uni20A9</string>
     <key>WordJoiner</key>

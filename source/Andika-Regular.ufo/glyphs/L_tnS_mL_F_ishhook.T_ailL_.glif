@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmLFishhook.TailL" format="2">
+  <advance width="660"/>
+  <anchor x="400" y="0" name="H"/>
+  <anchor x="400" y="-100" name="L"/>
+  <anchor x="554" y="1000" name="R"/>
+  <anchor x="283" y="1635" name="U"/>
+  <outline>
+    <component base="LtnSmL.TailL"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>
