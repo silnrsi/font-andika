@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmIDotBlw.Dotless.sc" format="2">
+  <advance width="963"/>
+  <anchor x="429" y="0" name="H"/>
+  <anchor x="302" y="-484" name="L"/>
+  <anchor x="604" y="0" name="O"/>
+  <anchor x="1161" y="1003" name="R"/>
+  <anchor x="779" y="1279" name="U"/>
+  <outline>
+    <component base="LtnSmI.sc"/>
+    <component base="CombDotBlw" xOffset="1067" yOffset="16"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

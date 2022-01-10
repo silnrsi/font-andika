@@ -3306,6 +3306,7 @@
     <string>CySmPeMiddleHook.sc</string>
     <string>LtnSmI.sc</string>
     <string>CySmByelorusUkrainI.sc</string>
+    <string>CySmByelorusUkrainI.Dotless.sc</string>
     <string>LtnSmIAcute.sc</string>
     <string>LtnSmIGrave.sc</string>
     <string>LtnSmIDblGrave.sc</string>
@@ -3322,9 +3323,11 @@
     <string>LtnSmIHookAbv.sc</string>
     <string>LtnSmITildeBlw.sc</string>
     <string>LtnSmIDotBlw.sc</string>
+    <string>LtnSmIDotBlw.Dotless.sc</string>
     <string>LtnSmIOgonek.sc</string>
     <string>LtnSmIOgonek.RetroHook.sc</string>
     <string>LtnSmIStrk.sc</string>
+    <string>LtnSmIStrk.Dotless.sc</string>
     <string>LtnSmDotlessI.sc</string>
     <string>LtnSmI.Dotless.sc</string>
     <string>LtnSmLigIj.sc</string>
@@ -3333,14 +3336,18 @@
     <string>CyPalochka.sc</string>
     <string>LtnSmCapI.sc</string>
     <string>LtnSmJ.sc</string>
+    <string>LtnSmJ.Dotless.sc</string>
     <string>CySmJe.sc</string>
+    <string>CySmJe.Dotless.sc</string>
     <string>LtnSmJCircum.sc</string>
     <string>LtnSmJ.BarTop.sc</string>
     <string>LtnSmJCircum.BarTop.sc</string>
     <string>LtnSmJStrk.BarTop.sc</string>
     <string>LtnSmJCrossedTail.BarTop.sc</string>
     <string>LtnSmJStrk.sc</string>
+    <string>LtnSmJStrk.Dotless.sc</string>
     <string>LtnSmJCrossedTail.sc</string>
+    <string>LtnSmJCrossedTail.Dotless.sc</string>
     <string>LtnSmIs.sc</string>
     <string>CySmEl.sc</string>
     <string>CySmElDesc.sc</string>
@@ -4683,6 +4690,8 @@
     <string>uni0456</string>
     <key>CySmByelorusUkrainI.Dotless</key>
     <string>uni0456.Dotless</string>
+    <key>CySmByelorusUkrainI.Dotless.sc</key>
+    <string>uni0456.Dotless.sc</string>
     <key>CySmByelorusUkrainI.sc</key>
     <string>uni0456.sc</string>
     <key>CySmCapEl</key>
@@ -4925,6 +4934,8 @@
     <string>uni0458</string>
     <key>CySmJe.Dotless</key>
     <string>uni0458.Dotless</string>
+    <key>CySmJe.Dotless.sc</key>
+    <string>uni0458.Dotless.sc</string>
     <key>CySmJe.sc</key>
     <string>uni0458.sc</string>
     <key>CySmKa</key>
@@ -8117,6 +8128,8 @@
     <string>idotaccent.sc</string>
     <key>LtnSmIDotBlw</key>
     <string>uni1ECB</string>
+    <key>LtnSmIDotBlw.Dotless.sc</key>
+    <string>uni1ECB.Dotless.sc</string>
     <key>LtnSmIDotBlw.SItal</key>
     <string>uni1ECB.SItal</string>
     <key>LtnSmIDotBlw.TailI</key>
@@ -8181,6 +8194,8 @@
     <string>uni0268.Dotless</string>
     <key>LtnSmIStrk.Dotless.TailI</key>
     <string>uni0268.Dotless.TailI</string>
+    <key>LtnSmIStrk.Dotless.sc</key>
+    <string>uni0268.Dotless.sc</string>
     <key>LtnSmIStrk.TailI</key>
     <string>uni0268.TailI</string>
     <key>LtnSmIStrk.sc</key>
@@ -8251,6 +8266,8 @@
     <string>j.BarTop.sc</string>
     <key>LtnSmJ.Dotless</key>
     <string>j.Dotless</string>
+    <key>LtnSmJ.Dotless.sc</key>
+    <string>j.Dotless.sc</string>
     <key>LtnSmJ.TopLftSerif</key>
     <string>j.TopLftSerif</string>
     <key>LtnSmJ.sc</key>
@@ -8279,6 +8296,8 @@
     <string>uni029D.Dotless</string>
     <key>LtnSmJCrossedTail.Dotless.TopLftSerif</key>
     <string>uni029D.Dotless.TopLftSerif</string>
+    <key>LtnSmJCrossedTail.Dotless.sc</key>
+    <string>uni029D.Dotless.sc</string>
     <key>LtnSmJCrossedTail.TopLftSerif</key>
     <string>uni029D.TopLftSerif</string>
     <key>LtnSmJCrossedTail.sc</key>
@@ -8291,6 +8310,8 @@
     <string>uni0249.BarTop.sc</string>
     <key>LtnSmJStrk.Dotless</key>
     <string>uni0249.Dotless</string>
+    <key>LtnSmJStrk.Dotless.sc</key>
+    <string>uni0249.Dotless.sc</string>
     <key>LtnSmJStrk.TopLftSerif</key>
     <string>uni0249.TopLftSerif</string>
     <key>LtnSmJStrk.sc</key>
