@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSupSmClosedRevOpnEDep" format="2">
+  <advance width="788"/>
+  <unicode hex="F1A4"/>
+  <anchor x="522" y="615" name="L"/>
+  <anchor x="732" y="680" name="O"/>
+  <anchor x="1127" y="1310" name="R"/>
+  <anchor x="687" y="1395" name="U"/>
+  <outline>
+    <contour>
+      <point x="956" y="1190" type="curve" smooth="yes"/>
+      <point x="956" y="1100"/>
+      <point x="864" y="1047"/>
+      <point x="777" y="1018" type="curve"/>
+      <point x="841" y="998"/>
+      <point x="895" y="954"/>
+      <point x="895" y="886" type="curve" smooth="yes"/>
+      <point x="895" y="740"/>
+      <point x="699" y="664"/>
+      <point x="538" y="664" type="curve" smooth="yes"/>
+      <point x="342" y="664"/>
+      <point x="238" y="763"/>
+      <point x="238" y="920" type="curve" smooth="yes"/>
+      <point x="238" y="1147"/>
+      <point x="433" y="1350"/>
+      <point x="694" y="1350" type="curve" smooth="yes"/>
+      <point x="845" y="1350"/>
+      <point x="956" y="1283"/>
+    </contour>
+    <contour>
+      <point x="533" y="958" type="curve"/>
+      <point x="567" y="1084" type="line"/>
+      <point x="688" y="1084"/>
+      <point x="755" y="1108"/>
+      <point x="755" y="1159" type="curve" smooth="yes"/>
+      <point x="755" y="1190"/>
+      <point x="722" y="1214"/>
+      <point x="652" y="1214" type="curve" smooth="yes"/>
+      <point x="508" y="1214"/>
+      <point x="416" y="1090"/>
+      <point x="416" y="937" type="curve" smooth="yes"/>
+      <point x="416" y="858"/>
+      <point x="472" y="802"/>
+      <point x="557" y="802" type="curve" smooth="yes"/>
+      <point x="609" y="802"/>
+      <point x="700" y="816"/>
+      <point x="700" y="881" type="curve" smooth="yes"/>
+      <point x="700" y="928"/>
+      <point x="644" y="958"/>
+    </contour>
+    <contour>
+      <point x="986" y="634" type="line"/>
+      <point x="986" y="1380" type="line"/>
+      <point x="208" y="1380" type="line"/>
+      <point x="208" y="634" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

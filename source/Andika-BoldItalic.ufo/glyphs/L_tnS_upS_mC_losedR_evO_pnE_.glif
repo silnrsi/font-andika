@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSupSmClosedRevOpnE" format="2">
   <advance width="788"/>
-  <unicode hex="F1A4"/>
+  <unicode hex="1078F"/>
   <anchor x="522" y="615" name="L"/>
   <anchor x="732" y="680" name="O"/>
   <anchor x="1127" y="1310" name="R"/>

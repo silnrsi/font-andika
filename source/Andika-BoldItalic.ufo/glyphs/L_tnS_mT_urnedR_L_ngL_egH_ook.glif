@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmTurnedRLngLegHook" format="2">
   <advance width="985"/>
-  <unicode hex="F269"/>
+  <unicode hex="1DF08"/>
   <anchor x="325" y="-500" name="L"/>
   <anchor x="1038" y="1635" name="U"/>
   <outline>

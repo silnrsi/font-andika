@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModSmHStrkDep" format="2">
+  <advance width="833"/>
+  <unicode hex="F1BC"/>
+  <anchor x="400" y="615" name="L"/>
+  <anchor x="400" y="1745" name="U"/>
+  <outline>
+    <contour>
+      <point x="774" y="650" type="line"/>
+      <point x="774" y="1750" type="line"/>
+      <point x="-39" y="1750" type="line"/>
+      <point x="-39" y="650" type="line"/>
+    </contour>
+    <contour>
+      <point x="-9" y="1444" type="line"/>
+      <point x="-9" y="1532" type="line"/>
+      <point x="488" y="1532" type="line"/>
+      <point x="488" y="1444" type="line"/>
+    </contour>
+    <contour>
+      <point x="744" y="680" type="curve"/>
+      <point x="614" y="680" type="line"/>
+      <point x="614" y="680"/>
+      <point x="614" y="948"/>
+      <point x="614" y="1038" type="curve" smooth="yes"/>
+      <point x="614" y="1200"/>
+      <point x="568" y="1242"/>
+      <point x="474" y="1242" type="curve" smooth="yes"/>
+      <point x="373" y="1242"/>
+      <point x="277" y="1145"/>
+      <point x="246" y="1057" type="curve"/>
+      <point x="246" y="680" type="line"/>
+      <point x="117" y="680" type="line"/>
+      <point x="117" y="680"/>
+      <point x="117" y="1288"/>
+      <point x="117" y="1414" type="curve" smooth="yes"/>
+      <point x="117" y="1554"/>
+      <point x="117" y="1664"/>
+      <point x="106" y="1720" type="curve"/>
+      <point x="246" y="1720" type="line"/>
+      <point x="246" y="1720"/>
+      <point x="246" y="1250"/>
+      <point x="246" y="1220" type="curve"/>
+      <point x="315" y="1310"/>
+      <point x="414" y="1356"/>
+      <point x="512" y="1356" type="curve" smooth="yes"/>
+      <point x="662" y="1356"/>
+      <point x="744" y="1265"/>
+      <point x="744" y="1086" type="curve" smooth="yes"/>
+      <point x="744" y="978"/>
+      <point x="744" y="680"/>
+    </contour>
+  </outline>
+</glyph>
