@@ -2,7 +2,7 @@
 <glyph name="LtnSmK" format="2">
   <advance width="1138"/>
   <unicode hex="006B"/>
-  <anchor x="940" y="0" name="H"/>
+  <anchor x="276" y="0" name="H"/>
   <anchor x="585" y="-100" name="L"/>
   <anchor x="1140" y="1000" name="R"/>
   <anchor x="595" y="1635" name="U"/>
@@ -14,8 +14,8 @@
       <point x="135" y="1514"/>
       <point x="135" y="1345"/>
       <point x="135" y="1130" type="curve" smooth="yes"/>
-      <point x="135" y="934"/>
-      <point x="135" y="0"/>
+      <point x="135" y="987"/>
+      <point x="135" y="402"/>
       <point x="135" y="0" type="curve"/>
     </contour>
     <contour>

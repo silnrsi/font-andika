@@ -5,7 +5,7 @@
   <anchor x="592" y="-500" name="L"/>
   <anchor x="592" y="1100" name="U"/>
   <outline>
-    <component base="LtnSmEng"/>
+    <component base="LtnSmEng" xScale="-1" xOffset="1245"/>
   </outline>
   <lib>
     <dict>

@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnInvGlottalStopCurl" format="2">
-  <advance width="1005"/>
-  <unicode hex="1DF0E"/>
-  <anchor x="510" y="-240" name="L"/>
-  <anchor x="485" y="1530" name="U"/>
   <outline>
     <contour>
       <point x="890" y="300" type="curve" smooth="yes"/>
@@ -58,10 +54,4 @@
       <point x="890" y="90"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
-    </dict>
-  </lib>
 </glyph>

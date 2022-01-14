@@ -6,6 +6,18 @@
   <anchor x="465" y="1635" name="U"/>
   <outline>
     <component base="LtnSmEshCurl"/>
+    <contour>
+      <point x="46" y="895" type="line"/>
+      <point x="671" y="895" type="line"/>
+      <point x="671" y="1040" type="line"/>
+      <point x="46" y="1040" type="line"/>
+    </contour>
+    <contour>
+      <point x="46" y="565" type="line"/>
+      <point x="671" y="565" type="line"/>
+      <point x="671" y="710" type="line"/>
+      <point x="46" y="710" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
