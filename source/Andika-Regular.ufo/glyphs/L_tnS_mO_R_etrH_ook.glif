@@ -3,12 +3,30 @@
   <advance width="1140"/>
   <unicode hex="1DF1B"/>
   <anchor x="570" y="0" name="H"/>
-  <anchor x="570" y="-100" name="L"/>
+  <anchor x="570" y="-500" name="L"/>
   <anchor x="835" y="0" name="O"/>
   <anchor x="1140" y="1000" name="R"/>
   <anchor x="570" y="1100" name="U"/>
   <outline>
     <component base="LtnSmO"/>
+    <contour>
+      <point x="525" y="-290" type="line"/>
+      <point x="482" y="-318"/>
+      <point x="441" y="-335"/>
+      <point x="385" y="-335" type="curve" smooth="yes"/>
+      <point x="328" y="-335"/>
+      <point x="280" y="-285"/>
+      <point x="280" y="-210" type="curve" smooth="yes"/>
+      <point x="280" y="425" type="line"/>
+      <point x="145" y="525" type="line"/>
+      <point x="145" y="-220" type="line" smooth="yes"/>
+      <point x="145" y="-373"/>
+      <point x="230" y="-470"/>
+      <point x="350" y="-470" type="curve" smooth="yes"/>
+      <point x="419" y="-470"/>
+      <point x="487" y="-453"/>
+      <point x="540" y="-415" type="curve"/>
+    </contour>
   </outline>
   <lib>
     <dict>

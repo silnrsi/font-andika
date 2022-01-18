@@ -6,6 +6,12 @@
   <anchor x="295" y="1530" name="U"/>
   <outline>
     <component base="LtnSmIRetrHook"/>
+    <contour>
+      <point x="-30" y="475" type="line"/>
+      <point x="595" y="475" type="line"/>
+      <point x="595" y="620" type="line"/>
+      <point x="-30" y="620" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
