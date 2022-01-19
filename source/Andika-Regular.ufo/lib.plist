@@ -11,11 +11,11 @@
   <string>3110</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/LtnSmFengDigraph/LtnSmFengDigraphTrill g/LtnSmRevScriptG/LtnSmCapO/LtnSmCapTurnedG k/LtnSmRevK/LtnSmEng/LtnSmRevEng/LtnSmTRetrHook/LtnSmTHook/LtnSmTHookRetrHook/LtnSmCapK/LtnSmCapTurnedK/LtnSmLFishhook/LtnSmRFishhook/LtnSmEshDblBar</string>
-    <string>/LtnSmEshCurl/LtnSmEshCurlDblBar/Space/LtnSmTurnedTCurl/LtnSmEzhCurl/LtnInvGlottalStopCurl s/LtnSmSCurl/LtnStretchedC/LtnStretchedCCurl/LtnSmCCurl</string>
-    <string>/LtnSmEzhPalHook/LtnSmDezhDigraph/LtnSmDezhDigraphPalHook/Space/LtnSmLPalHook/LtnSmLBelt/LtnSmLBeltPalHook/Space/LtnSmScriptGPalHook/LtnSmEng/LtnSmEngPalHook/Space/LtnSmRPalHook/LtnSmTurnedR/LtnSmTurnedRPalHook/LtnSmRFishhook/LtnSmRFishhookPalHook/Space/LtnSmTeshDigraph/LtnSmEshPalHook/LtnSmTeshPalHook</string>
-    <string>/LtnSmOpnORetrHook/LtnSmDezhDigraphRetrHook/LtnSmLezh/LtnSmLezhRetrHook/LtnSmLRetrHook/LtnRetrClick/LtnRetroflexClickRetrHook/LtnSmIRetrHook/LtnSmIStrkRetrHook/LtnSmORetrHook 
-/LtnSmTeshDigraph/LtnSmTeshRetrHook/LtnSmCRetrHook/LtnSmERetrHook</string>
+    <string>/LtnSmFengDigraph/LtnSmFengDigraphTrill g/LtnSmRevScriptG/LtnSmCapO/LtnSmCapTurnedG k/LtnSmRevK/LtnSmEng/LtnSmRevEng/LtnSmTRetrHook/LtnSmTHook/LtnSmTHookRetrHook/LtnSmCapK/LtnSmCapTurnedK/LtnSmLFishhook/LtnSmLFishhook.TailL/LtnSmRFishhook/LtnSmEshDblBar</string>
+    <string>/LtnSmEshCurl/LtnSmEshCurlDblBar/Space/LtnSmTurnedTCurl/LtnSmTurnedT.NoTailT/LtnSmTurnedTCurl.NoTailT/LtnSmEzhCurl/LtnInvGlottalStopCurl s/LtnSmSCurl/LtnStretchedC/LtnStretchedCCurl/LtnSmCCurl</string>
+    <string>/LtnSmEzhPalHook/LtnSmDezhDigraph/LtnSmDezhDigraphPalHook/Space/LtnSmLPalHook/LtnSmLBelt/LtnSmLBeltPalHook/LtnSmLBelt.TailL/LtnSmLBeltPalHook.TailL/Space/LtnSmScriptGPalHook/LtnSmEng/LtnSmEngPalHook/Space/LtnSmRPalHook/LtnSmTurnedR/LtnSmTurnedRPalHook/LtnSmRFishhook/LtnSmRFishhookPalHook/Space/LtnSmTeshDigraph/LtnSmEshPalHook/LtnSmTeshPalHook/LtnSmTeshPalHook.NoTailT</string>
+    <string>/LtnSmOpnORetrHook/LtnSmDezhDigraphRetrHook/LtnSmLezh/LtnSmLezhRetrHook/LtnSmLRetrHook/LtnRetrClick/LtnRetroflexClickRetrHook/LtnSmIStrk/LtnSmIRetrHook/LtnSmIStrkRetrHook/LtnSmIRetrHook.Dotless/LtnSmIStrkRetrHook.Dotless/LtnSmORetrHook 
+/LtnSmTeshDigraph/LtnSmTeshRetrHook/LtnSmTeshRetrHook.NoTailT/LtnSmCRetrHook/LtnSmERetrHook</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

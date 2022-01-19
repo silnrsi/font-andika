@@ -2,7 +2,7 @@
 <glyph name="LtnSmKCaron" format="2">
   <advance width="1059"/>
   <unicode hex="01E9"/>
-  <anchor x="840" y="0" name="H"/>
+  <anchor x="200" y="0" name="H"/>
   <anchor x="537" y="-100" name="L"/>
   <anchor x="1225" y="1000" name="R"/>
   <anchor x="1009" y="2170" name="U"/>

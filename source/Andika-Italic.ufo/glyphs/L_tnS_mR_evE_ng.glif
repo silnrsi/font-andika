@@ -2,6 +2,7 @@
 <glyph name="LtnSmRevEng" format="2">
   <advance width="1195"/>
   <unicode hex="1DF07"/>
+  <guideline x="278" y="554" angle="76.0003"/>
   <anchor x="420" y="-500" name="L"/>
   <anchor x="820" y="1100" name="U"/>
   <outline>

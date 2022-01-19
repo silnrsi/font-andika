@@ -3,10 +3,29 @@
   <advance width="760"/>
   <anchor x="460" y="0" name="H"/>
   <anchor x="460" y="-100" name="L"/>
-  <anchor x="670" y="1000" name="R"/>
   <anchor x="310" y="1635" name="U"/>
   <outline>
     <component base="LtnSmL.TailL"/>
+    <contour>
+      <point x="787" y="710" type="curve"/>
+      <point x="872" y="950" type="line"/>
+      <point x="805" y="1005"/>
+      <point x="711" y="1040"/>
+      <point x="592" y="1040" type="curve" smooth="yes"/>
+      <point x="500" y="1040"/>
+      <point x="411" y="1005"/>
+      <point x="341" y="955" type="curve" smooth="yes"/>
+      <point x="253" y="893"/>
+      <point x="202" y="801"/>
+      <point x="202" y="665" type="curve"/>
+      <point x="442" y="445" type="line"/>
+      <point x="442" y="590" type="line" smooth="yes"/>
+      <point x="442" y="719"/>
+      <point x="500" y="800"/>
+      <point x="602" y="800" type="curve" smooth="yes"/>
+      <point x="682" y="800"/>
+      <point x="741" y="767"/>
+    </contour>
   </outline>
   <lib>
     <dict>

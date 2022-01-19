@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmIStrkRetrHook.Dotless" format="2">
-  <advance width="645"/>
-  <anchor x="320" y="-500" name="L"/>
-  <anchor x="320" y="1100" name="U"/>
+  <advance width="767"/>
+  <anchor x="442" y="-500" name="L"/>
+  <anchor x="442" y="1100" name="U"/>
   <outline>
-    <component base="LtnSmIRetrHook.Dotless"/>
+    <component base="LtnSmIRetrHook.Dotless" xOffset="122"/>
+    <contour>
+      <point x="60" y="469" type="line"/>
+      <point x="825" y="469" type="line"/>
+      <point x="825" y="669" type="line"/>
+      <point x="60" y="669" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

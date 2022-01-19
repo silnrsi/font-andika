@@ -2,7 +2,7 @@
 <glyph name="LtnSmKCedilla" format="2">
   <advance width="1209"/>
   <unicode hex="0137"/>
-  <anchor x="880" y="0" name="H"/>
+  <anchor x="250" y="0" name="H"/>
   <anchor x="488" y="-550" name="L"/>
   <anchor x="1330" y="1000" name="R"/>
   <anchor x="910" y="1635" name="U"/>
