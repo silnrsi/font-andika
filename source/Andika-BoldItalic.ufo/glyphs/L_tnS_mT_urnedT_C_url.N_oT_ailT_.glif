@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmTurnedTCurl.NoTailT" format="2">
-  <advance width="837"/>
-  <anchor x="295" y="-455" name="L"/>
-  <anchor x="610" y="1100" name="U"/>
+  <advance width="845"/>
+  <anchor x="303" y="-500" name="L"/>
+  <anchor x="618" y="1100" name="U"/>
   <outline>
-    <component base="LtnSmTurnedT.NoTailT"/>
+    <contour>
+      <point x="509" y="-54" type="curve" smooth="yes"/>
+      <point x="592" y="255"/>
+      <point x="743" y="818"/>
+      <point x="751" y="1010" type="curve"/>
+      <point x="451" y="1010" type="line"/>
+      <point x="451" y="790"/>
+      <point x="294" y="193"/>
+      <point x="232" y="-40" type="curve" smooth="yes"/>
+      <point x="177" y="-248"/>
+      <point x="119" y="-291"/>
+      <point x="49" y="-291" type="curve" smooth="yes"/>
+      <point x="9" y="-291"/>
+      <point x="-17" y="-272"/>
+      <point x="-17" y="-244" type="curve" smooth="yes"/>
+      <point x="-17" y="-213"/>
+      <point x="12" y="-178"/>
+      <point x="91" y="-178" type="curve" smooth="yes"/>
+      <point x="227" y="-178"/>
+      <point x="353" y="-299"/>
+      <point x="445" y="-484" type="curve"/>
+      <point x="579" y="-424" type="line"/>
+      <point x="464" y="-188"/>
+      <point x="285" y="-50"/>
+      <point x="84" y="-50" type="curve" smooth="yes"/>
+      <point x="-95" y="-50"/>
+      <point x="-190" y="-143"/>
+      <point x="-190" y="-270" type="curve" smooth="yes"/>
+      <point x="-190" y="-379"/>
+      <point x="-87" y="-465"/>
+      <point x="46" y="-465" type="curve" smooth="yes"/>
+      <point x="330" y="-465"/>
+      <point x="457" y="-246"/>
+    </contour>
+    <contour>
+      <point x="773" y="0" type="line"/>
+      <point x="823" y="203" type="line"/>
+      <point x="48" y="203" type="line"/>
+      <point x="-2" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

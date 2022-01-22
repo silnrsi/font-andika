@@ -2,7 +2,6 @@
 <glyph name="LtnSmRevK" format="2">
   <advance width="1209"/>
   <unicode hex="1DF03"/>
-  <guideline x="738" y="554" angle="76.0003"/>
   <anchor x="880" y="0" name="H"/>
   <anchor x="500" y="-100" name="L"/>
   <anchor x="1330" y="1000" name="R"/>

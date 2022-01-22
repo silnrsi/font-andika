@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnStretchedCCurl" format="2">
+  <outline>
+    <contour>
+      <point x="863" y="-112" type="line"/>
+      <point x="785" y="-170"/>
+      <point x="677" y="-237"/>
+      <point x="533" y="-237" type="curve" smooth="yes"/>
+      <point x="398" y="-237"/>
+      <point x="349" y="-127"/>
+      <point x="349" y="34" type="curve" smooth="yes"/>
+      <point x="349" y="113"/>
+      <point x="362" y="210"/>
+      <point x="391" y="325" type="curve" smooth="yes"/>
+      <point x="489" y="714"/>
+      <point x="610" y="812"/>
+      <point x="769" y="812" type="curve" smooth="yes"/>
+      <point x="872" y="812"/>
+      <point x="933" y="785"/>
+      <point x="1007" y="720" type="curve"/>
+      <point x="1111" y="959" type="line"/>
+      <point x="1048" y="999"/>
+      <point x="931" y="1030"/>
+      <point x="798" y="1030" type="curve" smooth="yes"/>
+      <point x="480" y="1030"/>
+      <point x="243" y="842"/>
+      <point x="112" y="314" type="curve" smooth="yes"/>
+      <point x="83" y="197"/>
+      <point x="70" y="95"/>
+      <point x="70" y="6" type="curve" smooth="yes"/>
+      <point x="70" y="-326"/>
+      <point x="256" y="-465"/>
+      <point x="479" y="-465" type="curve" smooth="yes"/>
+      <point x="629" y="-465"/>
+      <point x="753" y="-422"/>
+      <point x="851" y="-356" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

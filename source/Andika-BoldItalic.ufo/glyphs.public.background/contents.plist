@@ -6,6 +6,18 @@
   <string>B_itcoinS_gn.glif</string>
   <key>CombKayanGraveAcute</key>
   <string>C_ombK_ayanG_raveA_cute.glif</string>
+  <key>LtnInvGlottalStopCurl</key>
+  <string>L_tnI_nvG_lottalS_topC_url.glif</string>
+  <key>LtnSmLRetrHook</key>
+  <string>L_tnS_mL_R_etrH_ook.glif</string>
+  <key>LtnSmSCurl</key>
+  <string>L_tnS_mS_C_url.glif</string>
+  <key>LtnSmTeshDigraph</key>
+  <string>L_tnS_mT_eshD_igraph.glif</string>
+  <key>LtnSmTeshRetrHook</key>
+  <string>L_tnS_mT_eshR_etrH_ook.glif</string>
+  <key>LtnStretchedCCurl</key>
+  <string>L_tnS_tretchedC_C_url.glif</string>
   <key>RefMrk</key>
   <string>R_efM_rk.glif</string>
 </dict>

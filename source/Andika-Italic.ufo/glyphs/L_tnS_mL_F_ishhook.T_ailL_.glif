@@ -1,12 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmLFishhook.TailL" format="2">
-  <advance width="645"/>
+  <advance width="792"/>
   <anchor x="340" y="0" name="H"/>
   <anchor x="315" y="-100" name="L"/>
   <anchor x="744" y="1000" name="R"/>
   <anchor x="600" y="1635" name="U"/>
   <outline>
     <component base="LtnSmL.TailL"/>
+    <contour>
+      <point x="293" y="670" type="curve"/>
+      <point x="408" y="436" type="line"/>
+      <point x="453" y="617" type="line" smooth="yes"/>
+      <point x="494" y="783"/>
+      <point x="550" y="853"/>
+      <point x="672" y="853" type="curve" smooth="yes"/>
+      <point x="742" y="853"/>
+      <point x="813" y="810"/>
+      <point x="855" y="764" type="curve"/>
+      <point x="942" y="921" type="line"/>
+      <point x="888" y="965"/>
+      <point x="803" y="1019"/>
+      <point x="684" y="1019" type="curve" smooth="yes"/>
+      <point x="494" y="1019"/>
+      <point x="353" y="908"/>
+    </contour>
   </outline>
   <lib>
     <dict>

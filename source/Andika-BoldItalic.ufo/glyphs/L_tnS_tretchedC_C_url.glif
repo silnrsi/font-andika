@@ -2,10 +2,55 @@
 <glyph name="LtnStretchedCCurl" format="2">
   <advance width="1030"/>
   <unicode hex="1DF0F"/>
-  <anchor x="450" y="-500" name="L"/>
+  <anchor x="450" y="-650" name="L"/>
   <anchor x="809" y="1100" name="U"/>
   <outline>
-    <component base="LtnStretchedC"/>
+    <contour>
+      <point x="342" y="34" type="curve" smooth="yes"/>
+      <point x="342" y="113"/>
+      <point x="357" y="210"/>
+      <point x="386" y="325" type="curve" smooth="yes"/>
+      <point x="484" y="714"/>
+      <point x="610" y="812"/>
+      <point x="769" y="812" type="curve" smooth="yes"/>
+      <point x="872" y="812"/>
+      <point x="933" y="785"/>
+      <point x="1007" y="720" type="curve"/>
+      <point x="1111" y="959" type="line"/>
+      <point x="1048" y="999"/>
+      <point x="931" y="1030"/>
+      <point x="798" y="1030" type="curve" smooth="yes"/>
+      <point x="480" y="1030"/>
+      <point x="243" y="842"/>
+      <point x="112" y="314" type="curve" smooth="yes"/>
+      <point x="83" y="197"/>
+      <point x="70" y="95"/>
+      <point x="70" y="6" type="curve" smooth="yes"/>
+      <point x="70" y="-279"/>
+      <point x="204" y="-465"/>
+      <point x="489" y="-465" type="curve" smooth="yes"/>
+      <point x="707" y="-465"/>
+      <point x="918" y="-352"/>
+      <point x="918" y="-121" type="curve" smooth="yes"/>
+      <point x="918" y="-1"/>
+      <point x="810" y="106"/>
+      <point x="657" y="106" type="curve" smooth="yes"/>
+      <point x="291" y="106"/>
+      <point x="172" y="-283"/>
+      <point x="172" y="-583" type="curve"/>
+      <point x="332" y="-613" type="line"/>
+      <point x="332" y="-408"/>
+      <point x="389" y="-59"/>
+      <point x="620" y="-59" type="curve" smooth="yes"/>
+      <point x="675" y="-59"/>
+      <point x="710" y="-94"/>
+      <point x="710" y="-136" type="curve" smooth="yes"/>
+      <point x="710" y="-206"/>
+      <point x="619" y="-236"/>
+      <point x="544" y="-236" type="curve" smooth="yes"/>
+      <point x="402" y="-236"/>
+      <point x="342" y="-146"/>
+    </contour>
   </outline>
   <lib>
     <dict>

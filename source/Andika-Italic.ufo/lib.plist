@@ -13,13 +13,14 @@
   <string>Italic</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/LtnSmFengDigraph f/LtnSmFengDigraphTrill g/LtnSmRevScriptG k/LtnSmRevK o/LtnSmEng/LtnSmRevEng/LtnSmCapO/LtnSmCapTurnedG/LtnSmCapTurnedK 
-/LtnSmTRetrHook/LtnSmTHook/LtnSmTHookRetrHook/LtnSmLFishhook/LtnSmLFishhook.TailL/LtnSmRFishhook/LtnSmEshDblBar</string>
-    <string>/LtnSmEshCurl/LtnSmEshCurlDblBar/Space/LtnSmTurnedTCurl/LtnSmTurnedT.NoTailT/LtnSmTurnedTCurl.NoTailT/LtnSmEzhCurl/LtnInvGlottalStopCurl s/LtnSmSCurl/LtnStretchedC/LtnStretchedCCurl/LtnSmCCurl</string>
+    <string>/LtnSmFengDigraphTrill g/LtnSmRevScriptG k/LtnSmRevK/LtnSmEng/LtnSmRevEng/LtnSmCapO/LtnSmCapG/LtnSmCapO/LtnSmCapTurnedG/LtnSmCapO 
+/LtnSmCapH/LtnSmCapK/LtnSmCapH/LtnSmCapTurnedK/LtnSmCapH/LtnSmCapO 
+/LtnSmTRetrHook t/LtnSmTHook/LtnSmTHookRetrHook/LtnSmLFishhook/LtnSmLFishhook.TailL/LtnSmRFishhook/LtnSmEshDblBar</string>
+    <string>/LtnSmEshCurl/LtnSmEshCurlDblBar/Space/LtnSmTurnedTCurl/LtnSmTurnedTCurl.NoTailT/LtnSmEzhCurl/LtnInvGlottalStop/LtnInvGlottalStopCurl s/LtnSmSCurl/LtnStretchedC/LtnStretchedCCurl/LtnSmCCurl</string>
     <string>/LtnSmEzhPalHook/LtnSmDezhDigraph/LtnSmDezhDigraphPalHook/Space/LtnSmLPalHook/LtnSmLBelt/LtnSmLBeltPalHook/LtnSmLBelt.TailL/LtnSmLBeltPalHook.TailL/Space/LtnSmScriptGPalHook/LtnSmEng/LtnSmEngPalHook 
-/LtnSmRPalHook/LtnSmTurnedR/LtnSmTurnedRPalHook/Space/LtnSmRFishhook/LtnSmRFishhookPalHook/Space/LtnSmTeshDigraph/LtnSmEshPalHook/LtnSmTeshPalHook/LtnSmTeshPalHook.NoTailT</string>
-    <string>/LtnSmOpnORetrHook/LtnSmDezhDigraphRetrHook/LtnSmLezh/LtnSmLezhRetrHook/LtnSmLRetrHook/LtnRetrClick/LtnRetroflexClickRetrHook/LtnSmIStrk/LtnSmIRetrHook/LtnSmIStrkRetrHook/LtnSmIRetrHook.Dotless/LtnSmIStrkRetrHook.Dotless 
-/LtnSmORetrHook/LtnSmTeshDigraph/LtnSmTeshRetrHook/LtnSmTeshRetrHook.NoTailT/LtnSmCRetrHook/LtnSmERetrHook</string>
+/LtnSmRPalHook/LtnSmTurnedR/LtnSmTurnedRPalHook/Space/LtnSmRFishhook/LtnSmRFishhookPalHook/Space/LtnSmTeshDigraph/LtnSmEshPalHook/LtnSmTeshPalHook/LtnSmTeshDigraph.NoTailT/LtnSmTeshPalHook.NoTailT</string>
+    <string>/LtnSmOpnORetrHook/LtnSmDezhDigraph/LtnSmDezhDigraphRetrHook/LtnSmLezh/LtnSmLezhRetrHook/LtnSmLRetrHook/LtnRetrClick/LtnRetroflexClickRetrHook/LtnSmIStrk/LtnSmIRetrHook/LtnSmIStrkRetrHook/LtnSmIRetrHook.Dotless/LtnSmIStrkRetrHook.Dotless 
+/LtnSmORetrHook/LtnSmTeshDigraph/LtnSmTeshRetrHook/LtnSmTeshDigraph.NoTailT/LtnSmTeshRetrHook.NoTailT c/LtnSmCRetrHook/LtnSmERetrHook</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

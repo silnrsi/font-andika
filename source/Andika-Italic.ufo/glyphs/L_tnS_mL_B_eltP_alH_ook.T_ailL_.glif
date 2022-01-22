@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmLBeltPalHook.TailL" format="2">
   <advance width="810"/>
-  <anchor x="435" y="-100" name="L"/>
+  <anchor x="350" y="-500" name="L"/>
   <anchor x="730" y="1635" name="U"/>
   <outline>
     <component base="LtnSmLBelt.TailL"/>
+    <contour>
+      <point x="714" y="118" type="line"/>
+      <point x="514" y="118" type="line"/>
+      <point x="485" y="0" type="line"/>
+      <point x="550" y="0" type="line"/>
+      <point x="503" y="-206" type="line" smooth="yes"/>
+      <point x="486" y="-279"/>
+      <point x="425" y="-328"/>
+      <point x="378" y="-328" type="curve" smooth="yes"/>
+      <point x="322" y="-328"/>
+      <point x="275" y="-302"/>
+      <point x="239" y="-264" type="curve"/>
+      <point x="193" y="-387" type="line"/>
+      <point x="237" y="-434"/>
+      <point x="311" y="-461"/>
+      <point x="380" y="-461" type="curve" smooth="yes"/>
+      <point x="490" y="-461"/>
+      <point x="601" y="-366"/>
+      <point x="636" y="-216" type="curve" smooth="yes"/>
+    </contour>
   </outline>
   <lib>
     <dict>

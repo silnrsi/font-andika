@@ -5,6 +5,12 @@
   <anchor x="435" y="1100" name="U"/>
   <outline>
     <component base="LtnSmIRetrHook.Dotless"/>
+    <contour>
+      <point x="40" y="667" type="line"/>
+      <point x="-11" y="464" type="line"/>
+      <point x="754" y="464" type="line"/>
+      <point x="805" y="667" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
