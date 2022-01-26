@@ -2,7 +2,7 @@
 <glyph name="LtnInvGlottalStopCurl" format="2">
   <advance width="998"/>
   <unicode hex="1DF0E"/>
-  <anchor x="445" y="-150" name="L"/>
+  <anchor x="445" y="-120" name="L"/>
   <anchor x="790" y="1530" name="U"/>
   <outline>
     <contour>

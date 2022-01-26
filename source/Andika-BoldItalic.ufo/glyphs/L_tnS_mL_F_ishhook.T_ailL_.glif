@@ -3,7 +3,6 @@
   <advance width="717"/>
   <anchor x="385" y="0" name="H"/>
   <anchor x="375" y="-100" name="L"/>
-  <anchor x="830" y="1000" name="R"/>
   <anchor x="610" y="1635" name="U"/>
   <outline>
     <component base="LtnSmL.TailL"/>
