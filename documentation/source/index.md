@@ -1,6 +1,6 @@
 ---
 title: Andika - Documentation
-fontversion: 6.001
+fontversion: 6.100
 ---
 
 Thank you for your interest in the Andika fonts. This font family supports the broad variety of writing systems that use Latin and Cyrillic scripts. The design is optimized for high readability at a wide range of sizes and resolutions, making it ideal for new readers moving on from simple sans serif forms. 
