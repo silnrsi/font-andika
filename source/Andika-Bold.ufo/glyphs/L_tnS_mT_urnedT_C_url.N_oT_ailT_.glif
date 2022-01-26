@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmTurnedTCurl.NoTailT" format="2">
   <advance width="923"/>
-  <anchor x="510" y="-600" name="L"/>
+  <anchor x="420" y="-600" name="L"/>
   <anchor x="499" y="1100" name="U"/>
   <outline>
     <contour>

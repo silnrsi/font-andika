@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmTeshPalHook.NoTailT" format="2">
   <advance width="1871"/>
-  <anchor x="547" y="-500" name="L"/>
+  <anchor x="597" y="-500" name="L"/>
   <anchor x="1080" y="1635" name="U"/>
   <outline>
     <component base="LtnSmTeshDigraph.NoTailT"/>

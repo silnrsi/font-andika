@@ -2,8 +2,8 @@
 <glyph name="LtnSmCapTurnedK" format="2">
   <advance width="1202"/>
   <unicode hex="1DF10"/>
-  <anchor x="555" y="-100" name="L"/>
-  <anchor x="545" y="1100" name="U"/>
+  <anchor x="595" y="-100" name="L"/>
+  <anchor x="585" y="1100" name="U"/>
   <outline>
     <contour>
       <point x="420" y="0" type="line"/>

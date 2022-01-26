@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmLBeltPalHook.TailL" format="2">
   <advance width="830"/>
-  <anchor x="490" y="-500" name="L"/>
+  <anchor x="520" y="-500" name="L"/>
   <anchor x="440" y="1635" name="U"/>
   <outline>
     <component base="LtnSmLBelt.TailL"/>
