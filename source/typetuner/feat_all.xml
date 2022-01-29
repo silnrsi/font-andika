@@ -211,6 +211,8 @@
 			<cmd name="encode" args="026B uni026B.TailL"/>
 			<cmd name="encode" args="0142 lslash.TailL"/>
 			<cmd name="encode" args="026C uni026C.TailL"/>
+			<cmd name="encode" args="1DF11 u1DF11.TailL"/>
+			<cmd name="encode" args="1DF13 u1DF11.TailL"/>
 		</value>
 	</feature>
 	<feature name="Capital Eng" value="Default" tag="Eng">
@@ -331,8 +333,11 @@
 			<cmd name="encode" args="02A8 uni02A8.NoTailT"/>
 			<cmd name="encode" args="02A6 uni02A6.NoTailT"/>
 			<cmd name="encode" args="02A7 uni02A7.NoTailT"/>
+			<cmd name="encode" args="1DF1C u1DF1C.NoTailT"/>
+			<cmd name="encode" args="1DF17 u1DF17.NoTailT"/>
 			<cmd name="encode" args="A729 uniA729.NoTailT"/>
 			<cmd name="encode" args="0287 uni0287.NoTailT"/>
+			<cmd name="encode" args="1DF0D u1DF0D.NoTailT"/>
 		</value>
 	</feature>
 	<feature name="Capital T hook" value="Default" tag="LgTHk">
@@ -379,8 +384,8 @@
 			<cmd name="encode" args="024F uni024F.NoTailY"/>
 			<cmd name="encode" args="01B4 uni01B4.RtHook.NoTailY"/>
 			<cmd name="encode" args="028E uni028E.NoTailY"/>
-			<cmd name="encode" args="F1CE uniF1CE.NoTailY"/>
-			<cmd name="encode" args="F267 uniF267.NoTailY"/>
+			<cmd name="encode" args="107A0 u107A0.NoTailY"/>
+			<cmd name="encode" args="1DF06 u1DF06.NoTailY"/>
 		</value>
 	</feature>
 	<feature name="Capital Y hook" value="Default" tag="LgYHk">
@@ -506,6 +511,18 @@
 		</value>
 		<value name="Cyrillic form" tag="T">
 			<cmd name="encode" args="0306 uni0306.CyShortMrkAlt"/>
+		</value>
+	</feature>
+	<feature name="Cyr Serbian Macedonian" value="Default" tag="SerbMac">
+		<value name="Default" tag="Dflt">
+			<cmd name="null" args="null"/>
+		</value>
+		<value name="Serbian Macedonian forms" tag="SrMk">
+			<cmd name="encode" args="0431 uni0431.Serb"/>
+			<cmd name="encode" args="0433 uni0433.Serb"/>
+			<cmd name="encode" args="043F uni043F.Serb"/>
+			<cmd name="encode" args="0434 uni0434.Serb"/>
+			<cmd name="encode" args="0442 uni0442.Serb"/>
 		</value>
 	</feature>
 	<feature name="Chinantec tones" value="Default" tag="CHZtn">
@@ -821,6 +838,7 @@
 			<cmd name="encode" args="0454 uni0454.sc"/>
 			<cmd name="encode" args="044D uni044D.sc"/>
 			<cmd name="encode" args="04ED uni04ED.sc"/>
+			<cmd name="encode" args="A7C4 uniA7C4.sc"/>
 			<cmd name="encode" args="0064 d.sc"/>
 			<cmd name="encode" args="0501 uni0501.sc"/>
 			<cmd name="encode" args="0503 uni0503.sc"/>
@@ -1174,6 +1192,7 @@
 			<cmd name="encode" args="00DF germandbls.sc"/>
 			<cmd name="encode" args="01A8 uni01A8.sc"/>
 			<cmd name="encode" args="0283 uni0283.sc"/>
+			<cmd name="encode" args="A7C5 uniA7C5.sc"/>
 			<cmd name="encode" args="0074 t.sc"/>
 			<cmd name="encode" args="0165 tcaron.sc"/>
 			<cmd name="encode" args="1E6B uni1E6B.sc"/>
@@ -1691,6 +1710,13 @@
 		</test>
 		<test select="RmHrn-Lrg SmCp-T">
 			<cmd name="encode" args="0264 uni0264.sc"/>
+		</test>
+		<test select="SerbMac-SrMk SmCp-T">
+			<cmd name="encode" args="0431 uni0431.sc"/>
+			<cmd name="encode" args="0433 uni0433.sc"/>
+			<cmd name="encode" args="043F uni043F.sc"/>
+			<cmd name="encode" args="0434 uni0434.sc"/>
+			<cmd name="encode" args="0442 uni0442.sc"/>
 		</test>
 		<test select="SlntItlc-T SmCp-T">
 			<cmd name="encode" args="0061 a.sc"/>
