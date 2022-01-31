@@ -11,7 +11,7 @@
   <string>3112</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/LtnCapZPalHook/LtnSmCPalHook/LtnCapCPalHook/LtnCapGHook/LtnSmSHook/LtnCapSHook</string>
+    <string>bdoi/CySmHardSgn/CySmElTail d/LtnSmTnSix/CyCapElTail/LtnCapTnSix/CyCapHardSgn</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

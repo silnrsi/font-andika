@@ -10,12 +10,16 @@
   <string>I_ncrement.glif</string>
   <key>LtnCapAe</key>
   <string>L_tnC_apA_e.glif</string>
+  <key>LtnCapTnSix</key>
+  <string>L_tnC_apT_nS_ix.glif</string>
   <key>LtnInvGlottalStopCurl</key>
   <string>L_tnI_nvG_lottalS_topC_url.glif</string>
   <key>LtnSmSCurl</key>
   <string>L_tnS_mS_C_url.glif</string>
   <key>LtnSmTeshRetrHook</key>
   <string>L_tnS_mT_eshR_etrH_ook.glif</string>
+  <key>LtnSmTnSix</key>
+  <string>L_tnS_mT_nS_ix.glif</string>
   <key>LtnStretchedCCurl</key>
   <string>L_tnS_tretchedC_C_url.glif</string>
   <key>VulgFracOneQuarter</key>
