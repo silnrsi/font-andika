@@ -11,7 +11,8 @@
   <string>3112</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>bdoi/CySmHardSgn/CySmElTail d/LtnSmTnSix/CyCapElTail/LtnCapTnSix/CyCapHardSgn</string>
+    <string>bo/CySmHardSgn o/LtnSmTnSix oH/LtnCapTnSix H/CyCapHardSgn H</string>
+    <string>hovo/LtnSmTnSix obv</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
@@ -917,6 +918,7 @@
     <string>CySmGhe</string>
     <string>CySmGhe.Serb</string>
     <string>CySmGje</string>
+    <string>CySmGje.Serb</string>
     <string>CySmGheUpturn</string>
     <string>CySmGheDesc</string>
     <string>CySmGheStrk</string>
@@ -4888,6 +4890,8 @@
     <string>uni0491.sc</string>
     <key>CySmGje</key>
     <string>uni0453</string>
+    <key>CySmGje.Serb</key>
+    <string>uni0453.Serb</string>
     <key>CySmGje.sc</key>
     <string>uni0453.sc</string>
     <key>CySmHa</key>
