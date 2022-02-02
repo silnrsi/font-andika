@@ -10,10 +10,7 @@
   <key>com.schriftgestaltung.appVersion</key>
   <string>3112</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
-  <array>
-    <string>bo/CySmHardSgn o/LtnSmTnSix oH/LtnCapTnSix H/CyCapHardSgn H</string>
-    <string>hovo/LtnSmTnSix obv</string>
-  </array>
+  <array/>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
