@@ -7,7 +7,10 @@
     <fontsrc label="AB">url(../results/Andika-Bold.ttf)</fontsrc>
     <fontsrc label="AI">url(../results/Andika-Italic.ttf)</fontsrc>
     <fontsrc label="ABI">url(../results/Andika-BoldItalic.ttf)</fontsrc>
-    <fontsrc label="ARv5">url(../references/v5/Andika-Regular.ttf)</fontsrc>
+    <fontsrc label="ARv6">url(../references/v6001/Andika-Regular.ttf)</fontsrc>
+    <fontsrc label="ABv6">url(../references/v6001/Andika-Bold.ttf)</fontsrc>
+    <fontsrc label="AIv6">url(../references/v6001/Andika-Italic.ttf)</fontsrc>
+    <fontsrc label="ABIv6">url(../references/v6001/Andika-BoldItalic.ttf)</fontsrc>
     <title>Language Combos</title>
   </head>
   <testgroup label="Common base diacritic combos">
