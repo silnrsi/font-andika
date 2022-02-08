@@ -733,11 +733,11 @@
 			<cmd name="encode" args="2C65 uni2C65" />
 		</value>
 	</feature>
-	<feature name="Double-story g" value="Default" tag="DSG">
-		<value name="Default" tag="Dflt">
+	<feature name="Double-story g" value="Standard (single-story)" tag="DSG">
+		<value name="Standard (single-story)" tag="Dflt">
 			<cmd name="null" args="null" />
 		</value>
-		<value name="True" tag="T">
+		<value name="Double-story" tag="T">
 			<cmd name="encode" args="0067 g" />
 			<cmd name="encode" args="1D4D uni1D4D" />
 			<cmd name="encode" args="01F5 uni01F5" />

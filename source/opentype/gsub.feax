@@ -1783,7 +1783,7 @@ feature cv98 {
 
 feature ss01 {
   featureNames {
-    name 3 1 0x409 "Single-story a and g";
+    name 3 1 0x409 "Double-story a and g";
   };
 
   lookup lit_sub;
