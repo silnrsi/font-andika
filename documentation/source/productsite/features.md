@@ -24,6 +24,8 @@ Small caps | <span class='andika-R normal' style='font-feature-settings: "smcp" 
 
 #### Small caps from capitals
 
+*This feature is not supported in TypeTuner Web.*
+
 <span class='affects'>Affects: all capitals</span>
 
 Feature | Sample                      | Feature setting
@@ -32,6 +34,8 @@ Standard   | <span class='andika-R normal'>A ... Z</span> (all capitals) | `c2sc
 Small caps | <span class='andika-R normal' style='font-feature-settings: "c2sc" 1'>A ... Z</span> (all capitals) | `c2sc=1`
 
 #### Double-story a and g
+
+*On TypeTuner Web this feature is called 'Single-story a and g'. It was formerly called 'Literacy alternates'.*
 
 <span class='affects'>Affects: U+0061 U+00E0 U+00E1 U+00E2 U+00E3 U+00E4 U+00E5 U+0101 U+0103 U+0105 U+01CE U+01DF U+01E1 U+01FB U+0201 U+0203 U+0227 U+1E01 U+1E9A U+1EA1 U+1EA3 U+1EA5 U+1EA7 U+1EA9 U+1EAB U+1EAD U+1EAF U+1EB1 U+1EB3 U+1EB5 U+1EB7 U+2C65 U+2090 U+1D43 U+0363 U+0067 U+011D U+011F U+0121 U+0123 U+01E7 U+01F5 U+01E5 U+1E21 U+A7A1 U+1D4D</span>
 
@@ -311,6 +315,8 @@ Vietnamese-style | <span class='andika-R normal' style='font-feature-settings: "
 
 #### Kayan diacritics
 
+*This feature is not supported in TypeTuner Web.*
+
 <span class='affects'>Affects: U+0300 U+0301</span>
 
 Feature | Sample                      | Feature setting
@@ -396,14 +402,36 @@ Cyrillic-style | <span class='andika-R normal' style='font-feature-settings: "cv
 
 #### Serbian Cyrillic alternates
 
-*These alternate forms mainly affect italic styles. Unlike other features this is activated by tagging the span of text as being in the Serbian language, not by turning on an OpenType feature.*
+*These alternate forms mainly affect italic styles. Unlike other features this is activated by tagging the span of text as being in the Serbian language, not by turning on an OpenType feature. It is also not available through TypeTuner Web although a similar feature is supported (cv84).*
 
-<span class='affects'>Affects: U+0431 U+0433 U+0434 U+043F U+0442</span>
+<span class='affects'>Affects: U+0431 U+0433 U+0434 U+043F U+0442 U+0453</span>
 
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
-Standard | <span class='andika-I normal'>б г д п т</span> | 
-Serbian  | <span class='andika-I normal' lang='sr'>б г д п т</span> | `lang='sr'`
+Standard | <span class='andika-I normal'>б г д п т ѓ</span> | 
+Serbian  | <span class='andika-I normal' lang='sr'>б г д п т ѓ</span> | `lang='sr'`
+
+#### Macedonian Cyrillic alternates
+
+*These alternate forms mainly affect italic styles. Unlike other features this is activated by tagging the span of text as being in the Macedonian language, not by turning on an OpenType feature. It is also not available through TypeTuner Web although a similar feature is supported (cv84).*
+
+<span class='affects'>Affects: U+0431 U+0433 U+0434 U+043F U+0442 U+0453</span>
+
+Feature | Sample                      | Feature setting
+------- | --------------------------- | -------
+Standard   | <span class='andika-I normal'>б г д п т ѓ</span> | 
+Macedonian | <span class='andika-I normal' lang='mk'>б г д п т ѓ</span> | `lang='mk'`
+
+#### Serbian and Macedonian Cyrillic alternates
+
+*This feature provides an alternate way to activate the Serbian and Macedonian forms in applications that do not support language-specific features.*
+
+<span class='affects'>Affects: U+0431 U+0433 U+0434 U+043F U+0442 U+0453</span>
+
+Feature | Sample                      | Feature setting
+------- | --------------------------- | -------
+Standard                 | <span class='andika-I normal'>б г д п т ѓ</span> | `cv84=0`
+Serbian Macedonian forms | <span class='andika-I normal' style='font-feature-settings: "cv84" 1'>б г д п т ѓ</span> | `cv84=1`
 
 ### Tone alternates
 
@@ -418,6 +446,8 @@ Chinantec-style | <span class='andika-R normal' style='font-feature-settings: "c
 
 #### Tone numbers
 
+*This feature is not supported in TypeTuner Web.*
+
 <span class='affects'>Affects: U+02E5 U+02E6 U+02E7 U+02E8 U+02E9 U+A712 U+A713 U+A714 U+A715 U+A716</span>
 
 Feature | Sample                      | Feature setting
@@ -426,6 +456,8 @@ Standard | <span class='andika-R normal'>˥ ˦ ˧ ˨ ˩ ꜒ ꜓ ꜔ ꜕ ꜖</spa
 Numbers  | <span class='andika-R normal' style='font-feature-settings: "cv91" 1'>˥ ˦ ˧ ˨ ˩ ꜒ ꜓ ꜔ ꜕ ꜖</span> | `cv91=1`
 
 #### Hide tone contour staves
+
+*This feature is not supported in TypeTuner Web.*
 
 <span class='affects'>Affects: U+02E5 U+02E6 U+02E7 U+02E8 U+02E9 U+A712 U+A713 U+A714 U+A715 U+A716</span>
 
