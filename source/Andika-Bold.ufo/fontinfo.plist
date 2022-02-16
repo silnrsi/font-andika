@@ -13,7 +13,7 @@
   <key>familyName</key>
   <string>Andika</string>
   <key>openTypeHeadCreated</key>
-  <string>2022/02/09 13:20:43</string>
+  <string>2022/02/16 14:28:07</string>
   <key>openTypeHheaAscender</key>
   <integer>2500</integer>
   <key>openTypeHheaDescender</key>
@@ -83,7 +83,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNameUniqueID</key>
   <string>SIL International: Andika Bold: 2022</string>
   <key>openTypeNameVersion</key>
-  <string>Version 6.101</string>
+  <string>Version 6.150</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -243,7 +243,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>versionMajor</key>
   <integer>6</integer>
   <key>versionMinor</key>
-  <integer>101</integer>
+  <integer>150</integer>
   <key>xHeight</key>
   <integer>1040</integer>
 </dict>
