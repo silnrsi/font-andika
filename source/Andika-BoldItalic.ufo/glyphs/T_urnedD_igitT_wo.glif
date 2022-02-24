@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="TurnedDigitTwo" format="2">
+  <advance width="1180"/>
+  <unicode hex="218A"/>
+  <anchor x="515" y="-100" name="L"/>
+  <anchor x="882" y="1530" name="U"/>
+  <outline>
+    <component base="DigitTwo"/>
+  </outline>
+</glyph>
