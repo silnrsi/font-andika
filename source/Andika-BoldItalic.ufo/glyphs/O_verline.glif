@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Overline" format="2">
+  <advance width="1001"/>
   <unicode hex="203E"/>
-  <anchor x="-221" y="1635" name="U"/>
-  <anchor x="-355" y="1100" name="_U"/>
   <outline>
-    <component base="CombOverline"/>
+    <contour>
+      <point x="-42" y="1450" type="line"/>
+      <point x="1507" y="1450" type="line"/>
+      <point x="1556" y="1648" type="line"/>
+      <point x="7" y="1648" type="line"/>
+    </contour>
   </outline>
 </glyph>
