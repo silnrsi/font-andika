@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CySmEl.Bulg.sc" format="2">
+  <advance width="1585"/>
+  <anchor x="720" y="-100" name="L"/>
+  <anchor x="910" y="1530" name="U"/>
+  <outline>
+    <component base="CyCapEl"/>
+  </outline>
+</glyph>

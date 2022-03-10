@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CyCapI.Bulg" format="2">
+  <advance width="1604"/>
+  <anchor x="712" y="-100" name="L"/>
+  <anchor x="1119" y="1530" name="U"/>
+  <outline>
+    <component base="CyCapI"/>
+  </outline>
+</glyph>
