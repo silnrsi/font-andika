@@ -5,6 +5,6 @@
   <anchor x="600" y="-100" name="L"/>
   <anchor x="600" y="1530" name="U"/>
   <outline>
-    <component base="DigitThree"/>
+    <component base="DigitThree" xScale="-1" yScale="-1" xOffset="1200" yOffset="1460"/>
   </outline>
 </glyph>
