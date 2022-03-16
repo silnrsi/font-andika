@@ -1,9 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnAlveolarClick.bascl" format="2">
   <advance width="835"/>
-  <anchor x="265" y="-500" name="L"/>
+  <anchor x="355" y="-100" name="L"/>
   <anchor x="785" y="1635" name="U"/>
   <outline>
-    <component base="LtnAlveolarClick"/>
+    <contour>
+      <point x="246" y="848" type="line"/>
+      <point x="911" y="848" type="line"/>
+      <point x="949" y="1000" type="line"/>
+      <point x="284" y="1000" type="line"/>
+    </contour>
+    <contour>
+      <point x="163" y="515" type="line"/>
+      <point x="828" y="515" type="line"/>
+      <point x="866" y="667" type="line"/>
+      <point x="201" y="667" type="line"/>
+    </contour>
+    <contour>
+      <point x="690" y="1568" type="line"/>
+      <point x="300" y="0" type="line"/>
+      <point x="455" y="0" type="line"/>
+      <point x="845" y="1568" type="line"/>
+    </contour>
   </outline>
 </glyph>
