@@ -5,6 +5,48 @@
   <anchor x="515" y="-100" name="L"/>
   <anchor x="922" y="1530" name="U"/>
   <outline>
-    <component base="DigitThree" xScale="-1" yScale="-1" xOffset="1461" yOffset="1430"/>
+    <contour>
+      <point x="609" y="-25" type="curve" smooth="yes"/>
+      <point x="776" y="-25"/>
+      <point x="925" y="42"/>
+      <point x="1028" y="131" type="curve"/>
+      <point x="1034" y="298" type="line"/>
+      <point x="893" y="184"/>
+      <point x="765" y="146"/>
+      <point x="611" y="146" type="curve" smooth="yes"/>
+      <point x="504" y="146"/>
+      <point x="393" y="194"/>
+      <point x="393" y="293" type="curve" smooth="yes"/>
+      <point x="393" y="481"/>
+      <point x="680" y="577"/>
+      <point x="829" y="577" type="curve" smooth="yes"/>
+      <point x="899" y="577" type="line"/>
+      <point x="940" y="744" type="line"/>
+      <point x="870" y="744" type="line" smooth="yes"/>
+      <point x="659" y="744"/>
+      <point x="517" y="824"/>
+      <point x="517" y="954" type="curve" smooth="yes"/>
+      <point x="517" y="1162"/>
+      <point x="723" y="1283"/>
+      <point x="910" y="1283" type="curve" smooth="yes"/>
+      <point x="1090" y="1283"/>
+      <point x="1201" y="1203"/>
+      <point x="1280" y="1082" type="curve"/>
+      <point x="1357" y="1293" type="line"/>
+      <point x="1276" y="1389"/>
+      <point x="1120" y="1455"/>
+      <point x="943" y="1455" type="curve" smooth="yes"/>
+      <point x="646" y="1455"/>
+      <point x="320" y="1262"/>
+      <point x="320" y="955" type="curve" smooth="yes"/>
+      <point x="320" y="760"/>
+      <point x="488" y="667"/>
+      <point x="606" y="646" type="curve"/>
+      <point x="415" y="603"/>
+      <point x="195" y="475"/>
+      <point x="195" y="267" type="curve" smooth="yes"/>
+      <point x="195" y="92"/>
+      <point x="388" y="-25"/>
+    </contour>
   </outline>
 </glyph>
