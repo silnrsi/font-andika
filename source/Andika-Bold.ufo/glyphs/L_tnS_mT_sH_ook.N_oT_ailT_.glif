@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmTsHook.NoTailT" format="2">
   <advance width="1647"/>
-  <anchor x="865" y="-100" name="L"/>
+  <anchor x="865" y="-510" name="L"/>
   <anchor x="865" y="1415" name="U"/>
   <outline>
     <component base="LtnSmTsDigraph.NoTailT"/>
+    <contour>
+      <point x="917" y="-238" type="line"/>
+      <point x="888" y="-260"/>
+      <point x="830" y="-297"/>
+      <point x="777" y="-297" type="curve" smooth="yes"/>
+      <point x="720" y="-297"/>
+      <point x="664" y="-257"/>
+      <point x="664" y="-143" type="curve" smooth="yes"/>
+      <point x="664" y="165" type="line"/>
+      <point x="399" y="165" type="line"/>
+      <point x="399" y="0" type="line"/>
+      <point x="464" y="0" type="line"/>
+      <point x="464" y="-177" type="line" smooth="yes"/>
+      <point x="464" y="-373"/>
+      <point x="573" y="-475"/>
+      <point x="741" y="-475" type="curve" smooth="yes"/>
+      <point x="832" y="-475"/>
+      <point x="921" y="-431"/>
+      <point x="960" y="-399" type="curve"/>
+    </contour>
   </outline>
   <lib>
     <dict>

@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmTsHook.NoTailT" format="2">
   <advance width="1627"/>
-  <anchor x="780" y="-100" name="L"/>
+  <anchor x="580" y="-504" name="L"/>
   <anchor x="1130" y="1415" name="U"/>
   <outline>
     <component base="LtnSmTsDigraph.NoTailT"/>
+    <contour>
+      <point x="849" y="-226" type="line"/>
+      <point x="814" y="-257"/>
+      <point x="739" y="-284"/>
+      <point x="696" y="-284" type="curve" smooth="yes"/>
+      <point x="650" y="-284"/>
+      <point x="605" y="-258"/>
+      <point x="605" y="-184" type="curve" smooth="yes"/>
+      <point x="605" y="-167"/>
+      <point x="608" y="-148"/>
+      <point x="613" y="-127" type="curve" smooth="yes"/>
+      <point x="688" y="173" type="line"/>
+      <point x="418" y="173" type="line"/>
+      <point x="375" y="0" type="line"/>
+      <point x="445" y="0" type="line"/>
+      <point x="410" y="-138" type="line" smooth="yes"/>
+      <point x="402" y="-169"/>
+      <point x="398" y="-200"/>
+      <point x="398" y="-230" type="curve" smooth="yes"/>
+      <point x="398" y="-362"/>
+      <point x="475" y="-470"/>
+      <point x="624" y="-470" type="curve" smooth="yes"/>
+      <point x="705" y="-470"/>
+      <point x="805" y="-427"/>
+      <point x="842" y="-395" type="curve"/>
+    </contour>
   </outline>
   <lib>
     <dict>
