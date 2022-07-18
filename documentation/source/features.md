@@ -1,6 +1,6 @@
 ---
 title: Andika - Font Features
-fontversion: 6.101
+fontversion: 6.101x
 ---
 
 Andika is an OpenType-enabled font family that supports the Latin and Cyrillic scripts. It includes a number of optional features that may be useful or required for particular uses or languages. This document lists all the available features.
