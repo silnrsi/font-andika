@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ModCntrdRtHalfRing" format="2">
-  <advance width="560"/>
+  <advance width="570"/>
   <unicode hex="02D2"/>
   <outline>
     <contour>
       <point x="90" y="0" type="line"/>
       <point x="334" y="0"/>
-      <point x="470" y="166"/>
-      <point x="470" y="380" type="curve" smooth="yes"/>
-      <point x="470" y="589"/>
+      <point x="480" y="166"/>
+      <point x="480" y="380" type="curve" smooth="yes"/>
+      <point x="480" y="589"/>
       <point x="334" y="760"/>
       <point x="90" y="760" type="curve"/>
-      <point x="90" y="620" type="line"/>
-      <point x="240" y="620"/>
-      <point x="330" y="526"/>
-      <point x="330" y="380" type="curve" smooth="yes"/>
-      <point x="330" y="227"/>
-      <point x="240" y="140"/>
-      <point x="90" y="140" type="curve"/>
+      <point x="90" y="590" type="line"/>
+      <point x="210" y="590"/>
+      <point x="300" y="506"/>
+      <point x="300" y="380" type="curve" smooth="yes"/>
+      <point x="300" y="247"/>
+      <point x="210" y="170"/>
+      <point x="90" y="170" type="curve"/>
     </contour>
   </outline>
 </glyph>
