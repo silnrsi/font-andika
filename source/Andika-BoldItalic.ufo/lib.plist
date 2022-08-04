@@ -13,7 +13,7 @@
   <string>Italic</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>i/ModCntrdLftHalfRing/ModLftHalfRing/ModCntrdRtHalfRing/ModRtHalfRing b</string>
+    <string>/LtnSmEgAlef áå/LtnSmAEgAlef.SngStory å/LtnSmARingAbv/LtnSmAEgAlef/LtnSmIEgAlef/LtnSmUEgAlef HAH/LtnCapAEgAlef H/LtnCapIEgAlef H/LtnCapUEgAlef H</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
