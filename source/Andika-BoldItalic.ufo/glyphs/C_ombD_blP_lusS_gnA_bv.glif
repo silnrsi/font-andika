@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombDblPlusSgnAbv" format="2">
   <unicode hex="1AC9"/>
-  <anchor x="-775" y="-580" name="L"/>
-  <anchor x="-655" y="-100" name="_L"/>
+  <anchor x="-186" y="1635" name="U"/>
+  <anchor x="-319" y="1100" name="_U"/>
   <outline>
-    <component base="CombPlusSgnBlw"/>
+    <component base="CombDblPlusSgnBlw" xOffset="431" yOffset="1735"/>
   </outline>
   <lib>
     <dict>

@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombTripleAcute" format="2">
   <unicode hex="1ACB"/>
-  <anchor x="-588" y="1635" name="U"/>
-  <anchor x="-610" y="1100" name="_U"/>
+  <anchor x="-793" y="1635" name="U"/>
+  <anchor x="-815" y="1100" name="_U"/>
   <outline>
-    <component base="CombDblAcute"/>
+    <contour>
+      <point x="-768" y="1600" type="line"/>
+      <point x="-978" y="1200" type="line"/>
+      <point x="-768" y="1200" type="line"/>
+      <point x="-468" y="1600" type="line"/>
+    </contour>
+    <contour>
+      <point x="-358" y="1600" type="line"/>
+      <point x="-568" y="1200" type="line"/>
+      <point x="-358" y="1200" type="line"/>
+      <point x="-58" y="1600" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1178" y="1600" type="line"/>
+      <point x="-1388" y="1200" type="line"/>
+      <point x="-1178" y="1200" type="line"/>
+      <point x="-878" y="1600" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
