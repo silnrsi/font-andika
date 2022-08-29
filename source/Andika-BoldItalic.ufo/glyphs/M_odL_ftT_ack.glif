@@ -3,7 +3,7 @@
   <advance width="690"/>
   <unicode hex="AB6A"/>
   <outline>
-    <component base="ModYangDepartingToneMrk" xScale="-1" yScale="-1" xOffset="685" yOffset="1020"/>
+    <component base="ModYangDepartingToneMrk" xScale="-1" yScale="-1" xOffset="833" yOffset="1020"/>
   </outline>
   <lib>
     <dict>

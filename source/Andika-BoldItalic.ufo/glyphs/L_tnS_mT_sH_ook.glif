@@ -7,30 +7,30 @@
   <outline>
     <component base="LtnSmTsDigraph"/>
     <contour>
-      <point x="1037" y="-226" type="line"/>
-      <point x="1002" y="-257"/>
-      <point x="927" y="-284"/>
-      <point x="884" y="-284" type="curve" smooth="yes"/>
-      <point x="838" y="-284"/>
-      <point x="793" y="-258"/>
-      <point x="793" y="-184" type="curve" smooth="yes"/>
-      <point x="793" y="-167"/>
-      <point x="796" y="-148"/>
-      <point x="801" y="-127" type="curve" smooth="yes"/>
-      <point x="876" y="173" type="line"/>
-      <point x="606" y="173" type="line"/>
-      <point x="563" y="0" type="line"/>
-      <point x="633" y="0" type="line"/>
-      <point x="598" y="-138" type="line" smooth="yes"/>
-      <point x="590" y="-169"/>
-      <point x="586" y="-200"/>
-      <point x="586" y="-230" type="curve" smooth="yes"/>
-      <point x="586" y="-362"/>
-      <point x="663" y="-470"/>
-      <point x="812" y="-470" type="curve" smooth="yes"/>
-      <point x="893" y="-470"/>
-      <point x="993" y="-427"/>
-      <point x="1030" y="-395" type="curve"/>
+      <point x="1137" y="-186" type="line"/>
+      <point x="1102" y="-217"/>
+      <point x="1027" y="-244"/>
+      <point x="984" y="-244" type="curve" smooth="yes"/>
+      <point x="938" y="-244"/>
+      <point x="893" y="-218"/>
+      <point x="893" y="-144" type="curve" smooth="yes"/>
+      <point x="893" y="-127"/>
+      <point x="896" y="-108"/>
+      <point x="901" y="-87" type="curve" smooth="yes"/>
+      <point x="976" y="213" type="line"/>
+      <point x="706" y="213" type="line"/>
+      <point x="663" y="40" type="line"/>
+      <point x="733" y="40" type="line"/>
+      <point x="698" y="-98" type="line" smooth="yes"/>
+      <point x="690" y="-129"/>
+      <point x="686" y="-160"/>
+      <point x="686" y="-190" type="curve" smooth="yes"/>
+      <point x="686" y="-322"/>
+      <point x="763" y="-430"/>
+      <point x="912" y="-430" type="curve" smooth="yes"/>
+      <point x="993" y="-430"/>
+      <point x="1093" y="-387"/>
+      <point x="1130" y="-355" type="curve"/>
     </contour>
   </outline>
   <lib>

@@ -11,7 +11,7 @@
   <string>3134</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/LtnSmTurnedRMiddleTilde lm/ModLftTack/ModYangDepartingToneMrk/LtnSmYLoop/LtnSmYOgonek/LtnSmYOgonek.RetroHook/LtnSmYOgonek.RetroHook/LtnSmUOgonek.RetroHook/LtnCapIOgonek.RetroHook/LtnCapUOgonek.RetroHook</string>
+    <string>/LtnSmTsHook o/LtnSmTurnedRMiddleTilde olm/ModLftTack/ModYangDepartingToneMrk/LtnSmYLoop/LtnSmYOgonek/LtnSmYOgonek.RetroHook/LtnSmYOgonek.RetroHook/LtnSmUOgonek.RetroHook/LtnCapIOgonek.RetroHook/LtnCapUOgonek.RetroHook</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

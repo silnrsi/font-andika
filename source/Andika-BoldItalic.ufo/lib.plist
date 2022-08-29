@@ -13,7 +13,8 @@
   <string>Italic</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/LtnSmTurnedRMiddleTilde lm/ModLftTack/ModYangDepartingToneMrk/LtnSmYOgonek/LtnSmYOgonek.RetroHook/LtnSmUOgonek.RetroHook</string>
+    <string>/LtnSmTsHook o/LtnSmTurnedR o/LtnSmTurnedRMiddleTilde oh/LtnSmTurnedRMiddleTilde hlm
+o/ModLftTack o/ModYangDepartingToneMrk/LtnSmYOgonek/LtnSmYOgonek.RetroHook/LtnSmUOgonek.RetroHook</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
