@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnCapUEgAlef" format="2">
-  <advance width="1879"/>
+  <advance width="1890"/>
   <unicode hex="A7BE"/>
-  <anchor x="1081" y="0" name="H"/>
-  <anchor x="1056" y="-100" name="L"/>
-  <anchor x="1299" y="0" name="O"/>
-  <anchor x="2129" y="1200" name="R"/>
-  <anchor x="1463" y="1530" name="U"/>
+  <anchor x="1092" y="0" name="H"/>
+  <anchor x="1067" y="-100" name="L"/>
+  <anchor x="1310" y="0" name="O"/>
+  <anchor x="2140" y="1200" name="R"/>
+  <anchor x="1474" y="1530" name="U"/>
   <outline>
-    <component base="LtnCapU" xOffset="409"/>
+    <component base="LtnCapU" xOffset="420"/>
     <contour>
-      <point x="311" y="965" type="line"/>
-      <point x="547" y="1013"/>
-      <point x="726" y="1117"/>
-      <point x="726" y="1283" type="curve" smooth="yes"/>
-      <point x="726" y="1394"/>
-      <point x="616" y="1465"/>
-      <point x="449" y="1465" type="curve"/>
-      <point x="346" y="1309" type="line"/>
-      <point x="494" y="1309"/>
-      <point x="541" y="1267"/>
-      <point x="541" y="1224" type="curve" smooth="yes"/>
-      <point x="541" y="1150"/>
-      <point x="456" y="1089"/>
-      <point x="305" y="1059" type="curve"/>
+      <point x="282" y="965" type="line"/>
+      <point x="518" y="1013"/>
+      <point x="697" y="1117"/>
+      <point x="697" y="1283" type="curve" smooth="yes"/>
+      <point x="697" y="1394"/>
+      <point x="587" y="1465"/>
+      <point x="420" y="1465" type="curve"/>
+      <point x="317" y="1309" type="line"/>
+      <point x="465" y="1309"/>
+      <point x="512" y="1267"/>
+      <point x="512" y="1224" type="curve" smooth="yes"/>
+      <point x="512" y="1150"/>
+      <point x="427" y="1089"/>
+      <point x="276" y="1059" type="curve"/>
     </contour>
   </outline>
   <lib>

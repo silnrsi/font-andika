@@ -6,24 +6,24 @@
   <anchor x="250" y="-100" name="L"/>
   <anchor x="455" y="0" name="O"/>
   <anchor x="745" y="1000" name="R"/>
-  <anchor x="605" y="1635" name="U"/>
+  <anchor x="595" y="1635" name="U"/>
   <outline>
     <component base="LtnSmDotlessI"/>
     <contour>
-      <point x="322" y="1478" type="line"/>
-      <point x="471" y="1478"/>
-      <point x="527" y="1438"/>
-      <point x="527" y="1389" type="curve" smooth="yes"/>
+      <point x="322" y="1458" type="line"/>
+      <point x="471" y="1458"/>
+      <point x="527" y="1418"/>
+      <point x="527" y="1369" type="curve" smooth="yes"/>
       <point x="527" y="1279"/>
       <point x="353" y="1227"/>
       <point x="265" y="1201" type="curve"/>
       <point x="278" y="1137" type="line"/>
       <point x="442" y="1172"/>
       <point x="673" y="1264"/>
-      <point x="673" y="1441" type="curve" smooth="yes"/>
-      <point x="673" y="1538"/>
-      <point x="562" y="1603"/>
-      <point x="408" y="1603" type="curve"/>
+      <point x="673" y="1421" type="curve" smooth="yes"/>
+      <point x="673" y="1518"/>
+      <point x="562" y="1583"/>
+      <point x="408" y="1583" type="curve"/>
     </contour>
   </outline>
   <lib>

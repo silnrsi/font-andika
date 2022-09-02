@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnCapAEgAlef" format="2">
-  <advance width="1570"/>
+  <advance width="1630"/>
   <unicode hex="A7BA"/>
-  <anchor x="820" y="0" name="H"/>
-  <anchor x="817" y="-100" name="L"/>
-  <anchor x="1580" y="0" name="O"/>
-  <anchor x="817" y="1530" name="U"/>
+  <anchor x="880" y="0" name="H"/>
+  <anchor x="877" y="-100" name="L"/>
+  <anchor x="1640" y="0" name="O"/>
+  <anchor x="877" y="1530" name="U"/>
   <outline>
-    <component base="LtnCapA" xOffset="85"/>
+    <component base="LtnCapA" xOffset="145"/>
     <contour>
       <point x="136" y="940" type="line"/>
       <point x="372" y="995"/>
