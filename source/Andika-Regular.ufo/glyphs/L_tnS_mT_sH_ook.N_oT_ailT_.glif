@@ -6,24 +6,22 @@
   <outline>
     <component base="LtnSmTsDigraph.NoTailT"/>
     <contour>
-      <point x="775" y="-290" type="line"/>
-      <point x="732" y="-318"/>
-      <point x="691" y="-335"/>
-      <point x="635" y="-335" type="curve" smooth="yes"/>
-      <point x="578" y="-335"/>
-      <point x="530" y="-285"/>
-      <point x="530" y="-210" type="curve" smooth="yes"/>
-      <point x="530" y="120" type="line"/>
-      <point x="330" y="120" type="line"/>
-      <point x="330" y="0" type="line"/>
-      <point x="395" y="0" type="line"/>
-      <point x="395" y="-220" type="line" smooth="yes"/>
-      <point x="395" y="-373"/>
-      <point x="480" y="-470"/>
-      <point x="600" y="-470" type="curve" smooth="yes"/>
-      <point x="669" y="-470"/>
-      <point x="737" y="-453"/>
-      <point x="790" y="-415" type="curve"/>
+      <point x="1017" y="-250" type="line"/>
+      <point x="974" y="-278"/>
+      <point x="933" y="-295"/>
+      <point x="877" y="-295" type="curve" smooth="yes"/>
+      <point x="820" y="-295"/>
+      <point x="772" y="-245"/>
+      <point x="772" y="-170" type="curve" smooth="yes"/>
+      <point x="772" y="90" type="line"/>
+      <point x="637" y="90" type="line"/>
+      <point x="637" y="-180" type="line" smooth="yes"/>
+      <point x="637" y="-333"/>
+      <point x="722" y="-430"/>
+      <point x="842" y="-430" type="curve" smooth="yes"/>
+      <point x="911" y="-430"/>
+      <point x="979" y="-413"/>
+      <point x="1032" y="-375" type="curve"/>
     </contour>
   </outline>
   <lib>
