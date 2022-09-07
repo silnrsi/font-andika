@@ -722,6 +722,7 @@
     <string>LtnSmDHook.TopBar</string>
     <string>LtnSmDTail</string>
     <string>LtnSmDTailHook</string>
+    <string>LtnSmDMidLftHook</string>
     <string>LtnSmDCurl</string>
     <string>LtnSmDTopbar</string>
     <string>LtnSmDBDigraph</string>
@@ -1325,6 +1326,7 @@
     <string>LtnSmLStrk</string>
     <string>LtnSmLRetrHook</string>
     <string>LtnSupSmLRetrHook</string>
+    <string>LtnSmLMidLftHook</string>
     <string>LtnSmLCurl</string>
     <string>LtnSmLBelt</string>
     <string>LtnSmLRetrHookBelt</string>
@@ -1433,6 +1435,7 @@
     <string>LtnSmRevEng</string>
     <string>LtnSmNRetrHook</string>
     <string>ModSmNRetrHook</string>
+    <string>LtnSmNMidLftHook</string>
     <string>LtnSmNCurl</string>
     <string>LtnSmNDesc</string>
     <string>LtnSmNLngRtLeg</string>
@@ -1693,6 +1696,7 @@
     <string>LtnSmRDiagStrk</string>
     <string>LtnSmRHookTail</string>
     <string>LtnSmRHookTail.LCStyle</string>
+    <string>LtnSmRMidLftHook</string>
     <string>LtnSmRLngLeg</string>
     <string>LtnSmRRotunda</string>
     <string>LtnSmRumRotunda</string>
@@ -1765,6 +1769,7 @@
     <string>LtnSmSPalHook</string>
     <string>LtnSmSMiddleTilde</string>
     <string>LtnSmSDiagStrk</string>
+    <string>LtnSmSMidLftHook</string>
     <string>LtnSmSCurl</string>
     <string>LtnSmSSwashTail</string>
     <string>LtnSmTnTwo</string>
@@ -1816,6 +1821,7 @@
     <string>LtnSmTHook.RtHook</string>
     <string>LtnSmTHookRetrHook</string>
     <string>LtnSmTRetrHook</string>
+    <string>LtnSmTMidLftHook</string>
     <string>LtnSmTCurl</string>
     <string>LtnSmLBeltPalHook</string>
     <string>LtnSmTum</string>
@@ -2357,6 +2363,7 @@
     <string>TripleVertBar</string>
     <string>Perpendicular</string>
     <string>TripleVertBar.bascl</string>
+    <string>Asterism</string>
     <string>Therefore</string>
     <string>Because</string>
     <string>RefMrk</string>
@@ -2755,6 +2762,8 @@
     <string>FaceNeutral</string>
     <string>FaceSmile</string>
     <string>ShadowedWhiteCirc</string>
+    <string>WhiteCirc</string>
+    <string>Fisheye</string>
     <string>TriangularBullet</string>
     <string>DwnArrw</string>
     <string>RomNumFiftyEarly</string>
@@ -2824,6 +2833,7 @@
     <string>MaleSgn</string>
     <string>MusicFlatSign</string>
     <string>MusicSharpSign</string>
+    <string>LoopedSqr</string>
     <string>ModTnYinShang</string>
     <string>ModTnYinPing</string>
     <string>ModTnYinQu</string>
@@ -2986,6 +2996,7 @@
     <string>LtnSubSmL.TailL</string>
     <string>LtnSmLCaron.Caron.TailL</string>
     <string>LtnSmLHighBar.TailL</string>
+    <string>LtnSmLMidLftHook.TailL</string>
     <string>LtnSmL.TailL</string>
     <string>ModSmL.TailL</string>
     <string>LtnSmLAcute.TailL</string>
@@ -3017,6 +3028,7 @@
     <string>LtnSmCapQ.DiagTail</string>
     <string>LtnSubSmT.NoTailT</string>
     <string>LtnSmTCaron.Caron.NoTailT</string>
+    <string>LtnSmTMidLftHook.NoTailT</string>
     <string>LtnSmLBeltPalHook.TailL</string>
     <string>LtnSmT.NoTailT</string>
     <string>LtnSupSmT.NoTailT</string>
@@ -4018,6 +4030,8 @@
     <string>quotesingle</string>
     <key>Asterisk</key>
     <string>asterisk</string>
+    <key>Asterism</key>
+    <string>uni2042</string>
     <key>AtSgn</key>
     <string>at</string>
     <key>AustralSign</key>
@@ -5540,6 +5554,8 @@
     <string>figuredash</string>
     <key>FigureSpace</key>
     <string>uni2007</string>
+    <key>Fisheye</key>
+    <string>uni25C9</string>
     <key>FontBslnSideBrngMrkrLft</key>
     <string>uniF130</string>
     <key>FontBslnSideBrngMrkrRt</key>
@@ -5784,6 +5800,8 @@
     <string>lira</string>
     <key>LivreTourSgn</key>
     <string>uni20B6</string>
+    <key>LoopedSqr</key>
+    <string>uni2318</string>
     <key>LowLine</key>
     <string>underscore</string>
     <key>Lozenge</key>
@@ -7746,6 +7764,8 @@
     <string>uni1E0F</string>
     <key>LtnSmDLineBlw.sc</key>
     <string>uni1E0F.sc</string>
+    <key>LtnSmDMidLftHook</key>
+    <string>u1DF25</string>
     <key>LtnSmDMiddleTilde</key>
     <string>uni1D6D</string>
     <key>LtnSmDMiddleTildeDep</key>
@@ -8670,6 +8690,10 @@
     <string>uni1E3B.TailL</string>
     <key>LtnSmLLineBlw.sc</key>
     <string>uni1E3B.sc</string>
+    <key>LtnSmLMidLftHook</key>
+    <string>u1DF26</string>
+    <key>LtnSmLMidLftHook.TailL</key>
+    <string>u1DF26.TailL</string>
     <key>LtnSmLMiddleDot</key>
     <string>ldot</string>
     <key>LtnSmLMiddleDot.TailL</key>
@@ -8842,6 +8866,8 @@
     <string>uni019E</string>
     <key>LtnSmNLngRtLeg.sc</key>
     <string>uni019E.sc</string>
+    <key>LtnSmNMidLftHook</key>
+    <string>u1DF27</string>
     <key>LtnSmNMiddleTilde</key>
     <string>uni1D70</string>
     <key>LtnSmNMiddleTildeDep</key>
@@ -9254,6 +9280,8 @@
     <string>uni1E5F.sc</string>
     <key>LtnSmRLngLeg</key>
     <string>uni027C</string>
+    <key>LtnSmRMidLftHook</key>
+    <string>u1DF28</string>
     <key>LtnSmRMiddleTilde</key>
     <string>uni1D72</string>
     <key>LtnSmRMiddleTildeDep</key>
@@ -9362,6 +9390,8 @@
     <string>uni0282</string>
     <key>LtnSmSHook.sc</key>
     <string>uni0282.sc</string>
+    <key>LtnSmSMidLftHook</key>
+    <string>u1DF29</string>
     <key>LtnSmSMiddleTilde</key>
     <string>uni1D74</string>
     <key>LtnSmSMiddleTildeDep</key>
@@ -9506,6 +9536,10 @@
     <string>uni1E6F.NoTailT</string>
     <key>LtnSmTLineBlw.sc</key>
     <string>uni1E6F.sc</string>
+    <key>LtnSmTMidLftHook</key>
+    <string>u1DF2A</string>
+    <key>LtnSmTMidLftHook.NoTailT</key>
+    <string>u1DF2A.NoTailT</string>
     <key>LtnSmTMiddleTilde</key>
     <string>uni1D75</string>
     <key>LtnSmTMiddleTilde.NoTailT</key>
@@ -11672,6 +11706,8 @@
     <string>twothirds</string>
     <key>VulgFracZeroThirds</key>
     <string>uni2189</string>
+    <key>WhiteCirc</key>
+    <string>uni25CB</string>
     <key>WigglyVerticalLine</key>
     <string>uni2E3E</string>
     <key>WonSgn</key>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmLMidLftHook.TailL" format="2">
+  <advance width="645"/>
+  <anchor x="340" y="0" name="H"/>
+  <anchor x="315" y="-100" name="L"/>
+  <anchor x="744" y="1000" name="R"/>
+  <anchor x="600" y="1635" name="U"/>
+  <outline>
+    <component base="LtnSmL.TailL"/>
+  </outline>
+</glyph>
