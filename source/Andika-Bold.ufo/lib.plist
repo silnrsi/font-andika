@@ -11,7 +11,9 @@
   <string>3134</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/LtnSmTsHook.NoTailT/LtnSmYOgonek.RetroHook/LtnSmYOgonek</string>
+    <string>o/CombTripleAcute o/CombBreve o/CombAcute o/CombDblAcute o/CombGrave o/CombMacron</string>
+    <string>o/CombPlusSgnBlw o/CombMacronBlw o/CombDblPlusSgnBlw o/CombBreveBlw o/CombGraveBlw</string>
+    <string>o/CombTripleAcute o/CombBreve o/CombAcute o/CombDblPlusSgnAbv o/CombDblAcute o/CombGrave o/CombMacron</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

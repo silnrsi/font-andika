@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombDblPlusSgnBlw" format="2">
   <unicode hex="1ACA"/>
-  <anchor x="-553" y="-580" name="L"/>
-  <anchor x="-553" y="-100" name="_L"/>
+  <anchor x="-570" y="-580" name="L"/>
+  <anchor x="-570" y="-100" name="_L"/>
   <outline>
     <contour>
-      <point x="-98" y="-405" type="line"/>
-      <point x="-98" y="-305" type="line"/>
-      <point x="-253" y="-305" type="line"/>
-      <point x="-253" y="-150" type="line"/>
-      <point x="-353" y="-150" type="line"/>
-      <point x="-353" y="-305" type="line"/>
-      <point x="-508" y="-305" type="line"/>
-      <point x="-508" y="-405" type="line"/>
-      <point x="-353" y="-405" type="line"/>
-      <point x="-353" y="-560" type="line"/>
-      <point x="-253" y="-560" type="line"/>
-      <point x="-253" y="-405" type="line"/>
+      <point x="-135" y="-405" type="line"/>
+      <point x="-135" y="-305" type="line"/>
+      <point x="-280" y="-305" type="line"/>
+      <point x="-280" y="-150" type="line"/>
+      <point x="-380" y="-150" type="line"/>
+      <point x="-380" y="-305" type="line"/>
+      <point x="-515" y="-305" type="line"/>
+      <point x="-515" y="-405" type="line"/>
+      <point x="-380" y="-405" type="line"/>
+      <point x="-380" y="-560" type="line"/>
+      <point x="-280" y="-560" type="line"/>
+      <point x="-280" y="-405" type="line"/>
     </contour>
     <contour>
-      <point x="-598" y="-405" type="line"/>
-      <point x="-598" y="-305" type="line"/>
-      <point x="-753" y="-305" type="line"/>
-      <point x="-753" y="-150" type="line"/>
-      <point x="-853" y="-150" type="line"/>
-      <point x="-853" y="-305" type="line"/>
-      <point x="-1008" y="-305" type="line"/>
-      <point x="-1008" y="-405" type="line"/>
-      <point x="-853" y="-405" type="line"/>
-      <point x="-853" y="-560" type="line"/>
-      <point x="-753" y="-560" type="line"/>
-      <point x="-753" y="-405" type="line"/>
+      <point x="-625" y="-405" type="line"/>
+      <point x="-625" y="-305" type="line"/>
+      <point x="-760" y="-305" type="line"/>
+      <point x="-760" y="-150" type="line"/>
+      <point x="-860" y="-150" type="line"/>
+      <point x="-860" y="-305" type="line"/>
+      <point x="-1005" y="-305" type="line"/>
+      <point x="-1005" y="-405" type="line"/>
+      <point x="-860" y="-405" type="line"/>
+      <point x="-860" y="-560" type="line"/>
+      <point x="-760" y="-560" type="line"/>
+      <point x="-760" y="-405" type="line"/>
     </contour>
   </outline>
   <lib>
