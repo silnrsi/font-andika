@@ -116,19 +116,19 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeOS2StrikeoutSize</key>
   <integer>100</integer>
   <key>openTypeOS2SubscriptXOffset</key>
-  <integer>0</integer>
+  <integer>5</integer>
   <key>openTypeOS2SubscriptXSize</key>
   <integer>1433</integer>
   <key>openTypeOS2SubscriptYOffset</key>
-  <integer>286</integer>
+  <integer>300</integer>
   <key>openTypeOS2SubscriptYSize</key>
   <integer>1331</integer>
   <key>openTypeOS2SuperscriptXOffset</key>
-  <integer>0</integer>
+  <integer>5</integer>
   <key>openTypeOS2SuperscriptXSize</key>
   <integer>1433</integer>
   <key>openTypeOS2SuperscriptYOffset</key>
-  <integer>976</integer>
+  <integer>680</integer>
   <key>openTypeOS2SuperscriptYSize</key>
   <integer>1331</integer>
   <key>openTypeOS2Type</key>
