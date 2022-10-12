@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModAlveolarClick" format="2">
+  <advance width="612"/>
+  <unicode hex="107B8"/>
+  <anchor x="318" y="355" name="L"/>
+  <anchor x="318" y="1743" name="U"/>
+  <outline>
+    <contour>
+      <point x="390" y="362" type="line"/>
+      <point x="390" y="1720" type="line"/>
+      <point x="243" y="1720" type="line"/>
+      <point x="243" y="362" type="line"/>
+    </contour>
+    <contour>
+      <point x="68" y="1086" type="line"/>
+      <point x="554" y="1086" type="line"/>
+      <point x="554" y="1223" type="line"/>
+      <point x="68" y="1223" type="line"/>
+    </contour>
+    <contour>
+      <point x="68" y="859" type="line"/>
+      <point x="554" y="859" type="line"/>
+      <point x="554" y="995" type="line"/>
+      <point x="68" y="995" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

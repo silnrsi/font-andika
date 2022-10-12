@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModSupHalfTriangularColon" format="2">
+  <advance width="296"/>
+  <unicode hex="10782"/>
+  <outline>
+    <contour>
+      <point x="407" y="1129" type="line"/>
+      <point x="524" y="1330" type="line"/>
+      <point x="332" y="1330" type="line"/>
+      <point x="341" y="1129" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModRetroflexClickRetrHook" format="2">
+  <advance width="468"/>
+  <unicode hex="107B9"/>
+  <anchor x="239" y="355" name="L"/>
+  <anchor x="239" y="1691" name="U"/>
+  <outline>
+    <contour>
+      <point x="464" y="421" type="curve"/>
+      <point x="434" y="525" type="line"/>
+      <point x="414" y="511"/>
+      <point x="375" y="487"/>
+      <point x="338" y="487" type="curve" smooth="yes"/>
+      <point x="298" y="487"/>
+      <point x="257" y="513"/>
+      <point x="257" y="587" type="curve" smooth="yes"/>
+      <point x="257" y="690" type="line"/>
+      <point x="117" y="778" type="line"/>
+      <point x="117" y="565" type="line" smooth="yes"/>
+      <point x="117" y="438"/>
+      <point x="185" y="371"/>
+      <point x="302" y="371" type="curve" smooth="yes"/>
+      <point x="366" y="371"/>
+      <point x="437" y="400"/>
+    </contour>
+    <contour>
+      <point x="327" y="1005" type="line"/>
+      <point x="327" y="1194"/>
+      <point x="328" y="1379"/>
+      <point x="355" y="1662" type="curve"/>
+      <point x="120" y="1662" type="line"/>
+      <point x="147" y="1379"/>
+      <point x="148" y="1194"/>
+      <point x="148" y="1005" type="curve"/>
+    </contour>
+    <contour>
+      <point x="117" y="778" type="curve" smooth="yes"/>
+      <point x="117" y="710"/>
+      <point x="169" y="664"/>
+      <point x="239" y="664" type="curve" smooth="yes"/>
+      <point x="311" y="664"/>
+      <point x="362" y="710"/>
+      <point x="362" y="778" type="curve" smooth="yes"/>
+      <point x="362" y="844"/>
+      <point x="311" y="891"/>
+      <point x="239" y="891" type="curve" smooth="yes"/>
+      <point x="169" y="891"/>
+      <point x="117" y="844"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

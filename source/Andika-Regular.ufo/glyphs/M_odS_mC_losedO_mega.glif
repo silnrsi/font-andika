@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModSmClosedOmega" format="2">
+  <advance width="1050"/>
+  <unicode hex="107A4"/>
+  <anchor x="530" y="615" name="L"/>
+  <anchor x="1002" y="1330" name="R"/>
+  <anchor x="530" y="1395" name="U"/>
+  <outline>
+    <contour>
+      <point x="467" y="1135" type="line"/>
+      <point x="467" y="888"/>
+      <point x="428" y="768"/>
+      <point x="330" y="768" type="curve" smooth="yes"/>
+      <point x="260" y="768"/>
+      <point x="201" y="823"/>
+      <point x="201" y="960" type="curve" smooth="yes"/>
+      <point x="201" y="1132"/>
+      <point x="320" y="1252"/>
+      <point x="530" y="1252" type="curve" smooth="yes"/>
+      <point x="726" y="1252"/>
+      <point x="859" y="1125"/>
+      <point x="859" y="960" type="curve" smooth="yes"/>
+      <point x="859" y="823"/>
+      <point x="814" y="768"/>
+      <point x="744" y="768" type="curve" smooth="yes"/>
+      <point x="646" y="768"/>
+      <point x="593" y="888"/>
+      <point x="593" y="1135" type="curve"/>
+    </contour>
+    <contour>
+      <point x="988" y="960" type="curve" smooth="yes"/>
+      <point x="988" y="1187"/>
+      <point x="796" y="1356"/>
+      <point x="530" y="1356" type="curve" smooth="yes"/>
+      <point x="271" y="1356"/>
+      <point x="72" y="1174"/>
+      <point x="72" y="960" type="curve" smooth="yes"/>
+      <point x="72" y="755"/>
+      <point x="178" y="664"/>
+      <point x="310" y="664" type="curve" smooth="yes"/>
+      <point x="414" y="664"/>
+      <point x="488" y="706"/>
+      <point x="530" y="839" type="curve"/>
+      <point x="572" y="706"/>
+      <point x="646" y="664"/>
+      <point x="750" y="664" type="curve" smooth="yes"/>
+      <point x="876" y="664"/>
+      <point x="988" y="755"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

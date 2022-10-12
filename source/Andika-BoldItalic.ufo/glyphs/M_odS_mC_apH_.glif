@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModSmCapH" format="2">
+  <advance width="879"/>
+  <unicode hex="10796"/>
+  <anchor x="537" y="615" name="L"/>
+  <anchor x="732" y="1395" name="U"/>
+  <outline>
+    <contour>
+      <point x="904" y="680" type="line"/>
+      <point x="906" y="716"/>
+      <point x="925" y="787"/>
+      <point x="948" y="876" type="curve" smooth="yes"/>
+      <point x="1019" y="1141" type="line" smooth="yes"/>
+      <point x="1043" y="1229"/>
+      <point x="1062" y="1300"/>
+      <point x="1080" y="1336" type="curve"/>
+      <point x="883" y="1336" type="line"/>
+      <point x="816" y="1084" type="line"/>
+      <point x="498" y="1084" type="line"/>
+      <point x="566" y="1336" type="line"/>
+      <point x="368" y="1336" type="line"/>
+      <point x="367" y="1300"/>
+      <point x="348" y="1229"/>
+      <point x="324" y="1141" type="curve" smooth="yes"/>
+      <point x="253" y="876" type="line" smooth="yes"/>
+      <point x="230" y="787"/>
+      <point x="210" y="716"/>
+      <point x="192" y="680" type="curve"/>
+      <point x="390" y="680" type="line"/>
+      <point x="466" y="962" type="line"/>
+      <point x="783" y="962" type="line"/>
+      <point x="707" y="680" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

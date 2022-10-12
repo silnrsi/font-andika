@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModGlottalStopStrk" format="2">
+  <advance width="698"/>
+  <unicode hex="107B3"/>
+  <anchor x="416" y="615" name="L"/>
+  <anchor x="736" y="1674" name="U"/>
+  <outline>
+    <contour>
+      <point x="420" y="1364" type="line"/>
+      <point x="493" y="1414"/>
+      <point x="561" y="1440"/>
+      <point x="634" y="1440" type="curve" smooth="yes"/>
+      <point x="691" y="1440"/>
+      <point x="727" y="1408"/>
+      <point x="727" y="1371" type="curve" smooth="yes"/>
+      <point x="727" y="1307"/>
+      <point x="643" y="1266"/>
+      <point x="563" y="1188" type="curve" smooth="yes"/>
+      <point x="490" y="1117"/>
+      <point x="438" y="1043"/>
+      <point x="404" y="916" type="curve" smooth="yes"/>
+      <point x="372" y="795"/>
+      <point x="354" y="729"/>
+      <point x="331" y="680" type="curve"/>
+      <point x="527" y="680" type="line"/>
+      <point x="529" y="726"/>
+      <point x="546" y="789"/>
+      <point x="578" y="904" type="curve" smooth="yes"/>
+      <point x="613" y="1038"/>
+      <point x="650" y="1075"/>
+      <point x="734" y="1155" type="curve" smooth="yes"/>
+      <point x="819" y="1236"/>
+      <point x="923" y="1278"/>
+      <point x="923" y="1400" type="curve" smooth="yes"/>
+      <point x="923" y="1505"/>
+      <point x="820" y="1591"/>
+      <point x="680" y="1591" type="curve" smooth="yes"/>
+      <point x="578" y="1591"/>
+      <point x="496" y="1563"/>
+      <point x="428" y="1520" type="curve"/>
+    </contour>
+    <contour>
+      <point x="295" y="1037" type="line"/>
+      <point x="260" y="905" type="line"/>
+      <point x="767" y="905" type="line"/>
+      <point x="802" y="1037" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

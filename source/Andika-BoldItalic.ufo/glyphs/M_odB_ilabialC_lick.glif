@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModBilabialClick" format="2">
+  <advance width="1204"/>
+  <unicode hex="107B5"/>
+  <anchor x="704" y="615" name="L"/>
+  <anchor x="980" y="1694" name="U"/>
+  <outline>
+    <contour>
+      <point x="1395" y="1270" type="curve" smooth="yes"/>
+      <point x="1395" y="1494"/>
+      <point x="1224" y="1655"/>
+      <point x="947" y="1655" type="curve" smooth="yes"/>
+      <point x="573" y="1654"/>
+      <point x="276" y="1374"/>
+      <point x="276" y="1050" type="curve" smooth="yes"/>
+      <point x="276" y="827"/>
+      <point x="447" y="664"/>
+      <point x="723" y="664" type="curve" smooth="yes"/>
+      <point x="1098" y="664"/>
+      <point x="1395" y="947"/>
+    </contour>
+    <contour>
+      <point x="967" y="1182" type="curve" smooth="yes"/>
+      <point x="967" y="1238"/>
+      <point x="925" y="1282"/>
+      <point x="861" y="1282" type="curve" smooth="yes"/>
+      <point x="775" y="1282"/>
+      <point x="710" y="1221"/>
+      <point x="710" y="1146" type="curve" smooth="yes"/>
+      <point x="710" y="1091"/>
+      <point x="750" y="1043"/>
+      <point x="811" y="1043" type="curve" smooth="yes"/>
+      <point x="897" y="1043"/>
+      <point x="967" y="1107"/>
+    </contour>
+    <contour>
+      <point x="760" y="828" type="curve" smooth="yes"/>
+      <point x="585" y="828"/>
+      <point x="478" y="940"/>
+      <point x="478" y="1089" type="curve" smooth="yes"/>
+      <point x="478" y="1320"/>
+      <point x="674" y="1494"/>
+      <point x="911" y="1494" type="curve" smooth="yes"/>
+      <point x="1086" y="1494"/>
+      <point x="1190" y="1381"/>
+      <point x="1190" y="1232" type="curve" smooth="yes"/>
+      <point x="1190" y="1001"/>
+      <point x="999" y="828"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

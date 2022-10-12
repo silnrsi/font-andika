@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModSmLZDigraph" format="2">
+  <advance width="892"/>
+  <unicode hex="1079A"/>
+  <anchor x="477" y="615" name="L"/>
+  <anchor x="513" y="1743" name="U"/>
+  <outline>
+    <contour>
+      <point x="268" y="1720" type="line"/>
+      <point x="124" y="1720" type="line"/>
+      <point x="133" y="1645"/>
+      <point x="138" y="1541"/>
+      <point x="138" y="1414" type="curve" smooth="yes"/>
+      <point x="138" y="680" type="line"/>
+      <point x="282" y="680" type="line"/>
+      <point x="272" y="751"/>
+      <point x="268" y="905"/>
+      <point x="268" y="989" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="820" y="1343" type="line"/>
+      <point x="264" y="1343" type="line"/>
+      <point x="264" y="1236" type="line"/>
+      <point x="290" y="1246"/>
+      <point x="331" y="1246"/>
+      <point x="372" y="1246" type="curve" smooth="yes"/>
+      <point x="646" y="1246" type="line"/>
+      <point x="243" y="752" type="line"/>
+      <point x="243" y="680" type="line"/>
+      <point x="831" y="680" type="line"/>
+      <point x="831" y="787" type="line"/>
+      <point x="789" y="778"/>
+      <point x="746" y="778"/>
+      <point x="705" y="778" type="curve" smooth="yes"/>
+      <point x="404" y="778" type="line"/>
+      <point x="820" y="1281" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>
