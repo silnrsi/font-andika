@@ -9,6 +9,16 @@
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
   <string>3140</string>
+  <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
+  <array>
+    <string>f/CombDblInvBreve gf/CombDblBreveBlw gf/CombDblBreve gf/CombDblInvBreveBlw g</string>
+    <string>p/CombDblInvBreve dp/CombDblBreveBlw dp/CombDblBreve dp/CombDblInvBreveBlw d</string>
+    <string>/CombDblInvBreve</string>
+    <string>/CombDblBreveBlw</string>
+    <string>/CombDblBreve</string>
+    <string>/CombDblInvBreveBlw</string>
+    <string>o/CombLtnSmX</string>
+  </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
@@ -91,6 +101,28 @@
   </dict>
   <key>org.sil.lcg.transforms</key>
   <dict>
+    <key>combabove</key>
+    <dict>
+      <key>scaleX</key>
+      <real>0.7</real>
+      <key>scaleY</key>
+      <real>0.65</real>
+      <key>shiftX</key>
+      <integer>0</integer>
+      <key>shiftY</key>
+      <integer>1240</integer>
+    </dict>
+    <key>combbelow</key>
+    <dict>
+      <key>scaleX</key>
+      <real>0.7</real>
+      <key>scaleY</key>
+      <real>0.65</real>
+      <key>shiftX</key>
+      <integer>0</integer>
+      <key>shiftY</key>
+      <integer>-870</integer>
+    </dict>
     <key>smallcaps</key>
     <dict>
       <key>adjustMetrics</key>
@@ -2486,6 +2518,7 @@
     <string>CombInvBreve.LL</string>
     <string>CombFermata</string>
     <string>CharTieAbv</string>
+    <string>CombDblInvBreveBlw</string>
     <string>CombDblInvBreve</string>
     <string>CombDblInvBreve.UU</string>
     <string>CombDblInvBreve.UL</string>
@@ -2542,6 +2575,7 @@
     <string>MultSgn</string>
     <string>CombXXBlw</string>
     <string>CombInvDblArchBlw</string>
+    <string>CombInvDblArchAbv</string>
     <string>CombSeagullBlw</string>
     <string>ModLowMacron</string>
     <string>CombMacronBlw</string>
@@ -2607,6 +2641,7 @@
     <string>CombPlusSgnBlw</string>
     <string>ModPlusSgn</string>
     <string>SupPlusSgn</string>
+    <string>CombPlusSgnAbv</string>
     <string>CombDblPlusSgnBlw</string>
     <string>CombDblPlusSgnAbv</string>
     <string>CombDwnTackBlw</string>
@@ -4221,6 +4256,8 @@
     <string>uni0361.UL</string>
     <key>CombDblInvBreve.UU</key>
     <string>uni0361.UU</string>
+    <key>CombDblInvBreveBlw</key>
+    <string>uni1DFC</string>
     <key>CombDblInvBreveLft</key>
     <string>uniFE20</string>
     <key>CombDblInvBreveRt</key>
@@ -4317,6 +4354,8 @@
     <string>uni032F</string>
     <key>CombInvBridgeBlw</key>
     <string>uni033A</string>
+    <key>CombInvDblArchAbv</key>
+    <string>uni1AC7</string>
     <key>CombInvDblArchBlw</key>
     <string>uni032B</string>
     <key>CombKayanGraveAcute</key>
@@ -4429,6 +4468,8 @@
     <string>uni1ABB</string>
     <key>CombParensBlw</key>
     <string>uni1ABD</string>
+    <key>CombPlusSgnAbv</key>
+    <string>uni1AC8</string>
     <key>CombPlusSgnBlw</key>
     <string>uni031F</string>
     <key>CombRetrHook</key>

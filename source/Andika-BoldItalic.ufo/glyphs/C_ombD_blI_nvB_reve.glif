@@ -4,20 +4,20 @@
   <anchor x="430" y="1960" name="U"/>
   <outline>
     <contour>
-      <point x="1386" y="1772" type="line"/>
-      <point x="1173" y="1930"/>
-      <point x="796" y="1990"/>
-      <point x="416" y="1990" type="curve" smooth="yes"/>
-      <point x="36" y="1990"/>
-      <point x="-336" y="1940"/>
-      <point x="-623" y="1772" type="curve"/>
-      <point x="-612" y="1594" type="line"/>
-      <point x="-380" y="1723"/>
-      <point x="1" y="1772"/>
-      <point x="381" y="1772" type="curve" smooth="yes"/>
-      <point x="761" y="1772"/>
-      <point x="1109" y="1713"/>
-      <point x="1287" y="1594" type="curve"/>
+      <point x="1376" y="1752" type="line"/>
+      <point x="1163" y="1910"/>
+      <point x="786" y="1970"/>
+      <point x="406" y="1970" type="curve" smooth="yes"/>
+      <point x="26" y="1970"/>
+      <point x="-346" y="1920"/>
+      <point x="-633" y="1752" type="curve"/>
+      <point x="-622" y="1574" type="line"/>
+      <point x="-390" y="1703"/>
+      <point x="-9" y="1752"/>
+      <point x="371" y="1752" type="curve" smooth="yes"/>
+      <point x="751" y="1752"/>
+      <point x="1099" y="1693"/>
+      <point x="1277" y="1574" type="curve"/>
     </contour>
   </outline>
 </glyph>

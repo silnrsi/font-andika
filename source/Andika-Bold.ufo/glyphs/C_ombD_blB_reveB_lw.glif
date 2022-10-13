@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombDblBreveBlw" format="2">
   <unicode hex="035C"/>
-  <anchor x="0" y="-700" name="L"/>
+  <anchor x="0" y="-850" name="L"/>
   <outline>
     <contour>
-      <point x="-965" y="-480" type="line"/>
-      <point x="-720" y="-650"/>
-      <point x="-380" y="-700"/>
-      <point x="0" y="-700" type="curve" smooth="yes"/>
-      <point x="380" y="-700"/>
-      <point x="720" y="-650"/>
-      <point x="965" y="-480" type="curve"/>
-      <point x="910" y="-300" type="line"/>
-      <point x="710" y="-430"/>
-      <point x="380" y="-480"/>
-      <point x="0" y="-480" type="curve" smooth="yes"/>
-      <point x="-380" y="-480"/>
-      <point x="-710" y="-430"/>
-      <point x="-910" y="-300" type="curve"/>
+      <point x="-965" y="-622" type="line"/>
+      <point x="-720" y="-792"/>
+      <point x="-380" y="-842"/>
+      <point x="0" y="-842" type="curve" smooth="yes"/>
+      <point x="380" y="-842"/>
+      <point x="720" y="-792"/>
+      <point x="965" y="-622" type="curve"/>
+      <point x="910" y="-442" type="line"/>
+      <point x="710" y="-572"/>
+      <point x="380" y="-622"/>
+      <point x="0" y="-622" type="curve" smooth="yes"/>
+      <point x="-380" y="-622"/>
+      <point x="-710" y="-572"/>
+      <point x="-910" y="-442" type="curve"/>
     </contour>
   </outline>
 </glyph>
