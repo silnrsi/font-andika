@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombLtnSmTurnedW" format="2">
+  <advance width="1050"/>
+  <unicode hex="AB69"/>
+  <anchor x="525" y="1175" name="L"/>
+  <anchor x="525" y="1955" name="U"/>
+  <outline>
+    <contour>
+      <point x="578" y="1240" type="line"/>
+      <point x="760" y="1763" type="line"/>
+      <point x="906" y="1240" type="line"/>
+      <point x="1036" y="1240" type="line"/>
+      <point x="1003" y="1339"/>
+      <point x="983" y="1402"/>
+      <point x="962" y="1471" type="curve" smooth="yes"/>
+      <point x="833" y="1903" type="line"/>
+      <point x="700" y="1903" type="line"/>
+      <point x="525" y="1393" type="line"/>
+      <point x="350" y="1903" type="line"/>
+      <point x="217" y="1903" type="line"/>
+      <point x="88" y="1471" type="line" smooth="yes"/>
+      <point x="64" y="1393"/>
+      <point x="47" y="1339"/>
+      <point x="14" y="1240" type="curve"/>
+      <point x="144" y="1240" type="line"/>
+      <point x="290" y="1763" type="line"/>
+      <point x="472" y="1240" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

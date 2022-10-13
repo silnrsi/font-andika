@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombNumSgn" format="2">
+  <advance width="840"/>
+  <unicode hex="1AC6"/>
+  <outline>
+    <contour>
+      <point x="341" y="2189" type="line"/>
+      <point x="89" y="1370" type="line"/>
+      <point x="194" y="1370" type="line"/>
+      <point x="446" y="2189" type="line"/>
+    </contour>
+    <contour>
+      <point x="18" y="1614" type="line"/>
+      <point x="781" y="1614" type="line"/>
+      <point x="781" y="1711" type="line"/>
+      <point x="18" y="1711" type="line"/>
+    </contour>
+    <contour>
+      <point x="59" y="1864" type="line"/>
+      <point x="822" y="1864" type="line"/>
+      <point x="822" y="1962" type="line"/>
+      <point x="59" y="1962" type="line"/>
+    </contour>
+    <contour>
+      <point x="638" y="2189" type="line"/>
+      <point x="386" y="1370" type="line"/>
+      <point x="491" y="1370" type="line"/>
+      <point x="743" y="2189" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>
