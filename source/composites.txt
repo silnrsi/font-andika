@@ -762,6 +762,7 @@ SqrTxtBracHighRtShort = ModEndHighTn |231D
 SqrTxtBracLowLftShort = ModBeginLowTn |231E
 SqrTxtBracLowRtShort = ModEndLowTn |231F
 DblVertLine = ParallelTo |2016
+DivisionSlash = Solidus |2215
 NonBreakingHyphen = HyphenMinus |2011
 Hyphen_Soft = HyphenMinus |00AD
 ModMinusSgn = HyphenMinus |02D7
