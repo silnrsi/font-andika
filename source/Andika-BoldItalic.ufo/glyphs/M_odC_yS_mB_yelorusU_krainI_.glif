@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModCySmByelorusUkrainI" format="2">
+  <advance width="437"/>
+  <unicode hex="1E04C"/>
+  <anchor x="374" y="615" name="L"/>
+  <anchor x="562" y="680" name="O"/>
+  <anchor x="787" y="1310" name="R"/>
+  <anchor x="514" y="1395" name="U"/>
+  <outline>
+    <component base="LtnSupSmI"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>
