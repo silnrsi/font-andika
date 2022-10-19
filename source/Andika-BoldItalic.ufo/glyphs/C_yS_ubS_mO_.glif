@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CySubSmO" format="2">
+  <advance width="798"/>
+  <unicode hex="1E05C"/>
+  <anchor x="256" y="-365" name="L"/>
+  <anchor x="466" y="415" name="U"/>
+  <outline>
+    <contour>
+      <point x="8" y="-60" type="curve" smooth="yes"/>
+      <point x="8" y="-217"/>
+      <point x="112" y="-316"/>
+      <point x="274" y="-316" type="curve" smooth="yes"/>
+      <point x="544" y="-316"/>
+      <point x="711" y="-108"/>
+      <point x="711" y="117" type="curve" smooth="yes"/>
+      <point x="711" y="272"/>
+      <point x="612" y="370"/>
+      <point x="451" y="370" type="curve" smooth="yes"/>
+      <point x="183" y="370"/>
+      <point x="8" y="167"/>
+    </contour>
+    <contour>
+      <point x="413" y="225" type="curve" smooth="yes"/>
+      <point x="488" y="225"/>
+      <point x="525" y="179"/>
+      <point x="525" y="98" type="curve" smooth="yes"/>
+      <point x="525" y="-32"/>
+      <point x="445" y="-171"/>
+      <point x="306" y="-171" type="curve" smooth="yes"/>
+      <point x="235" y="-171"/>
+      <point x="193" y="-128"/>
+      <point x="193" y="-50" type="curve" smooth="yes"/>
+      <point x="193" y="70"/>
+      <point x="268" y="225"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModCySmI" format="2">
+  <advance width="937"/>
+  <unicode hex="1E038"/>
+  <anchor x="474" y="615" name="L"/>
+  <anchor x="474" y="1395" name="U"/>
+  <outline>
+    <contour>
+      <point x="656" y="1312" type="line"/>
+      <point x="181" y="790" type="line"/>
+      <point x="292" y="711" type="line"/>
+      <point x="768" y="1231" type="line"/>
+    </contour>
+    <contour>
+      <point x="110" y="1343" type="line"/>
+      <point x="117" y="1307"/>
+      <point x="117" y="1234"/>
+      <point x="117" y="1145" type="curve" smooth="yes"/>
+      <point x="117" y="680" type="line"/>
+      <point x="292" y="680" type="line"/>
+      <point x="292" y="1343" type="line"/>
+    </contour>
+    <contour>
+      <point x="838" y="680" type="line"/>
+      <point x="831" y="716"/>
+      <point x="831" y="789"/>
+      <point x="831" y="878" type="curve" smooth="yes"/>
+      <point x="831" y="1343" type="line"/>
+      <point x="656" y="1343" type="line"/>
+      <point x="656" y="680" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

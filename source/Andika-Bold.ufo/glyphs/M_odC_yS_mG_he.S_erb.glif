@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModCySmGhe.Serb" format="2">
+  <advance width="749"/>
+  <anchor x="355" y="615" name="L"/>
+  <anchor x="411" y="1395" name="U"/>
+  <outline>
+    <contour>
+      <point x="306" y="680" type="line"/>
+      <point x="306" y="1203" type="line"/>
+      <point x="708" y="1203" type="line"/>
+      <point x="708" y="1343" type="line"/>
+      <point x="110" y="1343" type="line"/>
+      <point x="110" y="878" type="line" smooth="yes"/>
+      <point x="110" y="789"/>
+      <point x="110" y="716"/>
+      <point x="103" y="680" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModCySmPalochka" format="2">
+  <advance width="521"/>
+  <unicode hex="1E050"/>
+  <anchor x="265" y="680" name="H"/>
+  <anchor x="265" y="615" name="L"/>
+  <anchor x="456" y="1330" name="R"/>
+  <anchor x="265" y="1743" name="U"/>
+  <outline>
+    <contour>
+      <point x="422" y="774" type="line"/>
+      <point x="330" y="774" type="line"/>
+      <point x="330" y="1626" type="line"/>
+      <point x="422" y="1626" type="line"/>
+      <point x="422" y="1720" type="line"/>
+      <point x="110" y="1720" type="line"/>
+      <point x="110" y="1626" type="line"/>
+      <point x="201" y="1626" type="line"/>
+      <point x="201" y="774" type="line"/>
+      <point x="110" y="774" type="line"/>
+      <point x="110" y="680" type="line"/>
+      <point x="422" y="680" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>
