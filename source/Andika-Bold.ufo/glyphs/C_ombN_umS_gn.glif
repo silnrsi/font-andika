@@ -1,31 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombNumSgn" format="2">
-  <advance width="868"/>
   <unicode hex="1AC6"/>
+  <anchor x="-570" y="1980" name="U"/>
+  <anchor x="-570" y="1100" name="_U"/>
   <outline>
     <contour>
-      <point x="295" y="2124" type="line"/>
-      <point x="43" y="1305" type="line"/>
-      <point x="197" y="1305" type="line"/>
-      <point x="449" y="2124" type="line"/>
+      <point x="-613" y="1887" type="line"/>
+      <point x="-840" y="1150" type="line"/>
+      <point x="-701" y="1150" type="line"/>
+      <point x="-474" y="1887" type="line"/>
     </contour>
     <contour>
-      <point x="14" y="1516" type="line"/>
-      <point x="778" y="1516" type="line"/>
-      <point x="778" y="1653" type="line"/>
-      <point x="14" y="1653" type="line"/>
+      <point x="-866" y="1340" type="line"/>
+      <point x="-178" y="1340" type="line"/>
+      <point x="-178" y="1463" type="line"/>
+      <point x="-866" y="1463" type="line"/>
     </contour>
     <contour>
-      <point x="55" y="1792" type="line"/>
-      <point x="819" y="1792" type="line"/>
-      <point x="819" y="1929" type="line"/>
-      <point x="55" y="1929" type="line"/>
+      <point x="-829" y="1588" type="line"/>
+      <point x="-141" y="1588" type="line"/>
+      <point x="-141" y="1712" type="line"/>
+      <point x="-829" y="1712" type="line"/>
     </contour>
     <contour>
-      <point x="628" y="2124" type="line"/>
-      <point x="376" y="1305" type="line"/>
-      <point x="530" y="1305" type="line"/>
-      <point x="782" y="2124" type="line"/>
+      <point x="-313" y="1887" type="line"/>
+      <point x="-540" y="1150" type="line"/>
+      <point x="-401" y="1150" type="line"/>
+      <point x="-175" y="1887" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombCySmByelorusUkrainI" format="2">
   <unicode hex="1E08F"/>
-  <anchor x="-570" y="1955" name="U"/>
-  <anchor x="-570" y="1175" name="_U"/>
+  <anchor x="-569" y="2100" name="U"/>
+  <anchor x="-569" y="1100" name="_U"/>
   <outline>
     <component base="CombLtnSmI"/>
   </outline>

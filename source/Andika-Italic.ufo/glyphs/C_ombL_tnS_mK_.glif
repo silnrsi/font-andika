@@ -2,7 +2,7 @@
 <glyph name="CombLtnSmK" format="2">
   <advance width="741"/>
   <unicode hex="1DDC"/>
-  <guideline x="455" y="1600" angle="74.970501"/>
+  <guideline x="455" y="1600" angle="74.9705"/>
   <anchor x="140" y="1240" name="H"/>
   <anchor x="376" y="1175" name="L"/>
   <anchor x="858" y="1890" name="R"/>
