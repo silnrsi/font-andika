@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmOOgonek.RetroHook" format="2">
   <advance width="1133"/>
-  <anchor x="510" y="0" name="H"/>
+  <anchor x="520" y="0" name="H"/>
   <anchor x="405" y="-500" name="L"/>
   <anchor x="800" y="0" name="O"/>
   <anchor x="1330" y="1000" name="R"/>

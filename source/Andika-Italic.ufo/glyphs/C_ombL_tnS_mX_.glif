@@ -1,9 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombLtnSmX" format="2">
   <unicode hex="036F"/>
-  <anchor x="-141" y="1955" name="U"/>
-  <anchor x="-336" y="1175" name="_U"/>
+  <anchor x="-141" y="1880" name="U"/>
+  <anchor x="-336" y="1100" name="_U"/>
   <outline>
-    <component base="LtnSmX" xScale="0.7" yScale="0.65" xOffset="-707" yOffset="1215"/>
+    <contour>
+      <point x="-12" y="1140" type="line"/>
+      <point x="-126" y="1218"/>
+      <point x="-256" y="1647"/>
+      <point x="-331" y="1725" type="curve"/>
+      <point x="-493" y="1725" type="line"/>
+      <point x="-349" y="1627"/>
+      <point x="-243" y="1222"/>
+      <point x="-168" y="1140" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-290" y="1475" type="line"/>
+      <point x="-427" y="1411"/>
+      <point x="-572" y="1275"/>
+      <point x="-589" y="1140" type="curve"/>
+      <point x="-463" y="1140" type="line"/>
+      <point x="-462" y="1231"/>
+      <point x="-371" y="1362"/>
+      <point x="-253" y="1413" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-192" y="1416" type="line"/>
+      <point x="-80" y="1486"/>
+      <point x="80" y="1607"/>
+      <point x="85" y="1725" type="curve"/>
+      <point x="-47" y="1725" type="line"/>
+      <point x="-51" y="1633"/>
+      <point x="-130" y="1535"/>
+      <point x="-229" y="1480" type="curve"/>
+    </contour>
   </outline>
 </glyph>

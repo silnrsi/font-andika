@@ -1,9 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombLtnSmI" format="2">
   <unicode hex="0365"/>
-  <anchor x="-141" y="1955" name="U"/>
-  <anchor x="-336" y="1175" name="_U"/>
+  <anchor x="-133" y="2040" name="U"/>
+  <anchor x="-336" y="1100" name="_U"/>
   <outline>
-    <component base="LtnSmI" xScale="0.7" yScale="0.65" xOffset="-529" yOffset="1215"/>
+    <contour>
+      <point x="-250" y="1725" type="line"/>
+      <point x="-250" y="1658"/>
+      <point x="-281" y="1542"/>
+      <point x="-306" y="1454" type="curve" smooth="yes"/>
+      <point x="-331" y="1367" type="line" smooth="yes"/>
+      <point x="-348" y="1306"/>
+      <point x="-357" y="1241"/>
+      <point x="-357" y="1191" type="curve" smooth="yes"/>
+      <point x="-357" y="1171"/>
+      <point x="-356" y="1154"/>
+      <point x="-353" y="1140" type="curve"/>
+      <point x="-227" y="1140" type="line"/>
+      <point x="-231" y="1162"/>
+      <point x="-235" y="1190"/>
+      <point x="-235" y="1220" type="curve" smooth="yes"/>
+      <point x="-235" y="1262"/>
+      <point x="-229" y="1308"/>
+      <point x="-218" y="1349" type="curve" smooth="yes"/>
+      <point x="-190" y="1454" type="line" smooth="yes"/>
+      <point x="-162" y="1557"/>
+      <point x="-131" y="1674"/>
+      <point x="-131" y="1725" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-234" y="1899" type="curve" smooth="yes"/>
+      <point x="-234" y="1864"/>
+      <point x="-207" y="1834"/>
+      <point x="-167" y="1834" type="curve" smooth="yes"/>
+      <point x="-114" y="1834"/>
+      <point x="-68" y="1877"/>
+      <point x="-68" y="1923" type="curve" smooth="yes"/>
+      <point x="-68" y="1958"/>
+      <point x="-97" y="1988"/>
+      <point x="-138" y="1988" type="curve" smooth="yes"/>
+      <point x="-192" y="1988"/>
+      <point x="-234" y="1944"/>
+    </contour>
   </outline>
 </glyph>
