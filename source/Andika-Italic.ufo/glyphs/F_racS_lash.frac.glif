@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="FracSlash.frac" format="2">
-  <advance width="1180"/>
+  <advance width="410"/>
   <outline>
-    <component base="FracSlash"/>
+    <contour>
+      <point x="931" y="1568" type="line"/>
+      <point x="-542" y="-49" type="line"/>
+      <point x="-402" y="-49" type="line"/>
+      <point x="1071" y="1568" type="line"/>
+    </contour>
   </outline>
 </glyph>

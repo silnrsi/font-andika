@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="DigitOne.dnom" format="2">
-  <advance width="2288"/>
+  <advance width="764"/>
   <outline>
-    <component base="VulgFracOneTenth"/>
+    <contour>
+      <point x="285" y="150" type="line"/>
+      <point x="90" y="150" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="626" y="0" type="line"/>
+      <point x="626" y="150" type="line"/>
+      <point x="450" y="150" type="line"/>
+      <point x="450" y="920" type="line"/>
+      <point x="285" y="920" type="line"/>
+      <point x="80" y="804" type="line"/>
+      <point x="107" y="638" type="line"/>
+      <point x="285" y="735" type="line"/>
+    </contour>
   </outline>
 </glyph>

@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="DigitFour.dnom" format="2">
-  <advance width="1726"/>
+  <advance width="764"/>
   <outline>
-    <component base="VulgFracOneQuarter"/>
+    <contour>
+      <point x="707" y="220" type="line"/>
+      <point x="707" y="363" type="line"/>
+      <point x="605" y="363" type="line"/>
+      <point x="605" y="936" type="line"/>
+      <point x="414" y="936" type="line"/>
+      <point x="10" y="363" type="line"/>
+      <point x="10" y="220" type="line"/>
+      <point x="436" y="220" type="line"/>
+      <point x="436" y="0" type="line"/>
+      <point x="605" y="0" type="line"/>
+      <point x="605" y="220" type="line"/>
+    </contour>
+    <contour>
+      <point x="436" y="363" type="line"/>
+      <point x="166" y="363" type="line"/>
+      <point x="436" y="731" type="line"/>
+    </contour>
   </outline>
 </glyph>

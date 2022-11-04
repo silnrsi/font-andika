@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="FracSlash" format="2">
-  <advance width="1180"/>
+  <advance width="1230"/>
   <unicode hex="2044"/>
   <outline>
     <contour>
-      <point x="1360" y="1568" type="line"/>
-      <point x="-119" y="-240" type="line"/>
-      <point x="51" y="-240" type="line"/>
-      <point x="1530" y="1568" type="line"/>
+      <point x="1341" y="1568" type="line"/>
+      <point x="-132" y="-49" type="line"/>
+      <point x="8" y="-49" type="line"/>
+      <point x="1481" y="1568" type="line"/>
     </contour>
   </outline>
 </glyph>
