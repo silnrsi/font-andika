@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="DigitZero.dnom.Slash" format="2">
+  <advance width="728"/>
+  <outline>
+    <contour>
+      <point x="489" y="408" type="curve" smooth="yes"/>
+      <point x="428" y="164"/>
+      <point x="344" y="86"/>
+      <point x="226" y="86" type="curve" smooth="yes"/>
+      <point x="142" y="86"/>
+      <point x="92" y="142"/>
+      <point x="92" y="265" type="curve" smooth="yes"/>
+      <point x="92" y="319"/>
+      <point x="102" y="385"/>
+      <point x="122" y="465" type="curve" smooth="yes"/>
+      <point x="183" y="709"/>
+      <point x="263" y="787"/>
+      <point x="381" y="787" type="curve" smooth="yes"/>
+      <point x="468" y="787"/>
+      <point x="518" y="731"/>
+      <point x="518" y="607" type="curve" smooth="yes"/>
+      <point x="518" y="554"/>
+      <point x="509" y="487"/>
+    </contour>
+    <contour>
+      <point x="614" y="424" type="curve" smooth="yes"/>
+      <point x="632" y="497"/>
+      <point x="641" y="561"/>
+      <point x="641" y="616" type="curve" smooth="yes"/>
+      <point x="641" y="805"/>
+      <point x="540" y="888"/>
+      <point x="403" y="888" type="curve" smooth="yes"/>
+      <point x="226" y="888"/>
+      <point x="77" y="787"/>
+      <point x="-7" y="450" type="curve" smooth="yes"/>
+      <point x="-26" y="375"/>
+      <point x="-34" y="309"/>
+      <point x="-34" y="254" type="curve" smooth="yes"/>
+      <point x="-34" y="62"/>
+      <point x="69" y="-15"/>
+      <point x="206" y="-15" type="curve" smooth="yes"/>
+      <point x="384" y="-15"/>
+      <point x="526" y="71"/>
+    </contour>
+  </outline>
+</glyph>

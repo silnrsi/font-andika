@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="VulgFracOneQuarter.Open" format="2">
+  <advance width="1590"/>
+  <outline>
+    <contour>
+      <point x="434" y="799" type="line"/>
+      <point x="249" y="799" type="line"/>
+      <point x="223" y="696" type="line"/>
+      <point x="718" y="696" type="line"/>
+      <point x="744" y="799" type="line"/>
+      <point x="559" y="799" type="line"/>
+      <point x="750" y="1568" type="line"/>
+      <point x="640" y="1568" type="line"/>
+      <point x="400" y="1446" type="line"/>
+      <point x="393" y="1338" type="line"/>
+      <point x="594" y="1441" type="line"/>
+    </contour>
+    <contour>
+      <point x="1626" y="1568" type="line"/>
+      <point x="152" y="-49" type="line"/>
+      <point x="292" y="-49" type="line"/>
+      <point x="1767" y="1568" type="line"/>
+    </contour>
+    <contour>
+      <point x="1528" y="255" type="line"/>
+      <point x="1554" y="358" type="line"/>
+      <point x="1424" y="358" type="line"/>
+      <point x="1552" y="872" type="line"/>
+      <point x="1407" y="872" type="line"/>
+      <point x="889" y="358" type="line"/>
+      <point x="873" y="255" type="line"/>
+      <point x="1264" y="255" type="line"/>
+      <point x="1200" y="0" type="line"/>
+      <point x="1350" y="0" type="line"/>
+      <point x="1355" y="65"/>
+      <point x="1378" y="170"/>
+      <point x="1397" y="255" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1288" y="358" type="line"/>
+      <point x="1034" y="358" type="line"/>
+      <point x="1376" y="706" type="line"/>
+    </contour>
+  </outline>
+</glyph>

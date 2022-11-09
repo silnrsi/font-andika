@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="DigitOne.dnom.NoBase" format="2">
+  <advance width="728"/>
+  <outline>
+    <contour>
+      <point x="181" y="103" type="line"/>
+      <point x="-4" y="103" type="line"/>
+      <point x="-29" y="0" type="line"/>
+      <point x="456" y="0" type="line"/>
+      <point x="481" y="103" type="line"/>
+      <point x="301" y="103" type="line"/>
+      <point x="498" y="885" type="line"/>
+      <point x="393" y="885" type="line"/>
+      <point x="152" y="763" type="line"/>
+      <point x="146" y="655" type="line"/>
+      <point x="346" y="758" type="line"/>
+    </contour>
+  </outline>
+</glyph>

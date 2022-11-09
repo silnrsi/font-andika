@@ -3239,22 +3239,48 @@ o/CombInvDblArchAbv o/CombBreve o/CombVertLineAbv o/CombPlusSgnAbv o/CombDblPlus
     <string>LtnSmTurnedYBelt.NoTailY</string>
     <string>DigitZero.Slash</string>
     <string>SubZero.Slash</string>
+    <string>DigitZero.dnom.Slash</string>
+    <string>DigitZero.numr.Slash</string>
     <string>SupZero.Slash</string>
     <string>DigitOne.NoBase</string>
     <string>SubOne.NoBase</string>
+    <string>DigitOne.dnom.NoBase</string>
+    <string>DigitOne.numr.NoBase</string>
     <string>SupOne.NoBase</string>
     <string>DigitFour.Open</string>
     <string>SubFour.Open</string>
+    <string>DigitFour.dnom.Open</string>
+    <string>DigitFour.numr.Open</string>
     <string>SupFour.Open</string>
     <string>DigitSix.Diag</string>
     <string>SubSix.Diag</string>
+    <string>DigitSix.dnom.Diag</string>
+    <string>DigitSix.numr.Diag</string>
     <string>SupSix.Diag</string>
     <string>DigitSeven.Bar</string>
     <string>SubSeven.Bar</string>
+    <string>DigitSeven.dnom.Bar</string>
+    <string>DigitSeven.numr.Bar</string>
     <string>SupSeven.Bar</string>
     <string>DigitNine.Diag</string>
     <string>SubNine.Diag</string>
+    <string>DigitNine.dnom.Diag</string>
+    <string>DigitNine.numr.Diag</string>
     <string>SupNine.Diag</string>
+    <string>VulgFracZeroThirds.Slash</string>
+    <string>VulgFracOneTenth.NoBase.Slash</string>
+    <string>VulgFracOneHalf.NoBase</string>
+    <string>VulgFracOneThird.NoBase</string>
+    <string>VulgFracOneQuarter.Open</string>
+    <string>VulgFracOneFifth.NoBase</string>
+    <string>VulgFracOneSixth.NoBase.Diag</string>
+    <string>VulgFracOneSeventh.NoBase.Bar</string>
+    <string>VulgFracOneEighth.NoBase</string>
+    <string>VulgFracOneNinth.NoBase.Diag</string>
+    <string>VulgFracThreeQuarters.Open</string>
+    <string>VulgFracFourFifths.Open</string>
+    <string>VulgFracFiveSixths.Diag</string>
+    <string>VulgFracSevenEighths.Bar</string>
     <string>LtnSmA.sc</string>
     <string>CySmA.sc</string>
     <string>LtnSmAAcute.sc</string>
@@ -5649,8 +5675,12 @@ o/CombInvDblArchAbv o/CombBreve o/CombVertLineAbv o/CombPlusSgnAbv o/CombDblPlus
     <string>compDigitFour</string>
     <key>DigitFour.dnom</key>
     <string>four.dnom</string>
+    <key>DigitFour.dnom.Open</key>
+    <string>four.dnom.Open</string>
     <key>DigitFour.numr</key>
     <string>four.numr</string>
+    <key>DigitFour.numr.Open</key>
+    <string>four.numr.Open</string>
     <key>DigitNine</key>
     <string>nine</string>
     <key>DigitNine.Diag</key>
@@ -5659,8 +5689,12 @@ o/CombInvDblArchAbv o/CombBreve o/CombVertLineAbv o/CombPlusSgnAbv o/CombDblPlus
     <string>compDigitNine</string>
     <key>DigitNine.dnom</key>
     <string>nine.dnom</string>
+    <key>DigitNine.dnom.Diag</key>
+    <string>nine.dnom.Diag</string>
     <key>DigitNine.numr</key>
     <string>nine.numr</string>
+    <key>DigitNine.numr.Diag</key>
+    <string>nine.numr.Diag</string>
     <key>DigitOne</key>
     <string>one</string>
     <key>DigitOne.NoBase</key>
@@ -5669,8 +5703,12 @@ o/CombInvDblArchAbv o/CombBreve o/CombVertLineAbv o/CombPlusSgnAbv o/CombDblPlus
     <string>compDigitOne</string>
     <key>DigitOne.dnom</key>
     <string>one.dnom</string>
+    <key>DigitOne.dnom.NoBase</key>
+    <string>one.dnom.NoBase</string>
     <key>DigitOne.numr</key>
     <string>one.numr</string>
+    <key>DigitOne.numr.NoBase</key>
+    <string>one.numr.NoBase</string>
     <key>DigitSeven</key>
     <string>seven</string>
     <key>DigitSeven.Bar</key>
@@ -5679,8 +5717,12 @@ o/CombInvDblArchAbv o/CombBreve o/CombVertLineAbv o/CombPlusSgnAbv o/CombDblPlus
     <string>compDigitSeven</string>
     <key>DigitSeven.dnom</key>
     <string>seven.dnom</string>
+    <key>DigitSeven.dnom.Bar</key>
+    <string>seven.dnom.Bar</string>
     <key>DigitSeven.numr</key>
     <string>seven.numr</string>
+    <key>DigitSeven.numr.Bar</key>
+    <string>seven.numr.Bar</string>
     <key>DigitSix</key>
     <string>six</string>
     <key>DigitSix.Diag</key>
@@ -5689,8 +5731,12 @@ o/CombInvDblArchAbv o/CombBreve o/CombVertLineAbv o/CombPlusSgnAbv o/CombDblPlus
     <string>compDigitSix</string>
     <key>DigitSix.dnom</key>
     <string>six.dnom</string>
+    <key>DigitSix.dnom.Diag</key>
+    <string>six.dnom.Diag</string>
     <key>DigitSix.numr</key>
     <string>six.numr</string>
+    <key>DigitSix.numr.Diag</key>
+    <string>six.numr.Diag</string>
     <key>DigitThree</key>
     <string>three</string>
     <key>DigitThree.Sophia</key>
@@ -5715,8 +5761,12 @@ o/CombInvDblArchAbv o/CombBreve o/CombVertLineAbv o/CombPlusSgnAbv o/CombDblPlus
     <string>compDigitZero</string>
     <key>DigitZero.dnom</key>
     <string>zero.dnom</string>
+    <key>DigitZero.dnom.Slash</key>
+    <string>zero.dnom.Slash</string>
     <key>DigitZero.numr</key>
     <string>zero.numr</string>
+    <key>DigitZero.numr.Slash</key>
+    <string>zero.numr.Slash</string>
     <key>DivSgn</key>
     <string>divide</string>
     <key>DivisionSlash</key>
@@ -12135,40 +12185,68 @@ o/CombInvDblArchAbv o/CombBreve o/CombVertLineAbv o/CombPlusSgnAbv o/CombDblPlus
     <string>fiveeighths</string>
     <key>VulgFracFiveSixths</key>
     <string>uni215A</string>
+    <key>VulgFracFiveSixths.Diag</key>
+    <string>uni215A.Diag</string>
     <key>VulgFracFourFifths</key>
     <string>uni2158</string>
+    <key>VulgFracFourFifths.Open</key>
+    <string>uni2158.Open</string>
     <key>VulgFracOneEighth</key>
     <string>oneeighth</string>
+    <key>VulgFracOneEighth.NoBase</key>
+    <string>oneeighth.NoBase</string>
     <key>VulgFracOneFifth</key>
     <string>uni2155</string>
+    <key>VulgFracOneFifth.NoBase</key>
+    <string>uni2155.NoBase</string>
     <key>VulgFracOneHalf</key>
     <string>onehalf</string>
+    <key>VulgFracOneHalf.NoBase</key>
+    <string>onehalf.NoBase</string>
     <key>VulgFracOneNinth</key>
     <string>uni2151</string>
+    <key>VulgFracOneNinth.NoBase.Diag</key>
+    <string>uni2151.NoBase.Diag</string>
     <key>VulgFracOneQuarter</key>
     <string>onequarter</string>
+    <key>VulgFracOneQuarter.Open</key>
+    <string>onequarter.Open</string>
     <key>VulgFracOneSeventh</key>
     <string>uni2150</string>
+    <key>VulgFracOneSeventh.NoBase.Bar</key>
+    <string>uni2150.NoBase.Bar</string>
     <key>VulgFracOneSixth</key>
     <string>uni2159</string>
+    <key>VulgFracOneSixth.NoBase.Diag</key>
+    <string>uni2159.NoBase.Diag</string>
     <key>VulgFracOneTenth</key>
     <string>uni2152</string>
+    <key>VulgFracOneTenth.NoBase.Slash</key>
+    <string>uni2152.NoBase.Slash</string>
     <key>VulgFracOneThird</key>
     <string>onethird</string>
+    <key>VulgFracOneThird.NoBase</key>
+    <string>onethird.NoBase</string>
     <key>VulgFracSevenEighths</key>
     <string>seveneighths</string>
+    <key>VulgFracSevenEighths.Bar</key>
+    <string>seveneighths.Bar</string>
     <key>VulgFracThreeEighths</key>
     <string>threeeighths</string>
     <key>VulgFracThreeFifths</key>
     <string>uni2157</string>
     <key>VulgFracThreeQuarters</key>
     <string>threequarters</string>
+    <key>VulgFracThreeQuarters.Open</key>
+    <string>threequarters.Open</string>
     <key>VulgFracTwoFifths</key>
     <string>uni2156</string>
     <key>VulgFracTwoThirds</key>
     <string>twothirds</string>
     <key>VulgFracZeroThirds</key>
     <string>uni2189</string>
+    <key>VulgFracZeroThirds.Slash</key>
+    <string>uni2189.Slash</string>
     <key>WhiteCirc</key>
     <string>uni25CB</string>
     <key>WigglyVerticalLine</key>
