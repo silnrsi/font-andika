@@ -2,7 +2,7 @@
 <glyph name="DigitFour.numr.Open" format="2">
   <advance width="715"/>
   <outline>
-    <component base="DigitFour.dnom" xOffset="70" yOffset="695"/>
+    <component base="DigitFour.dnom.Open" xOffset="70" yOffset="695"/>
   </outline>
   <lib>
     <dict>

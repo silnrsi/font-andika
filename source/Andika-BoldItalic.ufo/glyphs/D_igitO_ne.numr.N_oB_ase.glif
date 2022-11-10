@@ -2,7 +2,7 @@
 <glyph name="DigitOne.numr.NoBase" format="2">
   <advance width="775"/>
   <outline>
-    <component base="DigitOne.dnom" xOffset="245" yOffset="664"/>
+    <component base="DigitOne.dnom.NoBase" xOffset="245" yOffset="664"/>
   </outline>
   <lib>
     <dict>

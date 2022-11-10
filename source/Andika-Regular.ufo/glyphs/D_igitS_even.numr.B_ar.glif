@@ -2,7 +2,7 @@
 <glyph name="DigitSeven.numr.Bar" format="2">
   <advance width="715"/>
   <outline>
-    <component base="DigitSeven.dnom" xOffset="70" yOffset="695"/>
+    <component base="DigitSeven.dnom.Bar" xOffset="70" yOffset="695"/>
   </outline>
   <lib>
     <dict>

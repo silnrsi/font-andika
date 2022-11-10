@@ -2,7 +2,7 @@
 <glyph name="DigitZero.numr.Slash" format="2">
   <advance width="728"/>
   <outline>
-    <component base="DigitZero.dnom" xOffset="250" yOffset="683"/>
+    <component base="DigitZero.dnom.Slash" xOffset="250" yOffset="683"/>
   </outline>
   <lib>
     <dict>

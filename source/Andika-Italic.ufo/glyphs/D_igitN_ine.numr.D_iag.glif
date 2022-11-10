@@ -2,7 +2,7 @@
 <glyph name="DigitNine.numr.Diag" format="2">
   <advance width="728"/>
   <outline>
-    <component base="DigitNine.dnom" xOffset="250" yOffset="683"/>
+    <component base="DigitNine.dnom.Diag" xOffset="250" yOffset="683"/>
   </outline>
   <lib>
     <dict>
