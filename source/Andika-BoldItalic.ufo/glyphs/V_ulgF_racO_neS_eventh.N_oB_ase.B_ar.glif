@@ -1,41 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="VulgFracOneSeventh.NoBase.Bar" format="2">
-  <advance width="1776"/>
+  <advance width="1736"/>
   <outline>
+    <component base="DigitOne.numr.NoBase" xOffset="-40"/>
+    <component base="DigitSeven.dnom.Bar" xOffset="1120"/>
     <contour>
-      <point x="1315" y="0" type="line"/>
-      <point x="1465" y="284"/>
-      <point x="1643" y="530"/>
-      <point x="1890" y="781" type="curve"/>
-      <point x="1921" y="905" type="line"/>
-      <point x="1267" y="905" type="line"/>
-      <point x="1226" y="741" type="line"/>
-      <point x="1275" y="750"/>
-      <point x="1349" y="753"/>
-      <point x="1467" y="753" type="curve" smooth="yes"/>
-      <point x="1667" y="753" type="line"/>
-      <point x="1448" y="522"/>
-      <point x="1322" y="350"/>
-      <point x="1126" y="0" type="curve"/>
-    </contour>
-    <contour>
-      <point x="1622" y="1584" type="line"/>
-      <point x="144" y="-50" type="line"/>
-      <point x="324" y="-50" type="line"/>
-      <point x="1803" y="1584" type="line"/>
-    </contour>
-    <contour>
-      <point x="397" y="812" type="line"/>
-      <point x="202" y="812" type="line"/>
-      <point x="165" y="663" type="line"/>
-      <point x="701" y="663" type="line"/>
-      <point x="738" y="812" type="line"/>
-      <point x="562" y="812" type="line"/>
-      <point x="752" y="1574" type="line"/>
-      <point x="587" y="1574" type="line"/>
-      <point x="353" y="1459" type="line"/>
-      <point x="339" y="1295" type="line"/>
-      <point x="541" y="1391" type="line"/>
+      <point x="1582" y="1584" type="line"/>
+      <point x="104" y="-50" type="line"/>
+      <point x="284" y="-50" type="line"/>
+      <point x="1763" y="1584" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
 </glyph>

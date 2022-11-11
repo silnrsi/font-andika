@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="VulgFracOneQuarter.NoBase.Open" format="2">
+  <advance width="1830"/>
+  <outline>
+    <component base="DigitOne.numr.NoBase" xOffset="-40"/>
+    <component base="DigitFour.dnom.Open" xOffset="1150"/>
+    <contour>
+      <point x="1642" y="1584" type="line"/>
+      <point x="164" y="-50" type="line"/>
+      <point x="344" y="-50" type="line"/>
+      <point x="1823" y="1584" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

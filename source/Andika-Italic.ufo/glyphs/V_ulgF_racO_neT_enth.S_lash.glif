@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="VulgFracOneTenth.Slash" format="2">
+  <advance width="2008"/>
+  <outline>
+    <component base="DigitZero.dnom.Slash" xOffset="1380"/>
+    <contour>
+      <point x="1470" y="1568" type="line"/>
+      <point x="97" y="-49" type="line"/>
+      <point x="237" y="-49" type="line"/>
+      <point x="1610" y="1568" type="line"/>
+    </contour>
+    <contour>
+      <point x="414" y="799" type="line"/>
+      <point x="229" y="799" type="line"/>
+      <point x="203" y="696" type="line"/>
+      <point x="688" y="696" type="line"/>
+      <point x="714" y="799" type="line"/>
+      <point x="534" y="799" type="line"/>
+      <point x="725" y="1568" type="line"/>
+      <point x="620" y="1568" type="line"/>
+      <point x="380" y="1445" type="line"/>
+      <point x="373" y="1338" type="line"/>
+      <point x="574" y="1441" type="line"/>
+    </contour>
+    <contour>
+      <point x="993" y="103" type="line"/>
+      <point x="808" y="103" type="line"/>
+      <point x="783" y="0" type="line"/>
+      <point x="1268" y="0" type="line"/>
+      <point x="1293" y="103" type="line"/>
+      <point x="1113" y="103" type="line"/>
+      <point x="1305" y="872" type="line"/>
+      <point x="1200" y="872" type="line"/>
+      <point x="959" y="750" type="line"/>
+      <point x="953" y="642" type="line"/>
+      <point x="1153" y="745" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

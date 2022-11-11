@@ -2,6 +2,7 @@
 <glyph name="VulgFracSevenEighths.Bar" format="2">
   <advance width="1530"/>
   <outline>
+    <component base="DigitSeven.numr.Bar" xOffset="60"/>
     <contour>
       <point x="1475" y="1568" type="line"/>
       <point x="2" y="-49" type="line"/>
@@ -62,21 +63,11 @@
       <point x="1353" y="145"/>
       <point x="1239" y="78"/>
     </contour>
-    <contour>
-      <point x="428" y="697" type="line"/>
-      <point x="575" y="971"/>
-      <point x="764" y="1228"/>
-      <point x="1005" y="1471" type="curve"/>
-      <point x="1030" y="1569" type="line"/>
-      <point x="415" y="1569" type="line"/>
-      <point x="387" y="1446" type="line"/>
-      <point x="436" y="1456"/>
-      <point x="505" y="1461"/>
-      <point x="620" y="1461" type="curve" smooth="yes"/>
-      <point x="850" y="1461" type="line"/>
-      <point x="636" y="1232"/>
-      <point x="488" y="1035"/>
-      <point x="303" y="697" type="curve"/>
-    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -8006,24 +8006,44 @@
   <string>V_ulgF_racO_neH_alf.N_oB_ase.glif</string>
   <key>VulgFracOneNinth</key>
   <string>V_ulgF_racO_neN_inth.glif</string>
+  <key>VulgFracOneNinth.Diag</key>
+  <string>V_ulgF_racO_neN_inth.D_iag.glif</string>
+  <key>VulgFracOneNinth.NoBase</key>
+  <string>V_ulgF_racO_neN_inth.N_oB_ase.glif</string>
   <key>VulgFracOneNinth.NoBase.Diag</key>
   <string>V_ulgF_racO_neN_inth.N_oB_ase.D_iag.glif</string>
   <key>VulgFracOneQuarter</key>
   <string>V_ulgF_racO_neQ_uarter.glif</string>
+  <key>VulgFracOneQuarter.NoBase</key>
+  <string>V_ulgF_racO_neQ_uarter.N_oB_ase.glif</string>
+  <key>VulgFracOneQuarter.NoBase.Open</key>
+  <string>V_ulgF_racO_neQ_uarter.N_oB_ase.O_pen.glif</string>
   <key>VulgFracOneQuarter.Open</key>
   <string>V_ulgF_racO_neQ_uarter.O_pen.glif</string>
   <key>VulgFracOneSeventh</key>
   <string>V_ulgF_racO_neS_eventh.glif</string>
+  <key>VulgFracOneSeventh.Bar</key>
+  <string>V_ulgF_racO_neS_eventh.B_ar.glif</string>
+  <key>VulgFracOneSeventh.NoBase</key>
+  <string>V_ulgF_racO_neS_eventh.N_oB_ase.glif</string>
   <key>VulgFracOneSeventh.NoBase.Bar</key>
   <string>V_ulgF_racO_neS_eventh.N_oB_ase.B_ar.glif</string>
   <key>VulgFracOneSixth</key>
   <string>V_ulgF_racO_neS_ixth.glif</string>
+  <key>VulgFracOneSixth.Diag</key>
+  <string>V_ulgF_racO_neS_ixth.D_iag.glif</string>
+  <key>VulgFracOneSixth.NoBase</key>
+  <string>V_ulgF_racO_neS_ixth.N_oB_ase.glif</string>
   <key>VulgFracOneSixth.NoBase.Diag</key>
   <string>V_ulgF_racO_neS_ixth.N_oB_ase.D_iag.glif</string>
   <key>VulgFracOneTenth</key>
   <string>V_ulgF_racO_neT_enth.glif</string>
+  <key>VulgFracOneTenth.NoBase</key>
+  <string>V_ulgF_racO_neT_enth.N_oB_ase.glif</string>
   <key>VulgFracOneTenth.NoBase.Slash</key>
   <string>V_ulgF_racO_neT_enth.N_oB_ase.S_lash.glif</string>
+  <key>VulgFracOneTenth.Slash</key>
+  <string>V_ulgF_racO_neT_enth.S_lash.glif</string>
   <key>VulgFracOneThird</key>
   <string>V_ulgF_racO_neT_hird.glif</string>
   <key>VulgFracOneThird.NoBase</key>

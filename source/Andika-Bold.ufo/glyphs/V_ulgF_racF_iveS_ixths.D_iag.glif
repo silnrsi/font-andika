@@ -1,52 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="VulgFracFiveSixths.Diag" format="2">
-  <advance width="1658"/>
+  <advance width="1648"/>
   <outline>
+    <component base="DigitSix.dnom.Diag" xOffset="920"/>
     <contour>
       <point x="1283" y="1600" type="line"/>
       <point x="212" y="-50" type="line"/>
       <point x="382" y="-50" type="line"/>
       <point x="1454" y="1600" type="line"/>
-    </contour>
-    <contour>
-      <point x="1556" y="873" type="line"/>
-      <point x="1491" y="917"/>
-      <point x="1431" y="929"/>
-      <point x="1345" y="929" type="curve" smooth="yes"/>
-      <point x="1048" y="929"/>
-      <point x="941" y="669"/>
-      <point x="941" y="426" type="curve" smooth="yes"/>
-      <point x="941" y="140"/>
-      <point x="1071" y="-15"/>
-      <point x="1293" y="-15" type="curve" smooth="yes"/>
-      <point x="1483" y="-15"/>
-      <point x="1608" y="112"/>
-      <point x="1608" y="294" type="curve" smooth="yes"/>
-      <point x="1608" y="456"/>
-      <point x="1488" y="579"/>
-      <point x="1307" y="579" type="curve" smooth="yes"/>
-      <point x="1188" y="579"/>
-      <point x="1096" y="507"/>
-      <point x="1026" y="410" type="curve"/>
-      <point x="1066" y="338" type="line"/>
-      <point x="1118" y="403"/>
-      <point x="1198" y="444"/>
-      <point x="1295" y="444" type="curve" smooth="yes"/>
-      <point x="1394" y="444"/>
-      <point x="1448" y="376"/>
-      <point x="1448" y="285" type="curve" smooth="yes"/>
-      <point x="1448" y="206"/>
-      <point x="1387" y="132"/>
-      <point x="1295" y="132" type="curve" smooth="yes"/>
-      <point x="1182" y="132"/>
-      <point x="1107" y="242"/>
-      <point x="1107" y="404" type="curve" smooth="yes"/>
-      <point x="1107" y="709"/>
-      <point x="1215" y="782"/>
-      <point x="1339" y="782" type="curve" smooth="yes"/>
-      <point x="1399" y="782"/>
-      <point x="1463" y="767"/>
-      <point x="1516" y="714" type="curve"/>
     </contour>
     <contour>
       <point x="97" y="1080" type="line"/>
@@ -84,4 +45,10 @@
       <point x="97" y="1590" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
 </glyph>

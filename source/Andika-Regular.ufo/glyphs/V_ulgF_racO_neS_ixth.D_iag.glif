@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="VulgFracOneSixth.Diag" format="2">
+  <advance width="1596"/>
+  <outline>
+    <component base="DigitSix.dnom.Diag" xOffset="880"/>
+    <contour>
+      <point x="1285" y="1600" type="line"/>
+      <point x="215" y="-50" type="line"/>
+      <point x="345" y="-50" type="line"/>
+      <point x="1415" y="1600" type="line"/>
+    </contour>
+    <contour>
+      <point x="275" y="815" type="line"/>
+      <point x="90" y="815" type="line"/>
+      <point x="90" y="710" type="line"/>
+      <point x="585" y="710" type="line"/>
+      <point x="585" y="815" type="line"/>
+      <point x="405" y="815" type="line"/>
+      <point x="405" y="1600" type="line"/>
+      <point x="290" y="1600" type="line"/>
+      <point x="80" y="1475" type="line"/>
+      <point x="100" y="1365" type="line"/>
+      <point x="275" y="1470" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

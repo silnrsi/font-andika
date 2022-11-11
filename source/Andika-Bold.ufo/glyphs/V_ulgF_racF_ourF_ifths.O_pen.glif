@@ -2,6 +2,7 @@
 <glyph name="VulgFracFourFifths.Open" format="2">
   <advance width="1795"/>
   <outline>
+    <component base="DigitFour.numr.Open" xOffset="-20"/>
     <contour>
       <point x="1368" y="1600" type="line"/>
       <point x="297" y="-50" type="line"/>
@@ -43,23 +44,11 @@
       <point x="1707" y="914" type="line"/>
       <point x="1172" y="914" type="line"/>
     </contour>
-    <contour>
-      <point x="747" y="878" type="line"/>
-      <point x="747" y="1021" type="line"/>
-      <point x="645" y="1021" type="line"/>
-      <point x="645" y="1590" type="line"/>
-      <point x="454" y="1590" type="line"/>
-      <point x="50" y="1021" type="line"/>
-      <point x="50" y="878" type="line"/>
-      <point x="476" y="878" type="line"/>
-      <point x="476" y="658" type="line"/>
-      <point x="645" y="658" type="line"/>
-      <point x="645" y="878" type="line"/>
-    </contour>
-    <contour>
-      <point x="476" y="1021" type="line"/>
-      <point x="206" y="1021" type="line"/>
-      <point x="476" y="1389" type="line"/>
-    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
 </glyph>

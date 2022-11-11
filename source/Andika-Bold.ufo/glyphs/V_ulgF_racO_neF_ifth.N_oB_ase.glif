@@ -2,24 +2,12 @@
 <glyph name="VulgFracOneFifth.NoBase" format="2">
   <advance width="1725"/>
   <outline>
+    <component base="DigitOne.numr.NoBase"/>
     <contour>
       <point x="1298" y="1600" type="line"/>
       <point x="227" y="-50" type="line"/>
       <point x="397" y="-50" type="line"/>
       <point x="1469" y="1600" type="line"/>
-    </contour>
-    <contour>
-      <point x="255" y="820" type="line"/>
-      <point x="60" y="820" type="line"/>
-      <point x="60" y="670" type="line"/>
-      <point x="596" y="670" type="line"/>
-      <point x="596" y="820" type="line"/>
-      <point x="420" y="820" type="line"/>
-      <point x="420" y="1590" type="line"/>
-      <point x="255" y="1590" type="line"/>
-      <point x="50" y="1474" type="line"/>
-      <point x="77" y="1308" type="line"/>
-      <point x="255" y="1405" type="line"/>
     </contour>
     <contour>
       <point x="1102" y="404" type="line"/>
@@ -57,4 +45,10 @@
       <point x="1102" y="914" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
 </glyph>

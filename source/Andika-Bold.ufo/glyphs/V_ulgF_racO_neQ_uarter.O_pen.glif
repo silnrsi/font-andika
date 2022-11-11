@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="VulgFracOneQuarter.Open" format="2">
-  <advance width="1726"/>
+  <advance width="1869"/>
   <outline>
+    <component base="DigitFour.dnom.Open" xOffset="1110"/>
     <contour>
       <point x="255" y="820" type="line"/>
       <point x="60" y="820" type="line"/>
@@ -21,23 +22,11 @@
       <point x="457" y="-50" type="line"/>
       <point x="1529" y="1600" type="line"/>
     </contour>
-    <contour>
-      <point x="1676" y="220" type="line"/>
-      <point x="1676" y="363" type="line"/>
-      <point x="1574" y="363" type="line"/>
-      <point x="1574" y="932" type="line"/>
-      <point x="1383" y="932" type="line"/>
-      <point x="979" y="363" type="line"/>
-      <point x="979" y="220" type="line"/>
-      <point x="1405" y="220" type="line"/>
-      <point x="1405" y="0" type="line"/>
-      <point x="1574" y="0" type="line"/>
-      <point x="1574" y="220" type="line"/>
-    </contour>
-    <contour>
-      <point x="1405" y="363" type="line"/>
-      <point x="1135" y="363" type="line"/>
-      <point x="1405" y="731" type="line"/>
-    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
 </glyph>
