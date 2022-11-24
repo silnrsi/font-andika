@@ -7,10 +7,10 @@
     <fontsrc label="AB">url(../results/Andika-Bold.ttf)</fontsrc>
     <fontsrc label="AI">url(../results/Andika-Italic.ttf)</fontsrc>
     <fontsrc label="ABI">url(../results/Andika-BoldItalic.ttf)</fontsrc>
-    <fontsrc label="AR6">url(../references/v6001/Andika-Regular.ttf)</fontsrc>
-    <fontsrc label="AB6">url(../references/v6001/Andika-Bold.ttf)</fontsrc>
-    <fontsrc label="AI6">url(../references/v6001/Andika-Italic.ttf)</fontsrc>
-    <fontsrc label="ABI6">url(../references/v6001/Andika-BoldItalic.ttf)</fontsrc>
+    <fontsrc label="AR6">url(../references/v6101/Andika-Regular.ttf)</fontsrc>
+    <fontsrc label="AB6">url(../references/v6101/Andika-Bold.ttf)</fontsrc>
+    <fontsrc label="AI6">url(../references/v6101/Andika-Italic.ttf)</fontsrc>
+    <fontsrc label="ABI6">url(../references/v6101/Andika-BoldItalic.ttf)</fontsrc>
     <title>allframed</title>
   </head>
   <testgroup label="Encoded characters">
