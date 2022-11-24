@@ -239,13 +239,15 @@ U+1E3D" stylename="cv39_1">
       <comment>LtnSmLDotBlw LtnSmLDotBlwMacron LtnSmLLineBlw LtnSmLCircumBlw</comment>
       <string>\u001E37\u000315\u001E39\u000315\u001E3B\u000315\u001E3D\u000315</string>
     </test>
-    <test label="U+FB02">
-      <comment>LtnSmLigFl</comment>
-      <string>\u00FB02\u000315</string>
+    <test label="U+FB02
+U+1DF26">
+      <comment>LtnSmLigFl LtnSmLMidLftHook</comment>
+      <string>\u00FB02\u000315\u01DF26\u000315</string>
     </test>
-    <test label="U+FB02" stylename="cv39_1">
-      <comment>LtnSmLigFl</comment>
-      <string>\u00FB02\u000315</string>
+    <test label="U+FB02
+U+1DF26" stylename="cv39_1">
+      <comment>LtnSmLigFl LtnSmLMidLftHook</comment>
+      <string>\u00FB02\u000315\u01DF26\u000315</string>
     </test>
     <test label="U+0066
 U+006C
@@ -334,6 +336,14 @@ U+2C66" stylename="cv56_1">
       <comment>LtnSmTDotAbv LtnSmTDotBlw LtnSmTLineBlw LtnSmTCircumBlw LtnSmTDiaer LtnSmTDiagStrk</comment>
       <string>\u001E6B\u000315\u001E6D\u000315\u001E6F\u000315\u001E71\u000315\u001E97\u000315\u002C66\u000315</string>
     </test>
+    <test label="U+1DF2A">
+      <comment>LtnSmTMidLftHook</comment>
+      <string>\u01DF2A\u000315</string>
+    </test>
+    <test label="U+1DF2A" stylename="cv56_1">
+      <comment>LtnSmTMidLftHook</comment>
+      <string>\u01DF2A\u000315</string>
+    </test>
   </testgroup>
   <testgroup label="cv57"/>
   <testgroup label="cv62"/>
@@ -376,6 +386,7 @@ U+1EF9" stylename="cv67_1">
     </test>
   </testgroup>
   <testgroup label="cv68"/>
+  <testgroup label="cv69"/>
   <testgroup label="cv70"/>
   <testgroup label="cv71"/>
   <testgroup label="cv75">
@@ -483,6 +494,16 @@ U+01ED" stylename="cv76_1">
       <comment>LtnCapOOgonek LtnSmOOgonek LtnCapOOgonekMacron LtnSmOOgonekMacron</comment>
       <string>\u0001EA\u000315\u0001EB\u000315\u0001EC\u000315\u0001ED\u000315</string>
     </test>
+    <test label="U+0079
+U+0328">
+      <comment>LtnSmY CombOgonek</comment>
+      <string>y\u000328\u000315</string>
+    </test>
+    <test label="U+0079
+U+0328" stylename="cv76_1">
+      <comment>LtnSmY CombOgonek</comment>
+      <string>y\u000328\u000315</string>
+    </test>
   </testgroup>
   <testgroup label="cv77"/>
   <testgroup label="cv79"/>
@@ -561,55 +582,57 @@ U+0203" stylename="ss01_1">
 U+1D43
 U+1E01
 U+1E21
-U+1E9A
-U+1EA1">
-      <comment>LtnSmADotAbv.SngStory LtnSupSmA.SngStory LtnSmARingBlw.SngStory LtnSmGMacron.SngBowl LtnSmARtHalfRing.SngStory LtnSmADotBlw.SngStory</comment>
-      <string>\u000227\u000315\u001D43\u000315\u001E01\u000315\u001E21\u000315\u001E9A\u000315\u001EA1\u000315</string>
+U+1E9A">
+      <comment>LtnSmADotAbv.SngStory LtnSupSmA.SngStory LtnSmARingBlw.SngStory LtnSmGMacron.SngBowl LtnSmARtHalfRing.SngStory</comment>
+      <string>\u000227\u000315\u001D43\u000315\u001E01\u000315\u001E21\u000315\u001E9A\u000315</string>
     </test>
     <test label="U+0227
 U+1D43
 U+1E01
 U+1E21
-U+1E9A
-U+1EA1" stylename="ss01_1">
-      <comment>LtnSmADotAbv.SngStory LtnSupSmA.SngStory LtnSmARingBlw.SngStory LtnSmGMacron.SngBowl LtnSmARtHalfRing.SngStory LtnSmADotBlw.SngStory</comment>
-      <string>\u000227\u000315\u001D43\u000315\u001E01\u000315\u001E21\u000315\u001E9A\u000315\u001EA1\u000315</string>
+U+1E9A" stylename="ss01_1">
+      <comment>LtnSmADotAbv.SngStory LtnSupSmA.SngStory LtnSmARingBlw.SngStory LtnSmGMacron.SngBowl LtnSmARtHalfRing.SngStory</comment>
+      <string>\u000227\u000315\u001D43\u000315\u001E01\u000315\u001E21\u000315\u001E9A\u000315</string>
     </test>
-    <test label="U+1EA3
+    <test label="U+1EA1
+U+1EA3
 U+1EA5
 U+1EA7
 U+1EA9
 U+1EAB
 U+1EAD
-U+1EAF
-U+1EB1">
-      <comment>LtnSmAHookAbv.SngStory LtnSmACircumAcute.SngStory LtnSmACircumGrave.SngStory LtnSmACircumHookAbv.SngStory LtnSmACircumTilde.SngStory LtnSmACircumDotBlw.SngStory LtnSmABreveAcute.SngStory LtnSmABreveGrave.SngStory</comment>
-      <string>\u001EA3\u000315\u001EA5\u000315\u001EA7\u000315\u001EA9\u000315\u001EAB\u000315\u001EAD\u000315\u001EAF\u000315\u001EB1\u000315</string>
+U+1EAF">
+      <comment>LtnSmADotBlw.SngStory LtnSmAHookAbv.SngStory LtnSmACircumAcute.SngStory LtnSmACircumGrave.SngStory LtnSmACircumHookAbv.SngStory LtnSmACircumTilde.SngStory LtnSmACircumDotBlw.SngStory LtnSmABreveAcute.SngStory</comment>
+      <string>\u001EA1\u000315\u001EA3\u000315\u001EA5\u000315\u001EA7\u000315\u001EA9\u000315\u001EAB\u000315\u001EAD\u000315\u001EAF\u000315</string>
     </test>
-    <test label="U+1EA3
+    <test label="U+1EA1
+U+1EA3
 U+1EA5
 U+1EA7
 U+1EA9
 U+1EAB
 U+1EAD
-U+1EAF
-U+1EB1" stylename="ss01_1">
-      <comment>LtnSmAHookAbv.SngStory LtnSmACircumAcute.SngStory LtnSmACircumGrave.SngStory LtnSmACircumHookAbv.SngStory LtnSmACircumTilde.SngStory LtnSmACircumDotBlw.SngStory LtnSmABreveAcute.SngStory LtnSmABreveGrave.SngStory</comment>
-      <string>\u001EA3\u000315\u001EA5\u000315\u001EA7\u000315\u001EA9\u000315\u001EAB\u000315\u001EAD\u000315\u001EAF\u000315\u001EB1\u000315</string>
+U+1EAF" stylename="ss01_1">
+      <comment>LtnSmADotBlw.SngStory LtnSmAHookAbv.SngStory LtnSmACircumAcute.SngStory LtnSmACircumGrave.SngStory LtnSmACircumHookAbv.SngStory LtnSmACircumTilde.SngStory LtnSmACircumDotBlw.SngStory LtnSmABreveAcute.SngStory</comment>
+      <string>\u001EA1\u000315\u001EA3\u000315\u001EA5\u000315\u001EA7\u000315\u001EA9\u000315\u001EAB\u000315\u001EAD\u000315\u001EAF\u000315</string>
     </test>
-    <test label="U+1EB3
+    <test label="U+1EB1
+U+1EB3
 U+1EB5
 U+1EB7
-U+2C65">
-      <comment>LtnSmABreveHookAbv.SngStory LtnSmABreveTilde.SngStory LtnSmABreveDotBlw.SngStory LtnSmAStrk.SngStory</comment>
-      <string>\u001EB3\u000315\u001EB5\u000315\u001EB7\u000315\u002C65\u000315</string>
+U+2C65
+U+A7BB">
+      <comment>LtnSmABreveGrave.SngStory LtnSmABreveHookAbv.SngStory LtnSmABreveTilde.SngStory LtnSmABreveDotBlw.SngStory LtnSmAStrk.SngStory LtnSmAEgAlef.SngStory</comment>
+      <string>\u001EB1\u000315\u001EB3\u000315\u001EB5\u000315\u001EB7\u000315\u002C65\u000315\u00A7BB\u000315</string>
     </test>
-    <test label="U+1EB3
+    <test label="U+1EB1
+U+1EB3
 U+1EB5
 U+1EB7
-U+2C65" stylename="ss01_1">
-      <comment>LtnSmABreveHookAbv.SngStory LtnSmABreveTilde.SngStory LtnSmABreveDotBlw.SngStory LtnSmAStrk.SngStory</comment>
-      <string>\u001EB3\u000315\u001EB5\u000315\u001EB7\u000315\u002C65\u000315</string>
+U+2C65
+U+A7BB" stylename="ss01_1">
+      <comment>LtnSmABreveGrave.SngStory LtnSmABreveHookAbv.SngStory LtnSmABreveTilde.SngStory LtnSmABreveDotBlw.SngStory LtnSmAStrk.SngStory LtnSmAEgAlef.SngStory</comment>
+      <string>\u001EB1\u000315\u001EB3\u000315\u001EB5\u000315\u001EB7\u000315\u002C65\u000315\u00A7BB\u000315</string>
     </test>
   </testgroup>
   <testgroup label="ss04"/>
@@ -911,14 +934,16 @@ U+1EB5" stylename="ss13_1">
       <string>\u001EA7\u000315\u001EA9\u000315\u001EAB\u000315\u001EAD\u000315\u001EAF\u000315\u001EB1\u000315\u001EB3\u000315\u001EB5\u000315</string>
     </test>
     <test label="U+1EB7
-U+2C65">
-      <comment>LtnSmABreveDotBlw.SngStory LtnSmAStrk.SngStory</comment>
-      <string>\u001EB7\u000315\u002C65\u000315</string>
+U+2C65
+U+A7BB">
+      <comment>LtnSmABreveDotBlw.SngStory LtnSmAStrk.SngStory LtnSmAEgAlef.SngStory</comment>
+      <string>\u001EB7\u000315\u002C65\u000315\u00A7BB\u000315</string>
     </test>
     <test label="U+1EB7
-U+2C65" stylename="ss13_1">
-      <comment>LtnSmABreveDotBlw.SngStory LtnSmAStrk.SngStory</comment>
-      <string>\u001EB7\u000315\u002C65\u000315</string>
+U+2C65
+U+A7BB" stylename="ss13_1">
+      <comment>LtnSmABreveDotBlw.SngStory LtnSmAStrk.SngStory LtnSmAEgAlef.SngStory</comment>
+      <string>\u001EB7\u000315\u002C65\u000315\u00A7BB\u000315</string>
     </test>
   </testgroup>
   <testgroup label="ss14">
@@ -951,6 +976,10 @@ U+01F5" stylename="ss14_1">
       <string>\u001E21\u000315</string>
     </test>
   </testgroup>
+  <testgroup label="cv01 cv04"/>
+  <testgroup label="cv01 cv06"/>
+  <testgroup label="cv01 cv07"/>
+  <testgroup label="cv01 cv10"/>
   <testgroup label="cv13 smcp"/>
   <testgroup label="cv17 smcp"/>
   <testgroup label="cv20 smcp"/>
@@ -1320,6 +1349,7 @@ U+1EF9" stylename="cv67_1_smcp_1">
     </test>
   </testgroup>
   <testgroup label="cv68 smcp"/>
+  <testgroup label="cv69 smcp"/>
   <testgroup label="cv70 smcp"/>
   <testgroup label="cv75 smcp">
     <test label="U+1EA5
@@ -1598,13 +1628,15 @@ U+1EB7" stylename="smcp_1_ss01_1">
       <comment>LtnSmACircumHookAbv.SngStory LtnSmACircumTilde.SngStory LtnSmACircumDotBlw.SngStory LtnSmABreveAcute.SngStory LtnSmABreveGrave.SngStory LtnSmABreveHookAbv.SngStory LtnSmABreveTilde.SngStory LtnSmABreveDotBlw.SngStory</comment>
       <string>\u001EA9\u000315\u001EAB\u000315\u001EAD\u000315\u001EAF\u000315\u001EB1\u000315\u001EB3\u000315\u001EB5\u000315\u001EB7\u000315</string>
     </test>
-    <test label="U+2C65">
-      <comment>LtnSmAStrk.SngStory</comment>
-      <string>\u002C65\u000315</string>
+    <test label="U+2C65
+U+A7BB">
+      <comment>LtnSmAStrk.SngStory LtnSmAEgAlef.SngStory</comment>
+      <string>\u002C65\u000315\u00A7BB\u000315</string>
     </test>
-    <test label="U+2C65" stylename="smcp_1_ss01_1">
-      <comment>LtnSmAStrk.SngStory</comment>
-      <string>\u002C65\u000315</string>
+    <test label="U+2C65
+U+A7BB" stylename="smcp_1_ss01_1">
+      <comment>LtnSmAStrk.SngStory LtnSmAEgAlef.SngStory</comment>
+      <string>\u002C65\u000315\u00A7BB\u000315</string>
     </test>
   </testgroup>
   <testgroup label="smcp ss04"/>
@@ -1901,6 +1933,14 @@ U+2C65" stylename="smcp_1_ss13_1">
       <comment>LtnSmACircumTilde.SngStory LtnSmACircumDotBlw.SngStory LtnSmABreveAcute.SngStory LtnSmABreveGrave.SngStory LtnSmABreveHookAbv.SngStory LtnSmABreveTilde.SngStory LtnSmABreveDotBlw.SngStory LtnSmAStrk.SngStory</comment>
       <string>\u001EAB\u000315\u001EAD\u000315\u001EAF\u000315\u001EB1\u000315\u001EB3\u000315\u001EB5\u000315\u001EB7\u000315\u002C65\u000315</string>
     </test>
+    <test label="U+A7BB">
+      <comment>LtnSmAEgAlef.SngStory</comment>
+      <string>\u00A7BB\u000315</string>
+    </test>
+    <test label="U+A7BB" stylename="smcp_1_ss13_1">
+      <comment>LtnSmAEgAlef.SngStory</comment>
+      <string>\u00A7BB\u000315</string>
+    </test>
   </testgroup>
   <testgroup label="smcp ss14">
     <test label="U+0067
@@ -2111,14 +2151,16 @@ U+1EB5" stylename="ss01_1_ss13_1">
       <string>\u001EA7\u000315\u001EA9\u000315\u001EAB\u000315\u001EAD\u000315\u001EAF\u000315\u001EB1\u000315\u001EB3\u000315\u001EB5\u000315</string>
     </test>
     <test label="U+1EB7
-U+2C65">
-      <comment>LtnSmABreveDotBlw.SngStory LtnSmAStrk.SngStory</comment>
-      <string>\u001EB7\u000315\u002C65\u000315</string>
+U+2C65
+U+A7BB">
+      <comment>LtnSmABreveDotBlw.SngStory LtnSmAStrk.SngStory LtnSmAEgAlef.SngStory</comment>
+      <string>\u001EB7\u000315\u002C65\u000315\u00A7BB\u000315</string>
     </test>
     <test label="U+1EB7
-U+2C65" stylename="ss01_1_ss13_1">
-      <comment>LtnSmABreveDotBlw.SngStory LtnSmAStrk.SngStory</comment>
-      <string>\u001EB7\u000315\u002C65\u000315</string>
+U+2C65
+U+A7BB" stylename="ss01_1_ss13_1">
+      <comment>LtnSmABreveDotBlw.SngStory LtnSmAStrk.SngStory LtnSmAEgAlef.SngStory</comment>
+      <string>\u001EB7\u000315\u002C65\u000315\u00A7BB\u000315</string>
     </test>
   </testgroup>
   <testgroup label="ss01 ss14">
@@ -2752,6 +2794,14 @@ U+1EB7
 U+2C65" stylename="smcp_1_ss01_1_ss13_1">
       <comment>LtnSmACircumTilde.SngStory LtnSmACircumDotBlw.SngStory LtnSmABreveAcute.SngStory LtnSmABreveGrave.SngStory LtnSmABreveHookAbv.SngStory LtnSmABreveTilde.SngStory LtnSmABreveDotBlw.SngStory LtnSmAStrk.SngStory</comment>
       <string>\u001EAB\u000315\u001EAD\u000315\u001EAF\u000315\u001EB1\u000315\u001EB3\u000315\u001EB5\u000315\u001EB7\u000315\u002C65\u000315</string>
+    </test>
+    <test label="U+A7BB">
+      <comment>LtnSmAEgAlef.SngStory</comment>
+      <string>\u00A7BB\u000315</string>
+    </test>
+    <test label="U+A7BB" stylename="smcp_1_ss01_1_ss13_1">
+      <comment>LtnSmAEgAlef.SngStory</comment>
+      <string>\u00A7BB\u000315</string>
     </test>
   </testgroup>
   <testgroup label="smcp ss01 ss14">
