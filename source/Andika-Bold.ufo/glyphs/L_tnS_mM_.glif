@@ -4,6 +4,7 @@
   <unicode hex="006D"/>
   <anchor x="890" y="0" name="H"/>
   <anchor x="890" y="-100" name="L"/>
+  <anchor x="1106" y="0" name="O"/>
   <anchor x="890" y="1100" name="U"/>
   <outline>
     <contour>
