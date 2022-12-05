@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnCapOpnO.TopSerif" format="2">
   <advance width="1299"/>
-  <anchor x="461" y="-100" name="L"/>
+  <anchor x="460" y="-100" name="L"/>
   <anchor x="868" y="1530" name="U"/>
   <outline>
     <contour>
