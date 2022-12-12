@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Asterism" format="2">
-  <advance width="1008"/>
+  <advance width="2007"/>
   <unicode hex="2042"/>
   <outline>
-    <component base="Asterisk"/>
+    <component base="Asterisk" xOffset="465"/>
+    <component base="Asterisk" xOffset="-225" yOffset="-900"/>
+    <component base="Asterisk" xOffset="775" yOffset="-900"/>
   </outline>
 </glyph>

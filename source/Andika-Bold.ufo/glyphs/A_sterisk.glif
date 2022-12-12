@@ -6,7 +6,7 @@
     <contour>
       <point x="624" y="1600" type="curve"/>
       <point x="425" y="1600" type="line"/>
-      <point x="444" y="1497"/>
+      <point x="445" y="1497"/>
       <point x="460" y="1412"/>
       <point x="468" y="1308" type="curve"/>
       <point x="383" y="1360"/>
@@ -17,7 +17,7 @@
       <point x="331" y="1234"/>
       <point x="412" y="1196" type="curve"/>
       <point x="328" y="1153"/>
-      <point x="243" y="1120"/>
+      <point x="243" y="1119"/>
       <point x="136" y="1077" type="curve"/>
       <point x="237" y="897" type="line"/>
       <point x="316" y="968"/>
@@ -34,14 +34,14 @@
       <point x="747" y="981"/>
       <point x="830" y="914" type="curve"/>
       <point x="936" y="1089" type="line"/>
-      <point x="827" y="1127"/>
+      <point x="827" y="1126"/>
       <point x="743" y="1155"/>
       <point x="651" y="1196" type="curve"/>
       <point x="738" y="1241"/>
       <point x="820" y="1277"/>
       <point x="924" y="1321" type="curve"/>
       <point x="827" y="1493" type="line"/>
-      <point x="747" y="1426"/>
+      <point x="748" y="1425"/>
       <point x="679" y="1367"/>
       <point x="594" y="1308" type="curve"/>
       <point x="599" y="1405"/>
