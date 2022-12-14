@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="WhiteCirc" format="2">
-  <advance width="940"/>
+  <advance width="1365"/>
   <unicode hex="25CB"/>
   <outline>
-    <component base="Bullet"/>
+    <contour>
+      <point x="683" y="170" type="curve" smooth="yes"/>
+      <point x="993" y="170"/>
+      <point x="1245" y="422"/>
+      <point x="1245" y="733" type="curve" smooth="yes"/>
+      <point x="1245" y="1043"/>
+      <point x="993" y="1295"/>
+      <point x="683" y="1295" type="curve" smooth="yes"/>
+      <point x="372" y="1295"/>
+      <point x="120" y="1043"/>
+      <point x="120" y="733" type="curve" smooth="yes"/>
+      <point x="120" y="422"/>
+      <point x="372" y="170"/>
+    </contour>
+    <contour>
+      <point x="683" y="288" type="curve" smooth="yes"/>
+      <point x="440" y="288"/>
+      <point x="243" y="490"/>
+      <point x="243" y="733" type="curve" smooth="yes"/>
+      <point x="243" y="976"/>
+      <point x="440" y="1177"/>
+      <point x="683" y="1177" type="curve" smooth="yes"/>
+      <point x="926" y="1177"/>
+      <point x="1122" y="976"/>
+      <point x="1122" y="733" type="curve" smooth="yes"/>
+      <point x="1122" y="490"/>
+      <point x="926" y="288"/>
+    </contour>
   </outline>
 </glyph>
