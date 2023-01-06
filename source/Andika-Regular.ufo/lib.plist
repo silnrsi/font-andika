@@ -3212,6 +3212,8 @@
     <string>LtnSmTzDigraph.NoTailT</string>
     <string>LtnSmTurnedT.NoTailT</string>
     <string>LtnSmTurnedTCurl.NoTailT</string>
+    <string>LtnSmYOgonek.NoTailY</string>
+    <string>LtnSmYOgonek.NoTailY.RetroHook</string>
     <string>LtnSmY.NoTailY</string>
     <string>ModSmY.NoTailY</string>
     <string>LtnSmYAcute.NoTailY</string>
@@ -10385,6 +10387,10 @@
     <string>uni0233.sc</string>
     <key>LtnSmYOgonek</key>
     <string>y_ogonek</string>
+    <key>LtnSmYOgonek.NoTailY</key>
+    <string>y_ogonek.NoTailY</string>
+    <key>LtnSmYOgonek.NoTailY.RetroHook</key>
+    <string>y_ogonek.NoTailY.RetroHook</string>
     <key>LtnSmYOgonek.RetroHook</key>
     <string>y_ogonek.RetroHook</string>
     <key>LtnSmYRingAbv</key>

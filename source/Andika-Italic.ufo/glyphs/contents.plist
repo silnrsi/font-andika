@@ -6182,6 +6182,10 @@
   <string>L_tnS_mY_M_acron.sc.glif</string>
   <key>LtnSmYOgonek</key>
   <string>L_tnS_mY_O_gonek.glif</string>
+  <key>LtnSmYOgonek.NoTailY</key>
+  <string>L_tnS_mY_O_gonek.N_oT_ailY_.glif</string>
+  <key>LtnSmYOgonek.NoTailY.RetroHook</key>
+  <string>L_tnS_mY_O_gonek.N_oT_ailY_.R_etroH_ook.glif</string>
   <key>LtnSmYOgonek.RetroHook</key>
   <string>L_tnS_mY_O_gonek.R_etroH_ook.glif</string>
   <key>LtnSmYRingAbv</key>
