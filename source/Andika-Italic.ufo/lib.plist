@@ -2347,56 +2347,76 @@
     <string>LariSgn</string>
     <string>SomSgn</string>
     <string>SubZero</string>
+    <string>DigitZero.subs</string>
     <string>DigitZero.dnom</string>
     <string>DigitZero.numr</string>
     <string>SupZero</string>
+    <string>DigitZero.sups</string>
     <string>SubOne</string>
+    <string>DigitOne.subs</string>
     <string>DigitOne.dnom</string>
     <string>DigitOne.numr</string>
     <string>SupOne</string>
+    <string>DigitOne.sups</string>
     <string>SubTwo</string>
+    <string>DigitTwo.subs</string>
     <string>DigitTwo.dnom</string>
     <string>DigitTwo.numr</string>
     <string>SupTwo</string>
+    <string>DigitTwo.sups</string>
     <string>LtnTwoStrk</string>
     <string>TurnedDigitTwo</string>
     <string>SubThree</string>
+    <string>DigitThree.subs</string>
     <string>DigitThree.dnom</string>
     <string>DigitThree.numr</string>
     <string>SupThree</string>
+    <string>DigitThree.sups</string>
     <string>TurnedDigitThree</string>
     <string>SubFour</string>
+    <string>DigitFour.subs</string>
     <string>DigitFour.dnom</string>
     <string>DigitFour.numr</string>
     <string>SupFour</string>
+    <string>DigitFour.sups</string>
     <string>LtnCapCuatrillo</string>
     <string>LtnCapCuatrilloComma</string>
     <string>LtnSmCuatrillo</string>
     <string>LtnSmCuatrilloComma</string>
     <string>SubFive</string>
+    <string>DigitFive.subs</string>
     <string>DigitFive.dnom</string>
     <string>DigitFive.numr</string>
     <string>SupFive</string>
+    <string>DigitFive.sups</string>
     <string>LtnCapTnFive</string>
     <string>LtnSmTnFive</string>
     <string>SubSix</string>
+    <string>DigitSix.subs</string>
     <string>DigitSix.dnom</string>
     <string>DigitSix.numr</string>
     <string>SupSix</string>
+    <string>DigitSix.sups</string>
     <string>LtnSmOpenSix</string>
     <string>LtnCapOpenSix</string>
     <string>SubSeven</string>
+    <string>DigitSeven.subs</string>
     <string>DigitSeven.dnom</string>
     <string>DigitSeven.numr</string>
     <string>SupSeven</string>
+    <string>DigitSeven.sups</string>
     <string>SubEight</string>
+    <string>DigitEight.subs</string>
     <string>DigitEight.dnom</string>
     <string>DigitEight.numr</string>
     <string>SupEight</string>
+    <string>DigitEight.sups</string>
     <string>SubNine</string>
+    <string>DigitNine.subs</string>
     <string>DigitNine.dnom</string>
     <string>DigitNine.numr</string>
     <string>SupNine</string>
+    <string>DigitNine.sups</string>
     <string>LtnCapOpenNine</string>
     <string>LtnSmOpenNine</string>
     <string>ModOpenNine</string>
@@ -3237,34 +3257,46 @@
     <string>LtnSmTurnedYBelt.NoTailY</string>
     <string>DigitZero.Slash</string>
     <string>SubZero.Slash</string>
+    <string>DigitZero.subs.Slash</string>
     <string>DigitZero.dnom.Slash</string>
     <string>DigitZero.numr.Slash</string>
     <string>SupZero.Slash</string>
+    <string>DigitZero.sups.Slash</string>
     <string>DigitOne.NoBase</string>
     <string>SubOne.NoBase</string>
+    <string>DigitOne.subs.NoBase</string>
     <string>DigitOne.dnom.NoBase</string>
     <string>DigitOne.numr.NoBase</string>
     <string>SupOne.NoBase</string>
+    <string>DigitOne.sups.NoBase</string>
     <string>DigitFour.Open</string>
     <string>SubFour.Open</string>
+    <string>DigitFour.subs.Open</string>
     <string>DigitFour.dnom.Open</string>
     <string>DigitFour.numr.Open</string>
     <string>SupFour.Open</string>
+    <string>DigitFour.sups.Open</string>
     <string>DigitSix.Diag</string>
     <string>SubSix.Diag</string>
+    <string>DigitSix.subs.Diag</string>
     <string>DigitSix.dnom.Diag</string>
     <string>DigitSix.numr.Diag</string>
     <string>SupSix.Diag</string>
+    <string>DigitSix.sups.Diag</string>
     <string>DigitSeven.Bar</string>
     <string>SubSeven.Bar</string>
+    <string>DigitSeven.subs.Bar</string>
     <string>DigitSeven.dnom.Bar</string>
     <string>DigitSeven.numr.Bar</string>
     <string>SupSeven.Bar</string>
+    <string>DigitSeven.sups.Bar</string>
     <string>DigitNine.Diag</string>
     <string>SubNine.Diag</string>
+    <string>DigitNine.subs.Diag</string>
     <string>DigitNine.dnom.Diag</string>
     <string>DigitNine.numr.Diag</string>
     <string>SupNine.Diag</string>
+    <string>DigitNine.sups.Diag</string>
     <string>VulgFracZeroThirds.Slash</string>
     <string>VulgFracOneTenth.NoBase</string>
     <string>VulgFracOneTenth.Slash</string>
@@ -5667,6 +5699,10 @@
     <string>eight.dnom</string>
     <key>DigitEight.numr</key>
     <string>eight.numr</string>
+    <key>DigitEight.subs</key>
+    <string>eight.subs</string>
+    <key>DigitEight.sups</key>
+    <string>eight.sups</string>
     <key>DigitFive</key>
     <string>five</string>
     <key>DigitFive.Sophia</key>
@@ -5675,6 +5711,10 @@
     <string>five.dnom</string>
     <key>DigitFive.numr</key>
     <string>five.numr</string>
+    <key>DigitFive.subs</key>
+    <string>five.subs</string>
+    <key>DigitFive.sups</key>
+    <string>five.sups</string>
     <key>DigitFour</key>
     <string>four</string>
     <key>DigitFour.Open</key>
@@ -5689,6 +5729,14 @@
     <string>four.numr</string>
     <key>DigitFour.numr.Open</key>
     <string>four.numr.Open</string>
+    <key>DigitFour.subs</key>
+    <string>four.subs</string>
+    <key>DigitFour.subs.Open</key>
+    <string>four.subs.Open</string>
+    <key>DigitFour.sups</key>
+    <string>four.sups</string>
+    <key>DigitFour.sups.Open</key>
+    <string>four.sups.Open</string>
     <key>DigitNine</key>
     <string>nine</string>
     <key>DigitNine.Diag</key>
@@ -5703,6 +5751,14 @@
     <string>nine.numr</string>
     <key>DigitNine.numr.Diag</key>
     <string>nine.numr.Diag</string>
+    <key>DigitNine.subs</key>
+    <string>nine.subs</string>
+    <key>DigitNine.subs.Diag</key>
+    <string>nine.subs.Diag</string>
+    <key>DigitNine.sups</key>
+    <string>nine.sups</string>
+    <key>DigitNine.sups.Diag</key>
+    <string>nine.sups.Diag</string>
     <key>DigitOne</key>
     <string>one</string>
     <key>DigitOne.NoBase</key>
@@ -5717,6 +5773,14 @@
     <string>one.numr</string>
     <key>DigitOne.numr.NoBase</key>
     <string>one.numr.NoBase</string>
+    <key>DigitOne.subs</key>
+    <string>one.subs</string>
+    <key>DigitOne.subs.NoBase</key>
+    <string>one.subs.NoBase</string>
+    <key>DigitOne.sups</key>
+    <string>one.sups</string>
+    <key>DigitOne.sups.NoBase</key>
+    <string>one.sups.NoBase</string>
     <key>DigitSeven</key>
     <string>seven</string>
     <key>DigitSeven.Bar</key>
@@ -5731,6 +5795,14 @@
     <string>seven.numr</string>
     <key>DigitSeven.numr.Bar</key>
     <string>seven.numr.Bar</string>
+    <key>DigitSeven.subs</key>
+    <string>seven.subs</string>
+    <key>DigitSeven.subs.Bar</key>
+    <string>seven.subs.Bar</string>
+    <key>DigitSeven.sups</key>
+    <string>seven.sups</string>
+    <key>DigitSeven.sups.Bar</key>
+    <string>seven.sups.Bar</string>
     <key>DigitSix</key>
     <string>six</string>
     <key>DigitSix.Diag</key>
@@ -5745,6 +5817,14 @@
     <string>six.numr</string>
     <key>DigitSix.numr.Diag</key>
     <string>six.numr.Diag</string>
+    <key>DigitSix.subs</key>
+    <string>six.subs</string>
+    <key>DigitSix.subs.Diag</key>
+    <string>six.subs.Diag</string>
+    <key>DigitSix.sups</key>
+    <string>six.sups</string>
+    <key>DigitSix.sups.Diag</key>
+    <string>six.sups.Diag</string>
     <key>DigitThree</key>
     <string>three</string>
     <key>DigitThree.Sophia</key>
@@ -5753,6 +5833,10 @@
     <string>three.dnom</string>
     <key>DigitThree.numr</key>
     <string>three.numr</string>
+    <key>DigitThree.subs</key>
+    <string>three.subs</string>
+    <key>DigitThree.sups</key>
+    <string>three.sups</string>
     <key>DigitTwo</key>
     <string>two</string>
     <key>DigitTwo.Sophia</key>
@@ -5761,6 +5845,10 @@
     <string>two.dnom</string>
     <key>DigitTwo.numr</key>
     <string>two.numr</string>
+    <key>DigitTwo.subs</key>
+    <string>two.subs</string>
+    <key>DigitTwo.sups</key>
+    <string>two.sups</string>
     <key>DigitZero</key>
     <string>zero</string>
     <key>DigitZero.Slash</key>
@@ -5775,6 +5863,14 @@
     <string>zero.numr</string>
     <key>DigitZero.numr.Slash</key>
     <string>zero.numr.Slash</string>
+    <key>DigitZero.subs</key>
+    <string>zero.subs</string>
+    <key>DigitZero.subs.Slash</key>
+    <string>zero.subs.Slash</string>
+    <key>DigitZero.sups</key>
+    <string>zero.sups</string>
+    <key>DigitZero.sups.Slash</key>
+    <string>zero.sups.Slash</string>
     <key>DivSgn</key>
     <string>divide</string>
     <key>DivisionSlash</key>

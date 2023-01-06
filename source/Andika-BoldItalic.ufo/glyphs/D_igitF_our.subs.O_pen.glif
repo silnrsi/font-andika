@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="DigitFour.subs.Open" format="2">
+  <advance width="826"/>
+  <anchor x="275" y="-365" name="L"/>
+  <anchor x="560" y="694" name="U"/>
+  <outline>
+    <component base="SubFour.Open"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1460,6 +1460,10 @@
   <string>D_igitE_ight.dnom.glif</string>
   <key>DigitEight.numr</key>
   <string>D_igitE_ight.numr.glif</string>
+  <key>DigitEight.subs</key>
+  <string>D_igitE_ight.subs.glif</string>
+  <key>DigitEight.sups</key>
+  <string>D_igitE_ight.sups.glif</string>
   <key>DigitFive</key>
   <string>D_igitF_ive.glif</string>
   <key>DigitFive.Sophia</key>
@@ -1468,6 +1472,10 @@
   <string>D_igitF_ive.dnom.glif</string>
   <key>DigitFive.numr</key>
   <string>D_igitF_ive.numr.glif</string>
+  <key>DigitFive.subs</key>
+  <string>D_igitF_ive.subs.glif</string>
+  <key>DigitFive.sups</key>
+  <string>D_igitF_ive.sups.glif</string>
   <key>DigitFour</key>
   <string>D_igitF_our.glif</string>
   <key>DigitFour.Open</key>
@@ -1482,6 +1490,14 @@
   <string>D_igitF_our.numr.glif</string>
   <key>DigitFour.numr.Open</key>
   <string>D_igitF_our.numr.O_pen.glif</string>
+  <key>DigitFour.subs</key>
+  <string>D_igitF_our.subs.glif</string>
+  <key>DigitFour.subs.Open</key>
+  <string>D_igitF_our.subs.O_pen.glif</string>
+  <key>DigitFour.sups</key>
+  <string>D_igitF_our.sups.glif</string>
+  <key>DigitFour.sups.Open</key>
+  <string>D_igitF_our.sups.O_pen.glif</string>
   <key>DigitNine</key>
   <string>D_igitN_ine.glif</string>
   <key>DigitNine.Diag</key>
@@ -1496,6 +1512,14 @@
   <string>D_igitN_ine.numr.glif</string>
   <key>DigitNine.numr.Diag</key>
   <string>D_igitN_ine.numr.D_iag.glif</string>
+  <key>DigitNine.subs</key>
+  <string>D_igitN_ine.subs.glif</string>
+  <key>DigitNine.subs.Diag</key>
+  <string>D_igitN_ine.subs.D_iag.glif</string>
+  <key>DigitNine.sups</key>
+  <string>D_igitN_ine.sups.glif</string>
+  <key>DigitNine.sups.Diag</key>
+  <string>D_igitN_ine.sups.D_iag.glif</string>
   <key>DigitOne</key>
   <string>D_igitO_ne.glif</string>
   <key>DigitOne.NoBase</key>
@@ -1510,6 +1534,14 @@
   <string>D_igitO_ne.numr.glif</string>
   <key>DigitOne.numr.NoBase</key>
   <string>D_igitO_ne.numr.N_oB_ase.glif</string>
+  <key>DigitOne.subs</key>
+  <string>D_igitO_ne.subs.glif</string>
+  <key>DigitOne.subs.NoBase</key>
+  <string>D_igitO_ne.subs.N_oB_ase.glif</string>
+  <key>DigitOne.sups</key>
+  <string>D_igitO_ne.sups.glif</string>
+  <key>DigitOne.sups.NoBase</key>
+  <string>D_igitO_ne.sups.N_oB_ase.glif</string>
   <key>DigitSeven</key>
   <string>D_igitS_even.glif</string>
   <key>DigitSeven.Bar</key>
@@ -1524,6 +1556,14 @@
   <string>D_igitS_even.numr.glif</string>
   <key>DigitSeven.numr.Bar</key>
   <string>D_igitS_even.numr.B_ar.glif</string>
+  <key>DigitSeven.subs</key>
+  <string>D_igitS_even.subs.glif</string>
+  <key>DigitSeven.subs.Bar</key>
+  <string>D_igitS_even.subs.B_ar.glif</string>
+  <key>DigitSeven.sups</key>
+  <string>D_igitS_even.sups.glif</string>
+  <key>DigitSeven.sups.Bar</key>
+  <string>D_igitS_even.sups.B_ar.glif</string>
   <key>DigitSix</key>
   <string>D_igitS_ix.glif</string>
   <key>DigitSix.Diag</key>
@@ -1538,6 +1578,14 @@
   <string>D_igitS_ix.numr.glif</string>
   <key>DigitSix.numr.Diag</key>
   <string>D_igitS_ix.numr.D_iag.glif</string>
+  <key>DigitSix.subs</key>
+  <string>D_igitS_ix.subs.glif</string>
+  <key>DigitSix.subs.Diag</key>
+  <string>D_igitS_ix.subs.D_iag.glif</string>
+  <key>DigitSix.sups</key>
+  <string>D_igitS_ix.sups.glif</string>
+  <key>DigitSix.sups.Diag</key>
+  <string>D_igitS_ix.sups.D_iag.glif</string>
   <key>DigitThree</key>
   <string>D_igitT_hree.glif</string>
   <key>DigitThree.Sophia</key>
@@ -1546,6 +1594,10 @@
   <string>D_igitT_hree.dnom.glif</string>
   <key>DigitThree.numr</key>
   <string>D_igitT_hree.numr.glif</string>
+  <key>DigitThree.subs</key>
+  <string>D_igitT_hree.subs.glif</string>
+  <key>DigitThree.sups</key>
+  <string>D_igitT_hree.sups.glif</string>
   <key>DigitTwo</key>
   <string>D_igitT_wo.glif</string>
   <key>DigitTwo.Sophia</key>
@@ -1554,6 +1606,10 @@
   <string>D_igitT_wo.dnom.glif</string>
   <key>DigitTwo.numr</key>
   <string>D_igitT_wo.numr.glif</string>
+  <key>DigitTwo.subs</key>
+  <string>D_igitT_wo.subs.glif</string>
+  <key>DigitTwo.sups</key>
+  <string>D_igitT_wo.sups.glif</string>
   <key>DigitZero</key>
   <string>D_igitZ_ero.glif</string>
   <key>DigitZero.Slash</key>
@@ -1568,6 +1624,14 @@
   <string>D_igitZ_ero.numr.glif</string>
   <key>DigitZero.numr.Slash</key>
   <string>D_igitZ_ero.numr.S_lash.glif</string>
+  <key>DigitZero.subs</key>
+  <string>D_igitZ_ero.subs.glif</string>
+  <key>DigitZero.subs.Slash</key>
+  <string>D_igitZ_ero.subs.S_lash.glif</string>
+  <key>DigitZero.sups</key>
+  <string>D_igitZ_ero.sups.glif</string>
+  <key>DigitZero.sups.Slash</key>
+  <string>D_igitZ_ero.sups.S_lash.glif</string>
   <key>DivSgn</key>
   <string>D_ivS_gn.glif</string>
   <key>DivisionSlash</key>
