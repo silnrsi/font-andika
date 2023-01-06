@@ -1,12 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmDMidLftHook" format="2">
-  <advance width="1319"/>
+  <advance width="1631"/>
   <unicode hex="1DF25"/>
-  <anchor x="545" y="0" name="H"/>
-  <anchor x="520" y="-100" name="L"/>
-  <anchor x="1380" y="1000" name="R"/>
-  <anchor x="955" y="1635" name="U"/>
+  <anchor x="857" y="0" name="H"/>
+  <anchor x="832" y="-100" name="L"/>
+  <anchor x="1692" y="1000" name="R"/>
+  <anchor x="1267" y="1635" name="U"/>
   <outline>
-    <component base="LtnSmD"/>
+    <component base="LtnSmD" xOffset="312"/>
+    <contour>
+      <point x="573" y="287" type="line"/>
+      <point x="637" y="547" type="line"/>
+      <point x="615" y="737"/>
+      <point x="506" y="1020"/>
+      <point x="351" y="1020" type="curve" smooth="yes"/>
+      <point x="217" y="1020"/>
+      <point x="137" y="870"/>
+      <point x="120" y="755" type="curve"/>
+      <point x="270" y="672" type="line"/>
+      <point x="289" y="749"/>
+      <point x="309" y="820"/>
+      <point x="379" y="820" type="curve" smooth="yes"/>
+      <point x="468" y="820"/>
+      <point x="555" y="559"/>
+      <point x="555" y="347" type="curve"/>
+    </contour>
   </outline>
 </glyph>

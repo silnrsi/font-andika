@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmDMidLftHook" format="2">
-  <advance width="1190"/>
+  <advance width="1554"/>
   <unicode hex="1DF25"/>
-  <anchor x="605" y="0" name="H"/>
-  <anchor x="605" y="-100" name="L"/>
-  <anchor x="1190" y="1000" name="R"/>
-  <anchor x="605" y="1635" name="U"/>
+  <anchor x="969" y="0" name="H"/>
+  <anchor x="969" y="-100" name="L"/>
+  <anchor x="1554" y="1000" name="R"/>
+  <anchor x="969" y="1635" name="U"/>
   <outline>
-    <component base="LtnSmD"/>
+    <component base="LtnSmD" xOffset="364"/>
+    <contour>
+      <point x="565" y="825" type="line"/>
+      <point x="468" y="964"/>
+      <point x="331" y="1040"/>
+      <point x="240" y="1040" type="curve" smooth="yes"/>
+      <point x="73" y="1040"/>
+      <point x="10" y="880"/>
+      <point x="10" y="705" type="curve"/>
+      <point x="170" y="670" type="line"/>
+      <point x="170" y="770"/>
+      <point x="206" y="860"/>
+      <point x="285" y="860" type="curve" smooth="yes"/>
+      <point x="369" y="860"/>
+      <point x="506" y="716"/>
+      <point x="550" y="580" type="curve"/>
+    </contour>
   </outline>
 </glyph>
