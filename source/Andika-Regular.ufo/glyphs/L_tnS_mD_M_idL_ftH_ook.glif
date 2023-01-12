@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmDMidLftHook" format="2">
-  <advance width="1554"/>
+  <advance width="1544"/>
   <unicode hex="1DF25"/>
-  <anchor x="969" y="0" name="H"/>
-  <anchor x="969" y="-100" name="L"/>
-  <anchor x="1554" y="1000" name="R"/>
-  <anchor x="969" y="1635" name="U"/>
+  <anchor x="959" y="0" name="H"/>
+  <anchor x="959" y="-100" name="L"/>
+  <anchor x="1544" y="1000" name="R"/>
+  <anchor x="959" y="1635" name="U"/>
   <outline>
-    <component base="LtnSmD" xOffset="364"/>
+    <component base="LtnSmD" xOffset="354"/>
     <contour>
       <point x="565" y="825" type="line"/>
       <point x="468" y="964"/>

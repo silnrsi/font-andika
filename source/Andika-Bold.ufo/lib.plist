@@ -11,7 +11,7 @@
   <string>3150</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/LtnSmDShortStrk/LtnCapDShortStrk oso/LtnSmSShortStrk oS/LtnCapSShortStrk/CyCapBarredO/LtnSmBBarredStem.BarBowl/LtnSmBarredO/LtnCapOMiddleTilde</string>
+    <string>o/LtnSmDMidLftHook/LtnSmLMidLftHook/LtnSmLMidLftHook.TailL o/LtnSmNMidLftHook o/LtnSmRMidLftHook/LtnSmSMidLftHook o/LtnSmTMidLftHook o/LtnSmTMidLftHook.NoTailT</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
