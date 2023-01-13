@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModSmTurnedW" format="2">
+  <advance width="1099"/>
+  <unicode hex="AB69"/>
+  <anchor x="547" y="615" name="L"/>
+  <anchor x="540" y="1395" name="U"/>
+  <outline>
+    <contour>
+      <point x="31" y="680" type="curve"/>
+      <point x="232" y="680" type="line"/>
+      <point x="342" y="1158" type="line"/>
+      <point x="472" y="680" type="line"/>
+      <point x="640" y="680" type="line"/>
+      <point x="769" y="1158" type="line"/>
+      <point x="879" y="680" type="line"/>
+      <point x="1081" y="680" type="line"/>
+      <point x="1048" y="779"/>
+      <point x="1028" y="842"/>
+      <point x="1007" y="911" type="curve" smooth="yes"/>
+      <point x="878" y="1343" type="line"/>
+      <point x="675" y="1343" type="line"/>
+      <point x="556" y="891" type="line"/>
+      <point x="437" y="1343" type="line"/>
+      <point x="234" y="1343" type="line"/>
+      <point x="104" y="911" type="line" smooth="yes"/>
+      <point x="80" y="833"/>
+      <point x="63" y="779"/>
+    </contour>
+  </outline>
+</glyph>
