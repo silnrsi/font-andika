@@ -1,6 +1,6 @@
 ---
 title: Andika - Resources
-fontversion: 6.101
+fontversion: 6.200
 ---
 
 ## Requirements

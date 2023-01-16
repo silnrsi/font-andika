@@ -20,7 +20,7 @@ This page uses web fonts (WOFF2) to demonstrate font features and should display
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard   | <span class='andika-R normal'>a ... z</span> (all letters with capital equivalents) | `smcp=0`
-Small caps | <span class='andika-R normal' style='font-feature-settings: "smcp" 1'>a ... z</span> (all letters with capital equivalents) | `smcp=1`
+Small caps | <span class='andika-smcp-1-R normal'>a ... z</span> (all letters with capital equivalents) | `smcp=1`
 
 #### Small caps from capitals
 
@@ -31,7 +31,7 @@ Small caps | <span class='andika-R normal' style='font-feature-settings: "smcp" 
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard   | <span class='andika-R normal'>A ... Z</span> (all capitals) | `c2sc=0`
-Small caps | <span class='andika-R normal' style='font-feature-settings: "c2sc" 1'>A ... Z</span> (all capitals) | `c2sc=1`
+Small caps | <span class='andika-c2sc-1-R normal'>A ... Z</span> (all capitals) | `c2sc=1`
 
 #### Double-story a and g
 
@@ -42,7 +42,7 @@ Small caps | <span class='andika-R normal' style='font-feature-settings: "c2sc" 
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard     | <span class='andika-R normal'>a à á â ã ä å ā ă ą ǎ ǟ ǡ ǻ ȁ ȃ ȧ ḁ ẚ ạ ả ấ ầ ẩ ẫ ậ ắ ằ ẳ ẵ ặ ⱥ ₐ ᵃ ◌ͣ g ĝ ğ ġ ģ ǧ ǵ ǥ ḡ ꞡ ᵍ </span> | `ss01=0`
-Double-story | <span class='andika-R normal' style='font-feature-settings: "ss01" 1'>a à á â ã ä å ā ă ą ǎ ǟ ǡ ǻ ȁ ȃ ȧ ḁ ẚ ạ ả ấ ầ ẩ ẫ ậ ắ ằ ẳ ẵ ặ ⱥ ₐ ᵃ ◌ͣ g ĝ ğ ġ ģ ǧ ǵ ǥ ḡ ꞡ ᵍ </span> | `ss01=1`
+Double-story | <span class='andika-ss01-1-R normal'>a à á â ã ä å ā ă ą ǎ ǟ ǡ ǻ ȁ ȃ ȧ ḁ ẚ ạ ả ấ ầ ẩ ẫ ậ ắ ằ ẳ ẵ ặ ⱥ ₐ ᵃ ◌ͣ g ĝ ğ ġ ģ ǧ ǵ ǥ ḡ ꞡ ᵍ </span> | `ss01=1`
 
 #### Double-story a (only)
 
@@ -51,7 +51,7 @@ Double-story | <span class='andika-R normal' style='font-feature-settings: "ss01
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard     | <span class='andika-R normal'>a à á â ã ä å ā ă ą ǎ ǟ ǡ ǻ ȁ ȃ ȧ ḁ ẚ ạ ả ấ ầ ẩ ẫ ậ ắ ằ ẳ ẵ ặ ⱥ ₐ ᵃ ◌ͣ </span> | `ss13=0`
-Double-story | <span class='andika-R normal' style='font-feature-settings: "ss13" 1'>a à á â ã ä å ā ă ą ǎ ǟ ǡ ǻ ȁ ȃ ȧ ḁ ẚ ạ ả ấ ầ ẩ ẫ ậ ắ ằ ẳ ẵ ặ ⱥ ₐ ᵃ ◌ͣ </span> | `ss13=1`
+Double-story | <span class='andika-ss13-1-R normal'>a à á â ã ä å ā ă ą ǎ ǟ ǡ ǻ ȁ ȃ ȧ ḁ ẚ ạ ả ấ ầ ẩ ẫ ậ ắ ằ ẳ ẵ ặ ⱥ ₐ ᵃ ◌ͣ </span> | `ss13=1`
 
 #### Double-story g (only)
 
@@ -60,7 +60,7 @@ Double-story | <span class='andika-R normal' style='font-feature-settings: "ss13
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard     | <span class='andika-R normal'>g ĝ ğ ġ ģ ǧ ǵ ǥ ḡ ꞡ ᵍ </span> | `ss14=0`
-Double-story | <span class='andika-R normal' style='font-feature-settings: "ss14" 1'>g ĝ ğ ġ ģ ǧ ǵ ǥ ḡ ꞡ ᵍ </span> | `ss14=1`
+Double-story | <span class='andika-ss14-1-R normal'>g ĝ ğ ġ ģ ǧ ǵ ǥ ḡ ꞡ ᵍ </span> | `ss14=1`
 
 #### Barred-bowl forms 
 
@@ -69,7 +69,7 @@ Double-story | <span class='andika-R normal' style='font-feature-settings: "ss14
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard    | <span class='andika-R normal'>đ ƀ ǥ</span> | `ss04=0`
-Barred-bowl | <span class='andika-R normal' style='font-feature-settings: "ss04" 1'>đ ƀ ǥ</span> | `ss04=1`
+Barred-bowl | <span class='andika-ss04-1-R normal'>đ ƀ ǥ</span> | `ss04=1`
 
 #### Slant italic specials
 
@@ -78,7 +78,7 @@ Barred-bowl | <span class='andika-R normal' style='font-feature-settings: "ss04"
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard | <span class='andika-I normal'>a ã à á â ä å ā ă ǎ ǟ ǡ ǻ ȁ ȃ ȧ ḁ ẚ ả ấ ầ ẩ ẫ ậ ắ ằ ẳ ẵ ạ ặ ⱥ ɐ æ f ḟ i ì í î ï ĩ ī ĭ į ǐ ȉ ȋ ḭ ḯ ỉ ị ı l ĺ ḷ ḹ ḻ ḽ ꝉ ₗ v ṽ ṿ ꝟ z ź ż ž ẑ ẓ ẕ ғ ӻ  fi ffi</span> | `ss05=0`
-Slanted  | <span class='andika-I normal' style='font-feature-settings: "ss05" 1'>a ã à á â ä å ā ă ǎ ǟ ǡ ǻ ȁ ȃ ȧ ḁ ẚ ả ấ ầ ẩ ẫ ậ ắ ằ ẳ ẵ ạ ặ ⱥ ɐ æ f ḟ i ì í î ï ĩ ī ĭ į ǐ ȉ ȋ ḭ ḯ ỉ ị ı l ĺ ḷ ḹ ḻ ḽ ꝉ ₗ v ṽ ṿ ꝟ z ź ż ž ẑ ẓ ẕ ғ ӻ  fi ffi</span> | `ss05=1`
+Slanted  | <span class='andika-ss05-1-I normal'>a ã à á â ä å ā ă ǎ ǟ ǡ ǻ ȁ ȃ ȧ ḁ ẚ ả ấ ầ ẩ ẫ ậ ắ ằ ẳ ẵ ạ ặ ⱥ ɐ æ f ḟ i ì í î ï ĩ ī ĭ į ǐ ȉ ȋ ḭ ḯ ỉ ị ı l ĺ ḷ ḹ ḻ ḽ ꝉ ₗ v ṽ ṿ ꝟ z ź ż ž ẑ ẓ ẕ ғ ӻ  fi ffi</span> | `ss05=1`
 
 ### Character alternates
 
@@ -89,7 +89,7 @@ Slanted  | <span class='andika-I normal' style='font-feature-settings: "ss05" 1'
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard        | <span class='andika-R normal'>Ɓ</span> | `cv13=0`
-Lowercase-style | <span class='andika-R normal' style='font-feature-settings: "cv13" 1'>Ɓ</span> | `cv13=1`
+Lowercase-style | <span class='andika-cv13-1-R normal'>Ɓ</span> | `cv13=1`
 
 #### D hook
 
@@ -98,7 +98,7 @@ Lowercase-style | <span class='andika-R normal' style='font-feature-settings: "c
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard        | <span class='andika-R normal'>Ɗ</span> | `cv17=0`
-Lowercase-style | <span class='andika-R normal' style='font-feature-settings: "cv17" 1'>Ɗ</span> | `cv17=1`
+Lowercase-style | <span class='andika-cv17-1-R normal'>Ɗ</span> | `cv17=1`
 
 #### H stroke
 
@@ -107,7 +107,7 @@ Lowercase-style | <span class='andika-R normal' style='font-feature-settings: "c
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard        | <span class='andika-R normal'>Ħ</span> | `cv28=0`
-Vertical stroke | <span class='andika-R normal' style='font-feature-settings: "cv28" 1'>Ħ</span> | `cv28=1`
+Vertical stroke | <span class='andika-cv28-1-R normal'>Ħ</span> | `cv28=1`
 
 #### i
 
@@ -116,7 +116,7 @@ Vertical stroke | <span class='andika-R normal' style='font-feature-settings: "c
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard    | <span class='andika-R normal'>i ì í î ï ĩ ī ĭ į ı ǐ ȉ ȋ ◌ͥ ᵢ ᶤ ḭ ḭ ḯ ỉ ị ⁱ fi ffi</span> | `cv31=0`
-Curved tail | <span class='andika-R normal' style='font-feature-settings: "cv31" 1'>i ì í î ï ĩ ī ĭ į ı ǐ ȉ ȋ ◌ͥ ᵢ ᶤ ḭ ḭ ḯ ỉ ị ⁱ fi ffi</span> | `cv31=1`
+Curved tail | <span class='andika-cv31-1-R normal'>i ì í î ï ĩ ī ĭ į ı ǐ ȉ ȋ ◌ͥ ᵢ ᶤ ḭ ḭ ḯ ỉ ị ⁱ fi ffi</span> | `cv31=1`
 
 #### J
 
@@ -125,7 +125,7 @@ Curved tail | <span class='andika-R normal' style='font-feature-settings: "cv31"
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard | <span class='andika-R normal'>J Ĵ Ɉ ᴊ ᴶ Ʝ</span> | `cv35=0`
-Bar top  | <span class='andika-R normal' style='font-feature-settings: "cv35" 1'>J Ĵ Ɉ ᴊ ᴶ Ʝ</span> | `cv35=1`
+Bar top  | <span class='andika-cv35-1-R normal'>J Ĵ Ɉ ᴊ ᴶ Ʝ</span> | `cv35=1`
 
 #### j
 
@@ -134,7 +134,7 @@ Bar top  | <span class='andika-R normal' style='font-feature-settings: "cv35" 1'
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard  | <span class='andika-R normal'>j ĵ ǰ ȷ ɉ ɟ ʝ ʲ ᶡ ᶨ ⱼ</span> | `cv34=0`
-Top serif | <span class='andika-R normal' style='font-feature-settings: "cv34" 1'>j ĵ ǰ ȷ ɉ ɟ ʝ ʲ ᶡ ᶨ ⱼ</span> | `cv34=1`
+Top serif | <span class='andika-cv34-1-R normal'>j ĵ ǰ ȷ ɉ ɟ ʝ ʲ ᶡ ᶨ ⱼ</span> | `cv34=1`
 
 #### J stroke hook
 
@@ -143,7 +143,7 @@ Top serif | <span class='andika-R normal' style='font-feature-settings: "cv34" 1
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard  | <span class='andika-R normal'>ʄ</span> | `cv37=0`
-Top serif | <span class='andika-R normal' style='font-feature-settings: "cv37" 1'>ʄ</span> | `cv37=1`
+Top serif | <span class='andika-cv37-1-R normal'>ʄ</span> | `cv37=1`
 
 #### l
 
@@ -152,7 +152,7 @@ Top serif | <span class='andika-R normal' style='font-feature-settings: "cv37" 1
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard    | <span class='andika-R normal'>l ĺ ļ ľ ŀ ł ƚ ɫ ɬ ˡ ᶅ ᶪ ḷ ḹ ḻ ḽ ⱡ ꝉ ₗ</span> | `cv39=0`
-Curved tail | <span class='andika-R normal' style='font-feature-settings: "cv39" 1'>l ĺ ļ ľ ŀ ł ƚ ɫ ɬ ˡ ᶅ ᶪ ḷ ḹ ḻ ḽ ⱡ ꝉ ₗ</span> | `cv39=1`
+Curved tail | <span class='andika-cv39-1-R normal'>l ĺ ļ ľ ŀ ł ƚ ɫ ɬ ˡ ᶅ ᶪ ḷ ḹ ḻ ḽ ⱡ ꝉ ₗ</span> | `cv39=1`
 
 #### Eng
 
@@ -161,9 +161,9 @@ Curved tail | <span class='andika-R normal' style='font-feature-settings: "cv39"
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard                          | <span class='andika-R normal'>Ŋ</span> | `cv43=0`
-Lowercase style on baseline       | <span class='andika-R normal' style='font-feature-settings: "cv43" 1'>Ŋ</span> | `cv43=1`
-Uppercase style with descender    | <span class='andika-R normal' style='font-feature-settings: "cv43" 2'>Ŋ</span> | `cv43=2`
-Alt. lowercase style on baseline  | <span class='andika-R normal' style='font-feature-settings: "cv43" 3'>Ŋ</span> | `cv43=3`
+Lowercase style on baseline       | <span class='andika-cv43-1-R normal'>Ŋ</span> | `cv43=1`
+Uppercase style with descender    | <span class='andika-cv43-2-R normal'>Ŋ</span> | `cv43=2`
+Alt. lowercase style on baseline  | <span class='andika-cv43-3-R normal'>Ŋ</span> | `cv43=3`
 
 #### N left hook
 
@@ -172,7 +172,7 @@ Alt. lowercase style on baseline  | <span class='andika-R normal' style='font-fe
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard        | <span class='andika-R normal'>Ɲ</span> | `cv44=0`
-Lowercase-style | <span class='andika-R normal' style='font-feature-settings: "cv44" 1'>Ɲ</span> | `cv44=1`
+Lowercase-style | <span class='andika-cv44-1-R normal'>Ɲ</span> | `cv44=1`
 
 #### Open-O
 
@@ -181,7 +181,7 @@ Lowercase-style | <span class='andika-R normal' style='font-feature-settings: "c
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard  | <span class='andika-R normal'>Ɔ ɔ ᴐ ᵓ ᶗ</span> | `cv46=0`
-Top serif | <span class='andika-R normal' style='font-feature-settings: "cv46" 1'>Ɔ ɔ ᴐ ᵓ ᶗ</span> | `cv46=1`
+Top serif | <span class='andika-cv46-1-R normal'>Ɔ ɔ ᴐ ᵓ ᶗ</span> | `cv46=1`
 
 #### OU
 
@@ -190,7 +190,7 @@ Top serif | <span class='andika-R normal' style='font-feature-settings: "cv46" 1
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard | <span class='andika-R normal'>Ȣ ȣ ᴕ ᴽ</span> | `cv47=0`
-Open     | <span class='andika-R normal' style='font-feature-settings: "cv47" 1'>Ȣ ȣ ᴕ ᴽ</span> | `cv47=1`
+Open     | <span class='andika-cv47-1-R normal'>Ȣ ȣ ᴕ ᴽ</span> | `cv47=1`
 
 #### p hook
 
@@ -199,7 +199,7 @@ Open     | <span class='andika-R normal' style='font-feature-settings: "cv47" 1'
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard   | <span class='andika-R normal'>ƥ</span> | `cv49=0`
-Right hook | <span class='andika-R normal' style='font-feature-settings: "cv49" 1'>ƥ</span> | `cv49=1`
+Right hook | <span class='andika-cv49-1-R normal'>ƥ</span> | `cv49=1`
 
 #### Q
 
@@ -208,7 +208,7 @@ Right hook | <span class='andika-R normal' style='font-feature-settings: "cv49" 
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard    | <span class='andika-R normal'>Q Ꝗ Ꝙ</span> | `cv52=0`
-Tail across | <span class='andika-R normal' style='font-feature-settings: "cv52" 1'>Q Ꝗ Ꝙ</span> | `cv52=1`
+Tail across | <span class='andika-cv52-1-R normal'>Q Ꝗ Ꝙ</span> | `cv52=1`
 
 #### q
 
@@ -217,7 +217,7 @@ Tail across | <span class='andika-R normal' style='font-feature-settings: "cv52"
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard | <span class='andika-R normal'>q ꝗ ꝙ ʠ</span> | `cv51=0`
-Pointed  | <span class='andika-R normal' style='font-feature-settings: "cv51" 1'>q ꝗ ꝙ ʠ</span> | `cv51=1`
+Pointed  | <span class='andika-cv51-1-R normal'>q ꝗ ꝙ ʠ</span> | `cv51=1`
 
 #### R tail
 
@@ -226,7 +226,7 @@ Pointed  | <span class='andika-R normal' style='font-feature-settings: "cv51" 1'
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard        | <span class='andika-R normal'>Ɽ</span> | `cv55=0`
-Lowercase-style | <span class='andika-R normal' style='font-feature-settings: "cv55" 1'>Ɽ</span> | `cv55=1`
+Lowercase-style | <span class='andika-cv55-1-R normal'>Ɽ</span> | `cv55=1`
 
 #### t
 
@@ -235,7 +235,7 @@ Lowercase-style | <span class='andika-R normal' style='font-feature-settings: "c
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard      | <span class='andika-R normal'>t ţ ť ŧ ƫ ƭ ț ʇ ʦ ʧ ʨ ◌ͭ ᵗ ᵵ ᵺ ᶵ ṫ ṭ ṯ ṱ ẗ ₜ ⱦ ꜩ </span> | `cv56=0`
-Straight stem | <span class='andika-R normal' style='font-feature-settings: "cv56" 1'>t ţ ť ŧ ƫ ƭ ț ʇ ʦ ʧ ʨ ◌ͭ ᵗ ᵵ ᵺ ᶵ ṫ ṭ ṯ ṱ ẗ ₜ ⱦ ꜩ </span> | `cv56=1`
+Straight stem | <span class='andika-cv56-1-R normal'>t ţ ť ŧ ƫ ƭ ț ʇ ʦ ʧ ʨ ◌ͭ ᵗ ᵵ ᵺ ᶵ ṫ ṭ ṯ ṱ ẗ ₜ ⱦ ꜩ </span> | `cv56=1`
 
 #### T hook
 
@@ -244,7 +244,7 @@ Straight stem | <span class='andika-R normal' style='font-feature-settings: "cv5
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard   | <span class='andika-R normal'>Ƭ</span> | `cv57=0`
-Right hook | <span class='andika-R normal' style='font-feature-settings: "cv57" 1'>Ƭ</span> | `cv57=1`
+Right hook | <span class='andika-cv57-1-R normal'>Ƭ</span> | `cv57=1`
 
 #### V hook
 
@@ -253,8 +253,8 @@ Right hook | <span class='andika-R normal' style='font-feature-settings: "cv57" 
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard                | <span class='andika-R normal'>Ʋ ʋ ᶹ</span> | `cv62=0`
-Straight with low hook  | <span class='andika-R normal' style='font-feature-settings: "cv62" 1'>Ʋ ʋ ᶹ</span> | `cv62=1`
-Straight with high hook | <span class='andika-R normal' style='font-feature-settings: "cv62" 2'>Ʋ ʋ ᶹ</span> | `cv62=2`
+Straight with low hook  | <span class='andika-cv62-1-R normal'>Ʋ ʋ ᶹ</span> | `cv62=1`
+Straight with high hook | <span class='andika-cv62-2-R normal'>Ʋ ʋ ᶹ</span> | `cv62=2`
 
 #### Y hook
 
@@ -263,7 +263,7 @@ Straight with high hook | <span class='andika-R normal' style='font-feature-sett
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard  | <span class='andika-R normal'>Ƴ</span> | `cv68=0`
-Left hook | <span class='andika-R normal' style='font-feature-settings: "cv68" 1'>Ƴ</span> | `cv68=1`
+Left hook | <span class='andika-cv68-1-R normal'>Ƴ</span> | `cv68=1`
 
 #### y
 
@@ -272,7 +272,7 @@ Left hook | <span class='andika-R normal' style='font-feature-settings: "cv68" 1
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard      | <span class='andika-R normal'>y ɏ ʸ ý ỳ ŷ ẙ ÿ ỹ ẏ ȳ ỷ ỵ ƴ ʎ  </span> | `cv67=0`
-Straight tail | <span class='andika-R normal' style='font-feature-settings: "cv67" 1'>y ɏ ʸ ý ỳ ŷ ẙ ÿ ỹ ẏ ȳ ỷ ỵ ƴ ʎ  </span> | `cv67=1`
+Straight tail | <span class='andika-cv67-1-R normal'>y ɏ ʸ ý ỳ ŷ ẙ ÿ ỹ ẏ ȳ ỷ ỵ ƴ ʎ  </span> | `cv67=1`
 
 #### Ezh
 
@@ -281,7 +281,7 @@ Straight tail | <span class='andika-R normal' style='font-feature-settings: "cv6
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard       | <span class='andika-R normal'>Ʒ Ӡ</span> | `cv20=0`
-Reversed sigma | <span class='andika-R normal' style='font-feature-settings: "cv20" 1'>Ʒ Ӡ</span> | `cv20=1`
+Reversed sigma | <span class='andika-cv20-1-R normal'>Ʒ Ӡ</span> | `cv20=1`
 
 #### ezh curl
 
@@ -290,7 +290,7 @@ Reversed sigma | <span class='andika-R normal' style='font-feature-settings: "cv
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard   | <span class='andika-R normal'>ʓ</span> | `cv19=0`
-Large bowl | <span class='andika-R normal' style='font-feature-settings: "cv19" 1'>ʓ</span> | `cv19=1`
+Large bowl | <span class='andika-cv19-1-R normal'>ʓ</span> | `cv19=1`
 
 #### rams horn
 
@@ -299,8 +299,17 @@ Large bowl | <span class='andika-R normal' style='font-feature-settings: "cv19" 
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard    | <span class='andika-R normal'>ɤ</span> | `cv25=0`
-Large bowl  | <span class='andika-R normal' style='font-feature-settings: "cv25" 1'>ɤ</span> | `cv25=1`
-Small gamma | <span class='andika-R normal' style='font-feature-settings: "cv25" 2'>ɤ</span> | `cv25=2`
+Large bowl  | <span class='andika-cv25-1-R normal'>ɤ</span> | `cv25=1`
+Small gamma | <span class='andika-cv25-2-R normal'>ɤ</span> | `cv25=2`
+
+#### Clicks
+
+<span class='affects'>Affects: U+01C0 U+01C1 U+01C2 U+01C3 U+2980</span>
+
+Feature | Sample                      | Feature setting
+------- | --------------------------- | -------
+Standard (descending) | <span class='andika-R normal'>ǀ ǁ ǂ ǃ ⦀</span> | `cv69=0`
+Baseline              | <span class='andika-cv69-1-R normal'>ǀ ǁ ǂ ǃ ⦀</span> | `cv69=1`
 
 ### Diacritic and symbol alternates
 
@@ -311,18 +320,16 @@ Small gamma | <span class='andika-R normal' style='font-feature-settings: "cv25"
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard         | <span class='andika-R normal'>Ấấ Ầầ Ẩẩ Ẫẫ Ắắ Ằằ Ẳẳ Ẵẵ Ếế Ềề Ểể Ễễ Ốố Ồồ Ổổ Ỗỗ</span> | `cv75=0`
-Vietnamese-style | <span class='andika-R normal' style='font-feature-settings: "cv75" 1'>Ấấ Ầầ Ẩẩ Ẫẫ Ắắ Ằằ Ẳẳ Ẵẵ Ếế Ềề Ểể Ễễ Ốố Ồồ Ổổ Ỗỗ</span> | `cv75=1`
+Vietnamese-style | <span class='andika-cv75-1-R normal'>Ấấ Ầầ Ẩẩ Ẫẫ Ắắ Ằằ Ẳẳ Ẵẵ Ếế Ềề Ểể Ễễ Ốố Ồồ Ổổ Ỗỗ</span> | `cv75=1`
 
 #### Kayan diacritics
-
-*This feature is not supported in TypeTuner Web.*
 
 <span class='affects'>Affects: U+0300 U+0301</span>
 
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard     | <span class='andika-R normal'>◌̀́</span> | `cv79=0`
-Side by side | <span class='andika-R normal' style='font-feature-settings: "cv79" 1'>◌̀́</span> | `cv79=1`
+Side by side | <span class='andika-cv79-1-R normal'>◌̀́</span> | `cv79=1`
 
 #### Ogonek
 
@@ -331,7 +338,7 @@ Side by side | <span class='andika-R normal' style='font-feature-settings: "cv79
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard | <span class='andika-R normal'>anything with ◌̨ (Ąą Ęę Įį Ųų Ǫǫ Ǭǭ)</span> | `cv76=0`
-Straight | <span class='andika-R normal' style='font-feature-settings: "cv76" 1'>anything with ◌̨ (Ąą Ęę Įį Ųų Ǫǫ Ǭǭ)</span> | `cv76=1`
+Straight | <span class='andika-cv76-1-R normal'>anything with ◌̨ (Ąą Ęę Įį Ųų Ǫǫ Ǭǭ)</span> | `cv76=1`
 
 #### Caron
 
@@ -340,7 +347,7 @@ Straight | <span class='andika-R normal' style='font-feature-settings: "cv76" 1'
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard     | <span class='andika-R normal'>ď Ľ ľ ť</span> | `cv77=0`
-Global-style | <span class='andika-R normal' style='font-feature-settings: "cv77" 1'>ď Ľ ľ ť</span> | `cv77=1`
+Global-style | <span class='andika-cv77-1-R normal'>ď Ľ ľ ť</span> | `cv77=1`
 
 #### Modifier apostrophe
 
@@ -349,7 +356,7 @@ Global-style | <span class='andika-R normal' style='font-feature-settings: "cv77
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard | <span class='andika-R normal'>ʼ Ꞌ ꞌ</span> | `cv70=0`
-Large    | <span class='andika-R normal' style='font-feature-settings: "cv70" 1'>ʼ Ꞌ ꞌ</span> | `cv70=1`
+Large    | <span class='andika-cv70-1-R normal'>ʼ Ꞌ ꞌ</span> | `cv70=1`
 
 #### Modifier colon
 
@@ -358,7 +365,7 @@ Large    | <span class='andika-R normal' style='font-feature-settings: "cv70" 1'
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard | <span class='andika-R normal'>꞉</span> | `cv71=0`
-Expanded | <span class='andika-R normal' style='font-feature-settings: "cv71" 1'>꞉</span> | `cv71=1`
+Expanded | <span class='andika-cv71-1-R normal'>꞉</span> | `cv71=1`
 
 #### Empty set
 
@@ -367,7 +374,7 @@ Expanded | <span class='andika-R normal' style='font-feature-settings: "cv71" 1'
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard   | <span class='andika-R normal'>∅</span> | `cv98=0`
-Zero-style | <span class='andika-R normal' style='font-feature-settings: "cv98" 1'>∅</span> | `cv98=1`
+Zero-style | <span class='andika-cv98-1-R normal'>∅</span> | `cv98=1`
 
 ### Cyrillic alternates
 
@@ -380,7 +387,7 @@ Zero-style | <span class='andika-R normal' style='font-feature-settings: "cv98" 
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard        | <span class='andika-R normal'>Э э</span> | `cv80=0`
-Mongolian-style | <span class='andika-R normal' style='font-feature-settings: "cv80" 1'>Э э</span> | `cv80=1`
+Mongolian-style | <span class='andika-cv80-1-R normal'>Э э</span> | `cv80=1`
 
 #### Cyrillic shha
 
@@ -389,7 +396,7 @@ Mongolian-style | <span class='andika-R normal' style='font-feature-settings: "c
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard        | <span class='andika-R normal'>һ</span> | `cv81=0`
-Uppercase-style | <span class='andika-R normal' style='font-feature-settings: "cv81" 1'>һ</span> | `cv81=1`
+Uppercase-style | <span class='andika-cv81-1-R normal'>һ</span> | `cv81=1`
 
 #### Cyrillic breve
 
@@ -398,7 +405,7 @@ Uppercase-style | <span class='andika-R normal' style='font-feature-settings: "c
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard       | <span class='andika-R normal'>anything with ◌̆ (Ә̆ә̆)</span> | `cv82=0`
-Cyrillic-style | <span class='andika-R normal' style='font-feature-settings: "cv82" 1'>anything with ◌̆ (Ә̆ә̆)</span> | `cv82=1`
+Cyrillic-style | <span class='andika-cv82-1-R normal'>anything with ◌̆ (Ә̆ә̆)</span> | `cv82=1`
 
 #### Serbian Cyrillic alternates
 
@@ -431,7 +438,7 @@ Macedonian | <span class='andika-I normal' lang='mk'>б г д п т ѓ</span> | 
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard                 | <span class='andika-I normal'>б г д п т ѓ</span> | `cv84=0`
-Serbian Macedonian forms | <span class='andika-I normal' style='font-feature-settings: "cv84" 1'>б г д п т ѓ</span> | `cv84=1`
+Serbian Macedonian forms | <span class='andika-cv84-1-I normal'>б г д п т ѓ</span> | `cv84=1`
 
 ### Tone alternates
 
@@ -442,7 +449,7 @@ Serbian Macedonian forms | <span class='andika-I normal' style='font-feature-set
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard        | <span class='andika-R normal'>ˋ ˈ ˉ ˊ</span> | `cv90=0`
-Chinantec-style | <span class='andika-R normal' style='font-feature-settings: "cv90" 1'>ˋ ˈ ˉ ˊ</span> | `cv90=1`
+Chinantec-style | <span class='andika-cv90-1-R normal'>ˋ ˈ ˉ ˊ</span> | `cv90=1`
 
 #### Tone numbers
 
@@ -453,7 +460,7 @@ Chinantec-style | <span class='andika-R normal' style='font-feature-settings: "c
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard | <span class='andika-R normal'>˥ ˦ ˧ ˨ ˩ ꜒ ꜓ ꜔ ꜕ ꜖</span> | `cv91=0`
-Numbers  | <span class='andika-R normal' style='font-feature-settings: "cv91" 1'>˥ ˦ ˧ ˨ ˩ ꜒ ꜓ ꜔ ꜕ ꜖</span> | `cv91=1`
+Numbers  | <span class='andika-cv91-1-R normal'>˥ ˦ ˧ ˨ ˩ ꜒ ꜓ ꜔ ꜕ ꜖</span> | `cv91=1`
 
 #### Hide tone contour staves
 
@@ -464,9 +471,38 @@ Numbers  | <span class='andika-R normal' style='font-feature-settings: "cv91" 1'
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard | <span class='andika-R normal'>˥ ˦ ˧ ˨ ˩ ꜒ ꜓ ꜔ ꜕ ꜖ (˩˦˥˧˨ ꜖꜓꜒꜔꜕)</span> | `cv92=0`
-Hide staves  | <span class='andika-R normal' style='font-feature-settings: "cv92" 1'>˥ ˦ ˧ ˨ ˩ ꜒ ꜓ ꜔ ꜕ ꜖ (˩˦˥˧˨ ꜖꜓꜒꜔꜕)</span> | `cv92=1`
+Hide staves  | <span class='andika-cv92-1-R normal'>˥ ˦ ˧ ˨ ˩ ꜒ ꜓ ꜔ ꜕ ꜖ (˩˦˥˧˨ ꜖꜓꜒꜔꜕)</span> | `cv92=1`
 
 ### Numeral alternates
+
+#### Subscript numerals
+
+<span class='affects'>Affects: U+0030 U+0031 U+0032 U+0033 U+0034 U+0035 U+0036 U+0037 U+0038 U+0039</span>
+
+Feature | Sample                      | Feature setting
+------- | --------------------------- | -------
+Standard  | <span class='andika-R normal'>0 1 2 3 4 5 6 7 8 9</span> | `subs=0`
+Subscript | <span class='andika-subs-1-R normal'>0 1 2 3 4 5 6 7 8 9</span> | `subs=1`
+
+#### Superscript numerals
+
+<span class='affects'>Affects: U+0030 U+0031 U+0032 U+0033 U+0034 U+0035 U+0036 U+0037 U+0038 U+0039</span>
+
+Feature | Sample                      | Feature setting
+------- | --------------------------- | -------
+Standard    | <span class='andika-R normal'>0 1 2 3 4 5 6 7 8 9</span> | `sups=0`
+Superscript | <span class='andika-sups-1-R normal'>0 1 2 3 4 5 6 7 8 9</span> | `sups=1`
+
+#### Automatic fractions
+
+*When activated this feature will automatically create fractions when numerals are separated by either the fraction slash (U+2044) or the solidus (U+002F). This feature is not supported in TypeTuner Web.*
+
+<span class='affects'>Affects: U+0030 U+0031 U+0032 U+0033 U+0034 U+0035 U+0036 U+0037 U+0038 U+0039 U+002F U+2044</span>
+
+Feature | Sample                      | Feature setting
+------- | --------------------------- | -------
+Standard (none) | <span class='andika-R normal'>1⁄2 456⁄789 1/2 456/789</span> | `frac=0`
+Automatic       | <span class='andika-frac-1-R normal'>1⁄2 456⁄789 1/2 456/789</span> | `frac=1`
 
 #### 0
 
@@ -475,7 +511,7 @@ Hide staves  | <span class='andika-R normal' style='font-feature-settings: "cv92
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard | <span class='andika-R normal'>0 ⁰ ₀</span> | `cv10=0`
-Slashed  | <span class='andika-R normal' style='font-feature-settings: "cv10" 1'>0 ⁰ ₀</span> | `cv10=1`
+Slashed  | <span class='andika-cv10-1-R normal'>0 ⁰ ₀</span> | `cv10=1`
 
 #### 1
 
@@ -484,7 +520,7 @@ Slashed  | <span class='andika-R normal' style='font-feature-settings: "cv10" 1'
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard      | <span class='andika-R normal'>1 ¹ ₁</span> | `cv01=0`
-No Base Serif | <span class='andika-R normal' style='font-feature-settings: "cv01" 1'>1 ¹ ₁</span> | `cv01=1`
+No Base Serif | <span class='andika-cv01-1-R normal'>1 ¹ ₁</span> | `cv01=1`
 
 #### 4
 
@@ -493,7 +529,7 @@ No Base Serif | <span class='andika-R normal' style='font-feature-settings: "cv0
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard | <span class='andika-R normal'>4 ⁴ ₄</span> | `cv04=0`
-Open     | <span class='andika-R normal' style='font-feature-settings: "cv04" 1'>4 ⁴ ₄</span> | `cv04=1`
+Open     | <span class='andika-cv04-1-R normal'>4 ⁴ ₄</span> | `cv04=1`
 
 #### 6 and 9
 
@@ -502,7 +538,7 @@ Open     | <span class='andika-R normal' style='font-feature-settings: "cv04" 1'
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard      | <span class='andika-R normal'>6 9 ⁶ ⁹ ₆ ₉</span> | `cv06=0`
-Diagonal stem | <span class='andika-R normal' style='font-feature-settings: "cv06" 1'>6 9 ⁶ ⁹ ₆ ₉</span> | `cv06=1`
+Diagonal stem | <span class='andika-cv06-1-R normal'>6 9 ⁶ ⁹ ₆ ₉</span> | `cv06=1`
 
 #### 7
 
@@ -511,6 +547,64 @@ Diagonal stem | <span class='andika-R normal' style='font-feature-settings: "cv0
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard | <span class='andika-R normal'>7 ⁷ ₇</span> | `cv07=0`
-Barred   | <span class='andika-R normal' style='font-feature-settings: "cv07" 1'>7 ⁷ ₇</span> | `cv07=1`
+Barred   | <span class='andika-cv07-1-R normal'>7 ⁷ ₇</span> | `cv07=1`
 
 [font id='andika' face='Andika-Regular' italic='Andika-Italic' size='150%']
+[font id='andika-smcp-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='smcp 1']
+[font id='andika-c2sc-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='c2sc 1']
+[font id='andika-ss01-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='ss01 1']
+[font id='andika-ss13-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='ss13 1']
+[font id='andika-ss14-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='ss14 1']
+[font id='andika-ss04-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='ss04 1']
+[font id='andika-ss05-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='ss05 1']
+[font id='andika-cv13-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv13 1']
+[font id='andika-cv17-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv17 1']
+[font id='andika-cv28-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv28 1']
+[font id='andika-cv31-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv31 1']
+[font id='andika-cv35-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv35 1']
+[font id='andika-cv34-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv34 1']
+[font id='andika-cv37-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv37 1']
+[font id='andika-cv39-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv39 1']
+[font id='andika-cv43-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv43 1']
+[font id='andika-cv43-2' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv43 2']
+[font id='andika-cv43-3' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv43 3']
+[font id='andika-cv44-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv44 1']
+[font id='andika-cv46-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv46 1']
+[font id='andika-cv47-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv47 1']
+[font id='andika-cv49-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv49 1']
+[font id='andika-cv52-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv52 1']
+[font id='andika-cv51-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv51 1']
+[font id='andika-cv55-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv55 1']
+[font id='andika-cv56-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv56 1']
+[font id='andika-cv57-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv57 1']
+[font id='andika-cv62-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv62 1']
+[font id='andika-cv62-2' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv62 2']
+[font id='andika-cv68-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv68 1']
+[font id='andika-cv67-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv67 1']
+[font id='andika-cv20-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv20 1']
+[font id='andika-cv19-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv19 1']
+[font id='andika-cv25-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv25 1']
+[font id='andika-cv25-2' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv25 2']
+[font id='andika-cv69-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv69 1']
+[font id='andika-cv75-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv75 1']
+[font id='andika-cv79-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv79 1']
+[font id='andika-cv76-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv76 1']
+[font id='andika-cv77-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv77 1']
+[font id='andika-cv70-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv70 1']
+[font id='andika-cv71-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv71 1']
+[font id='andika-cv98-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv98 1']
+[font id='andika-cv80-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv80 1']
+[font id='andika-cv81-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv81 1']
+[font id='andika-cv82-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv82 1']
+[font id='andika-cv84-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv84 1']
+[font id='andika-cv90-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv90 1']
+[font id='andika-cv91-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv91 1']
+[font id='andika-cv92-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv92 1']
+[font id='andika-subs-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='subs 1']
+[font id='andika-sups-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='sups 1']
+[font id='andika-frac-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='frac 1']
+[font id='andika-cv10-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv10 1']
+[font id='andika-cv01-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv01 1']
+[font id='andika-cv04-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv04 1']
+[font id='andika-cv06-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv06 1']
+[font id='andika-cv07-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv07 1']
