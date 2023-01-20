@@ -23,7 +23,7 @@ The highest priorities for future additions and enhancements are mainly driven b
 
 Although some expert typographic features are supported (e.g. small caps), those are a lesser priority.
 
-Please send us your requests using the [form on the font website](https://software.sil.org/andika/about/contact/). If you are interested in helping us make the fonts better see the [Developer](developer.md) page.
+Please send us your requests using the [form on the font website](https://software.sil.org/andika/about/contact/). If you are interested in helping us make the fonts better, see the [Developer](developer.md) page.
 
 ## Announcement list
 
@@ -39,7 +39,7 @@ Our font announcements are also available through Twitter [@silfonts](http://twi
 
 ## Supporting the project
 
-These fonts are provided at no cost, however they are expensive to produce and maintain. Please consider donating to SIL’s font development efforts to support future development. Go to [SIL’s Give Direct page](https://donate.givedirect.org/?cid=13536&n=206909) and designate your gift for _Scripts & Fonts_. **Thank you!** 
+These fonts are provided at no cost. However they are expensive to produce and maintain. Please consider donating to SIL’s font development efforts to support future development. Go to [SIL’s Give Direct page](https://donate.givedirect.org/?cid=13536&n=206909) and designate your gift for _Scripts & Fonts_. **Thank you!** 
 
 ## About SIL International
 
