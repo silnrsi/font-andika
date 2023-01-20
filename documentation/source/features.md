@@ -510,48 +510,48 @@ Automatic       | <span class='andika-R normal' style='font-feature-settings: "f
 
 #### 0
 
-<span class='affects'>Affects: U+0030 U+2070 U+2080</span>
+<span class='affects'>Affects: U+0030 U+2070 U+2080 U+2152 U+2189</span>
 
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
-Standard | <span class='andika-R normal'>0 ⁰ ₀</span> | `cv10=0`
-Slashed  | <span class='andika-R normal' style='font-feature-settings: "cv10" 1'>0 ⁰ ₀</span> | `cv10=1`
+Standard | <span class='andika-R normal'>0 ⁰ ₀ ⅒ ↉</span> | `cv10=0`
+Slashed  | <span class='andika-R normal' style='font-feature-settings: "cv10" 1'>0 ⁰ ₀ ⅒ ↉</span> | `cv10=1`
 
 #### 1
 
-<span class='affects'>Affects: U+0031 U+00B9 U+2081</span>
+<span class='affects'>Affects: U+0031 U+00B9 U+00BC U+00BD U+2081 U+2150 U+2151 U+2152 U+2153 U+2155 U+2159 U+215B</span>
 
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
-Standard      | <span class='andika-R normal'>1 ¹ ₁</span> | `cv01=0`
-No Base Serif | <span class='andika-R normal' style='font-feature-settings: "cv01" 1'>1 ¹ ₁</span> | `cv01=1`
+Standard      | <span class='andika-R normal'>1 ¹ ¼ ½ ₁ ⅐ ⅑ ⅒ ⅓ ⅕ ⅙ ⅛</span> | `cv01=0`
+No Base Serif | <span class='andika-R normal' style='font-feature-settings: "cv01" 1'>1 ¹ ¼ ½ ₁ ⅐ ⅑ ⅒ ⅓ ⅕ ⅙ ⅛</span> | `cv01=1`
 
 #### 4
 
-<span class='affects'>Affects: U+0034 U+2074 U+2084</span>
+<span class='affects'>Affects: U+0034 U+00BC U+00BE U+2074 U+2084 U+2158</span>
 
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
-Standard | <span class='andika-R normal'>4 ⁴ ₄</span> | `cv04=0`
-Open     | <span class='andika-R normal' style='font-feature-settings: "cv04" 1'>4 ⁴ ₄</span> | `cv04=1`
+Standard | <span class='andika-R normal'>4 ¼ ¾ ⁴ ₄ ⅘</span> | `cv04=0`
+Open     | <span class='andika-R normal' style='font-feature-settings: "cv04" 1'>4 ¼ ¾ ⁴ ₄ ⅘</span> | `cv04=1`
 
 #### 6 and 9
 
-<span class='affects'>Affects: U+0036 U+0039 U+2076 U+2079 U+2086 U+2089</span>
+<span class='affects'>Affects: U+0036 U+0039 U+2076 U+2079 U+2086 U+2089 U+2151 U+2159 U+215A</span>
 
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
-Standard      | <span class='andika-R normal'>6 9 ⁶ ⁹ ₆ ₉</span> | `cv06=0`
-Diagonal stem | <span class='andika-R normal' style='font-feature-settings: "cv06" 1'>6 9 ⁶ ⁹ ₆ ₉</span> | `cv06=1`
+Standard      | <span class='andika-R normal'>6 9 ⁶ ⁹ ₆ ₉ ⅑ ⅙ ⅚</span> | `cv06=0`
+Diagonal stem | <span class='andika-R normal' style='font-feature-settings: "cv06" 1'>6 9 ⁶ ⁹ ₆ ₉ ⅑ ⅙ ⅚</span> | `cv06=1`
 
 #### 7
 
-<span class='affects'>Affects: U+0037 U+2077 U+2087</span>
+<span class='affects'>Affects: U+0037 U+2077 U+2087 U+2150 U+215E</span>
 
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
-Standard | <span class='andika-R normal'>7 ⁷ ₇</span> | `cv07=0`
-Barred   | <span class='andika-R normal' style='font-feature-settings: "cv07" 1'>7 ⁷ ₇</span> | `cv07=1`
+Standard | <span class='andika-R normal'>7 ⁷ ₇ ⅐ ⅞</span> | `cv07=0`
+Barred   | <span class='andika-R normal' style='font-feature-settings: "cv07" 1'>7 ⁷ ₇ ⅐ ⅞</span> | `cv07=1`
 
 <!-- PRODUCT SITE ONLY
 [font id='andika' face='Andika-Regular' italic='Andika-Italic' size='150%']
