@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="SmRomNumFiveHundred" format="2">
-  <advance width="1170"/>
+  <advance width="1319"/>
   <unicode hex="217E"/>
   <anchor x="953" y="1635" name="U"/>
   <outline>
-    <component base="LtnSmD" xOffset="-60"/>
+    <component base="LtnSmD"/>
   </outline>
 </glyph>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="SmRomNumEleven" format="2">
-  <advance width="1650"/>
+  <advance width="1729"/>
   <unicode hex="217A"/>
   <anchor x="1125" y="1505" name="U"/>
   <outline>
     <component base="LtnSmX"/>
-    <component base="LtnSmI" xOffset="1085"/>
+    <component base="LtnSmI" xOffset="1104"/>
   </outline>
 </glyph>

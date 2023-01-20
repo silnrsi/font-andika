@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="SmRomNumTen" format="2">
-  <advance width="949"/>
+  <advance width="1009"/>
   <unicode hex="2179"/>
-  <anchor x="615" y="1100" name="U"/>
+  <anchor x="675" y="1100" name="U"/>
   <outline>
-    <component base="LtnSmX" xOffset="-60"/>
+    <component base="LtnSmX"/>
   </outline>
 </glyph>

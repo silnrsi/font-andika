@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="SmRomNumNine" format="2">
-  <advance width="1630"/>
+  <advance width="1574"/>
   <unicode hex="2178"/>
-  <anchor x="970" y="1505" name="U"/>
+  <anchor x="1030" y="1505" name="U"/>
   <outline>
-    <component base="LtnSmI" xOffset="-60"/>
-    <component base="LtnSmX" xOffset="505"/>
+    <component base="LtnSmI"/>
+    <component base="LtnSmX" xOffset="565"/>
   </outline>
 </glyph>

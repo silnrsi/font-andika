@@ -2,7 +2,7 @@
 <glyph name="SmRomNumOneHundred" format="2">
   <advance width="989"/>
   <unicode hex="217D"/>
-  <anchor x="845" y="1100" name="U"/>
+  <anchor x="805" y="1100" name="U"/>
   <outline>
     <component base="LtnSmC"/>
   </outline>
