@@ -7,7 +7,7 @@ fontversion: 6.200
 
 This project is intended to provide a free and open font family for all current languages and writing systems that use Latin and Cyrillic scripts. It supports almost the complete range of Unicode characters for these scripts, including a comprehensive range of diacritics and a large set of symbols useful for linguistics and literacy work. Smart font routines automatically adjust the position of diacritics to support and optimize arbitrary base+diacritic combinations. 
 
-For more information on the visual characteristics of the font family see [Design](design.md).
+For more information on the visual characteristics of the font family, see [Design](design.md).
 
 For a comparison between this and other SIL fonts, see [Comparison of Latin, Greek, and Cyrillic fonts](https://software.sil.org/lcgfonts/support/comparison/).
 
@@ -35,7 +35,7 @@ You can subscribe using either of the two following options.
 
 - If you would rather not use a Google profile, you can subscribe any email address by sending a message to [sil-font-news+subscribe@groups.sil.org](mailto:sil-font-news+subscribe@groups.sil.org) and following the instructions you get in the confirmation message.
 
-Our font announcements are also available through Twitter [@silfonts](http://twitter.com/silfonts).
+Our font announcements are also available through Twitter [@silfonts](https://twitter.com/silfonts).
 
 ## Supporting the project
 

@@ -7,7 +7,7 @@ fontversion: 6.200
 
 If you would like stay informed of updates to Andika and other SIL fonts, please subscribe to the [SIL Font News Announcement List](https://groups.google.com/a/groups.sil.org/forum/#!forum/sil-font-news). For more information see [About](about.md).
 
-Our font announcements are also available through Twitter [@silfonts](http://twitter.com/silfonts).
+Our font announcements are also available through Twitter [@silfonts](https://twitter.com/silfonts).
 
 ## Current versions
 
@@ -27,7 +27,7 @@ Special versions of Andika version 5 were created for specific uses. Those fonts
 
 - [Font subsets](https://software.sil.org/lcgfonts/font-subsets/) are limited versions of the fonts that support only the characters needed for a particular area or use. Subsets are available for Africa, Americas, Asia/Pacific, Europe/Eurasia, Vietnam, Phonetic, Cyrillic (Basic) and Cyrillic Extended. With the exception of the Phonetic font, the font subsets are intended for orthographic use only. We have not put anything in the other subsets for phonetic, transliteration, or transcription use. For those purposes, use the Phonetic subset.
 
-We do not intend to update these fonts to version 6, however they should continue to work. **If you have a need for any of these fonts to be updated to version 6 please [contact us](https://software.sil.org/andika/about/contact/).**
+We do not intend to update these fonts to version 6, however they should continue to work. **If you have a need for any of these fonts to be updated to version 6, please [contact us](https://software.sil.org/andika/about/contact/).**
 
 ## Previous versions
 
