@@ -677,10 +677,22 @@ U+A7BB" stylename="ss13_1">
     </test>
   </testgroup>
   <testgroup label="ss14"/>
+  <testgroup label="subs"/>
+  <testgroup label="sups"/>
   <testgroup label="cv01 cv04"/>
   <testgroup label="cv01 cv06"/>
   <testgroup label="cv01 cv07"/>
   <testgroup label="cv01 cv10"/>
+  <testgroup label="cv01 subs"/>
+  <testgroup label="cv01 sups"/>
+  <testgroup label="cv04 subs"/>
+  <testgroup label="cv04 sups"/>
+  <testgroup label="cv06 subs"/>
+  <testgroup label="cv06 sups"/>
+  <testgroup label="cv07 subs"/>
+  <testgroup label="cv07 sups"/>
+  <testgroup label="cv10 subs"/>
+  <testgroup label="cv10 sups"/>
   <testgroup label="cv13 smcp"/>
   <testgroup label="cv17 smcp"/>
   <testgroup label="cv20 smcp"/>
@@ -866,6 +878,7 @@ U+0069" stylename="cv31_1_ss05_1">
     </test>
   </testgroup>
   <testgroup label="cv67 cv68"/>
+  <testgroup label="cv67 cv76"/>
   <testgroup label="cv67 smcp"/>
   <testgroup label="cv68 smcp"/>
   <testgroup label="cv69 smcp"/>
@@ -1653,6 +1666,12 @@ U+2C65" stylename="ss05_1_ss13_1">
       <string>\u001EAB\u000328\u001EAD\u000328\u001EAF\u000328\u001EB1\u000328\u001EB3\u000328\u001EB5\u000328\u001EB7\u000328\u002C65\u000328</string>
     </test>
   </testgroup>
+  <testgroup label="subs sups"/>
+  <testgroup label="cv01 subs sups"/>
+  <testgroup label="cv04 subs sups"/>
+  <testgroup label="cv06 subs sups"/>
+  <testgroup label="cv07 subs sups"/>
+  <testgroup label="cv10 subs sups"/>
   <testgroup label="cv31 cv76 smcp"/>
   <testgroup label="cv31 smcp ss05">
     <test label="U+0069

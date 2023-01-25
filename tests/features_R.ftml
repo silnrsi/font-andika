@@ -39,6 +39,7 @@
       <style feats="'cv56' 1" name="cv56_1"/>
       <style feats="'cv56' 1, 'smcp' 1" name="cv56_1_smcp_1"/>
       <style feats="'cv67' 1" name="cv67_1"/>
+      <style feats="'cv67' 1, 'cv76' 1" name="cv67_1_cv76_1"/>
       <style feats="'cv67' 1, 'smcp' 1" name="cv67_1_smcp_1"/>
       <style feats="'cv75' 1" name="cv75_1"/>
       <style feats="'cv75' 1, 'smcp' 1" name="cv75_1_smcp_1"/>
@@ -383,6 +384,16 @@ U+1EF7
 U+1EF9" stylename="cv67_1">
       <comment>ModSmY LtnSmYDotAbv LtnSmYRingAbv LtnSmYGrave LtnSmYDotBlw LtnSmYHookAbv LtnSmYTilde</comment>
       <string>\u0002B8\u000315\u001E8F\u000315\u001E99\u000315\u001EF3\u000315\u001EF5\u000315\u001EF7\u000315\u001EF9\u000315</string>
+    </test>
+    <test label="U+0079
+U+0328">
+      <comment>LtnSmY CombOgonek</comment>
+      <string>y\u000328\u000315</string>
+    </test>
+    <test label="U+0079
+U+0328" stylename="cv67_1">
+      <comment>LtnSmY CombOgonek</comment>
+      <string>y\u000328\u000315</string>
     </test>
   </testgroup>
   <testgroup label="cv68"/>
@@ -976,10 +987,22 @@ U+01F5" stylename="ss14_1">
       <string>\u001E21\u000315</string>
     </test>
   </testgroup>
+  <testgroup label="subs"/>
+  <testgroup label="sups"/>
   <testgroup label="cv01 cv04"/>
   <testgroup label="cv01 cv06"/>
   <testgroup label="cv01 cv07"/>
   <testgroup label="cv01 cv10"/>
+  <testgroup label="cv01 subs"/>
+  <testgroup label="cv01 sups"/>
+  <testgroup label="cv04 subs"/>
+  <testgroup label="cv04 sups"/>
+  <testgroup label="cv06 subs"/>
+  <testgroup label="cv06 sups"/>
+  <testgroup label="cv07 subs"/>
+  <testgroup label="cv07 sups"/>
+  <testgroup label="cv10 subs"/>
+  <testgroup label="cv10 sups"/>
   <testgroup label="cv13 smcp"/>
   <testgroup label="cv17 smcp"/>
   <testgroup label="cv20 smcp"/>
@@ -1314,6 +1337,18 @@ U+2C66" stylename="cv56_1_smcp_1">
   <testgroup label="cv57 smcp"/>
   <testgroup label="cv62 smcp"/>
   <testgroup label="cv67 cv68"/>
+  <testgroup label="cv67 cv76">
+    <test label="U+0079
+U+0328">
+      <comment>LtnSmY CombOgonek</comment>
+      <string>y\u000328\u000315</string>
+    </test>
+    <test label="U+0079
+U+0328" stylename="cv67_1_cv76_1">
+      <comment>LtnSmY CombOgonek</comment>
+      <string>y\u000328\u000315</string>
+    </test>
+  </testgroup>
   <testgroup label="cv67 smcp">
     <test label="U+0079
 U+00FD
@@ -2284,6 +2319,12 @@ U+2C65" stylename="ss05_1_ss13_1">
       <string>\u001EAB\u000315\u001EAD\u000315\u001EAF\u000315\u001EB1\u000315\u001EB3\u000315\u001EB5\u000315\u001EB7\u000315\u002C65\u000315</string>
     </test>
   </testgroup>
+  <testgroup label="subs sups"/>
+  <testgroup label="cv01 subs sups"/>
+  <testgroup label="cv04 subs sups"/>
+  <testgroup label="cv06 subs sups"/>
+  <testgroup label="cv07 subs sups"/>
+  <testgroup label="cv10 subs sups"/>
   <testgroup label="cv31 cv76 smcp">
     <test label="U+012F">
       <comment>LtnSmIOgonek</comment>
