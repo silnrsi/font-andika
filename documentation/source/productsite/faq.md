@@ -1,14 +1,14 @@
 
 Many questions can be answered by consulting the following FAQ pages. Here are a few sample questions answered in each FAQ:
 
-- [SIL fonts in general](http://software.sil.org/fonts/faq)
+- [SIL fonts in general](https://software.sil.org/fonts/faq)
     - *How can I type...?*
     - *How can I use font features?*
     - *Will you add support for character...?*
     - *Will you add support for script...?*
     - *WIll you help me...?*
 
-- [SIL’s Latin, Cyrillic, and Greek fonts](http://software.sil.org/lcgfonts/faq).
+- [SIL’s Latin, Cyrillic, and Greek fonts](https://software.sil.org/lcgfonts/faq).
     - *How can I type IPA symbols?*
     - *How do I use both a single-story and double-story 'a' in italic?*
     - *Why don’t my diacritics position properly?*
@@ -32,8 +32,8 @@ Meaning — ‘Write!’
 
 #### *Why does the font have some Greek characters, but not all?*
 
-Although Andika includes some Greek characters, it is not intended to provide general support for the Greek language. The Greek characters that are included are there to support various notational systems (linguistic, logical, mathematical). Other fonts, such as [Gentium Plus](http://software.sil.org/gentium) provide complete Greek script support. 
+Although Andika includes some Greek characters, it is not intended to provide general support for the Greek language. The Greek characters that are included are there to support various notational systems (linguistic, logical, mathematical). Other fonts, such as [Gentium Plus](https://software.sil.org/gentium), provide complete Greek script support. 
 
 #### *Will you add full Greek script support?*
 
-We have no plans to do that, however the [OFL licensing](https://scripts.sil.org/OFL_web) allows anyone to add Greek support and freely distribute the font to others. It is even possible to [contribute that work back to the project](developer) and share it with others.
+We have no plans to do that. However, the [OFL licensing](https://scripts.sil.org/OFL_web) allows anyone to add Greek support and freely distribute the font to others. It is even possible to [contribute that work back to the project](developer) and share it with others.
