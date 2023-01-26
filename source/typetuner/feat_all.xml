@@ -9,6 +9,15 @@
 			<cmd name="encode" args="0031 one.NoBase" />
 			<cmd name="encode" args="2081 uni2081.NoBase" />
 			<cmd name="encode" args="00B9 onesuperior.NoBase" />
+			<cmd name="encode" args="2152 uni2152.NoBase" />
+			<cmd name="encode" args="00BD onehalf.NoBase" />
+			<cmd name="encode" args="00BC onequarter.NoBase" />
+			<cmd name="encode" args="2153 onethird.NoBase" />
+			<cmd name="encode" args="2155 uni2155.NoBase" />
+			<cmd name="encode" args="2159 uni2159.NoBase" />
+			<cmd name="encode" args="2150 uni2150.NoBase" />
+			<cmd name="encode" args="215B oneeighth.NoBase" />
+			<cmd name="encode" args="2151 uni2151.NoBase" />
 		</value>
 	</feature>
 	<feature name="Four" value="Standard (closed top)" tag="Dig4">
@@ -19,6 +28,9 @@
 			<cmd name="encode" args="0034 four.Open" />
 			<cmd name="encode" args="2084 uni2084.Open" />
 			<cmd name="encode" args="2074 uni2074.Open" />
+			<cmd name="encode" args="00BC onequarter.Open" />
+			<cmd name="encode" args="00BE threequarters.Open" />
+			<cmd name="encode" args="2158 uni2158.Open" />
 		</value>
 	</feature>
 	<feature name="Six and Nine" value="Standard (curved stems)" tag="Dig69">
@@ -32,6 +44,9 @@
 			<cmd name="encode" args="0039 nine.Diag" />
 			<cmd name="encode" args="2089 uni2089.Diag" />
 			<cmd name="encode" args="2079 uni2079.Diag" />
+			<cmd name="encode" args="2159 uni2159.Diag" />
+			<cmd name="encode" args="2151 uni2151.Diag" />
+			<cmd name="encode" args="215A uni215A.Diag" />
 		</value>
 	</feature>
 	<feature name="Seven" value="Standard (no bar)" tag="Dig7">
@@ -42,6 +57,8 @@
 			<cmd name="encode" args="0037 seven.Bar" />
 			<cmd name="encode" args="2087 uni2087.Bar" />
 			<cmd name="encode" args="2077 uni2077.Bar" />
+			<cmd name="encode" args="2150 uni2150.Bar" />
+			<cmd name="encode" args="215E seveneighths.Bar" />
 		</value>
 	</feature>
 	<feature name="Zero" value="Standard (no slash)" tag="Zro">
@@ -52,6 +69,8 @@
 			<cmd name="encode" args="0030 zero.Slash" />
 			<cmd name="encode" args="2080 uni2080.Slash" />
 			<cmd name="encode" args="2070 uni2070.Slash" />
+			<cmd name="encode" args="2189 uni2189.Slash" />
+			<cmd name="encode" args="2152 uni2152.Slash" />
 		</value>
 	</feature>
 	<feature name="Capital B hook" value="Standard (double bowl)" tag="LrgBHk">
@@ -195,6 +214,8 @@
 			<cmd name="encode" args="2097 uni2097.TailL" />
 			<cmd name="encode" args="013E lcaron.TailL" />
 			<cmd name="encode" args="A749 uniA749.TailL" />
+			<cmd name="encode" args="1DF26 u1DF26.TailL" />
+			<cmd name="encode" args="1079B u1079B.TailL" />
 			<cmd name="encode" args="006C l.TailL" />
 			<cmd name="encode" args="02E1 uni02E1.TailL" />
 			<cmd name="encode" args="013A lacute.TailL" />
@@ -313,6 +334,7 @@
 		<value name="No tail" tag="Strt">
 			<cmd name="encode" args="209C uni209C.NoTailT" />
 			<cmd name="encode" args="0165 tcaron.NoTailT" />
+			<cmd name="encode" args="1DF2A u1DF2A.NoTailT" />
 			<cmd name="encode" args="0074 t.NoTailT" />
 			<cmd name="encode" args="1D57 uni1D57.NoTailT" />
 			<cmd name="encode" args="036D uni036D.NoTailT" />
@@ -331,8 +353,13 @@
 			<cmd name="encode" args="01AD uni01AD.NoTailT" />
 			<cmd name="encode" args="1D7A uni1D7A.NoTailT" />
 			<cmd name="encode" args="02A8 uni02A8.NoTailT" />
+			<cmd name="encode" args="017AB u107AB.NoTailT" />
 			<cmd name="encode" args="02A6 uni02A6.NoTailT" />
+			<cmd name="encode" args="107AC u107AC.NoTailT" />
+			<cmd name="encode" args="AB67 uniAB67.NoTailT" />
+			<cmd name="encode" args="107AD u107AD.NoTailT" />
 			<cmd name="encode" args="02A7 uni02A7.NoTailT" />
+			<cmd name="encode" args="107AE u107AE.NoTailT" />
 			<cmd name="encode" args="1DF1C u1DF1C.NoTailT" />
 			<cmd name="encode" args="1DF17 u1DF17.NoTailT" />
 			<cmd name="encode" args="A729 uniA729.NoTailT" />
@@ -383,6 +410,7 @@
 			<cmd name="encode" args="1EF5 uni1EF5.NoTailY" />
 			<cmd name="encode" args="024F uni024F.NoTailY" />
 			<cmd name="encode" args="01B4 uni01B4.RtHook.NoTailY" />
+			<cmd name="encode" args="107A1 u107A1.NoTailY" />
 			<cmd name="encode" args="028E uni028E.NoTailY" />
 			<cmd name="encode" args="107A0 u107A0.NoTailY" />
 			<cmd name="encode" args="1DF06 u1DF06.NoTailY" />
@@ -395,6 +423,18 @@
 		<value name="Left hook" tag="LftHk">
 			<cmd name="encode" args="01B4 uni01B4" />
 			<cmd name="encode" args="01B3 uni01B3" />
+		</value>
+	</feature>
+	<feature name="Clicks" value="Standard (descending)" tag="Click">
+		<value name="Standard (descending)" tag="Dflt">
+			<cmd name="null" args="null" />
+		</value>
+		<value name="Baseline" tag="T">
+			<cmd name="encode" args="01C3 uni01C3.bascl" />
+			<cmd name="encode" args="01C0 uni01C0.bascl" />
+			<cmd name="encode" args="01C1 uni01C1.bascl" />
+			<cmd name="encode" args="01C2 uni01C2.bascl" />
+			<cmd name="encode" args="2980 uni2980.bascl" />
 		</value>
 	</feature>
 	<feature name="Modifier apostrophe" value="Standard (small)" tag="ModAp">
@@ -519,11 +559,20 @@
 		</value>
 		<value name="Serbian Macedonian forms" tag="SrMk">
 			<cmd name="encode" args="0431 uni0431.Serb" />
+			<cmd name="encode" args="1E052 u1E052.Serb" />
+			<cmd name="encode" args="1E031 u1E031.Serb" />
 			<cmd name="encode" args="0433 uni0433.Serb" />
+			<cmd name="encode" args="1E054 u1E054.Serb" />
+			<cmd name="encode" args="1E033 u1E033.Serb" />
 			<cmd name="encode" args="0453 uni0453.Serb" />
 			<cmd name="encode" args="043F uni043F.Serb" />
+			<cmd name="encode" args="1E05D u1E05D.Serb" />
+			<cmd name="encode" args="1E03D u1E03D.Serb" />
 			<cmd name="encode" args="0434 uni0434.Serb" />
+			<cmd name="encode" args="1E055 u1E055.Serb" />
+			<cmd name="encode" args="1E034 u1E034.Serb" />
 			<cmd name="encode" args="0442 uni0442.Serb" />
+			<cmd name="encode" args="1E040 u1E040.Serb" />
 		</value>
 	</feature>
 	<feature name="Chinantec tones" value="Standard" tag="CHZtn">
@@ -579,11 +628,13 @@
 			<cmd name="encode" args="01FB aringacute" />
 			<cmd name="encode" args="1E9A uni1E9A" />
 			<cmd name="encode" args="1EA3 uni1EA3" />
+			<cmd name="encode" args="A7BB uniA7BB" />
 			<cmd name="encode" args="1EA1 uni1EA1" />
 			<cmd name="encode" args="1E01 uni1E01" />
 			<cmd name="encode" args="0105 aogonek" />
 			<cmd name="encode" args="2C65 uni2C65" />
 			<cmd name="encode" args="1D4D uni1D4D" />
+			<cmd name="encode" args="1DDA uni1DDA" />
 			<cmd name="encode" args="01F5 uni01F5" />
 			<cmd name="encode" args="011D gcircumflex" />
 			<cmd name="encode" args="011F gbreve" />
@@ -727,6 +778,7 @@
 			<cmd name="encode" args="01FB aringacute" />
 			<cmd name="encode" args="1E9A uni1E9A" />
 			<cmd name="encode" args="1EA3 uni1EA3" />
+			<cmd name="encode" args="A7BB uniA7BB" />
 			<cmd name="encode" args="1EA1 uni1EA1" />
 			<cmd name="encode" args="1E01 uni1E01" />
 			<cmd name="encode" args="0105 aogonek" />
@@ -740,6 +792,7 @@
 		<value name="Double-story" tag="T">
 			<cmd name="encode" args="0067 g" />
 			<cmd name="encode" args="1D4D uni1D4D" />
+			<cmd name="encode" args="1DDA uni1DDA" />
 			<cmd name="encode" args="01F5 uni01F5" />
 			<cmd name="encode" args="011D gcircumflex" />
 			<cmd name="encode" args="011F gbreve" />
@@ -786,6 +839,7 @@
 			<cmd name="encode" args="01FB aringacute.sc" />
 			<cmd name="encode" args="1E9A uni1E9A.sc" />
 			<cmd name="encode" args="1EA3 uni1EA3.sc" />
+			<cmd name="encode" args="A7BB uniA7BB.sc" />
 			<cmd name="encode" args="1EA1 uni1EA1.sc" />
 			<cmd name="encode" args="1E01 uni1E01.sc" />
 			<cmd name="encode" args="0105 aogonek.sc" />
@@ -980,6 +1034,7 @@
 			<cmd name="encode" args="0457 uni0457.sc" />
 			<cmd name="encode" args="1E2F uni1E2F.sc" />
 			<cmd name="encode" args="1EC9 uni1EC9.sc" />
+			<cmd name="encode" args="A7BD uniA7BD.sc" />
 			<cmd name="encode" args="1E2D uni1E2D.sc" />
 			<cmd name="encode" args="1ECB uni1ECB.sc" />
 			<cmd name="encode" args="012F iogonek.sc" />
@@ -1233,6 +1288,7 @@
 			<cmd name="encode" args="01D6 uni01D6.sc" />
 			<cmd name="encode" args="016F uring.sc" />
 			<cmd name="encode" args="1EE7 uni1EE7.sc" />
+			<cmd name="encode" args="A7BF uniA7BF.sc" />
 			<cmd name="encode" args="1E77 uni1E77.sc" />
 			<cmd name="encode" args="1E75 uni1E75.sc" />
 			<cmd name="encode" args="1E73 uni1E73.sc" />
@@ -1333,6 +1389,7 @@
 			<cmd name="encode" args="01C0 uni01C0.sc" />
 			<cmd name="encode" args="01C1 uni01C1.sc" />
 			<cmd name="encode" args="01C2 uni01C2.sc" />
+			<cmd name="encode" args="2980 uni2980.sc" />
 			<cmd name="encode" args="A725 uniA725.sc" />
 			<cmd name="encode" args="A723 uniA723.sc" />
 		</value>
@@ -1397,6 +1454,13 @@
 		<test select="Caron-T SmTTail-Strt">
 			<cmd name="encode" args="0165 tcaron.Caron.NoTailT" />
 		</test>
+		<test select="Click-T SmCp-T">
+			<cmd name="encode" args="01C3 uni01C3.sc" />
+			<cmd name="encode" args="01C0 uni01C0.sc" />
+			<cmd name="encode" args="01C1 uni01C1.sc" />
+			<cmd name="encode" args="01C2 uni01C2.sc" />
+			<cmd name="encode" args="2980 uni2980.sc" />
+		</test>
 		<test select="CyShha-Uc SmCp-T">
 			<cmd name="encode" args="04BB uni04BB.sc" />
 		</test>
@@ -1435,6 +1499,7 @@
 			<cmd name="encode" args="01FB aringacute" />
 			<cmd name="encode" args="1E9A uni1E9A" />
 			<cmd name="encode" args="1EA3 uni1EA3" />
+			<cmd name="encode" args="A7BB uniA7BB" />
 			<cmd name="encode" args="1EA1 uni1EA1" />
 			<cmd name="encode" args="1E01 uni1E01" />
 			<cmd name="encode" args="0105 aogonek" />
@@ -1505,6 +1570,7 @@
 			<cmd name="encode" args="01FB aringacute.sc" />
 			<cmd name="encode" args="1E9A uni1E9A.sc" />
 			<cmd name="encode" args="1EA3 uni1EA3.sc" />
+			<cmd name="encode" args="A7BB uniA7BB.sc" />
 			<cmd name="encode" args="1EA1 uni1EA1.sc" />
 			<cmd name="encode" args="1E01 uni1E01.sc" />
 			<cmd name="encode" args="0105 aogonek.sc" />
@@ -1524,6 +1590,7 @@
 		<test select="DSG-T Lit-F">
 			<cmd name="encode" args="0067 g" />
 			<cmd name="encode" args="1D4D uni1D4D" />
+			<cmd name="encode" args="1DDA uni1DDA" />
 			<cmd name="encode" args="01F5 uni01F5" />
 			<cmd name="encode" args="011D gcircumflex" />
 			<cmd name="encode" args="011F gbreve" />
@@ -1545,6 +1612,19 @@
 			<cmd name="encode" args="0123 gcommaaccent.sc" />
 			<cmd name="encode" args="01E5 uni01E5.sc" />
 			<cmd name="encode" args="A7A1 uniA7A1.sc" />
+		</test>
+		<test select="Dig1-T Dig4-Opn">
+			<cmd name="encode" args="00BC onequarter.NoBase.Open" />
+		</test>
+		<test select="Dig1-T Dig69-T">
+			<cmd name="encode" args="2159 uni2159.NoBase.Diag" />
+			<cmd name="encode" args="2151 uni2151.NoBase.Diag" />
+		</test>
+		<test select="Dig1-T Dig7-T">
+			<cmd name="encode" args="2150 uni2150.NoBase.Bar" />
+		</test>
+		<test select="Dig1-T Zro-T">
+			<cmd name="encode" args="2152 uni2152.NoBase.Slash" />
 		</test>
 		<test select="Eng-Dflt SmCp-T">
 			<cmd name="encode" args="014B eng.sc" />
@@ -1651,6 +1731,7 @@
 			<cmd name="encode" args="01FB aringacute.sc" />
 			<cmd name="encode" args="1E9A uni1E9A.sc" />
 			<cmd name="encode" args="1EA3 uni1EA3.sc" />
+			<cmd name="encode" args="A7BB uniA7BB.sc" />
 			<cmd name="encode" args="1EA1 uni1EA1.sc" />
 			<cmd name="encode" args="1E01 uni1E01.sc" />
 			<cmd name="encode" args="0105 aogonek.sc" />
@@ -2033,6 +2114,7 @@
 			<cmd name="encode" args="01FB aringacute.sc" />
 			<cmd name="encode" args="1E9A uni1E9A.sc" />
 			<cmd name="encode" args="1EA3 uni1EA3.sc" />
+			<cmd name="encode" args="A7BB uniA7BB.sc" />
 			<cmd name="encode" args="1EA1 uni1EA1.sc" />
 			<cmd name="encode" args="1E01 uni1E01.sc" />
 			<cmd name="encode" args="0105 aogonek.sc" />
