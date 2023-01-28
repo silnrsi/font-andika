@@ -604,6 +604,7 @@
 			<cmd name="encode" args="00E4 adieresis" />
 			<cmd name="encode" args="00E3 atilde" />
 			<cmd name="encode" args="00E5 aring" />
+			<cmd name="encode" args="00AA ordfeminine" />
 			<cmd name="encode" args="2090 uni2090" />
 			<cmd name="encode" args="1D43 uni1D43" />
 			<cmd name="encode" args="0363 uni0363" />
@@ -754,6 +755,7 @@
 			<cmd name="encode" args="00E4 adieresis" />
 			<cmd name="encode" args="00E3 atilde" />
 			<cmd name="encode" args="00E5 aring" />
+			<cmd name="encode" args="00AA ordfeminine" />
 			<cmd name="encode" args="2090 uni2090" />
 			<cmd name="encode" args="1D43 uni1D43" />
 			<cmd name="encode" args="0363 uni0363" />
@@ -1484,6 +1486,7 @@
 			<cmd name="encode" args="00E4 adieresis" />
 			<cmd name="encode" args="00E3 atilde" />
 			<cmd name="encode" args="00E5 aring" />
+			<cmd name="encode" args="00AA ordfeminine" />
 			<cmd name="encode" args="2090 uni2090" />
 			<cmd name="encode" args="1D43 uni1D43" />
 			<cmd name="encode" args="0363 uni0363" />
