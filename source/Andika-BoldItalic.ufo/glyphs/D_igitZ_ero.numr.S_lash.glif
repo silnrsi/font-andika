@@ -4,10 +4,4 @@
   <outline>
     <component base="DigitZero.dnom.Slash" xOffset="245" yOffset="664"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>
