@@ -8,7 +8,7 @@ This release is focused on adding features and glyphs, including support for ove
 - Feature to display alternate design of clicks that sit on baseline
     - Baseline clicks (cv69)
  
-- Standard 'subs' and 'sups' features for numerals
+- Standard 'subs' and 'sups' features for numerals. These are not supported by *TypeTuner Web*.
     - Subscript numerals (subs)
     - Superscript numerals (sups)
 
@@ -250,8 +250,6 @@ This release is focused on adding features and glyphs, including support for ove
 - Precomposed fractions now included in alternate numeral features
 
 #### Notes
-
-- Special-purpose modified fonts, including *Literacy* and *Compact* versions have not been updated to version 6.200. They will be updated at the next major version (7). If you need any of the new features or characters in this version, but also need them supported in the special-purpose modified fonts please contact us.
 
 - The next major version (7) will address some complex pending issues and features and may include substantial changes to line spacing, glyph metrics, kerning, and even font family structure. If you have any requests for future versions please contact us as soon as possible. 
 
