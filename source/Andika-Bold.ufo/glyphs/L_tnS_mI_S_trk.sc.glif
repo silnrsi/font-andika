@@ -5,17 +5,6 @@
   <anchor x="472" y="1279" name="U"/>
   <outline>
     <contour>
-      <point x="120" y="719" type="line"/>
-      <point x="120" y="534" type="line"/>
-      <point x="833" y="534" type="line"/>
-      <point x="833" y="719" type="line"/>
-    </contour>
-    <contour>
-      <point x="126" y="1221" type="line"/>
-      <point x="126" y="1035" type="line"/>
-      <point x="341" y="1035" type="line"/>
-      <point x="341" y="185" type="line"/>
-      <point x="126" y="185" type="line"/>
       <point x="126" y="0" type="line"/>
       <point x="829" y="0" type="line"/>
       <point x="829" y="185" type="line"/>
@@ -23,6 +12,17 @@
       <point x="614" y="1035" type="line"/>
       <point x="829" y="1035" type="line"/>
       <point x="829" y="1221" type="line"/>
+      <point x="126" y="1221" type="line"/>
+      <point x="126" y="1035" type="line"/>
+      <point x="341" y="1035" type="line"/>
+      <point x="341" y="185" type="line"/>
+      <point x="126" y="185" type="line"/>
+    </contour>
+    <contour>
+      <point x="120" y="534" type="line"/>
+      <point x="833" y="534" type="line"/>
+      <point x="833" y="719" type="line"/>
+      <point x="120" y="719" type="line"/>
     </contour>
   </outline>
 </glyph>

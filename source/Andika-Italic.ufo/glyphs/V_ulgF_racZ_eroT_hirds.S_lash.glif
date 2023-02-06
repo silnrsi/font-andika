@@ -4,9 +4,12 @@
   <outline>
     <component base="DigitZero.numr.Slash" xOffset="45"/>
     <contour>
-      <point x="1013" y="73" type="line"/>
-      <point x="1057" y="24"/>
-      <point x="1161" y="-15"/>
+      <point x="177" y="-49" type="line"/>
+      <point x="317" y="-49" type="line"/>
+      <point x="1790" y="1568" type="line"/>
+      <point x="1650" y="1568" type="line"/>
+    </contour>
+    <contour>
       <point x="1261" y="-15" type="curve" smooth="yes"/>
       <point x="1442" y="-15"/>
       <point x="1610" y="121"/>
@@ -45,12 +48,9 @@
       <point x="1188" y="98"/>
       <point x="1099" y="140"/>
       <point x="1060" y="201" type="curve"/>
-    </contour>
-    <contour>
-      <point x="1650" y="1568" type="line"/>
-      <point x="177" y="-49" type="line"/>
-      <point x="317" y="-49" type="line"/>
-      <point x="1790" y="1568" type="line"/>
+      <point x="1013" y="73" type="line"/>
+      <point x="1057" y="24"/>
+      <point x="1161" y="-15"/>
     </contour>
   </outline>
 </glyph>

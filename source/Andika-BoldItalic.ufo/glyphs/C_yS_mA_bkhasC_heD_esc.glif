@@ -7,14 +7,14 @@
   <outline>
     <component base="CySmAbkhasChe"/>
     <contour>
-      <point x="742" y="0" type="line"/>
-      <point x="691" y="-121"/>
-      <point x="604" y="-327"/>
       <point x="552" y="-436" type="curve"/>
       <point x="802" y="-436" type="line"/>
       <point x="840" y="-327"/>
       <point x="915" y="-120"/>
       <point x="962" y="0" type="curve"/>
+      <point x="742" y="0" type="line"/>
+      <point x="691" y="-121"/>
+      <point x="604" y="-327"/>
     </contour>
   </outline>
 </glyph>

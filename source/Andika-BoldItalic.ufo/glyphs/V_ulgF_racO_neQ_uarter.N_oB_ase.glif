@@ -4,12 +4,15 @@
   <outline>
     <component base="DigitOne.numr.NoBase" xOffset="-40"/>
     <contour>
-      <point x="1642" y="1584" type="line"/>
       <point x="164" y="-50" type="line"/>
       <point x="344" y="-50" type="line"/>
       <point x="1823" y="1584" type="line"/>
+      <point x="1642" y="1584" type="line"/>
     </contour>
     <contour>
+      <point x="1305" y="0" type="line"/>
+      <point x="1474" y="0" type="line"/>
+      <point x="1529" y="218" type="line"/>
       <point x="1630" y="218" type="line"/>
       <point x="1665" y="359" type="line"/>
       <point x="1563" y="359" type="line"/>
@@ -18,14 +21,11 @@
       <point x="958" y="359" type="line"/>
       <point x="923" y="218" type="line"/>
       <point x="1359" y="218" type="line"/>
-      <point x="1305" y="0" type="line"/>
-      <point x="1474" y="0" type="line"/>
-      <point x="1529" y="218" type="line"/>
     </contour>
     <contour>
-      <point x="1394" y="359" type="line"/>
       <point x="1124" y="359" type="line"/>
       <point x="1485" y="724" type="line"/>
+      <point x="1394" y="359" type="line"/>
     </contour>
   </outline>
 </glyph>

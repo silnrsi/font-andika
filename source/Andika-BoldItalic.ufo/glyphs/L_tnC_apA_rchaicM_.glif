@@ -18,12 +18,22 @@
       <point x="1871" y="129" type="line"/>
     </contour>
     <contour>
-      <point x="1909" y="1445" type="line"/>
-      <point x="1649" y="1445" type="line"/>
-      <point x="1696" y="1292" type="line"/>
-      <point x="1719" y="0" type="line"/>
-      <point x="1889" y="0" type="line"/>
-      <point x="1941" y="129" type="line"/>
+      <point x="-20" y="0" type="curve"/>
+      <point x="290" y="0" type="line"/>
+      <point x="918" y="1317" type="line"/>
+      <point x="930" y="1445" type="line"/>
+      <point x="750" y="1445" type="line"/>
+      <point x="185" y="361" type="line" smooth="yes"/>
+      <point x="86" y="171"/>
+      <point x="30" y="78"/>
+    </contour>
+    <contour>
+      <point x="827" y="0" type="line"/>
+      <point x="997" y="0" type="line"/>
+      <point x="1049" y="129" type="line"/>
+      <point x="1017" y="1445" type="line"/>
+      <point x="757" y="1445" type="line"/>
+      <point x="804" y="1292" type="line"/>
     </contour>
     <contour>
       <point x="979" y="0" type="line"/>
@@ -34,22 +44,12 @@
       <point x="981" y="129" type="line"/>
     </contour>
     <contour>
-      <point x="918" y="1317" type="line"/>
-      <point x="930" y="1445" type="line"/>
-      <point x="750" y="1445" type="line"/>
-      <point x="185" y="361" type="line" smooth="yes"/>
-      <point x="86" y="171"/>
-      <point x="30" y="78"/>
-      <point x="-20" y="0" type="curve"/>
-      <point x="290" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="1017" y="1445" type="line"/>
-      <point x="757" y="1445" type="line"/>
-      <point x="804" y="1292" type="line"/>
-      <point x="827" y="0" type="line"/>
-      <point x="997" y="0" type="line"/>
-      <point x="1049" y="129" type="line"/>
+      <point x="1719" y="0" type="line"/>
+      <point x="1889" y="0" type="line"/>
+      <point x="1941" y="129" type="line"/>
+      <point x="1909" y="1445" type="line"/>
+      <point x="1649" y="1445" type="line"/>
+      <point x="1696" y="1292" type="line"/>
     </contour>
   </outline>
 </glyph>

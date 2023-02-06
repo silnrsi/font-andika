@@ -6,28 +6,6 @@
   <anchor x="530" y="1100" name="U"/>
   <outline>
     <contour>
-      <point x="905" y="960" type="line"/>
-      <point x="827" y="998"/>
-      <point x="708" y="1040"/>
-      <point x="545" y="1040" type="curve" smooth="yes"/>
-      <point x="202" y="1040"/>
-      <point x="110" y="818"/>
-      <point x="110" y="720" type="curve" smooth="yes"/>
-      <point x="110" y="594"/>
-      <point x="171" y="493"/>
-      <point x="455" y="432" type="curve" smooth="yes"/>
-      <point x="646" y="391"/>
-      <point x="690" y="348"/>
-      <point x="690" y="290" type="curve" smooth="yes"/>
-      <point x="690" y="243"/>
-      <point x="624" y="199"/>
-      <point x="530" y="199" type="curve" smooth="yes"/>
-      <point x="413" y="199"/>
-      <point x="224" y="259"/>
-      <point x="123" y="352" type="curve"/>
-      <point x="123" y="-177" type="line" smooth="yes"/>
-      <point x="123" y="-373"/>
-      <point x="232" y="-475"/>
       <point x="400" y="-475" type="curve" smooth="yes"/>
       <point x="491" y="-475"/>
       <point x="580" y="-431"/>
@@ -58,6 +36,28 @@
       <point x="674" y="816"/>
       <point x="791" y="760"/>
       <point x="866" y="721" type="curve"/>
+      <point x="905" y="960" type="line"/>
+      <point x="827" y="998"/>
+      <point x="708" y="1040"/>
+      <point x="545" y="1040" type="curve" smooth="yes"/>
+      <point x="202" y="1040"/>
+      <point x="110" y="818"/>
+      <point x="110" y="720" type="curve" smooth="yes"/>
+      <point x="110" y="594"/>
+      <point x="171" y="493"/>
+      <point x="455" y="432" type="curve" smooth="yes"/>
+      <point x="646" y="391"/>
+      <point x="690" y="348"/>
+      <point x="690" y="290" type="curve" smooth="yes"/>
+      <point x="690" y="243"/>
+      <point x="624" y="199"/>
+      <point x="530" y="199" type="curve" smooth="yes"/>
+      <point x="413" y="199"/>
+      <point x="224" y="259"/>
+      <point x="123" y="352" type="curve"/>
+      <point x="123" y="-177" type="line" smooth="yes"/>
+      <point x="123" y="-373"/>
+      <point x="232" y="-475"/>
     </contour>
   </outline>
 </glyph>

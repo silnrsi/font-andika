@@ -6,6 +6,7 @@
   <anchor x="998" y="1635" name="U"/>
   <outline>
     <contour>
+      <point x="-20" y="-485" type="curve"/>
       <point x="269" y="-485" type="line"/>
       <point x="273" y="-401"/>
       <point x="280" y="-308"/>
@@ -54,7 +55,6 @@
       <point x="30" y="-180" type="line" smooth="yes"/>
       <point x="4" y="-286"/>
       <point x="-20" y="-403"/>
-      <point x="-20" y="-485" type="curve"/>
     </contour>
   </outline>
 </glyph>

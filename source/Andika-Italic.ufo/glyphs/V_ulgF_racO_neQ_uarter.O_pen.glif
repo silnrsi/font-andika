@@ -4,8 +4,12 @@
   <outline>
     <component base="DigitFour.dnom.Open" xOffset="1040"/>
     <contour>
-      <point x="434" y="799" type="line"/>
-      <point x="249" y="799" type="line"/>
+      <point x="152" y="-49" type="line"/>
+      <point x="292" y="-49" type="line"/>
+      <point x="1767" y="1568" type="line"/>
+      <point x="1626" y="1568" type="line"/>
+    </contour>
+    <contour>
       <point x="223" y="696" type="line"/>
       <point x="718" y="696" type="line"/>
       <point x="744" y="799" type="line"/>
@@ -15,12 +19,8 @@
       <point x="400" y="1446" type="line"/>
       <point x="393" y="1338" type="line"/>
       <point x="594" y="1441" type="line"/>
-    </contour>
-    <contour>
-      <point x="1626" y="1568" type="line"/>
-      <point x="152" y="-49" type="line"/>
-      <point x="292" y="-49" type="line"/>
-      <point x="1767" y="1568" type="line"/>
+      <point x="434" y="799" type="line"/>
+      <point x="249" y="799" type="line"/>
     </contour>
   </outline>
 </glyph>
