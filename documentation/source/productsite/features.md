@@ -267,12 +267,12 @@ Left hook | <span class='andika-cv68-1-R normal'>Ƴ</span> | `cv68=1`
 
 #### y
 
-<span class='affects'>Affects: U+0079 U+024F U+02B8 U+00FD U+1EF3 U+0177 U+1E99 U+00FF U+1EF9 U+1E8F U+0233 U+1EF7 U+1EF5 U+01B4 U+028E U+F1CE U+F267</span>
+<span class='affects'>Affects: U+0079 U+024F U+02B8 U+00FD U+1EF3 U+0177 U+1E99 U+00FF U+1EF9 U+1E8F U+0233 U+1EF7 U+1EF5 U+01B4 U+028E U+107A1 U+1DF06</span>
 
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
-Standard      | <span class='andika-R normal'>y ɏ ʸ ý ỳ ŷ ẙ ÿ ỹ ẏ ȳ ỷ ỵ ƴ ʎ  </span> | `cv67=0`
-Straight tail | <span class='andika-cv67-1-R normal'>y ɏ ʸ ý ỳ ŷ ẙ ÿ ỹ ẏ ȳ ỷ ỵ ƴ ʎ  </span> | `cv67=1`
+Standard      | <span class='andika-R normal'>y ɏ ʸ ý ỳ ŷ ẙ ÿ ỹ ẏ ȳ ỷ ỵ ƴ ʎ 𐞡 𝼆</span> | `cv67=0`
+Straight tail | <span class='andika-cv67-1-R normal'>y ɏ ʸ ý ỳ ŷ ẙ ÿ ỹ ẏ ȳ ỷ ỵ ƴ ʎ 𐞡 𝼆</span> | `cv67=1`
 
 #### Ezh
 
