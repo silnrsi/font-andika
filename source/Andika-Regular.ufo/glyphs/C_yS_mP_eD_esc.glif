@@ -17,9 +17,7 @@
       <point x="355" y="875" type="line"/>
       <point x="835" y="875" type="line"/>
       <point x="835" y="0" type="line"/>
-      <point x="835" y="0"/>
-      <point x="1005" y="0"/>
-      <point x="1005" y="0" type="curve"/>
+      <point x="1005" y="0" type="line"/>
       <point x="1030" y="-125"/>
       <point x="1035" y="-313"/>
     </contour>

@@ -7,15 +7,11 @@
   <outline>
     <contour>
       <point x="577" y="0" type="curve"/>
-      <point x="577" y="0"/>
-      <point x="877" y="0"/>
-      <point x="877" y="0" type="curve"/>
+      <point x="877" y="0" type="line"/>
       <point x="877" y="635" type="line"/>
       <point x="1467" y="635" type="line"/>
       <point x="1467" y="0" type="line"/>
-      <point x="1467" y="0"/>
-      <point x="1767" y="0"/>
-      <point x="1767" y="0" type="curve"/>
+      <point x="1767" y="0" type="line"/>
       <point x="1752" y="80"/>
       <point x="1752" y="233"/>
       <point x="1752" y="430" type="curve" smooth="yes"/>
