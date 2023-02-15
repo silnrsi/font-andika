@@ -10,8 +10,10 @@
     <contour>
       <point x="430" y="0" type="curve"/>
       <point x="680" y="0" type="line"/>
-      <point x="871" y="493" type="line" smooth="yes"/>
-      <point x="913" y="606"/>
+      <point x="744" y="164"/>
+      <point x="808" y="329"/>
+      <point x="871" y="493" type="curve" smooth="yes"/>
+      <point x="914" y="605"/>
       <point x="953" y="692"/>
       <point x="979" y="747" type="curve" smooth="yes"/>
       <point x="1002" y="796"/>
@@ -28,18 +30,18 @@
       <point x="918" y="1007"/>
       <point x="861" y="954" type="curve" smooth="yes"/>
       <point x="780" y="879"/>
-      <point x="733" y="765"/>
+      <point x="733" y="766"/>
       <point x="690" y="650" type="curve" smooth="yes"/>
-      <point x="642" y="519"/>
-      <point x="556" y="290"/>
+      <point x="654" y="554"/>
+      <point x="593" y="388"/>
       <point x="556" y="290" type="curve"/>
       <point x="322" y="1020" type="line"/>
       <point x="10" y="1020" type="line"/>
       <point x="65" y="905"/>
       <point x="133" y="746"/>
       <point x="165" y="665" type="curve" smooth="yes"/>
-      <point x="227" y="510"/>
-      <point x="430" y="0"/>
+      <point x="210" y="552"/>
+      <point x="343" y="219"/>
     </contour>
   </outline>
 </glyph>
