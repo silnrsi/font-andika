@@ -6,27 +6,34 @@
   <anchor x="555" y="1100" name="U"/>
   <outline>
     <contour>
-      <point x="445" y="-490" type="curve"/>
+      <point x="245" y="1020" type="line"/>
+      <point x="35" y="1020" type="line"/>
+      <point x="89" y="922"/>
+      <point x="159" y="738"/>
+      <point x="198" y="648" type="curve" smooth="yes"/>
+      <point x="485" y="-20" type="line"/>
+      <point x="620" y="95" type="line"/>
+    </contour>
+    <contour>
+      <point x="1075" y="1020" type="curve"/>
+      <point x="865" y="1020" type="line"/>
+      <point x="480" y="95" type="line"/>
+      <point x="615" y="-20" type="line"/>
+      <point x="923" y="694" type="line" smooth="yes"/>
+      <point x="965" y="792"/>
+      <point x="1033" y="943"/>
+    </contour>
+    <contour>
       <point x="655" y="-490" type="line"/>
       <point x="640" y="-410"/>
       <point x="640" y="-252"/>
       <point x="640" y="-55" type="curve" smooth="yes"/>
-      <point x="640" y="38" type="line"/>
-      <point x="923" y="694" type="line" smooth="yes"/>
-      <point x="965" y="792"/>
-      <point x="1033" y="943"/>
-      <point x="1075" y="1020" type="curve"/>
-      <point x="865" y="1020" type="line"/>
-      <point x="551" y="265" type="line"/>
-      <point x="245" y="1020" type="line"/>
-      <point x="35" y="1020" type="line"/>
-      <point x="86" y="922"/>
-      <point x="161" y="739"/>
-      <point x="198" y="648" type="curve"/>
-      <point x="460" y="38" type="line"/>
+      <point x="640" y="105" type="line"/>
+      <point x="460" y="105" type="line"/>
       <point x="460" y="-55" type="line" smooth="yes"/>
       <point x="460" y="-252"/>
       <point x="460" y="-410"/>
+      <point x="445" y="-490" type="curve"/>
     </contour>
     <contour>
       <point x="140" y="0" type="line"/>
