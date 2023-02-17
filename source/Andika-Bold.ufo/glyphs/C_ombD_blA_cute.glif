@@ -4,17 +4,6 @@
   <anchor x="-588" y="1635" name="U"/>
   <anchor x="-610" y="1100" name="_U"/>
   <outline>
-    <contour>
-      <point x="-568" y="1200" type="line"/>
-      <point x="-358" y="1200" type="line"/>
-      <point x="-58" y="1600" type="line"/>
-      <point x="-358" y="1600" type="line"/>
-    </contour>
-    <contour>
-      <point x="-978" y="1200" type="line"/>
-      <point x="-768" y="1200" type="line"/>
-      <point x="-468" y="1600" type="line"/>
-      <point x="-768" y="1600" type="line"/>
-    </contour>
+    <component base="DblAcuteAccent" xOffset="-978"/>
   </outline>
 </glyph>

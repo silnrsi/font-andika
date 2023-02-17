@@ -4,23 +4,7 @@
   <anchor x="-552" y="-850" name="L"/>
   <anchor x="-552" y="-100" name="_L"/>
   <outline>
-    <contour>
-      <point x="-1387" y="-857" type="line"/>
-      <point x="-502" y="-557" type="line"/>
-      <point x="-502" y="-447" type="line"/>
-      <point x="-1387" y="-147" type="line"/>
-      <point x="-1387" y="-252" type="line"/>
-      <point x="-657" y="-502" type="line"/>
-      <point x="-1387" y="-752" type="line"/>
-    </contour>
-    <contour>
-      <point x="-532" y="-870" type="line"/>
-      <point x="-422" y="-870" type="line"/>
-      <point x="-142" y="-255" type="line"/>
-      <point x="138" y="-870" type="line"/>
-      <point x="248" y="-870" type="line"/>
-      <point x="-87" y="-135" type="line"/>
-      <point x="-197" y="-135" type="line"/>
-    </contour>
+    <component base="ModRtArrwhd" xOffset="-1487" yOffset="-1767"/>
+    <component base="ModUpArrwhd" xOffset="-632" yOffset="-1755"/>
   </outline>
 </glyph>

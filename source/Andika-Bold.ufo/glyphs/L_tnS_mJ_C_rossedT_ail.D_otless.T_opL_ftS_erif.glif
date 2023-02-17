@@ -40,7 +40,7 @@
     <contour>
       <point x="179" y="820" type="line"/>
       <point x="676" y="820" type="line"/>
-      <point x="744" y="1020" type="line"/>
+      <point x="676" y="1020" type="line"/>
       <point x="179" y="1020" type="line"/>
     </contour>
   </outline>

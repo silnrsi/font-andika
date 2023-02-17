@@ -39,14 +39,10 @@
       <point x="765" y="-470"/>
     </contour>
     <contour>
-      <point x="295" y="0" type="curve"/>
+      <point x="295" y="0" type="line"/>
       <point x="480" y="0" type="line"/>
-      <point x="480" y="138"/>
-      <point x="480" y="1375"/>
-      <point x="480" y="1375" type="curve"/>
+      <point x="480" y="1375" type="line"/>
       <point x="295" y="1375" type="line"/>
-      <point x="295" y="1375"/>
-      <point x="295" y="166"/>
     </contour>
   </outline>
 </glyph>

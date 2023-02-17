@@ -9,13 +9,13 @@
       <point x="246" y="-490" type="curve"/>
       <point x="526" y="-490" type="line"/>
       <point x="948" y="666" type="line" smooth="yes"/>
-      <point x="981" y="758"/>
-      <point x="1020" y="865"/>
+      <point x="982" y="758"/>
+      <point x="1022" y="865"/>
       <point x="1080" y="1020" type="curve"/>
       <point x="788" y="1020" type="line"/>
       <point x="448" y="-16" type="line" smooth="yes"/>
-      <point x="399" y="-167"/>
-      <point x="317" y="-334"/>
+      <point x="398" y="-167"/>
+      <point x="319" y="-336"/>
     </contour>
     <contour>
       <point x="457" y="-28" type="line"/>

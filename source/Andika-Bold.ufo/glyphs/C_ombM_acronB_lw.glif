@@ -4,11 +4,6 @@
   <anchor x="-580" y="-450" name="L"/>
   <anchor x="-580" y="-100" name="_L"/>
   <outline>
-    <contour>
-      <point x="-995" y="-370" type="line"/>
-      <point x="-165" y="-370" type="line"/>
-      <point x="-165" y="-170" type="line"/>
-      <point x="-995" y="-170" type="line"/>
-    </contour>
+    <component base="ModLowMacron" xOffset="-995"/>
   </outline>
 </glyph>
