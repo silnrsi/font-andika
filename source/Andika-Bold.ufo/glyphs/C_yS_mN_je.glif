@@ -20,9 +20,9 @@
     </contour>
     <contour>
       <point x="885" y="1020" type="line"/>
-      <point x="885" y="1020"/>
-      <point x="885" y="777"/>
-      <point x="885" y="640" type="curve" smooth="yes"/>
+      <point x="885" y="916"/>
+      <point x="885" y="740"/>
+      <point x="885" y="640" type="curve"/>
       <point x="455" y="640" type="line"/>
       <point x="455" y="1020" type="line"/>
       <point x="160" y="1020" type="line"/>
