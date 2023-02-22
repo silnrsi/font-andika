@@ -17,9 +17,8 @@
       <point x="1109" y="1133"/>
       <point x="796" y="1158" type="curve"/>
       <point x="796" y="1189"/>
-      <point x="797" y="1238"/>
-      <point x="800" y="1294" type="curve"/>
-      <point x="794" y="1303" type="line"/>
+      <point x="796" y="1247"/>
+      <point x="801" y="1303" type="curve"/>
       <point x="614" y="1303" type="line"/>
       <point x="618" y="1247"/>
       <point x="620" y="1188"/>
