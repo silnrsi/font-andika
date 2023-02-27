@@ -44,10 +44,14 @@
       <point x="453" y="0"/>
     </contour>
     <contour>
-      <point x="434" y="-216" type="line"/>
-      <point x="574" y="-216" type="line"/>
-      <point x="1018" y="1568" type="line"/>
-      <point x="878" y="1568" type="line"/>
+      <point x="429" y="-216" type="line"/>
+      <point x="569" y="-216" type="line"/>
+      <point x="781" y="636" type="line"/>
+      <point x="808" y="702" type="line"/>
+      <point x="1023" y="1568" type="line"/>
+      <point x="883" y="1568" type="line"/>
+      <point x="686" y="778" type="line"/>
+      <point x="662" y="722" type="line"/>
     </contour>
   </outline>
 </glyph>
