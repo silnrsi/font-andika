@@ -2,12 +2,12 @@
 <glyph name="LtnSmYRingAbv" format="2">
   <advance width="976"/>
   <unicode hex="1E99"/>
-  <anchor x="720" y="-100" name="L"/>
-  <anchor x="1170" y="1000" name="R"/>
-  <anchor x="794" y="1635" name="U"/>
+  <anchor x="714" y="-100" name="L"/>
+  <anchor x="1233" y="1001" name="R"/>
+  <anchor x="818" y="1635" name="U"/>
   <outline>
     <component base="LtnSmY"/>
-    <component base="CombRingAbv" xOffset="1015"/>
+    <component base="CombRingAbv" xOffset="1039"/>
   </outline>
   <lib>
     <dict>

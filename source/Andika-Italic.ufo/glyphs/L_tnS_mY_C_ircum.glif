@@ -2,12 +2,12 @@
 <glyph name="LtnSmYCircum" format="2">
   <advance width="976"/>
   <unicode hex="0177"/>
-  <anchor x="720" y="-100" name="L"/>
-  <anchor x="1170" y="1000" name="R"/>
-  <anchor x="729" y="1635" name="U"/>
+  <anchor x="714" y="-100" name="L"/>
+  <anchor x="1233" y="1001" name="R"/>
+  <anchor x="753" y="1635" name="U"/>
   <outline>
     <component base="LtnSmY"/>
-    <component base="CombCircum" xOffset="950"/>
+    <component base="CombCircum" xOffset="974"/>
   </outline>
   <lib>
     <dict>

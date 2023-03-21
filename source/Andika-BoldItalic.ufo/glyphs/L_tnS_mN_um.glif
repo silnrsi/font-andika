@@ -63,13 +63,13 @@
       <point x="915" y="-271" type="curve"/>
     </contour>
     <contour>
-      <point x="980" y="0" type="line"/>
       <point x="1610" y="0" type="line"/>
       <point x="1666" y="228" type="line"/>
       <point x="1590" y="213"/>
       <point x="1514" y="213"/>
       <point x="1443" y="213" type="curve" smooth="yes"/>
       <point x="1108" y="213" type="line"/>
+      <point x="980" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

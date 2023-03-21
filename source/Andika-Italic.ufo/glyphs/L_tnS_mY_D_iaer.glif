@@ -2,12 +2,12 @@
 <glyph name="LtnSmYDiaer" format="2">
   <advance width="976"/>
   <unicode hex="00FF"/>
-  <anchor x="720" y="-100" name="L"/>
-  <anchor x="1170" y="1000" name="R"/>
-  <anchor x="727" y="1505" name="U"/>
+  <anchor x="714" y="-100" name="L"/>
+  <anchor x="1233" y="1001" name="R"/>
+  <anchor x="751" y="1505" name="U"/>
   <outline>
     <component base="LtnSmY"/>
-    <component base="CombDiaer" xOffset="980"/>
+    <component base="CombDiaer" xOffset="1004"/>
   </outline>
   <lib>
     <dict>

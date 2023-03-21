@@ -2,12 +2,12 @@
 <glyph name="LtnSmYDotBlw" format="2">
   <advance width="976"/>
   <unicode hex="1EF5"/>
-  <anchor x="620" y="-500" name="L"/>
-  <anchor x="1170" y="1000" name="R"/>
-  <anchor x="630" y="1100" name="U"/>
+  <anchor x="614" y="-500" name="L"/>
+  <anchor x="1233" y="1001" name="R"/>
+  <anchor x="654" y="1100" name="U"/>
   <outline>
     <component base="LtnSmY"/>
-    <component base="CombDotBlw" xOffset="1375"/>
+    <component base="CombDotBlw" xOffset="1369"/>
   </outline>
   <lib>
     <dict>
