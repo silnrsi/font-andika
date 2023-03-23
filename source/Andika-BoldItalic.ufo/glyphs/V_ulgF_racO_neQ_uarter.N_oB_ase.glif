@@ -12,7 +12,9 @@
     <contour>
       <point x="1305" y="0" type="line"/>
       <point x="1474" y="0" type="line"/>
-      <point x="1529" y="218" type="line"/>
+      <point x="1492" y="73"/>
+      <point x="1511" y="145"/>
+      <point x="1529" y="218" type="curve"/>
       <point x="1630" y="218" type="line"/>
       <point x="1665" y="359" type="line"/>
       <point x="1563" y="359" type="line"/>
