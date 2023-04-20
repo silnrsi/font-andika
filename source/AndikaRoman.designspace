@@ -3,6 +3,8 @@
     <axes>
         <axis default="400.0" maximum="700.0" minimum="400.0" name="weight" tag="wght">
             <map input="400.0" output="400.0" />
+            <map input="500.0" output="500.0" />
+            <map input="600.0" output="600.0" />
             <map input="700.0" output="700.0" />
             <labelname xml:lang="en">Weight</labelname>
         </axis>
@@ -16,7 +18,7 @@
         </axis>
     </axes>
     <sources>
-        <source familyname="Andika" filename="Andika-Regular.ufo" name="Andika Regular" stylename="Regular">
+        <source familyname="Andika" filename="masters/Andika-Regular.ufo" name="Andika Regular" stylename="Regular">
             <lib copy="1" />
             <groups copy="1" />
             <features copy="1" />
@@ -27,7 +29,7 @@
                 <dimension name="custom" xvalue="0.000000" />
             </location>
         </source>
-        <source familyname="Andika" filename="Andika-Bold.ufo" name="Andika Bold" stylename="Bold">
+        <source familyname="Andika" filename="masters/Andika-Bold.ufo" name="Andika Bold" stylename="Bold">
             <location>
                 <dimension name="weight" xvalue="700.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -36,7 +38,7 @@
         </source>
     </sources>
     <instances>
-        <instance familyname="Andika" filename="Andika-Regular.ufo" name="Andika Regular" stylemapfamilyname="Andika" stylemapstylename="regular" stylename="Regular">
+        <instance familyname="Andika" filename="instances/Andika-Regular.ufo" name="Andika Regular" stylemapfamilyname="Andika" stylemapstylename="regular" stylename="Regular" postscriptfontname="Andika-Regular">
             <location>
                 <dimension name="weight" xvalue="400.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -45,7 +47,25 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Andika" filename="Andika-Bold.ufo" name="Andika Bold" stylemapfamilyname="Andika" stylemapstylename="bold" stylename="Bold">
+        <instance familyname="Andika" filename="instances/Andika-Medium.ufo" name="Andika Medium" stylemapfamilyname="Andika Medium" stylemapstylename="regular" stylename="Medium" postscriptfontname="Andika-Medium">
+            <location>
+                <dimension name="weight" xvalue="500.000000" />
+                <dimension name="width" xvalue="100.000000" />
+                <dimension name="custom" xvalue="0.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Andika" filename="instances/Andika-SemiBold.ufo" name="Andika SemiBold" stylemapfamilyname="Andika SemiBold" stylemapstylename="regular" stylename="SemiBold" postscriptfontname="Andika-SemiBold">
+            <location>
+                <dimension name="weight" xvalue="600.000000" />
+                <dimension name="width" xvalue="100.000000" />
+                <dimension name="custom" xvalue="0.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Andika" filename="instances/Andika-Bold.ufo" name="Andika Bold" stylemapfamilyname="Andika" stylemapstylename="bold" stylename="Bold" postscriptfontname="Andika-Bold">
             <location>
                 <dimension name="weight" xvalue="700.000000" />
                 <dimension name="width" xvalue="100.000000" />

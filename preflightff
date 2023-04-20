@@ -1,28 +1,28 @@
 #!/bin/sh
 
 echo "-----Fixing FontForge debris and normalizing UFOs..."
-psffixffglifs source/Andika-Regular.ufo -p checkfix=fix     &
-psffixffglifs source/Andika-Bold.ufo -p checkfix=fix        &
-psffixffglifs source/Andika-Italic.ufo -p checkfix=fix      &
-psffixffglifs source/Andika-BoldItalic.ufo -p checkfix=fix  &
+psffixffglifs source/masters/Andika-Regular.ufo -p checkfix=fix     &
+psffixffglifs source/masters/Andika-Bold.ufo -p checkfix=fix        &
+psffixffglifs source/masters/Andika-Italic.ufo -p checkfix=fix      &
+psffixffglifs source/masters/Andika-BoldItalic.ufo -p checkfix=fix  &
 wait
 
 echo "-----Updating production names in Regular..."
-psfsetpsnames -q -p checkfix=fix -i source/glyph_data.csv source/Andika-Regular.ufo -p backup=False -x
+psfsetpsnames -q -p checkfix=fix -i source/glyph_data.csv source/masters/Andika-Regular.ufo -p backup=False -x
 
 echo "-----Updating glyph orders in Regular..."
-psfsetglyphorder -q --header sort_final_a -i source/glyph_data.csv source/Andika-Regular.ufo -p backup=False -x
+psfsetglyphorder -q --header sort_final_a -i source/glyph_data.csv source/masters/Andika-Regular.ufo -p backup=False -x
 
 echo "-----Rebuilding composites..."
-psfbuildcomp -i source/composites.txt -c -n source/Andika-Regular.ufo -p backup=False
-psfbuildcomp -i source/composites.txt -c -n source/Andika-Bold.ufo -p backup=False
-psfbuildcomp -i source/composites.txt -c -n source/Andika-Italic.ufo -p backup=False
-psfbuildcomp -i source/composites.txt -c -n source/Andika-BoldItalic.ufo -p backup=False
+psfbuildcomp -i source/composites.txt -c -n source/masters/Andika-Regular.ufo -p backup=False
+psfbuildcomp -i source/composites.txt -c -n source/masters/Andika-Bold.ufo -p backup=False
+psfbuildcomp -i source/composites.txt -c -n source/masters/Andika-Italic.ufo -p backup=False
+psfbuildcomp -i source/composites.txt -c -n source/masters/Andika-BoldItalic.ufo -p backup=False
 
 echo "-----Syncing glyph orders, psnames, and other metadata to other UFOs..."
 psfsyncmasters -q source/AndikaRoman.designspace source/AndikaItalic.designspace
 
 # echo "-----Updating woff metadata file..."
-# psfmakewoffmetadata -q -n "Andika" -i "org.sil.fonts" source/Andika-Regular.ufo
+# psfmakewoffmetadata -q -n "Andika" -i "org.sil.fonts" source/masters/Andika-Regular.ufo
 
 echo "-----Preflight completed!"

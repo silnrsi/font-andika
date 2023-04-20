@@ -1,1 +1,1 @@
-python3 makeromanclasses.py -ox ../source/classes.xml ../source/Andika-Regular.ufo
+python3 makeromanclasses.py -ox ../source/classes.xml ../source/masters/Andika-Regular.ufo

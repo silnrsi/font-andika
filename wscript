@@ -11,7 +11,7 @@ familyname = APPNAME
 DEBPKG = 'fonts-sil-andika'
 
 # Get VERSION and BUILDLABEL from Regular UFO; must be first function call:
-getufoinfo('source/' + familyname + '-Regular' + '.ufo')
+getufoinfo('source/masters/' + familyname + '-Regular' + '.ufo')
 
 ftmlTest('tools/ftml-smith.xsl')
 
@@ -22,7 +22,7 @@ omitapps = '--omitaps "C _C L11 L12 L13 L21 L22 L23 L31 L32 L33 ' + \
                 'C11 C12 C13 C21 C22 C23 C31 C32 C33 U11 U12 U13 U21 U22 U23 U31 U32 U33"'
 
 cmds = []
-cmds.append(cmd('psfchangettfglyphnames ${SRC} ${DEP} ${TGT}', ['${DS:FILE}']))
+cmds.append(cmd('psfchangettfglyphnames ${SRC} ${DEP} ${TGT}', ['${source}']))
 cmds.append(cmd('${TTFAUTOHINT} -n -W ${DEP} ${TGT}'))
 
 for dspace in ('Roman', 'Italic'):
