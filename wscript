@@ -29,11 +29,8 @@ for dspace in ('Roman', 'Italic'):
 #for dspace in ('Roman',):
 #for dspace in ('Italic',):
     designspace('source/' + familyname + dspace + '.designspace',
-#                target = process('${DS:FILENAME_BASE}.ttf', 
-#                    cmd('psfchangettfglyphnames ${SRC} ${DEP} ${TGT}', ['${DS:FILE}'])),
                 target = process('${DS:FILENAME_BASE}.ttf', *cmds),
                 instances = ['Andika Regular'] if '--quick' in opts else None,
-#                ap = 'source/${DS:FILENAME_BASE}_ap.xml',
 #                classes = 'source/${DS:FAMILYNAME_NOSPC}_classes.xml', # fails for Gentium Book
                 classes = 'source/classes.xml',
                 opentype = fea('source/${DS:FILENAME_BASE}.fea',
@@ -45,14 +42,6 @@ for dspace in ('Roman', 'Italic'):
                     mapfile = 'source/${DS:FILENAME_BASE}.map',
                     to_ufo = 'True' # copies to instance UFOs
                     ),
-#               graphite = gdl('source/${DS:FILENAME_BASE}.gdl',
-#                   master = 'source/graphite/main.gdh',
-#                   make_params = omitapps,
-#                   params = '-e gdlerr-${DS:FILENAME_BASE}.txt',
-#                   depends = ('source/graphite/features.gdh', 
-#                       'source/graphite/pitches.gdh', 
-#                       'source/graphite/stddef.gdh')
-#                   ),
                 typetuner = typetuner('source/typetuner/feat_all.xml'),
                 woff = woff('web/${DS:FILENAME_BASE}.woff',
                     metadata=f'../source/{familyname}-WOFF-metadata.xml'),
