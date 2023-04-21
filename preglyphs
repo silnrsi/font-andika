@@ -1,4 +1,4 @@
 #!/bin/sh
 
-psfufo2glyphs --nofea source/AndikaRoman.designspace source/AndikaRoman.glyphs -l source/logs/ufo2gR.log
-psfufo2glyphs --nofea source/AndikaItalic.designspace source/AndikaItalic.glyphs -l source/logs/ufo2gI.log
+psfufo2glyphs --nofea source/AndikaRoman.designspace source/masters/AndikaRoman.glyphs -l source/logs/ufo2gR.log
+psfufo2glyphs --nofea source/AndikaItalic.designspace source/masters/AndikaItalic.glyphs -l source/logs/ufo2gI.log

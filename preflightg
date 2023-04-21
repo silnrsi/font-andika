@@ -1,8 +1,8 @@
 #!/bin/sh
 
 echo "-----Updating UFOs from Glyphs file..."
-psfglyphs2ufo --preservefea source/AndikaRoman.glyphs source/masters  &
-psfglyphs2ufo --preservefea source/AndikaItalic.glyphs source/masters &
+psfglyphs2ufo --preservefea source/masters/AndikaRoman.glyphs source/masters  &
+psfglyphs2ufo --preservefea source/masters/AndikaItalic.glyphs source/masters &
 wait
 
 echo "-----Normalizing Regular UFO..."
