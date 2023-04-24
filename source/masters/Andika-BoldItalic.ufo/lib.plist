@@ -13,7 +13,8 @@
   <string>Italic</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>!"#$%&amp;'()*+,-.//0123456789:;&lt;=&gt;?@</string>
+    <string>ABCDEFGHIJKLMNOPQRSTUVWXYZ[/ReverseSolidus ]^_`abcdefghijklmnopqrstuvwxyz{|}~</string>
+    <string>/CombDiaer ÄÅÇÉÑÖÜ/LtnSmAAcute/LtnSmAGrave/CombCircum/LtnSmACircum/LtnSmADiaer/LtnSmATilde/LtnSmARingAbv çéèêëíìîïñóòôöõúùûü/Dagger °¢£§/Bullet ¶ß®©/TradeMrkSgn ´¨/NotEqTo ÆØ/Infinity ±/LTOrEqTo/GTOrEqTo ¥µ/PartialDiff/NArySummation/NAryProduct/GrSmPi/Integral/FemOrdIndicator º/OhmSgn æø¿¡¬/SqrRoot/LtnSmFHook/AlmostEqTo/Increment «»/HorizEllipsis/NoBreakSpace ÀÃÕ/LtnCapLigOe/LtnSmLigOe/EnDash/EmDash/LftDblQuotMrk/RtDblQuotMrk/LftSglQuotMrk/RtSglQuotMrk ÷/Lozenge/LtnSmYDiaer/LtnCapYDiaer/FracSlash ¤/SglLftPtngAngQuotMrk/SglRtPtngAngQuotMrk/LtnSmLigFi/LtnSmLigFl/DblDagger ·/SglLow9QuotMrk/DblLow9QuotMrk/PerMilleSgn ÂÊÁËÈÍÎÏÌÓÔ/DottedCirc ÒÚÛÙ/LtnSmDotlessI/ModCircumAccent/SmTilde ¯/Breve/DotAbv/RingAbv ¸/DblAcuteAccent/Ogonek/Caron</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

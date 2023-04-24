@@ -5,13 +5,13 @@
   <anchor x="788" y="1635" name="U"/>
   <outline>
     <contour>
+      <point x="417" y="1188" type="line"/>
+      <point x="674" y="1416" type="line"/>
+      <point x="817" y="1188" type="line"/>
       <point x="1056" y="1188" type="line"/>
       <point x="845" y="1584" type="line"/>
       <point x="545" y="1584" type="line"/>
       <point x="177" y="1188" type="line"/>
-      <point x="417" y="1188" type="line"/>
-      <point x="674" y="1416" type="line"/>
-      <point x="817" y="1188" type="line"/>
     </contour>
   </outline>
 </glyph>
