@@ -13,7 +13,7 @@
   <string>Italic</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/LtnSmSMiddleTilde</string>
+    <string>!"#$%&amp;'()*+,-.//0123456789:;&lt;=&gt;?@</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

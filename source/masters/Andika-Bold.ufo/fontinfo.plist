@@ -13,7 +13,7 @@
   <key>familyName</key>
   <string>Andika</string>
   <key>openTypeHeadCreated</key>
-  <string>2023/03/23 10:20:43</string>
+  <string>2023/04/24 08:56:57</string>
   <key>openTypeHeadFlags</key>
   <array>
     <integer>3</integer>
@@ -232,6 +232,10 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <integer>-110</integer>
   <key>postscriptUnderlineThickness</key>
   <integer>80</integer>
+  <key>styleMapFamilyName</key>
+  <string>Andika</string>
+  <key>styleMapStyleName</key>
+  <string>bold</string>
   <key>styleName</key>
   <string>Bold</string>
   <key>trademark</key>
