@@ -9,13 +9,6 @@
   <outline>
     <component base="LtnCapA" xOffset="40"/>
     <contour>
-      <point x="292" y="1328" type="line"/>
-      <point x="441" y="1328"/>
-      <point x="497" y="1288"/>
-      <point x="497" y="1239" type="curve" smooth="yes"/>
-      <point x="497" y="1129"/>
-      <point x="323" y="1077"/>
-      <point x="235" y="1051" type="curve"/>
       <point x="248" y="987" type="line"/>
       <point x="412" y="1022"/>
       <point x="643" y="1114"/>
@@ -23,6 +16,13 @@
       <point x="643" y="1388"/>
       <point x="532" y="1453"/>
       <point x="378" y="1453" type="curve"/>
+      <point x="292" y="1328" type="line"/>
+      <point x="441" y="1328"/>
+      <point x="497" y="1288"/>
+      <point x="497" y="1239" type="curve" smooth="yes"/>
+      <point x="497" y="1129"/>
+      <point x="323" y="1077"/>
+      <point x="235" y="1051" type="curve"/>
     </contour>
   </outline>
 </glyph>

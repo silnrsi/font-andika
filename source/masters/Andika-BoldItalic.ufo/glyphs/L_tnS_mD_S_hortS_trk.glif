@@ -9,10 +9,10 @@
   <outline>
     <component base="LtnSmD"/>
     <contour>
-      <point x="271" y="618" type="line"/>
       <point x="223" y="435" type="line"/>
       <point x="1125" y="435" type="line"/>
       <point x="1173" y="618" type="line"/>
+      <point x="271" y="618" type="line"/>
     </contour>
   </outline>
 </glyph>

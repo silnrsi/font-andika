@@ -32,16 +32,16 @@
       <point x="1135" y="130" type="curve"/>
     </contour>
     <contour>
-      <point x="30" y="530" type="line"/>
-      <point x="748" y="530" type="line"/>
-      <point x="788" y="675" type="line"/>
-      <point x="70" y="675" type="line"/>
-    </contour>
-    <contour>
       <point x="30" y="800" type="line"/>
       <point x="816" y="800" type="line"/>
       <point x="856" y="945" type="line"/>
       <point x="70" y="945" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="530" type="line"/>
+      <point x="748" y="530" type="line"/>
+      <point x="788" y="675" type="line"/>
+      <point x="70" y="675" type="line"/>
     </contour>
   </outline>
 </glyph>
