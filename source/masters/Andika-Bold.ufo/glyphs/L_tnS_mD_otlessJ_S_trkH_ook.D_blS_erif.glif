@@ -35,16 +35,16 @@
       <point x="943" y="1322" type="curve"/>
     </contour>
     <contour>
-      <point x="80" y="830" type="line"/>
-      <point x="555" y="830" type="line"/>
-      <point x="555" y="1030" type="line"/>
-      <point x="80" y="1030" type="line"/>
-    </contour>
-    <contour>
       <point x="115" y="0" type="line"/>
       <point x="890" y="0" type="line"/>
       <point x="890" y="200" type="line"/>
       <point x="115" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="80" y="830" type="line"/>
+      <point x="555" y="830" type="line"/>
+      <point x="555" y="1030" type="line"/>
+      <point x="80" y="1030" type="line"/>
     </contour>
   </outline>
 </glyph>

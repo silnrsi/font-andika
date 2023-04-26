@@ -51,13 +51,13 @@
       <point x="377" y="1095" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="1105" y="1716" type="line"/>
-      <point x="894" y="2112" type="line"/>
-      <point x="594" y="2112" type="line"/>
       <point x="226" y="1716" type="line"/>
       <point x="466" y="1716" type="line"/>
       <point x="723" y="1944" type="line"/>
       <point x="866" y="1716" type="line"/>
+      <point x="1105" y="1716" type="line"/>
+      <point x="894" y="2112" type="line"/>
+      <point x="594" y="2112" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -23,16 +23,16 @@
       <point x="644" y="162" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="146" y="529" type="line"/>
-      <point x="811" y="529" type="line"/>
-      <point x="847" y="671" type="line"/>
-      <point x="182" y="671" type="line"/>
-    </contour>
-    <contour>
       <point x="220" y="823" type="line"/>
       <point x="885" y="823" type="line"/>
       <point x="920" y="965" type="line"/>
       <point x="255" y="965" type="line"/>
+    </contour>
+    <contour>
+      <point x="146" y="529" type="line"/>
+      <point x="811" y="529" type="line"/>
+      <point x="847" y="671" type="line"/>
+      <point x="182" y="671" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -2,13 +2,13 @@
 <glyph name="LtnCapEOgonek.RetroHook" format="2">
   <advance width="1192"/>
   <anchor x="550" y="0" name="H"/>
-  <anchor x="425" y="-500" name="L"/>
+  <anchor x="405" y="-500" name="L"/>
   <anchor x="944" y="0" name="O"/>
   <anchor x="1487" y="1200" name="R"/>
   <anchor x="932" y="1530" name="U"/>
   <outline>
     <component base="LtnCapE"/>
-    <component base="CombOgonek.RetroHook" xOffset="1190"/>
+    <component base="CombOgonek.RetroHook" xOffset="1170"/>
   </outline>
   <lib>
     <dict>

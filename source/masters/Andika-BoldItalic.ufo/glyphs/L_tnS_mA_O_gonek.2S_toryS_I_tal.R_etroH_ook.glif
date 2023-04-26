@@ -2,13 +2,13 @@
 <glyph name="LtnSmAOgonek.2StorySItal.RetroHook" format="2">
   <advance width="1185"/>
   <anchor x="550" y="0" name="H"/>
-  <anchor x="440" y="-500" name="L"/>
+  <anchor x="420" y="-500" name="L"/>
   <anchor x="1140" y="0" name="O"/>
   <anchor x="1350" y="1000" name="R"/>
   <anchor x="840" y="1100" name="U"/>
   <outline>
     <component base="LtnSmA.2StorySItal"/>
-    <component base="CombOgonek.RetroHook" xOffset="1205"/>
+    <component base="CombOgonek.RetroHook" xOffset="1185"/>
   </outline>
   <lib>
     <dict>

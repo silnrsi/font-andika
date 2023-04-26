@@ -2,14 +2,14 @@
 <glyph name="LtnSmOOgonekMacron.RetroHook.sc" format="2">
   <advance width="1381"/>
   <anchor x="632" y="0" name="H"/>
-  <anchor x="509" y="-484" name="L"/>
+  <anchor x="489" y="-484" name="L"/>
   <anchor x="849" y="0" name="O"/>
   <anchor x="1588" y="1003" name="R"/>
   <anchor x="1074" y="1629" name="U"/>
   <outline>
     <component base="LtnSmO.sc"/>
     <component base="CombMacron" xOffset="1341" yOffset="179"/>
-    <component base="CombOgonek.RetroHook" xOffset="1274" yOffset="16"/>
+    <component base="CombOgonek.RetroHook" xOffset="1254" yOffset="16"/>
   </outline>
   <lib>
     <dict>
