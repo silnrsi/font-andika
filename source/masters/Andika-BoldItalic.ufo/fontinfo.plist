@@ -15,7 +15,7 @@
   <key>italicAngle</key>
   <integer>-14</integer>
   <key>openTypeHeadCreated</key>
-  <string>2023/04/26 10:26:35</string>
+  <string>2023/04/26 12:12:43</string>
   <key>openTypeHeadFlags</key>
   <array>
     <integer>3</integer>
@@ -234,10 +234,6 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <integer>-110</integer>
   <key>postscriptUnderlineThickness</key>
   <integer>80</integer>
-  <key>styleMapFamilyName</key>
-  <string>Andika</string>
-  <key>styleMapStyleName</key>
-  <string>italic</string>
   <key>styleName</key>
   <string>Bold Italic</string>
   <key>trademark</key>
