@@ -38,10 +38,10 @@
       <point x="935" y="665" type="curve"/>
     </contour>
     <contour>
-      <point x="535" y="1050" type="line"/>
       <point x="535" y="270" type="line"/>
       <point x="680" y="270" type="line"/>
       <point x="680" y="1050" type="line"/>
+      <point x="535" y="1050" type="line"/>
     </contour>
   </outline>
 </glyph>
