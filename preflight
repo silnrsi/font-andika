@@ -20,7 +20,7 @@ psfbuildcomp -i source/composites.txt -c -n source/masters/Andika-Italic.ufo -p 
 psfbuildcomp -i source/composites.txt -c -n source/masters/Andika-BoldItalic.ufo -p backup=False
 
 echo "-----Syncing glyph orders, psnames, and other metadata to other UFOs..."
-psfsyncmasters --complex -q source/AndikaRoman.designspace source/AndikaItalic.designspace
+psfsyncmasters -q source/AndikaRoman.designspace source/AndikaItalic.designspace
 
 # echo "-----Updating woff metadata file..."
 # psfmakewoffmetadata -q -n "Andika" -i "org.sil.fonts" source/masters/Andika-Regular.ufo
