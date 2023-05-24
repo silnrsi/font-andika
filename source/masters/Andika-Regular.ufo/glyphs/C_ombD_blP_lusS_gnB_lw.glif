@@ -5,6 +5,9 @@
   <anchor x="-570" y="-100" name="_L"/>
   <outline>
     <contour>
+      <point x="-380" y="-560" type="line"/>
+      <point x="-280" y="-560" type="line"/>
+      <point x="-280" y="-405" type="line"/>
       <point x="-135" y="-405" type="line"/>
       <point x="-135" y="-305" type="line"/>
       <point x="-280" y="-305" type="line"/>
@@ -14,11 +17,11 @@
       <point x="-515" y="-305" type="line"/>
       <point x="-515" y="-405" type="line"/>
       <point x="-380" y="-405" type="line"/>
-      <point x="-380" y="-560" type="line"/>
-      <point x="-280" y="-560" type="line"/>
-      <point x="-280" y="-405" type="line"/>
     </contour>
     <contour>
+      <point x="-860" y="-560" type="line"/>
+      <point x="-760" y="-560" type="line"/>
+      <point x="-760" y="-405" type="line"/>
       <point x="-625" y="-405" type="line"/>
       <point x="-625" y="-305" type="line"/>
       <point x="-760" y="-305" type="line"/>
@@ -28,9 +31,6 @@
       <point x="-1005" y="-305" type="line"/>
       <point x="-1005" y="-405" type="line"/>
       <point x="-860" y="-405" type="line"/>
-      <point x="-860" y="-560" type="line"/>
-      <point x="-760" y="-560" type="line"/>
-      <point x="-760" y="-405" type="line"/>
     </contour>
   </outline>
 </glyph>

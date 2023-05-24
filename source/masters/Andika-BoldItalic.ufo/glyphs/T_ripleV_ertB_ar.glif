@@ -7,10 +7,10 @@
   <outline>
     <component base="LtnLateralClick"/>
     <contour>
-      <point x="969" y="-485" type="line"/>
-      <point x="1484" y="1584" type="line"/>
       <point x="1274" y="1584" type="line"/>
       <point x="759" y="-485" type="line"/>
+      <point x="969" y="-485" type="line"/>
+      <point x="1484" y="1584" type="line"/>
     </contour>
   </outline>
 </glyph>

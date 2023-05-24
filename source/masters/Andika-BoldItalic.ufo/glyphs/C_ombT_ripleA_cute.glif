@@ -5,16 +5,16 @@
   <anchor x="-410" y="1100" name="_U"/>
   <outline>
     <contour>
-      <point x="-273" y="1584" type="line"/>
-      <point x="-551" y="1188" type="line"/>
-      <point x="-331" y="1188" type="line"/>
-      <point x="47" y="1584" type="line"/>
-    </contour>
-    <contour>
       <point x="127" y="1584" type="line"/>
       <point x="-151" y="1188" type="line"/>
       <point x="69" y="1188" type="line"/>
       <point x="447" y="1584" type="line"/>
+    </contour>
+    <contour>
+      <point x="-273" y="1584" type="line"/>
+      <point x="-551" y="1188" type="line"/>
+      <point x="-331" y="1188" type="line"/>
+      <point x="47" y="1584" type="line"/>
     </contour>
     <contour>
       <point x="-673" y="1584" type="line"/>
