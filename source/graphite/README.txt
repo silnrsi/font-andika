@@ -5,9 +5,9 @@ Andika v5.000
 This file describes the Graphite source files included with the Andika font family. This information should be distributed along with the Andika fonts and any derivative works.
 
 These files are from the Andika project (https://software.sil.org/andika/).
-Copyright (c) 2004-2021 SIL International (http://www.sil.org/) with Reserved
+Copyright (c) 2004-2021 SIL International (https://www.sil.org/) with Reserved
 Font Names "Andika" and "SIL". This Font Software is licensed under the SIL
-Open Font License, Version 1.1 (http://scripts.sil.org/OFL).
+Open Font License, Version 1.1 (https://scripts.sil.org/OFL).
             
 andika.gdl            - definition of glyphs and glyph classes; auto-generated from the font
 main.gdh              - bulk of Graphite rules and extra definitions to support them
@@ -20,7 +20,7 @@ stddef.gdh            - standard GDL abbreviations
 
 In order to modify the Graphite tables in this font:
 * Strip out the existing tables
-  Using the Font-TTF-Scripts package ( http://scripts.sil.org/FontUtils ), you could use something like:
+  Using the Font-TTF-Scripts package ( https://scripts.sil.org/FontUtils ), you could use something like:
     ttftable -delete graphite old-font-with-Graphite-tables.ttf  new-font-without-Graphite-tables.ttf 
 * Run:
     grcompiler -d -v2 -n2048 -w3521 -w510 font.gdl ttf-file-with-Graphite-tables-stripped.ttf output-ttf.ttf
