@@ -2,8 +2,6 @@
 <glyph name="LtnSmCapLBeltDep" format="2">
   <advance width="1092"/>
   <unicode hex="F268"/>
-  <anchor x="575" y="-100" name="L"/>
-  <anchor x="575" y="1100" name="U"/>
   <outline>
     <contour>
       <point x="55" y="-30" type="line"/>

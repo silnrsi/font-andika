@@ -5,22 +5,22 @@
   <anchor x="712" y="1293" name="U"/>
   <outline>
     <contour>
-      <point x="835" y="-21" type="line"/>
-      <point x="835" y="1221" type="line"/>
-      <point x="585" y="1221" type="line"/>
-      <point x="585" y="-21" type="line"/>
-    </contour>
-    <contour>
-      <point x="395" y="-21" type="line"/>
-      <point x="395" y="1221" type="line"/>
       <point x="145" y="1221" type="line"/>
       <point x="145" y="-21" type="line"/>
+      <point x="395" y="-21" type="line"/>
+      <point x="395" y="1221" type="line"/>
     </contour>
     <contour>
-      <point x="1275" y="-21" type="line"/>
-      <point x="1275" y="1221" type="line"/>
+      <point x="585" y="1221" type="line"/>
+      <point x="585" y="-21" type="line"/>
+      <point x="835" y="-21" type="line"/>
+      <point x="835" y="1221" type="line"/>
+    </contour>
+    <contour>
       <point x="1025" y="1221" type="line"/>
       <point x="1025" y="-21" type="line"/>
+      <point x="1275" y="-21" type="line"/>
+      <point x="1275" y="1221" type="line"/>
     </contour>
   </outline>
 </glyph>

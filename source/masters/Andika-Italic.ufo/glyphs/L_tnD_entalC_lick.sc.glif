@@ -5,10 +5,10 @@
   <anchor x="471" y="1293" name="U"/>
   <outline>
     <contour>
-      <point x="360" y="1221" type="line"/>
       <point x="50" y="-21" type="line"/>
       <point x="235" y="-21" type="line"/>
       <point x="545" y="1221" type="line"/>
+      <point x="360" y="1221" type="line"/>
     </contour>
   </outline>
 </glyph>

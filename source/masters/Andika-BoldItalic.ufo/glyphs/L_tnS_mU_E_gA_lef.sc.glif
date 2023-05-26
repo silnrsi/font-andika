@@ -41,14 +41,14 @@
       <point x="766" y="1012"/>
       <point x="722" y="849" type="curve" smooth="yes"/>
       <point x="621" y="477" type="line" smooth="yes"/>
-      <point x="609" y="428"/>
+      <point x="608" y="428"/>
       <point x="602" y="382"/>
       <point x="602" y="338" type="curve" smooth="yes"/>
       <point x="602" y="130"/>
       <point x="747" y="-21"/>
       <point x="1035" y="-21" type="curve" smooth="yes"/>
       <point x="1370" y="-21"/>
-      <point x="1565" y="124"/>
+      <point x="1566" y="125"/>
       <point x="1640" y="393" type="curve" smooth="yes"/>
       <point x="1766" y="849" type="line" smooth="yes"/>
       <point x="1813" y="1019"/>
