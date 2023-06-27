@@ -47,7 +47,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Andika" filename="instances/Andika-MediumItalic.ufo" name="Andika Medium Italic" stylemapfamilyname="Andika Medium Italic" stylemapstylename="italic" stylename="Medium Italic" postscriptfontname="Andika-MediumItalic">
+        <instance familyname="Andika" filename="instances/Andika-MediumItalic.ufo" name="Andika Medium Italic" stylemapfamilyname="Andika Medium" stylemapstylename="italic" stylename="Medium Italic" postscriptfontname="Andika-MediumItalic">
             <location>
                 <dimension name="weight" xvalue="500.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -56,7 +56,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Andika" filename="instances/Andika-SemiBoldItalic.ufo" name="Andika SemiBold Italic" stylemapfamilyname="Andika SemiBold Italic" stylemapstylename="italic" stylename="SemiBold Italic" postscriptfontname="Andika-SemiBoldItalic">
+        <instance familyname="Andika" filename="instances/Andika-SemiBoldItalic.ufo" name="Andika SemiBold Italic" stylemapfamilyname="Andika SemiBold" stylemapstylename="italic" stylename="SemiBold Italic" postscriptfontname="Andika-SemiBoldItalic">
             <location>
                 <dimension name="weight" xvalue="600.000000" />
                 <dimension name="width" xvalue="100.000000" />
