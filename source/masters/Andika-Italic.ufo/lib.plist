@@ -3153,6 +3153,26 @@
     <string>LtnSmITildeBlw.TailI</string>
     <string>LtnSmIDotBlw.TailI</string>
     <string>LtnSmIOgonek.TailI</string>
+    <string>LtnCapI.NB</string>
+    <string>LtnCapIAcute.NB</string>
+    <string>LtnCapIGrave.NB</string>
+    <string>LtnCapIDblGrave.NB</string>
+    <string>LtnCapICircum.NB</string>
+    <string>LtnCapIInvBreve.NB</string>
+    <string>LtnCapIBreve.NB</string>
+    <string>LtnCapICaron.NB</string>
+    <string>LtnCapITilde.NB</string>
+    <string>LtnCapIMacron.NB</string>
+    <string>LtnCapIDiaer.NB</string>
+    <string>LtnCapIDiaerAcute.NB</string>
+    <string>LtnCapIDotAbv.NB</string>
+    <string>LtnCapIHookAbv.NB</string>
+    <string>LtnCapIEgAlef.NB</string>
+    <string>LtnCapITildeBlw.NB</string>
+    <string>LtnCapIDotBlw.NB</string>
+    <string>LtnCapIOgonek.NB</string>
+    <string>LtnCapIOgonek.NB.RetroHook</string>
+    <string>LtnCapIStrk.NB</string>
     <string>LtnSubSmJ.TopLftSerif</string>
     <string>LtnSmJ.BarTop</string>
     <string>LtnSmJCircum.BarTop</string>
@@ -3630,32 +3650,55 @@
     <string>CySmShcha.sc</string>
     <string>CySmPeMiddleHook.sc</string>
     <string>LtnSmI.sc</string>
+    <string>LtnSmI.NB.sc</string>
     <string>CySmByelorusUkrainI.sc</string>
     <string>CySmByelorusUkrainI.Dotless.sc</string>
     <string>LtnSmIAcute.sc</string>
+    <string>LtnSmIAcute.NB.sc</string>
     <string>LtnSmIGrave.sc</string>
+    <string>LtnSmIGrave.NB.sc</string>
     <string>LtnSmIDblGrave.sc</string>
+    <string>LtnSmIDblGrave.NB.sc</string>
     <string>LtnSmICircum.sc</string>
+    <string>LtnSmICircum.NB.sc</string>
     <string>LtnSmIInvBreve.sc</string>
+    <string>LtnSmIInvBreve.NB.sc</string>
     <string>LtnSmIBreve.sc</string>
+    <string>LtnSmIBreve.NB.sc</string>
     <string>LtnSmICaron.sc</string>
+    <string>LtnSmICaron.NB.sc</string>
     <string>LtnSmITilde.sc</string>
+    <string>LtnSmITilde.NB.sc</string>
     <string>LtnSmIMacron.sc</string>
+    <string>LtnSmIMacron.NB.sc</string>
     <string>LtnSmIDiaer.sc</string>
     <string>CySmYi.sc</string>
+    <string>LtnSmIDiaer.NB.sc</string>
     <string>LtnSmIDiaerAcute.sc</string>
+    <string>LtnSmIDiaerAcute.NB.sc</string>
     <string>LtnSmIDotAbv.sc</string>
+    <string>LtnSmIDotAbv.NB.sc</string>
     <string>LtnSmIHookAbv.sc</string>
     <string>LtnSmIEgAlef.sc</string>
+    <string>LtnSmIEgAlef.NB.sc</string>
+    <string>LtnSmIHookAbv.NB.sc</string>
     <string>LtnSmITildeBlw.sc</string>
+    <string>LtnSmITildeBlw.NB.sc</string>
     <string>LtnSmIDotBlw.sc</string>
+    <string>LtnSmIDotBlw.NB.sc</string>
     <string>LtnSmIDotBlw.Dotless.sc</string>
+    <string>LtnSmIDotBlw.Dotless.NB.sc</string>
     <string>LtnSmIOgonek.sc</string>
+    <string>LtnSmIOgonek.NB.sc</string>
     <string>LtnSmIOgonek.RetroHook.sc</string>
+    <string>LtnSmIOgonek.NB.RetroHook.sc</string>
     <string>LtnSmIStrk.sc</string>
     <string>LtnSmIStrk.Dotless.sc</string>
+    <string>LtnSmIStrk.Dotless.NB.sc</string>
+    <string>LtnSmIStrk.NB.sc</string>
     <string>LtnSmDotlessI.sc</string>
     <string>LtnSmI.Dotless.sc</string>
+    <string>LtnSmI.Dotless.NB.sc</string>
     <string>LtnSmLigIj.sc</string>
     <string>LtnSmIota.sc</string>
     <string>CySmYu.sc</string>
@@ -6625,46 +6668,86 @@
     <string>uni01F6</string>
     <key>LtnCapI</key>
     <string>I</string>
+    <key>LtnCapI.NB</key>
+    <string>I.NB</string>
     <key>LtnCapIAcute</key>
     <string>Iacute</string>
+    <key>LtnCapIAcute.NB</key>
+    <string>Iacute.NB</string>
     <key>LtnCapIBreve</key>
     <string>Ibreve</string>
+    <key>LtnCapIBreve.NB</key>
+    <string>Ibreve.NB</string>
     <key>LtnCapICaron</key>
     <string>uni01CF</string>
+    <key>LtnCapICaron.NB</key>
+    <string>uni01CF.NB</string>
     <key>LtnCapICircum</key>
     <string>Icircumflex</string>
+    <key>LtnCapICircum.NB</key>
+    <string>Icircumflex.NB</string>
     <key>LtnCapIDblGrave</key>
     <string>uni0208</string>
+    <key>LtnCapIDblGrave.NB</key>
+    <string>uni0208.NB</string>
     <key>LtnCapIDiaer</key>
     <string>Idieresis</string>
+    <key>LtnCapIDiaer.NB</key>
+    <string>Idieresis.NB</string>
     <key>LtnCapIDiaerAcute</key>
     <string>uni1E2E</string>
+    <key>LtnCapIDiaerAcute.NB</key>
+    <string>uni1E2E.NB</string>
     <key>LtnCapIDotAbv</key>
     <string>Idotaccent</string>
+    <key>LtnCapIDotAbv.NB</key>
+    <string>Idotaccent.NB</string>
     <key>LtnCapIDotBlw</key>
     <string>uni1ECA</string>
+    <key>LtnCapIDotBlw.NB</key>
+    <string>uni1ECA.NB</string>
     <key>LtnCapIEgAlef</key>
     <string>uniA7BC</string>
+    <key>LtnCapIEgAlef.NB</key>
+    <string>uniA7BC.NB</string>
     <key>LtnCapIGrave</key>
     <string>Igrave</string>
+    <key>LtnCapIGrave.NB</key>
+    <string>Igrave.NB</string>
     <key>LtnCapIHookAbv</key>
     <string>uni1EC8</string>
+    <key>LtnCapIHookAbv.NB</key>
+    <string>uni1EC8.NB</string>
     <key>LtnCapIInvBreve</key>
     <string>uni020A</string>
+    <key>LtnCapIInvBreve.NB</key>
+    <string>uni020A.NB</string>
     <key>LtnCapILonga</key>
     <string>uniA7FE</string>
     <key>LtnCapIMacron</key>
     <string>Imacron</string>
+    <key>LtnCapIMacron.NB</key>
+    <string>Imacron.NB</string>
     <key>LtnCapIOgonek</key>
     <string>Iogonek</string>
+    <key>LtnCapIOgonek.NB</key>
+    <string>Iogonek.NB</string>
+    <key>LtnCapIOgonek.NB.RetroHook</key>
+    <string>Iogonek.NB.RetroHook</string>
     <key>LtnCapIOgonek.RetroHook</key>
     <string>Iogonek.RetroHook</string>
     <key>LtnCapIStrk</key>
     <string>uni0197</string>
+    <key>LtnCapIStrk.NB</key>
+    <string>uni0197.NB</string>
     <key>LtnCapITilde</key>
     <string>Itilde</string>
+    <key>LtnCapITilde.NB</key>
+    <string>Itilde.NB</string>
     <key>LtnCapITildeBlw</key>
     <string>uni1E2C</string>
+    <key>LtnCapITildeBlw.NB</key>
+    <string>uni1E2C.NB</string>
     <key>LtnCapInsularD</key>
     <string>uniA779</string>
     <key>LtnCapInsularF</key>
@@ -8703,10 +8786,14 @@
     <string>i</string>
     <key>LtnSmI.Dotless</key>
     <string>i.Dotless</string>
+    <key>LtnSmI.Dotless.NB.sc</key>
+    <string>i.Dotless.NB.sc</string>
     <key>LtnSmI.Dotless.SItal</key>
     <string>i.Dotless.SItal</string>
     <key>LtnSmI.Dotless.sc</key>
     <string>i.Dotless.sc</string>
+    <key>LtnSmI.NB.sc</key>
+    <string>i.NB.sc</string>
     <key>LtnSmI.SItal</key>
     <string>i.SItal</string>
     <key>LtnSmI.TailI</key>
@@ -8715,6 +8802,8 @@
     <string>i.sc</string>
     <key>LtnSmIAcute</key>
     <string>iacute</string>
+    <key>LtnSmIAcute.NB.sc</key>
+    <string>iacute.NB.sc</string>
     <key>LtnSmIAcute.SItal</key>
     <string>iacute.SItal</string>
     <key>LtnSmIAcute.TailI</key>
@@ -8723,6 +8812,8 @@
     <string>iacute.sc</string>
     <key>LtnSmIBreve</key>
     <string>ibreve</string>
+    <key>LtnSmIBreve.NB.sc</key>
+    <string>ibreve.NB.sc</string>
     <key>LtnSmIBreve.SItal</key>
     <string>ibreve.SItal</string>
     <key>LtnSmIBreve.TailI</key>
@@ -8731,6 +8822,8 @@
     <string>ibreve.sc</string>
     <key>LtnSmICaron</key>
     <string>uni01D0</string>
+    <key>LtnSmICaron.NB.sc</key>
+    <string>uni01D0.NB.sc</string>
     <key>LtnSmICaron.SItal</key>
     <string>uni01D0.SItal</string>
     <key>LtnSmICaron.TailI</key>
@@ -8739,6 +8832,8 @@
     <string>uni01D0.sc</string>
     <key>LtnSmICircum</key>
     <string>icircumflex</string>
+    <key>LtnSmICircum.NB.sc</key>
+    <string>icircumflex.NB.sc</string>
     <key>LtnSmICircum.SItal</key>
     <string>icircumflex.SItal</string>
     <key>LtnSmICircum.TailI</key>
@@ -8747,6 +8842,8 @@
     <string>icircumflex.sc</string>
     <key>LtnSmIDblGrave</key>
     <string>uni0209</string>
+    <key>LtnSmIDblGrave.NB.sc</key>
+    <string>uni0209.NB.sc</string>
     <key>LtnSmIDblGrave.SItal</key>
     <string>uni0209.SItal</string>
     <key>LtnSmIDblGrave.TailI</key>
@@ -8755,6 +8852,8 @@
     <string>uni0209.sc</string>
     <key>LtnSmIDiaer</key>
     <string>idieresis</string>
+    <key>LtnSmIDiaer.NB.sc</key>
+    <string>idieresis.NB.sc</string>
     <key>LtnSmIDiaer.SItal</key>
     <string>idieresis.SItal</string>
     <key>LtnSmIDiaer.TailI</key>
@@ -8763,6 +8862,8 @@
     <string>idieresis.sc</string>
     <key>LtnSmIDiaerAcute</key>
     <string>uni1E2F</string>
+    <key>LtnSmIDiaerAcute.NB.sc</key>
+    <string>uni1E2F.NB.sc</string>
     <key>LtnSmIDiaerAcute.SItal</key>
     <string>uni1E2F.SItal</string>
     <key>LtnSmIDiaerAcute.TailI</key>
@@ -8771,14 +8872,20 @@
     <string>uni1E2F.sc</string>
     <key>LtnSmIDotAbv</key>
     <string>idotaccent</string>
+    <key>LtnSmIDotAbv.NB.sc</key>
+    <string>idotaccent.NB.sc</string>
     <key>LtnSmIDotAbv.SItal</key>
     <string>idotaccent.SItal</string>
     <key>LtnSmIDotAbv.sc</key>
     <string>idotaccent.sc</string>
     <key>LtnSmIDotBlw</key>
     <string>uni1ECB</string>
+    <key>LtnSmIDotBlw.Dotless.NB.sc</key>
+    <string>uni1ECB.Dotless.NB.sc</string>
     <key>LtnSmIDotBlw.Dotless.sc</key>
     <string>uni1ECB.Dotless.sc</string>
+    <key>LtnSmIDotBlw.NB.sc</key>
+    <string>uni1ECB.NB.sc</string>
     <key>LtnSmIDotBlw.SItal</key>
     <string>uni1ECB.SItal</string>
     <key>LtnSmIDotBlw.TailI</key>
@@ -8787,10 +8894,14 @@
     <string>uni1ECB.sc</string>
     <key>LtnSmIEgAlef</key>
     <string>uniA7BD</string>
+    <key>LtnSmIEgAlef.NB.sc</key>
+    <string>uniA7BD.NB.sc</string>
     <key>LtnSmIEgAlef.sc</key>
     <string>uniA7BD.sc</string>
     <key>LtnSmIGrave</key>
     <string>igrave</string>
+    <key>LtnSmIGrave.NB.sc</key>
+    <string>igrave.NB.sc</string>
     <key>LtnSmIGrave.SItal</key>
     <string>igrave.SItal</string>
     <key>LtnSmIGrave.TailI</key>
@@ -8799,6 +8910,8 @@
     <string>igrave.sc</string>
     <key>LtnSmIHookAbv</key>
     <string>uni1EC9</string>
+    <key>LtnSmIHookAbv.NB.sc</key>
+    <string>uni1EC9.NB.sc</string>
     <key>LtnSmIHookAbv.SItal</key>
     <string>uni1EC9.SItal</string>
     <key>LtnSmIHookAbv.TailI</key>
@@ -8807,6 +8920,8 @@
     <string>uni1EC9.sc</string>
     <key>LtnSmIInvBreve</key>
     <string>uni020B</string>
+    <key>LtnSmIInvBreve.NB.sc</key>
+    <string>uni020B.NB.sc</string>
     <key>LtnSmIInvBreve.SItal</key>
     <string>uni020B.SItal</string>
     <key>LtnSmIInvBreve.TailI</key>
@@ -8815,6 +8930,8 @@
     <string>uni020B.sc</string>
     <key>LtnSmIMacron</key>
     <string>imacron</string>
+    <key>LtnSmIMacron.NB.sc</key>
+    <string>imacron.NB.sc</string>
     <key>LtnSmIMacron.SItal</key>
     <string>imacron.SItal</string>
     <key>LtnSmIMacron.TailI</key>
@@ -8825,6 +8942,10 @@
     <string>iogonek</string>
     <key>LtnSmIOgonek.Dotless</key>
     <string>iogonek.Dotless</string>
+    <key>LtnSmIOgonek.NB.RetroHook.sc</key>
+    <string>iogonek.NB.RetroHook.sc</string>
+    <key>LtnSmIOgonek.NB.sc</key>
+    <string>iogonek.NB.sc</string>
     <key>LtnSmIOgonek.RetroHook</key>
     <string>iogonek.RetroHook</string>
     <key>LtnSmIOgonek.RetroHook.sc</key>
@@ -8845,10 +8966,14 @@
     <string>uni0268</string>
     <key>LtnSmIStrk.Dotless</key>
     <string>uni0268.Dotless</string>
+    <key>LtnSmIStrk.Dotless.NB.sc</key>
+    <string>uni0268.Dotless.NB.sc</string>
     <key>LtnSmIStrk.Dotless.TailI</key>
     <string>uni0268.Dotless.TailI</string>
     <key>LtnSmIStrk.Dotless.sc</key>
     <string>uni0268.Dotless.sc</string>
+    <key>LtnSmIStrk.NB.sc</key>
+    <string>uni0268.NB.sc</string>
     <key>LtnSmIStrk.TailI</key>
     <string>uni0268.TailI</string>
     <key>LtnSmIStrk.sc</key>
@@ -8859,6 +8984,8 @@
     <string>u1DF1A.Dotless</string>
     <key>LtnSmITilde</key>
     <string>itilde</string>
+    <key>LtnSmITilde.NB.sc</key>
+    <string>itilde.NB.sc</string>
     <key>LtnSmITilde.SItal</key>
     <string>itilde.SItal</string>
     <key>LtnSmITilde.TailI</key>
@@ -8867,6 +8994,8 @@
     <string>itilde.sc</string>
     <key>LtnSmITildeBlw</key>
     <string>uni1E2D</string>
+    <key>LtnSmITildeBlw.NB.sc</key>
+    <string>uni1E2D.NB.sc</string>
     <key>LtnSmITildeBlw.SItal</key>
     <string>uni1E2D.SItal</string>
     <key>LtnSmITildeBlw.TailI</key>
