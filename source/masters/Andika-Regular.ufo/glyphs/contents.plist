@@ -2374,6 +2374,8 @@
   <string>L_tnC_apH_wair.glif</string>
   <key>LtnCapI</key>
   <string>L_tnC_apI_.glif</string>
+  <key>LtnCapI.NB</key>
+  <string>L_tnC_apI_.N_B_.glif</string>
   <key>LtnCapIAcute</key>
   <string>L_tnC_apI_A_cute.glif</string>
   <key>LtnCapIBreve</key>
@@ -2394,6 +2396,8 @@
   <string>L_tnC_apI_D_otB_lw.glif</string>
   <key>LtnCapIEgAlef</key>
   <string>L_tnC_apI_E_gA_lef.glif</string>
+  <key>LtnCapIEgAlef.NB</key>
+  <string>L_tnC_apI_E_gA_lef.N_B_.glif</string>
   <key>LtnCapIGrave</key>
   <string>L_tnC_apI_G_rave.glif</string>
   <key>LtnCapIHookAbv</key>
@@ -2410,6 +2414,8 @@
   <string>L_tnC_apI_O_gonek.R_etroH_ook.glif</string>
   <key>LtnCapIStrk</key>
   <string>L_tnC_apI_S_trk.glif</string>
+  <key>LtnCapIStrk.NB</key>
+  <string>L_tnC_apI_S_trk.N_B_.glif</string>
   <key>LtnCapITilde</key>
   <string>L_tnC_apI_T_ilde.glif</string>
   <key>LtnCapITildeBlw</key>
@@ -4456,6 +4462,8 @@
   <string>L_tnS_mI_.D_otless.S_I_tal.glif</string>
   <key>LtnSmI.Dotless.sc</key>
   <string>L_tnS_mI_.D_otless.sc.glif</string>
+  <key>LtnSmI.NB.sc</key>
+  <string>L_tnS_mI_.N_B_.sc.glif</string>
   <key>LtnSmI.SItal</key>
   <string>L_tnS_mI_.S_I_tal.glif</string>
   <key>LtnSmI.TailI</key>
@@ -4536,6 +4544,8 @@
   <string>L_tnS_mI_D_otB_lw.sc.glif</string>
   <key>LtnSmIEgAlef</key>
   <string>L_tnS_mI_E_gA_lef.glif</string>
+  <key>LtnSmIEgAlef.NB.sc</key>
+  <string>L_tnS_mI_E_gA_lef.N_B_.sc.glif</string>
   <key>LtnSmIEgAlef.sc</key>
   <string>L_tnS_mI_E_gA_lef.sc.glif</string>
   <key>LtnSmIGrave</key>
@@ -4598,6 +4608,8 @@
   <string>L_tnS_mI_S_trk.D_otless.T_ailI_.glif</string>
   <key>LtnSmIStrk.Dotless.sc</key>
   <string>L_tnS_mI_S_trk.D_otless.sc.glif</string>
+  <key>LtnSmIStrk.NB.sc</key>
+  <string>L_tnS_mI_S_trk.N_B_.sc.glif</string>
   <key>LtnSmIStrk.TailI</key>
   <string>L_tnS_mI_S_trk.T_ailI_.glif</string>
   <key>LtnSmIStrk.sc</key>
