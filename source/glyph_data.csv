@@ -4237,9 +4237,9 @@ LtnSmIDiaerAcute.NB.sc,uni1E2F.NB.sc,41800.363112,41800.363112,,smcp,,,1E2F
 LtnSmIDotAbv.sc,idotaccent.sc,41800.371,41800.371,smcp,smcp,,0069,0069
 LtnSmIDotAbv.NB.sc,idotaccent.NB.sc,41800.3712,41800.3712,,,,,
 LtnSmIHookAbv.sc,uni1EC9.sc,41800.38,41800.38,smcp,smcp,,1EC9,1EC9
+LtnSmIHookAbv.NB.sc,uni1EC9.NB.sc,41800.382,41800.382,,smcp,,,1EC9
 LtnSmIEgAlef.sc,uniA7BD.sc,41800.39,41800.39,smcp,smcp,,A7BD,A7BD
 LtnSmIEgAlef.NB.sc,uniA7BD.NB.sc,41800.392,41800.392,,smcp,,,A7BD
-LtnSmIHookAbv.NB.sc,uni1EC9.NB.sc,41800.382,41800.382,,smcp,,,1EC9
 LtnSmITildeBlw.sc,uni1E2D.sc,41800.44,41800.44,smcp,smcp,,1E2D,1E2D
 LtnSmITildeBlw.NB.sc,uni1E2D.NB.sc,41800.442,41800.442,,smcp,,,1E2D
 LtnSmIDotBlw.sc,uni1ECB.sc,41800.471,41800.471,smcp,smcp,,1ECB,1ECB
