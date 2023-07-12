@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnCapIInvBreve.NB" format="2">
   <advance width="1025"/>
-  <unicode hex="020A"/>
   <anchor x="460" y="0" name="H"/>
   <anchor x="430" y="-100" name="L"/>
   <anchor x="650" y="0" name="O"/>

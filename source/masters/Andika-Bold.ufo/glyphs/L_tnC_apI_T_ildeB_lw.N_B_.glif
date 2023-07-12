@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnCapITildeBlw.NB" format="2">
   <advance width="1045"/>
-  <unicode hex="1E2C"/>
   <anchor x="520" y="0" name="H"/>
   <anchor x="516" y="-500" name="L"/>
   <anchor x="712" y="0" name="O"/>

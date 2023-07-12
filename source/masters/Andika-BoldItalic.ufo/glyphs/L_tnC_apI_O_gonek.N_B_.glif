@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnCapIOgonek.NB" format="2">
   <advance width="1025"/>
-  <unicode hex="012E"/>
   <anchor x="460" y="0" name="H"/>
   <anchor x="478" y="-430" name="L"/>
   <anchor x="1255" y="1200" name="R"/>
