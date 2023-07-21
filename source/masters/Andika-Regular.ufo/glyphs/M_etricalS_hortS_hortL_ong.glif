@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="MetricalShortShortLong" format="2">
-  <advance width="1778"/>
+  <advance width="2000"/>
   <unicode hex="23D5"/>
   <outline>
     <contour>
@@ -20,25 +20,25 @@
       <point x="950" y="476"/>
     </contour>
     <contour>
-      <point x="1718" y="710" type="curve"/>
-      <point x="1596" y="710" type="line"/>
-      <point x="1572" y="546"/>
-      <point x="1454" y="470"/>
-      <point x="1273" y="470" type="curve" smooth="yes"/>
-      <point x="1093" y="470"/>
-      <point x="968" y="545"/>
-      <point x="948" y="710" type="curve"/>
-      <point x="828" y="710" type="line"/>
-      <point x="828" y="476"/>
-      <point x="988" y="320"/>
-      <point x="1273" y="320" type="curve" smooth="yes"/>
-      <point x="1556" y="320"/>
-      <point x="1718" y="476"/>
+      <point x="1940" y="710" type="curve"/>
+      <point x="1818" y="710" type="line"/>
+      <point x="1794" y="546"/>
+      <point x="1676" y="470"/>
+      <point x="1495" y="470" type="curve" smooth="yes"/>
+      <point x="1315" y="470"/>
+      <point x="1190" y="545"/>
+      <point x="1170" y="710" type="curve"/>
+      <point x="1050" y="710" type="line"/>
+      <point x="1050" y="476"/>
+      <point x="1210" y="320"/>
+      <point x="1495" y="320" type="curve" smooth="yes"/>
+      <point x="1778" y="320"/>
+      <point x="1940" y="476"/>
     </contour>
     <contour>
       <point x="70" y="75" type="line"/>
-      <point x="1718" y="75" type="line"/>
-      <point x="1718" y="225" type="line"/>
+      <point x="1940" y="75" type="line"/>
+      <point x="1940" y="225" type="line"/>
       <point x="70" y="225" type="line"/>
     </contour>
   </outline>

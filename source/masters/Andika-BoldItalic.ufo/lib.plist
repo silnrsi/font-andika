@@ -14,8 +14,9 @@
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>/Breve o/MetricalBreve o¯-on/MetricalLongShort no
-xn/MetricalShortLong nx/MetricalShortShort n/MetricalLongShortShort n/MetricalShortShortLong n</string>
+xn/MetricalShortLong nx/MetricalShortShort no/MetricalLongShortShort on/MetricalShortShortLong n</string>
     <string>/LftPtngAngBrac/MathLftDblAngleBrac/RtPtngAngBrac/MathRtDblAngleBrac</string>
+    <string>/LftDblParen/RtDblParen o/WigglyVerticalLine o/VerticalSixDots o/Space/Space/CombDiaer</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

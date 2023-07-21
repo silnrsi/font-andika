@@ -12,6 +12,7 @@
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>/Breve xo/MetricalBreve ox¯-o/MetricalLongShort xn/MetricalShortLong nx/MetricalShortShort/MetricalLongShortShort/MetricalShortShortLong</string>
+    <string>/LftDblParen/RtDblParen/WigglyVerticalLine/VerticalSixDots/Space/Space/CombDiaer</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
