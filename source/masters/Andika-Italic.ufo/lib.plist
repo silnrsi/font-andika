@@ -13,10 +13,7 @@
   <string>Italic</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/Breve o/MetricalBreve o¯-on/MetricalLongShort no
-xn/MetricalShortLong nx/MetricalShortShort no/MetricalLongShortShort on/MetricalShortShortLong n</string>
-    <string>/LftPtngAngBrac/MathLftDblAngleBrac/RtPtngAngBrac/MathRtDblAngleBrac</string>
-    <string>/LftDblParen/RtDblParen o/WigglyVerticalLine o/VerticalSixDots o/Space/Space/CombDiaer</string>
+    <string>()/LftDblParen/RtDblParen/MathLftDblAngleBrac f/MathRtDblAngleBrac/Space {p}</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

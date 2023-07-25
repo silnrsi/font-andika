@@ -1,14 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="MathRtDblAngleBrac" format="2">
-  <advance width="930"/>
+  <advance width="1429"/>
   <unicode hex="27EB"/>
   <outline>
-    <component base="RtPtngAngBrac"/>
+    <contour>
+      <point x="553" y="-206" type="line"/>
+      <point x="1398" y="637" type="line"/>
+      <point x="974" y="1480" type="line"/>
+      <point x="789" y="1480" type="line"/>
+      <point x="1219" y="570" type="line"/>
+      <point x="1230" y="690" type="line"/>
+      <point x="338" y="-206" type="line"/>
+    </contour>
+    <contour>
+      <point x="168" y="-206" type="line"/>
+      <point x="1013" y="637" type="line"/>
+      <point x="589" y="1480" type="line"/>
+      <point x="404" y="1480" type="line"/>
+      <point x="834" y="570" type="line"/>
+      <point x="845" y="690" type="line"/>
+      <point x="-47" y="-206" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>
