@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LftDblParen" format="2">
-  <advance width="1260"/>
+  <advance width="1310"/>
   <unicode hex="2E28"/>
   <outline>
     <component base="LftParen"/>
-    <component base="LftParen" xOffset="420"/>
+    <component base="LftParen" xOffset="470"/>
   </outline>
   <lib>
     <dict>

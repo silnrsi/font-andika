@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombDwnArrw" format="2">
+  <outline>
+    <contour>
+      <point x="-525" y="1595" type="line"/>
+      <point x="-635" y="1595" type="line"/>
+      <point x="-635" y="1350" type="line"/>
+      <point x="-695" y="1380" type="line"/>
+      <point x="-735" y="1355" type="line"/>
+      <point x="-580" y="1200" type="line"/>
+      <point x="-420" y="1355" type="line"/>
+      <point x="-460" y="1380" type="line"/>
+      <point x="-525" y="1350" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="MathLftDblAngleBrac" format="2">
-  <advance width="1487"/>
+  <advance width="1507"/>
   <unicode hex="27EA"/>
   <outline>
     <contour>
@@ -13,13 +13,13 @@
       <point x="588" y="-206" type="line"/>
     </contour>
     <contour>
-      <point x="1293" y="-206" type="line"/>
-      <point x="852" y="704" type="line"/>
-      <point x="851" y="584" type="line"/>
-      <point x="1734" y="1480" type="line"/>
-      <point x="1449" y="1480" type="line"/>
-      <point x="623" y="637" type="line"/>
-      <point x="1038" y="-206" type="line"/>
+      <point x="1313" y="-206" type="line"/>
+      <point x="872" y="704" type="line"/>
+      <point x="871" y="584" type="line"/>
+      <point x="1754" y="1480" type="line"/>
+      <point x="1469" y="1480" type="line"/>
+      <point x="643" y="637" type="line"/>
+      <point x="1058" y="-206" type="line"/>
     </contour>
   </outline>
   <lib>
