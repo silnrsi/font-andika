@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ModStressHighTn" format="2">
-  <advance width="1165"/>
+  <advance width="1175"/>
   <unicode hex="A720"/>
   <outline>
     <contour>
-      <point x="1125" y="1445" type="line"/>
-      <point x="1125" y="1595" type="line"/>
-      <point x="40" y="1595" type="line"/>
-      <point x="40" y="1155" type="line"/>
-      <point x="190" y="1155" type="line"/>
-      <point x="190" y="1445" type="line"/>
-      <point x="440" y="1445" type="line"/>
-      <point x="440" y="1155" type="line"/>
-      <point x="590" y="1155" type="line"/>
-      <point x="590" y="1445" type="line"/>
+      <point x="1135" y="1445" type="line"/>
+      <point x="1135" y="1595" type="line"/>
+      <point x="50" y="1595" type="line"/>
+      <point x="50" y="1155" type="line"/>
+      <point x="200" y="1155" type="line"/>
+      <point x="200" y="1445" type="line"/>
+      <point x="450" y="1445" type="line"/>
+      <point x="450" y="1155" type="line"/>
+      <point x="600" y="1155" type="line"/>
+      <point x="600" y="1445" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>
