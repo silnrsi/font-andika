@@ -13,8 +13,7 @@
   <string>Italic</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>()/LftDblParen n/RtDblParen/MathLftDblAngleBrac n/MathRtDblAngleBrac/Space {p}</string>
-    <string>o/CombCaron o/CombDwnArrw</string>
+    <string>hT/ModStressHighTn a/ModStressLowTn p</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
