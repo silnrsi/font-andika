@@ -573,18 +573,6 @@ U+0407">
       <comment>CyCapIzhitsa</comment>
       <string>\u000474\u000328</string>
     </test>
-    <test label="U+04BD">
-      <comment>CySmAbkhasChe</comment>
-      <string>\u0004BD\u000328</string>
-    </test>
-    <test label="U+04BD" stylename="smcp_1">
-      <comment>CySmAbkhasChe</comment>
-      <string>\u0004BD\u000328</string>
-    </test>
-    <test label="U+04BC">
-      <comment>CyCapAbkhasChe</comment>
-      <string>\u0004BC\u000328</string>
-    </test>
     <test label="U+04D5
 U+04D9
 U+04DB">

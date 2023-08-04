@@ -13,6 +13,7 @@
     <fontsrc label="ABI6">url(../references/v6101/Andika-BoldItalic.ttf)</fontsrc>
     <styles>
       <style lang="cnr" name="cnr"/>
+      <style feats="'cv30' 1" name="cv30_1"/>
       <style feats="'cv31' 1" name="cv31_1"/>
       <style feats="'cv31' 1, 'smcp' 1" name="cv31_1_smcp_1"/>
       <style feats="'cv31' 1, 'smcp' 1, 'ss05' 1" name="cv31_1_smcp_1_ss05_1"/>
@@ -70,6 +71,60 @@
   <testgroup label="cv20"/>
   <testgroup label="cv25"/>
   <testgroup label="cv28"/>
+  <testgroup label="cv30">
+    <test label="U+0049
+U+00CC
+U+00CD
+U+00CE
+U+00CF
+U+0128
+U+012A
+U+012C">
+      <comment>LtnCapI LtnCapIGrave LtnCapIAcute LtnCapICircum LtnCapIDiaer LtnCapITilde LtnCapIMacron LtnCapIBreve</comment>
+      <string>I\u000328\u0000CC\u000328\u0000CD\u000328\u0000CE\u000328\u0000CF\u000328\u000128\u000328\u00012A\u000328\u00012C\u000328</string>
+    </test>
+    <test label="U+0049
+U+00CC
+U+00CD
+U+00CE
+U+00CF
+U+0128
+U+012A
+U+012C" stylename="cv30_1">
+      <comment>LtnCapI LtnCapIGrave LtnCapIAcute LtnCapICircum LtnCapIDiaer LtnCapITilde LtnCapIMacron LtnCapIBreve</comment>
+      <string>I\u000328\u0000CC\u000328\u0000CD\u000328\u0000CE\u000328\u0000CF\u000328\u000128\u000328\u00012A\u000328\u00012C\u000328</string>
+    </test>
+    <test label="U+0130
+U+01CF
+U+0208
+U+020A
+U+1E2C
+U+1E2E">
+      <comment>LtnCapIDotAbv LtnCapICaron LtnCapIDblGrave LtnCapIInvBreve LtnCapITildeBlw LtnCapIDiaerAcute</comment>
+      <string>\u000130\u000328\u0001CF\u000328\u000208\u000328\u00020A\u000328\u001E2C\u000328\u001E2E\u000328</string>
+    </test>
+    <test label="U+0130
+U+01CF
+U+0208
+U+020A
+U+1E2C
+U+1E2E" stylename="cv30_1">
+      <comment>LtnCapIDotAbv LtnCapICaron LtnCapIDblGrave LtnCapIInvBreve LtnCapITildeBlw LtnCapIDiaerAcute</comment>
+      <string>\u000130\u000328\u0001CF\u000328\u000208\u000328\u00020A\u000328\u001E2C\u000328\u001E2E\u000328</string>
+    </test>
+    <test label="U+1EC8
+U+1ECA
+U+A7BC">
+      <comment>LtnCapIHookAbv LtnCapIDotBlw LtnCapIEgAlef</comment>
+      <string>\u001EC8\u000328\u001ECA\u000328\u00A7BC\u000328</string>
+    </test>
+    <test label="U+1EC8
+U+1ECA
+U+A7BC" stylename="cv30_1">
+      <comment>LtnCapIHookAbv LtnCapIDotBlw LtnCapIEgAlef</comment>
+      <string>\u001EC8\u000328\u001ECA\u000328\u00A7BC\u000328</string>
+    </test>
+  </testgroup>
   <testgroup label="cv31">
     <test label="U+0069
 U+00EC
@@ -704,6 +759,7 @@ U+A7BB" stylename="ss13_1">
   <testgroup label="cv20 smcp"/>
   <testgroup label="cv25 smcp"/>
   <testgroup label="cv28 smcp"/>
+  <testgroup label="cv30 cv76"/>
   <testgroup label="cv31 cv76"/>
   <testgroup label="cv31 smcp">
     <test label="U+0069

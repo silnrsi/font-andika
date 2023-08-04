@@ -3112,10 +3112,6 @@
       <comment>CyCapAbkhasChe</comment>
       <string>\u0004BC\u000329 \u0004BC\u000328 \u0004BC\u00030D</string>
     </test>
-    <test label="U+04BD">
-      <comment>CySmAbkhasChe</comment>
-      <string>\u0004BD\u000329 \u0004BD\u000328 \u0004BD\u00030D</string>
-    </test>
     <test label="U+04BE">
       <comment>CyCapAbkhasCheDesc</comment>
       <string>\u0004BE\u000329 \u0004BE\u00030D</string>
@@ -7171,10 +7167,6 @@
     <test label="U+F267">
       <comment>LtnSmTurnedYBeltDep</comment>
       <string>\u00F267\u000329 \u00F267\u00030D</string>
-    </test>
-    <test label="U+F268">
-      <comment>LtnSmCapLBeltDep</comment>
-      <string>\u00F268\u000329 \u00F268\u00030D</string>
     </test>
     <test label="U+F269">
       <comment>LtnSmTurnedRLngLegHookDep</comment>

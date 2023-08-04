@@ -1341,10 +1341,9 @@ U+04B5
 U+04B7
 U+04B9
 U+04BB
-U+04BD
 U+04BF">
-      <comment>CySmStraightUStrk CySmHaDesc CySmLigTeTse CySmCheDesc CySmCheVertStrk CySmShha CySmAbkhasChe CySmAbkhasCheDesc</comment>
-      <string>\u0004B1\u00030D\u0004B3\u00030D\u0004B5\u00030D\u0004B7\u00030D\u0004B9\u00030D\u0004BB\u00030D\u0004BD\u00030D\u0004BF\u00030D</string>
+      <comment>CySmStraightUStrk CySmHaDesc CySmLigTeTse CySmCheDesc CySmCheVertStrk CySmShha CySmAbkhasCheDesc</comment>
+      <string>\u0004B1\u00030D\u0004B3\u00030D\u0004B5\u00030D\u0004B7\u00030D\u0004B9\u00030D\u0004BB\u00030D\u0004BF\u00030D</string>
     </test>
     <test label="U+04B1
 U+04B3
@@ -1352,10 +1351,9 @@ U+04B5
 U+04B7
 U+04B9
 U+04BB
-U+04BD
 U+04BF" stylename="smcp_1">
-      <comment>CySmStraightUStrk CySmHaDesc CySmLigTeTse CySmCheDesc CySmCheVertStrk CySmShha CySmAbkhasChe CySmAbkhasCheDesc</comment>
-      <string>\u0004B1\u00030D\u0004B3\u00030D\u0004B5\u00030D\u0004B7\u00030D\u0004B9\u00030D\u0004BB\u00030D\u0004BD\u00030D\u0004BF\u00030D</string>
+      <comment>CySmStraightUStrk CySmHaDesc CySmLigTeTse CySmCheDesc CySmCheVertStrk CySmShha CySmAbkhasCheDesc</comment>
+      <string>\u0004B1\u00030D\u0004B3\u00030D\u0004B5\u00030D\u0004B7\u00030D\u0004B9\u00030D\u0004BB\u00030D\u0004BF\u00030D</string>
     </test>
     <test label="U+04B0
 U+04B2
@@ -1363,10 +1361,9 @@ U+04B4
 U+04B6
 U+04B8
 U+04BA
-U+04BC
 U+04BE">
-      <comment>CyCapStraightUStrk CyCapHaDesc CyCapLigTeTse CyCapCheDesc CyCapCheVertStrk CyCapShha CyCapAbkhasChe CyCapAbkhasCheDesc</comment>
-      <string>\u0004B0\u00030D\u0004B2\u00030D\u0004B4\u00030D\u0004B6\u00030D\u0004B8\u00030D\u0004BA\u00030D\u0004BC\u00030D\u0004BE\u00030D</string>
+      <comment>CyCapStraightUStrk CyCapHaDesc CyCapLigTeTse CyCapCheDesc CyCapCheVertStrk CyCapShha CyCapAbkhasCheDesc</comment>
+      <string>\u0004B0\u00030D\u0004B2\u00030D\u0004B4\u00030D\u0004B6\u00030D\u0004B8\u00030D\u0004BA\u00030D\u0004BE\u00030D</string>
     </test>
     <test label="U+04C2
 U+04C4

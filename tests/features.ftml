@@ -50,6 +50,8 @@
       <style feats="'cv25' 2, 'smcp' 1" name="cv25_2_smcp_1"/>
       <style feats="'cv28' 1" name="cv28_1"/>
       <style feats="'cv28' 1, 'smcp' 1" name="cv28_1_smcp_1"/>
+      <style feats="'cv30' 1" name="cv30_1"/>
+      <style feats="'cv30' 1, 'cv76' 1" name="cv30_1_cv76_1"/>
       <style feats="'cv31' 1" name="cv31_1"/>
       <style feats="'cv31' 1, 'cv76' 1" name="cv31_1_cv76_1"/>
       <style feats="'cv31' 1, 'cv76' 1, 'smcp' 1" name="cv31_1_cv76_1_smcp_1"/>
@@ -382,6 +384,58 @@ U+0127">
 U+0127" stylename="cv28_1">
       <comment>LtnCapHStrk LtnSmHStrk</comment>
       <string>\u000126\u000127</string>
+    </test>
+  </testgroup>
+  <testgroup label="cv30">
+    <test label="U+0049
+U+00CC
+U+00CD
+U+00CE
+U+00CF
+U+0128
+U+012A
+U+012C
+U+012E
+U+0130
+U+0197
+U+01CF
+U+0208
+U+020A
+U+1E2C
+U+1E2E">
+      <comment>LtnCapI LtnCapIGrave LtnCapIAcute LtnCapICircum LtnCapIDiaer LtnCapITilde LtnCapIMacron LtnCapIBreve LtnCapIOgonek LtnCapIDotAbv LtnCapIStrk LtnCapICaron LtnCapIDblGrave LtnCapIInvBreve LtnCapITildeBlw LtnCapIDiaerAcute</comment>
+      <string>I\u0000CC\u0000CD\u0000CE\u0000CF\u000128\u00012A\u00012C\u00012E\u000130\u000197\u0001CF\u000208\u00020A\u001E2C\u001E2E</string>
+    </test>
+    <test label="U+0049
+U+00CC
+U+00CD
+U+00CE
+U+00CF
+U+0128
+U+012A
+U+012C
+U+012E
+U+0130
+U+0197
+U+01CF
+U+0208
+U+020A
+U+1E2C
+U+1E2E" stylename="cv30_1">
+      <comment>LtnCapI LtnCapIGrave LtnCapIAcute LtnCapICircum LtnCapIDiaer LtnCapITilde LtnCapIMacron LtnCapIBreve LtnCapIOgonek LtnCapIDotAbv LtnCapIStrk LtnCapICaron LtnCapIDblGrave LtnCapIInvBreve LtnCapITildeBlw LtnCapIDiaerAcute</comment>
+      <string>I\u0000CC\u0000CD\u0000CE\u0000CF\u000128\u00012A\u00012C\u00012E\u000130\u000197\u0001CF\u000208\u00020A\u001E2C\u001E2E</string>
+    </test>
+    <test label="U+1EC8
+U+1ECA
+U+A7BC">
+      <comment>LtnCapIHookAbv LtnCapIDotBlw LtnCapIEgAlef</comment>
+      <string>\u001EC8\u001ECA\u00A7BC</string>
+    </test>
+    <test label="U+1EC8
+U+1ECA
+U+A7BC" stylename="cv30_1">
+      <comment>LtnCapIHookAbv LtnCapIDotBlw LtnCapIEgAlef</comment>
+      <string>\u001EC8\u001ECA\u00A7BC</string>
     </test>
   </testgroup>
   <testgroup label="cv31">
@@ -2006,6 +2060,16 @@ U+04E1" stylename="cv20_1_smcp_1">
     <test label="U+0127" stylename="cv28_1_smcp_1">
       <comment>LtnSmHStrk</comment>
       <string>\u000127</string>
+    </test>
+  </testgroup>
+  <testgroup label="cv30 cv76">
+    <test label="U+012E">
+      <comment>LtnCapIOgonek</comment>
+      <string>\u00012E</string>
+    </test>
+    <test label="U+012E" stylename="cv30_1_cv76_1">
+      <comment>LtnCapIOgonek</comment>
+      <string>\u00012E</string>
     </test>
   </testgroup>
   <testgroup label="cv31 cv76">

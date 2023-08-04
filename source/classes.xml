@@ -584,41 +584,43 @@
 	</class>
 	<class name="c_dotlss" fixed="0">
 		CySmByelorusUkrainI.Dotless CySmByelorusUkrainI.Dotless.sc CySmJe.Dotless CySmJe.Dotless.sc
-		LtnSmI.Dotless LtnSmI.Dotless.SItal LtnSmI.Dotless.sc LtnSmIDotBlw.Dotless.sc
-		LtnSmIRetrHook.Dotless LtnSmIStrk.Dotless LtnSmIStrk.Dotless.TailI LtnSmIStrk.Dotless.sc
-		LtnSmIStrkRetrHook.Dotless LtnSmJ.Dotless LtnSmJ.Dotless.sc LtnSmJCrossedTail.Dotless
-		LtnSmJCrossedTail.Dotless.TopLftSerif LtnSmJCrossedTail.Dotless.sc LtnSmJStrk.Dotless LtnSmJStrk.Dotless.sc
-		LtnSubSmI.Dotless LtnSubSmI.Dotless.TailI LtnSubSmJ.Dotless LtnSupSmI.Dotless
-		LtnSupSmI.Dotless.TailI LtnSupSmIStrk.Dotless LtnSupSmIStrk.Dotless.TailI ModSmJ.Dotless
-		ModSmJ.Dotless.TopLftSerif ModSmJCrossedTail.Dotless ModSmJCrossedTail.Dotless.TopLftSerif
+		LtnSmI.Dotless LtnSmI.Dotless.NB.sc LtnSmI.Dotless.SItal LtnSmI.Dotless.sc
+		LtnSmIDotBlw.Dotless.NB.sc LtnSmIDotBlw.Dotless.sc LtnSmIRetrHook.Dotless LtnSmIStrk.Dotless
+		LtnSmIStrk.Dotless.NB.sc LtnSmIStrk.Dotless.TailI LtnSmIStrk.Dotless.sc LtnSmIStrkRetrHook.Dotless
+		LtnSmJ.Dotless LtnSmJ.Dotless.sc LtnSmJCrossedTail.Dotless LtnSmJCrossedTail.Dotless.TopLftSerif
+		LtnSmJCrossedTail.Dotless.sc LtnSmJStrk.Dotless LtnSmJStrk.Dotless.sc LtnSubSmI.Dotless
+		LtnSubSmI.Dotless.TailI LtnSubSmJ.Dotless LtnSupSmI.Dotless LtnSupSmI.Dotless.TailI
+		LtnSupSmIStrk.Dotless LtnSupSmIStrk.Dotless.TailI ModSmJ.Dotless ModSmJ.Dotless.TopLftSerif
+		ModSmJCrossedTail.Dotless ModSmJCrossedTail.Dotless.TopLftSerif
 	</class>
 	<class name="cno_dotlss" fixed="0">
 		CySmByelorusUkrainI CySmByelorusUkrainI.sc CySmJe CySmJe.sc
-		LtnSmI LtnSmI.SItal LtnSmI.sc LtnSmIDotBlw.sc
-		LtnSmIRetrHook LtnSmIStrk LtnSmIStrk.TailI LtnSmIStrk.sc
-		LtnSmIStrkRetrHook LtnSmJ LtnSmJ.sc LtnSmJCrossedTail
-		LtnSmJCrossedTail.TopLftSerif LtnSmJCrossedTail.sc LtnSmJStrk LtnSmJStrk.sc
-		LtnSubSmI LtnSubSmI.TailI LtnSubSmJ LtnSupSmI
-		LtnSupSmI.TailI LtnSupSmIStrk LtnSupSmIStrk.TailI ModSmJ
-		ModSmJ.TopLftSerif ModSmJCrossedTail ModSmJCrossedTail.TopLftSerif
+		LtnSmI LtnSmI.NB.sc LtnSmI.SItal LtnSmI.sc
+		LtnSmIDotBlw.NB.sc LtnSmIDotBlw.sc LtnSmIRetrHook LtnSmIStrk
+		LtnSmIStrk.NB.sc LtnSmIStrk.TailI LtnSmIStrk.sc LtnSmIStrkRetrHook
+		LtnSmJ LtnSmJ.sc LtnSmJCrossedTail LtnSmJCrossedTail.TopLftSerif
+		LtnSmJCrossedTail.sc LtnSmJStrk LtnSmJStrk.sc LtnSubSmI
+		LtnSubSmI.TailI LtnSubSmJ LtnSupSmI LtnSupSmI.TailI
+		LtnSupSmIStrk LtnSupSmIStrk.TailI ModSmJ ModSmJ.TopLftSerif
+		ModSmJCrossedTail ModSmJCrossedTail.TopLftSerif
 	</class>
 	<class name="c_rtrhk" fixed="0">
-		CombOgonek.RetroHook LtnCapAOgonek.RetroHook LtnCapEOgonek.RetroHook LtnCapIOgonek.RetroHook
-		LtnCapOOgonek.RetroHook LtnCapOOgonekMacron.RetroHook LtnCapUOgonek.RetroHook LtnSmAOgonek.2StorySItal.RetroHook
-		LtnSmAOgonek.RetroHook LtnSmAOgonek.RetroHook.sc LtnSmAOgonek.SngStory.RetroHook LtnSmAOgonek.SngStory.RetroHook.sc
-		LtnSmEOgonek.RetroHook LtnSmEOgonek.RetroHook.sc LtnSmIOgonek.RetroHook LtnSmIOgonek.RetroHook.sc
-		LtnSmIOgonek.TailI.RetroHook LtnSmOOgonek.RetroHook LtnSmOOgonek.RetroHook.sc LtnSmOOgonekMacron.RetroHook
-		LtnSmOOgonekMacron.RetroHook.sc LtnSmUOgonek.RetroHook LtnSmUOgonek.RetroHook.sc LtnSmYOgonek.NoTailY.RetroHook
-		LtnSmYOgonek.RetroHook Ogonek.RetroHook
+		CombOgonek.RetroHook LtnCapAOgonek.RetroHook LtnCapEOgonek.RetroHook LtnCapIOgonek.NB.RetroHook
+		LtnCapIOgonek.RetroHook LtnCapOOgonek.RetroHook LtnCapOOgonekMacron.RetroHook LtnCapUOgonek.RetroHook
+		LtnSmAOgonek.2StorySItal.RetroHook LtnSmAOgonek.RetroHook LtnSmAOgonek.RetroHook.sc LtnSmAOgonek.SngStory.RetroHook
+		LtnSmAOgonek.SngStory.RetroHook.sc LtnSmEOgonek.RetroHook LtnSmEOgonek.RetroHook.sc LtnSmIOgonek.NB.RetroHook.sc
+		LtnSmIOgonek.RetroHook LtnSmIOgonek.RetroHook.sc LtnSmIOgonek.TailI.RetroHook LtnSmOOgonek.RetroHook
+		LtnSmOOgonek.RetroHook.sc LtnSmOOgonekMacron.RetroHook LtnSmOOgonekMacron.RetroHook.sc LtnSmUOgonek.RetroHook
+		LtnSmUOgonek.RetroHook.sc LtnSmYOgonek.NoTailY.RetroHook LtnSmYOgonek.RetroHook Ogonek.RetroHook
 	</class>
 	<class name="cno_rtrhk" fixed="0">
-		CombOgonek LtnCapAOgonek LtnCapEOgonek LtnCapIOgonek
-		LtnCapOOgonek LtnCapOOgonekMacron LtnCapUOgonek LtnSmAOgonek.2StorySItal
-		LtnSmAOgonek LtnSmAOgonek.sc LtnSmAOgonek.SngStory LtnSmAOgonek.SngStory.sc
-		LtnSmEOgonek LtnSmEOgonek.sc LtnSmIOgonek LtnSmIOgonek.sc
-		LtnSmIOgonek.TailI LtnSmOOgonek LtnSmOOgonek.sc LtnSmOOgonekMacron
-		LtnSmOOgonekMacron.sc LtnSmUOgonek LtnSmUOgonek.sc LtnSmYOgonek.NoTailY
-		LtnSmYOgonek Ogonek
+		CombOgonek LtnCapAOgonek LtnCapEOgonek LtnCapIOgonek.NB
+		LtnCapIOgonek LtnCapOOgonek LtnCapOOgonekMacron LtnCapUOgonek
+		LtnSmAOgonek.2StorySItal LtnSmAOgonek LtnSmAOgonek.sc LtnSmAOgonek.SngStory
+		LtnSmAOgonek.SngStory.sc LtnSmEOgonek LtnSmEOgonek.sc LtnSmIOgonek.NB.sc
+		LtnSmIOgonek LtnSmIOgonek.sc LtnSmIOgonek.TailI LtnSmOOgonek
+		LtnSmOOgonek.sc LtnSmOOgonekMacron LtnSmOOgonekMacron.sc LtnSmUOgonek
+		LtnSmUOgonek.sc LtnSmYOgonek.NoTailY LtnSmYOgonek Ogonek
 	</class>
 	<class name="c_caron" fixed="0">
 		LtnCapLCaron.Caron LtnSmDCaron.Caron LtnSmDCaron.Caron.sc LtnSmLCaron.Caron
@@ -1009,24 +1011,24 @@
 		ModRevGlottalStop
 	</class>
 	<class name="c_grave_comp" fixed="0">
-		LtnCapAGrave LtnCapEGrave LtnCapIGrave LtnCapNGrave
-		LtnCapOGrave LtnCapUGrave LtnCapWGrave LtnCapYGrave
-		LtnSmAGrave LtnSmAGrave.2StorySItal LtnSmAGrave.SngStory LtnSmAGrave.SngStory.sc
-		LtnSmAGrave.sc LtnSmEGrave LtnSmEGrave.sc LtnSmIGrave
-		LtnSmIGrave.SItal LtnSmIGrave.sc LtnSmNGrave LtnSmNGrave.sc
-		LtnSmOGrave LtnSmOGrave.sc LtnSmUGrave LtnSmUGrave.sc
-		LtnSmWGrave LtnSmWGrave.sc LtnSmYGrave LtnSmYGrave.NoTailY
-		LtnSmYGrave.sc
+		LtnCapAGrave LtnCapEGrave LtnCapIGrave LtnCapIGrave.NB
+		LtnCapNGrave LtnCapOGrave LtnCapUGrave LtnCapWGrave
+		LtnCapYGrave LtnSmAGrave LtnSmAGrave.2StorySItal LtnSmAGrave.SngStory
+		LtnSmAGrave.SngStory.sc LtnSmAGrave.sc LtnSmEGrave LtnSmEGrave.sc
+		LtnSmIGrave LtnSmIGrave.NB.sc LtnSmIGrave.SItal LtnSmIGrave.sc
+		LtnSmNGrave LtnSmNGrave.sc LtnSmOGrave LtnSmOGrave.sc
+		LtnSmUGrave LtnSmUGrave.sc LtnSmWGrave LtnSmWGrave.sc
+		LtnSmYGrave LtnSmYGrave.NoTailY LtnSmYGrave.sc
 	</class>
 	<class name="c_grave_base" fixed="0">
-		LtnCapA LtnCapE LtnCapI LtnCapN
-		LtnCapO LtnCapU LtnCapW LtnCapY
-		LtnSmA LtnSmA.2StorySItal LtnSmA.SngStory LtnSmA.SngStory.sc
-		LtnSmA.sc LtnSmE LtnSmE.sc LtnSmI.Dotless
-		LtnSmI.Dotless.SItal LtnSmI.sc LtnSmN LtnSmN.sc
-		LtnSmO LtnSmO.sc LtnSmU LtnSmU.sc
-		LtnSmW LtnSmW.sc LtnSmY LtnSmY.NoTailY
-		LtnSmY.sc
+		LtnCapA LtnCapE LtnCapI LtnCapI.NB
+		LtnCapN LtnCapO LtnCapU LtnCapW
+		LtnCapY LtnSmA LtnSmA.2StorySItal LtnSmA.SngStory
+		LtnSmA.SngStory.sc LtnSmA.sc LtnSmE LtnSmE.sc
+		LtnSmI.Dotless LtnSmI.NB.sc LtnSmI.Dotless.SItal LtnSmI.sc
+		LtnSmN LtnSmN.sc LtnSmO LtnSmO.sc
+		LtnSmU LtnSmU.sc LtnSmW LtnSmW.sc
+		LtnSmY LtnSmY.NoTailY LtnSmY.sc
 	</class>
 	<class name="c_takes_lp_diac" fixed="0">
 		LtnCapA LtnCapAADigraph LtnCapAAcute LtnCapABreve
@@ -1047,101 +1049,101 @@
 		LtnCapCPalHook LtnCapCStrk LtnCapChi LtnCapCuatrillo
 		LtnCapCuatrilloComma LtnCapD LtnCapDCaron LtnCapDCedilla
 		LtnCapDCircumBlw LtnCapDDotAbv LtnCapDDotBlw LtnCapDHook
-		LtnCapDLineBlw LtnCapDStrk LtnCapDTopbar LtnCapDblBarredL
-		LtnCapDz LtnCapDzCaron LtnCapE LtnCapEAcute
-		LtnCapEBreve LtnCapECaron LtnCapECedilla LtnCapECedillaBreve
-		LtnCapECircum LtnCapECircumAcute LtnCapECircumBlw LtnCapECircumDotBlw
-		LtnCapECircumGrave LtnCapECircumHookAbv LtnCapECircumTilde LtnCapEDblGrave
-		LtnCapEDiaer LtnCapEDotAbv LtnCapEDotBlw LtnCapEGrave
-		LtnCapEHookAbv LtnCapEInvBreve LtnCapEMacron LtnCapEMacronAcute
-		LtnCapEMacronGrave LtnCapEOgonek LtnCapEStrk LtnCapETilde
-		LtnCapETildeBlw LtnCapEgAin LtnCapEgAlef LtnCapEng
-		LtnCapEsh LtnCapEt LtnCapEth LtnCapEzh
-		LtnCapEzhCaron LtnCapEzhRev LtnCapF LtnCapFDotAbv
-		LtnCapFHook LtnCapFHookStrk LtnCapG LtnCapGAcute
-		LtnCapGBreve LtnCapGCaron LtnCapGCedilla LtnCapGCircum
-		LtnCapGDiagStrk LtnCapGDotAbv LtnCapGHook LtnCapGMacron
-		LtnCapGStrk LtnCapGamma LtnCapGlottalStop LtnCapH
-		LtnCapHBreveBlw LtnCapHCaron LtnCapHCedilla LtnCapHCircum
-		LtnCapHDesc LtnCapHDiaer LtnCapHDotAbv LtnCapHDotBlw
-		LtnCapHHook LtnCapHStrk LtnCapHalfH LtnCapHeng
-		LtnCapHwair LtnCapI LtnCapIAcute LtnCapIBreve
-		LtnCapICaron LtnCapICircum LtnCapIDblGrave LtnCapIDiaer
-		LtnCapIDiaerAcute LtnCapIDotAbv LtnCapIDotBlw LtnCapIEgAlef
-		LtnCapIGrave LtnCapIHookAbv LtnCapIInvBreve LtnCapIMacron
-		LtnCapIOgonek LtnCapIStrk LtnCapITilde LtnCapITildeBlw
-		LtnCapInsularD LtnCapInsularF LtnCapInsularG LtnCapInsularR
-		LtnCapInsularS LtnCapInsularT LtnCapIota LtnCapIs
-		LtnCapJ LtnCapJCircum LtnCapJCrossedTail LtnCapJStrk
-		LtnCapK LtnCapKAcute LtnCapKCaron LtnCapKCedilla
-		LtnCapKDesc LtnCapKDiagStrk LtnCapKDotBlw LtnCapKHook
-		LtnCapKLineBlw LtnCapKRtDiagStrk LtnCapKStrk LtnCapKStrkRtDiagStrk
-		LtnCapL LtnCapLAcute LtnCapLBar LtnCapLBelt
-		LtnCapLBrkn LtnCapLCaron LtnCapLCedilla LtnCapLCircumBlw
-		LtnCapLDotBlw LtnCapLDotBlwMacron LtnCapLHighBar LtnCapLLDigraph
-		LtnCapLLineBlw LtnCapLMiddleDot LtnCapLMiddleTilde LtnCapLStrk
-		LtnCapLTrnd LtnCapLigIj LtnCapLigOe LtnCapLj
-		LtnCapM LtnCapMAcute LtnCapMDotAbv LtnCapMDotBlw
-		LtnCapMHook LtnCapN LtnCapNAcute LtnCapNCaron
-		LtnCapNCedilla LtnCapNCircumBlw LtnCapNDesc LtnCapNDiagStrk
-		LtnCapNDotAbv LtnCapNDotBlw LtnCapNGrave LtnCapNLftHook
-		LtnCapNLineBlw LtnCapNLngRtLeg LtnCapNTilde LtnCapNj
-		LtnCapO LtnCapOAcute LtnCapOBreve LtnCapOCaron
-		LtnCapOCircum LtnCapOCircumAcute LtnCapOCircumDotBlw LtnCapOCircumGrave
-		LtnCapOCircumHookAbv LtnCapOCircumTilde LtnCapOCurl LtnCapODblAcute
-		LtnCapODblGrave LtnCapODiaer LtnCapODiaerMacron LtnCapODotAbv
-		LtnCapODotAbvMacron LtnCapODotBlw LtnCapOGrave LtnCapOHookAbv
-		LtnCapOHorn LtnCapOHornAcute LtnCapOHornDotBlw LtnCapOHornGrave
-		LtnCapOHornHookAbv LtnCapOHornTilde LtnCapOInvBreve LtnCapOLngStrk
-		LtnCapOMacron LtnCapOMacronAcute LtnCapOMacronGrave LtnCapOMiddleTilde
-		LtnCapOODigraph LtnCapOOgonek LtnCapOOgonekMacron LtnCapOStrk
-		LtnCapOStrkAcute LtnCapOTilde LtnCapOTildeAcute LtnCapOTildeDiaer
-		LtnCapOTildeMacron LtnCapOi LtnCapOmega LtnCapOpenNine
-		LtnCapOpenSix LtnCapOpnE LtnCapOpnO LtnCapOu
-		LtnCapP LtnCapPAcute LtnCapPDotAbv LtnCapPHighCurl
-		LtnCapPHook LtnCapPLowCurl LtnCapPLowStrk LtnCapPStrk
-		LtnCapQ LtnCapQDiagStrk LtnCapQStrk LtnCapR
-		LtnCapRAcute LtnCapRBarredStem LtnCapRCaron LtnCapRCedilla
-		LtnCapRDblGrave LtnCapRDiagStrk LtnCapRDotAbv LtnCapRDotBlw
-		LtnCapRDotBlwMacron LtnCapRHookTail LtnCapRInvBreve LtnCapRLineBlw
-		LtnCapRRotunda LtnCapRevCMiddleDot LtnCapRevE LtnCapRevOpnE
-		LtnCapRumRotunda LtnCapS LtnCapSAcute LtnCapSAcuteDotAbv
-		LtnCapSCaron LtnCapSCaronDotAbv LtnCapSCedilla LtnCapSCircum
-		LtnCapSCommaBlw LtnCapSDiagStrk LtnCapSDotAbv LtnCapSDotBlw
-		LtnCapSDotBlwDotAbv LtnCapSHook LtnCapSSwashTail LtnCapSaltillo
-		LtnCapSchwa LtnCapScriptG LtnCapSharpS LtnCapSmAlpha
-		LtnCapSmCapI LtnCapSmQHookTail LtnCapSmTurnedAlpha LtnCapT
-		LtnCapTCaron LtnCapTCedilla LtnCapTCircumBlw LtnCapTCommaBlw
-		LtnCapTDiagStrk LtnCapTDotAbv LtnCapTDotBlw LtnCapTHook
-		LtnCapTLineBlw LtnCapTRetrHook LtnCapTStrk LtnCapThorn
-		LtnCapThornHighStrk LtnCapThornLowStrk LtnCapTnFive LtnCapTnSix
-		LtnCapTnTwo LtnCapTresillo LtnCapTrndInsularG LtnCapTrndM
-		LtnCapTurnedA LtnCapTurnedH LtnCapTurnedK LtnCapTurnedT
-		LtnCapTurnedV LtnCapTzDigraph LtnCapU LtnCapUAcute
-		LtnCapUBar LtnCapUBreve LtnCapUCaron LtnCapUCircum
-		LtnCapUCircumBlw LtnCapUDblAcute LtnCapUDblGrave LtnCapUDiaer
-		LtnCapUDiaerAcute LtnCapUDiaerBlw LtnCapUDiaerCaron LtnCapUDiaerGrave
-		LtnCapUDiaerMacron LtnCapUDotBlw LtnCapUEgAlef LtnCapUGrave
-		LtnCapUHookAbv LtnCapUHorn LtnCapUHornAcute LtnCapUHornDotBlw
-		LtnCapUHornGrave LtnCapUHornHookAbv LtnCapUHornTilde LtnCapUInvBreve
-		LtnCapUMacron LtnCapUMacronDiaer LtnCapUOgonek LtnCapURingAbv
-		LtnCapUStrk LtnCapUTilde LtnCapUTildeAcute LtnCapUTildeBlw
-		LtnCapUpsilon LtnCapV LtnCapVDiagStrk LtnCapVDotBlw
-		LtnCapVHook LtnCapVTilde LtnCapVYDigraph LtnCapVend
-		LtnCapVisigothicZ LtnCapW LtnCapWAcute LtnCapWCircum
-		LtnCapWDiaer LtnCapWDotAbv LtnCapWDotBlw LtnCapWGrave
-		LtnCapWHook LtnCapWynn LtnCapX LtnCapXDiaer
-		LtnCapXDotAbv LtnCapY LtnCapYAcute LtnCapYCircum
-		LtnCapYDiaer LtnCapYDotAbv LtnCapYDotBlw LtnCapYGrave
-		LtnCapYHook.RtHook LtnCapYHookAbv LtnCapYLoop LtnCapYMacron
-		LtnCapYStrk LtnCapYTilde LtnCapYogh LtnCapZ
-		LtnCapZAcute LtnCapZCaron LtnCapZCircum LtnCapZDesc
-		LtnCapZDotAbv LtnCapZDotBlw LtnCapZHook LtnCapZLineBlw
-		LtnCapZPalHook LtnCapZStrk LtnCapZSwashTail LtnYr
-		RomNumEight RomNumEleven RomNumFifty RomNumFive
-		RomNumFiveHundred RomNumFour RomNumNine RomNumOne
-		RomNumOneHundred RomNumOneThousand RomNumRevOneHundred RomNumSeven
-		RomNumSix RomNumTen RomNumThree RomNumTwelve
-		RomNumTwo
+		LtnCapDLineBlw LtnCapDShortStrk LtnCapDStrk LtnCapDTopbar
+		LtnCapDblBarredL LtnCapDz LtnCapDzCaron LtnCapE
+		LtnCapEAcute LtnCapEBreve LtnCapECaron LtnCapECedilla
+		LtnCapECedillaBreve LtnCapECircum LtnCapECircumAcute LtnCapECircumBlw
+		LtnCapECircumDotBlw LtnCapECircumGrave LtnCapECircumHookAbv LtnCapECircumTilde
+		LtnCapEDblGrave LtnCapEDiaer LtnCapEDotAbv LtnCapEDotBlw
+		LtnCapEGrave LtnCapEHookAbv LtnCapEInvBreve LtnCapEMacron
+		LtnCapEMacronAcute LtnCapEMacronGrave LtnCapEOgonek LtnCapEStrk
+		LtnCapETilde LtnCapETildeBlw LtnCapEgAin LtnCapEgAlef
+		LtnCapEng LtnCapEsh LtnCapEt LtnCapEth
+		LtnCapEzh LtnCapEzhCaron LtnCapEzhRev LtnCapF
+		LtnCapFDotAbv LtnCapFHook LtnCapFHookStrk LtnCapG
+		LtnCapGAcute LtnCapGBreve LtnCapGCaron LtnCapGCedilla
+		LtnCapGCircum LtnCapGDiagStrk LtnCapGDotAbv LtnCapGHook
+		LtnCapGMacron LtnCapGStrk LtnCapGamma LtnCapGlottalStop
+		LtnCapH LtnCapHBreveBlw LtnCapHCaron LtnCapHCedilla
+		LtnCapHCircum LtnCapHDesc LtnCapHDiaer LtnCapHDotAbv
+		LtnCapHDotBlw LtnCapHHook LtnCapHStrk LtnCapHalfH
+		LtnCapHeng LtnCapHwair LtnCapI LtnCapIAcute
+		LtnCapIBreve LtnCapICaron LtnCapICircum LtnCapIDblGrave
+		LtnCapIDiaer LtnCapIDiaerAcute LtnCapIDotAbv LtnCapIDotBlw
+		LtnCapIEgAlef LtnCapIGrave LtnCapIHookAbv LtnCapIInvBreve
+		LtnCapIMacron LtnCapIOgonek LtnCapIStrk LtnCapITilde
+		LtnCapITildeBlw LtnCapInsularD LtnCapInsularF LtnCapInsularG
+		LtnCapInsularR LtnCapInsularS LtnCapInsularT LtnCapIota
+		LtnCapIs LtnCapJ LtnCapJCircum LtnCapJCrossedTail
+		LtnCapJStrk LtnCapK LtnCapKAcute LtnCapKCaron
+		LtnCapKCedilla LtnCapKDesc LtnCapKDiagStrk LtnCapKDotBlw
+		LtnCapKHook LtnCapKLineBlw LtnCapKRtDiagStrk LtnCapKStrk
+		LtnCapKStrkRtDiagStrk LtnCapL LtnCapLAcute LtnCapLBar
+		LtnCapLBelt LtnCapLBrkn LtnCapLCaron LtnCapLCedilla
+		LtnCapLCircumBlw LtnCapLDotBlw LtnCapLDotBlwMacron LtnCapLHighBar
+		LtnCapLLDigraph LtnCapLLineBlw LtnCapLMiddleDot LtnCapLMiddleTilde
+		LtnCapLStrk LtnCapLTrnd LtnCapLigIj LtnCapLigOe
+		LtnCapLj LtnCapM LtnCapMAcute LtnCapMDotAbv
+		LtnCapMDotBlw LtnCapMHook LtnCapN LtnCapNAcute
+		LtnCapNCaron LtnCapNCedilla LtnCapNCircumBlw LtnCapNDesc
+		LtnCapNDiagStrk LtnCapNDotAbv LtnCapNDotBlw LtnCapNGrave
+		LtnCapNLftHook LtnCapNLineBlw LtnCapNLngRtLeg LtnCapNTilde
+		LtnCapNj LtnCapO LtnCapOAcute LtnCapOBreve
+		LtnCapOCaron LtnCapOCircum LtnCapOCircumAcute LtnCapOCircumDotBlw
+		LtnCapOCircumGrave LtnCapOCircumHookAbv LtnCapOCircumTilde LtnCapOCurl
+		LtnCapODblAcute LtnCapODblGrave LtnCapODiaer LtnCapODiaerMacron
+		LtnCapODotAbv LtnCapODotAbvMacron LtnCapODotBlw LtnCapOGrave
+		LtnCapOHookAbv LtnCapOHorn LtnCapOHornAcute LtnCapOHornDotBlw
+		LtnCapOHornGrave LtnCapOHornHookAbv LtnCapOHornTilde LtnCapOInvBreve
+		LtnCapOLngStrk LtnCapOMacron LtnCapOMacronAcute LtnCapOMacronGrave
+		LtnCapOMiddleTilde LtnCapOODigraph LtnCapOOgonek LtnCapOOgonekMacron
+		LtnCapOStrk LtnCapOStrkAcute LtnCapOTilde LtnCapOTildeAcute
+		LtnCapOTildeDiaer LtnCapOTildeMacron LtnCapOi LtnCapOmega
+		LtnCapOpenNine LtnCapOpenSix LtnCapOpnE LtnCapOpnO
+		LtnCapOu LtnCapP LtnCapPAcute LtnCapPDotAbv
+		LtnCapPHighCurl LtnCapPHook LtnCapPLowCurl LtnCapPLowStrk
+		LtnCapPStrk LtnCapQ LtnCapQDiagStrk LtnCapQStrk
+		LtnCapR LtnCapRAcute LtnCapRBarredStem LtnCapRCaron
+		LtnCapRCedilla LtnCapRDblGrave LtnCapRDiagStrk LtnCapRDotAbv
+		LtnCapRDotBlw LtnCapRDotBlwMacron LtnCapRHookTail LtnCapRInvBreve
+		LtnCapRLineBlw LtnCapRRotunda LtnCapRevCMiddleDot LtnCapRevE
+		LtnCapRevOpnE LtnCapRumRotunda LtnCapS LtnCapSAcute
+		LtnCapSAcuteDotAbv LtnCapSCaron LtnCapSCaronDotAbv LtnCapSCedilla
+		LtnCapSCircum LtnCapSCommaBlw LtnCapSDiagStrk LtnCapSDotAbv
+		LtnCapSDotBlw LtnCapSDotBlwDotAbv LtnCapSHook LtnCapSShortStrk
+		LtnCapSSwashTail LtnCapSaltillo LtnCapSchwa LtnCapScriptG
+		LtnCapSharpS LtnCapSmAlpha LtnCapSmCapI LtnCapSmQHookTail
+		LtnCapSmTurnedAlpha LtnCapT LtnCapTCaron LtnCapTCedilla
+		LtnCapTCircumBlw LtnCapTCommaBlw LtnCapTDiagStrk LtnCapTDotAbv
+		LtnCapTDotBlw LtnCapTHook LtnCapTLineBlw LtnCapTRetrHook
+		LtnCapTStrk LtnCapThorn LtnCapThornHighStrk LtnCapThornLowStrk
+		LtnCapTnFive LtnCapTnSix LtnCapTnTwo LtnCapTresillo
+		LtnCapTrndInsularG LtnCapTrndM LtnCapTurnedA LtnCapTurnedH
+		LtnCapTurnedK LtnCapTurnedT LtnCapTurnedV LtnCapTzDigraph
+		LtnCapU LtnCapUAcute LtnCapUBar LtnCapUBreve
+		LtnCapUCaron LtnCapUCircum LtnCapUCircumBlw LtnCapUDblAcute
+		LtnCapUDblGrave LtnCapUDiaer LtnCapUDiaerAcute LtnCapUDiaerBlw
+		LtnCapUDiaerCaron LtnCapUDiaerGrave LtnCapUDiaerMacron LtnCapUDotBlw
+		LtnCapUEgAlef LtnCapUGrave LtnCapUHookAbv LtnCapUHorn
+		LtnCapUHornAcute LtnCapUHornDotBlw LtnCapUHornGrave LtnCapUHornHookAbv
+		LtnCapUHornTilde LtnCapUInvBreve LtnCapUMacron LtnCapUMacronDiaer
+		LtnCapUOgonek LtnCapURingAbv LtnCapUStrk LtnCapUTilde
+		LtnCapUTildeAcute LtnCapUTildeBlw LtnCapUpsilon LtnCapV
+		LtnCapVDiagStrk LtnCapVDotBlw LtnCapVHook LtnCapVTilde
+		LtnCapVYDigraph LtnCapVend LtnCapVisigothicZ LtnCapW
+		LtnCapWAcute LtnCapWCircum LtnCapWDiaer LtnCapWDotAbv
+		LtnCapWDotBlw LtnCapWGrave LtnCapWHook LtnCapWynn
+		LtnCapX LtnCapXDiaer LtnCapXDotAbv LtnCapY
+		LtnCapYAcute LtnCapYCircum LtnCapYDiaer LtnCapYDotAbv
+		LtnCapYDotBlw LtnCapYGrave LtnCapYHook.RtHook LtnCapYHookAbv
+		LtnCapYLoop LtnCapYMacron LtnCapYStrk LtnCapYTilde
+		LtnCapYogh LtnCapZ LtnCapZAcute LtnCapZCaron
+		LtnCapZCircum LtnCapZDesc LtnCapZDotAbv LtnCapZDotBlw
+		LtnCapZHook LtnCapZLineBlw LtnCapZPalHook LtnCapZStrk
+		LtnCapZSwashTail LtnYr RomNumEight RomNumEleven
+		RomNumFifty RomNumFive RomNumFiveHundred RomNumFour
+		RomNumNine RomNumOne RomNumOneHundred RomNumOneThousand
+		RomNumRevOneHundred RomNumSeven RomNumSix RomNumTen
+		RomNumThree RomNumTwelve RomNumTwo
 	</class>
 </classes>
