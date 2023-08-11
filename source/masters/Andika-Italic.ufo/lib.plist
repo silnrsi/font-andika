@@ -34,7 +34,7 @@
   <string>Italic</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>hT/ModStressHighTn la/ModStressLowTn p</string>
+    <string>o/CombBreve/MetricalBreve o/MetricalLongShort o/MetricalShortLong o/MetricalShortShort o/MetricalLongShortShort o/MetricalShortShortLong</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

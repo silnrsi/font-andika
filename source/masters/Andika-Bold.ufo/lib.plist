@@ -32,7 +32,7 @@
   <string>3151</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>hT/ModStressHighTn la/ModStressLowTn p</string>
+    <string>/EnDash -o/CombBreve/MetricalBreve/MetricalLongShort/MetricalShortLong/MetricalShortShort/MetricalLongShortShort/MetricalShortShortLong</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
