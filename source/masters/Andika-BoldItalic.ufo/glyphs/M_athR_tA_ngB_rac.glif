@@ -3,7 +3,15 @@
   <advance width="930"/>
   <unicode hex="27E9"/>
   <outline>
-    <component base="RtPtngAngBrac"/>
+    <contour>
+      <point x="-159" y="-210" type="line"/>
+      <point x="115" y="-210" type="line"/>
+      <point x="929" y="650" type="line"/>
+      <point x="543" y="1510" type="line"/>
+      <point x="309" y="1510" type="line"/>
+      <point x="725" y="588" type="line"/>
+      <point x="715" y="712" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

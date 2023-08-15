@@ -33,6 +33,7 @@
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>/EnDash -o/CombBreve/MetricalBreve/MetricalLongShort/MetricalShortLong/MetricalShortShort/MetricalLongShortShort/MetricalShortShortLong</string>
+    <string>/MathLftAngBrac/MathRtAngBrac/LftDblParen h/RtDblParen/MathLftDblAngleBrac h/MathRtDblAngleBrac</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
