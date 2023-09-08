@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmI.NB.sc" format="2">
-  <advance width="898"/>
-  <anchor x="390" y="0" name="H"/>
-  <anchor x="367" y="-84" name="L"/>
-  <anchor x="570" y="0" name="O"/>
-  <anchor x="1124" y="1003" name="R"/>
-  <anchor x="741" y="1279" name="U"/>
+  <advance width="610"/>
+  <anchor x="204" y="0" name="H"/>
+  <anchor x="181" y="-84" name="L"/>
+  <anchor x="394" y="0" name="O"/>
+  <anchor x="718" y="1003" name="R"/>
+  <anchor x="555" y="1279" name="U"/>
   <outline>
-    <component base="LtnSmI.sc"/>
+    <contour>
+      <point x="386" y="356" type="curve" smooth="yes"/>
+      <point x="618" y="1196" type="line"/>
+      <point x="430" y="1196" type="line"/>
+      <point x="425" y="1130"/>
+      <point x="391" y="1001"/>
+      <point x="346" y="840" type="curve" smooth="yes"/>
+      <point x="114" y="0" type="line"/>
+      <point x="303" y="0" type="line"/>
+      <point x="307" y="65"/>
+      <point x="342" y="195"/>
+    </contour>
   </outline>
   <lib>
     <dict>

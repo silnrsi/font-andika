@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmIMacron.NB.sc" format="2">
-  <advance width="898"/>
-  <anchor x="390" y="0" name="H"/>
-  <anchor x="367" y="-84" name="L"/>
-  <anchor x="570" y="0" name="O"/>
-  <anchor x="1124" y="1003" name="R"/>
-  <anchor x="794" y="1629" name="U"/>
+  <advance width="610"/>
+  <anchor x="204" y="0" name="H"/>
+  <anchor x="181" y="-84" name="L"/>
+  <anchor x="394" y="0" name="O"/>
+  <anchor x="718" y="1003" name="R"/>
+  <anchor x="608" y="1629" name="U"/>
   <outline>
     <component base="LtnSmI.NB.sc"/>
-    <component base="CombMacron.Short" xOffset="951" yOffset="179"/>
+    <component base="CombMacron.Short" xOffset="765" yOffset="179"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

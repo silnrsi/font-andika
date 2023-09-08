@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnCapIOgonek.NB.RetroHook" format="2">
-  <advance width="955"/>
-  <anchor x="417" y="0" name="H"/>
-  <anchor x="292" y="-500" name="L"/>
-  <anchor x="613" y="0" name="O"/>
-  <anchor x="1215" y="1200" name="R"/>
-  <anchor x="799" y="1530" name="U"/>
+  <advance width="667"/>
+  <anchor x="251" y="0" name="H"/>
+  <anchor x="126" y="-500" name="L"/>
+  <anchor x="447" y="0" name="O"/>
+  <anchor x="853" y="1200" name="R"/>
+  <anchor x="633" y="1530" name="U"/>
   <outline>
     <component base="LtnCapI.NB"/>
-    <component base="CombOgonek.RetroHook" xOffset="1047"/>
+    <component base="CombOgonek.RetroHook" xOffset="881"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

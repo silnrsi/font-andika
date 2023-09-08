@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnCapIDblGrave.NB" format="2">
-  <advance width="955"/>
-  <anchor x="417" y="0" name="H"/>
-  <anchor x="392" y="-100" name="L"/>
-  <anchor x="613" y="0" name="O"/>
-  <anchor x="1215" y="1200" name="R"/>
-  <anchor x="876" y="2065" name="U"/>
+  <advance width="667"/>
+  <anchor x="251" y="0" name="H"/>
+  <anchor x="226" y="-100" name="L"/>
+  <anchor x="447" y="0" name="O"/>
+  <anchor x="853" y="1200" name="R"/>
+  <anchor x="710" y="2065" name="U"/>
   <outline>
     <component base="LtnCapI.NB"/>
-    <component base="CombDblGrave" xOffset="1099" yOffset="430"/>
+    <component base="CombDblGrave" xOffset="933" yOffset="430"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

@@ -32,8 +32,7 @@
   <string>3151</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/EnDash -o/CombBreve/MetricalBreve/MetricalLongShort/MetricalShortLong/MetricalShortShort/MetricalLongShortShort/MetricalShortShortLong</string>
-    <string>/MathLftAngBrac/MathRtAngBrac/LftDblParen h/RtDblParen/MathLftDblAngleBrac h/MathRtDblAngleBrac</string>
+    <string>ihHbilBLUJI/LtnCapI.NB/Space/LtnCapIEgAlef/LtnCapIEgAlef.NB/LtnCapUEgAlef/LtnCapJStrk IO/LtnCapIStrk O/LtnCapI.NB O/LtnCapIStrk.NB O/LtnSmU.sc/LtnSmI.NB.sc/LtnSmIEgAlef.NB.sc/LtnSmUEgAlef.sc/LtnSmJStrk.sc/LtnSmKStrk.sc/LtnSmPStrk.sc/LtnSmO.sc/LtnSmIStrk.sc/LtnSmO.sc/LtnSmI.NB.sc/LtnSmO.sc/LtnSmIStrk.NB.sc/LtnSmO.sc</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

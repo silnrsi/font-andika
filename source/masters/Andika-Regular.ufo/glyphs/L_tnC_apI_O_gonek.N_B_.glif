@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnCapIOgonek.NB" format="2">
-  <advance width="975"/>
-  <anchor x="477" y="0" name="H"/>
-  <anchor x="563" y="-430" name="L"/>
-  <anchor x="975" y="1200" name="R"/>
-  <anchor x="477" y="1530" name="U"/>
+  <advance width="645"/>
+  <anchor x="312" y="0" name="H"/>
+  <anchor x="398" y="-430" name="L"/>
+  <anchor x="625" y="1200" name="R"/>
+  <anchor x="312" y="1530" name="U"/>
   <outline>
     <component base="LtnCapI.NB"/>
-    <component base="CombOgonek" xOffset="978"/>
+    <component base="CombOgonek" xOffset="813"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

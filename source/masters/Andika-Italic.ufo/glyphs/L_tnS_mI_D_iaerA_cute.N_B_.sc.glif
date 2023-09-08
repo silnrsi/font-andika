@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmIDiaerAcute.NB.sc" format="2">
-  <advance width="898"/>
-  <anchor x="390" y="0" name="H"/>
-  <anchor x="367" y="-84" name="L"/>
-  <anchor x="570" y="0" name="O"/>
-  <anchor x="1124" y="1003" name="R"/>
-  <anchor x="972" y="2219" name="U"/>
+  <advance width="610"/>
+  <anchor x="204" y="0" name="H"/>
+  <anchor x="181" y="-84" name="L"/>
+  <anchor x="394" y="0" name="O"/>
+  <anchor x="718" y="1003" name="R"/>
+  <anchor x="786" y="2219" name="U"/>
   <outline>
     <component base="LtnSmI.NB.sc"/>
-    <component base="CombDiaer" xOffset="1091" yOffset="179"/>
-    <component base="CombAcute" xOffset="1193" yOffset="584"/>
+    <component base="CombDiaer" xOffset="905" yOffset="179"/>
+    <component base="CombAcute" xOffset="1007" yOffset="584"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>
