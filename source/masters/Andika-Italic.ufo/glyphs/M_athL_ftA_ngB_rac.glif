@@ -4,19 +4,13 @@
   <unicode hex="27E8"/>
   <outline>
     <contour>
-      <point x="645" y="-210" type="line"/>
-      <point x="229" y="712" type="line"/>
-      <point x="239" y="588" type="line"/>
-      <point x="1113" y="1510" type="line"/>
-      <point x="889" y="1510" type="line"/>
-      <point x="75" y="650" type="line"/>
-      <point x="461" y="-210" type="line"/>
+      <point x="768" y="-210" type="line"/>
+      <point x="313" y="712" type="line"/>
+      <point x="323" y="588" type="line"/>
+      <point x="1197" y="1510" type="line"/>
+      <point x="973" y="1510" type="line"/>
+      <point x="159" y="650" type="line"/>
+      <point x="584" y="-210" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
-    </dict>
-  </lib>
 </glyph>

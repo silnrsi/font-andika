@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmIStrk.Dotless.NB.sc" format="2">
-  <advance width="705"/>
-  <anchor x="346" y="-76" name="L"/>
-  <anchor x="346" y="1293" name="U"/>
+  <advance width="834"/>
+  <anchor x="413" y="-76" name="L"/>
+  <anchor x="413" y="1293" name="U"/>
   <outline>
     <component base="LtnSmIStrk.NB.sc"/>
   </outline>

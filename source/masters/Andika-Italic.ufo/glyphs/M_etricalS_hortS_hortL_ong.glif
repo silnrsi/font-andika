@@ -5,10 +5,10 @@
   <guideline x="2090" y="998" angle="255.9638"/>
   <outline>
     <contour>
-      <point x="95" y="195" type="line"/>
-      <point x="1889" y="195" type="line"/>
-      <point x="1924" y="335" type="line"/>
-      <point x="130" y="335" type="line"/>
+      <point x="75" y="195" type="line"/>
+      <point x="1841" y="195" type="line"/>
+      <point x="1876" y="335" type="line"/>
+      <point x="110" y="335" type="line"/>
     </contour>
     <contour>
       <point x="1059" y="810" type="curve"/>
@@ -49,10 +49,4 @@
       <point x="1930" y="576"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
-    </dict>
-  </lib>
 </glyph>

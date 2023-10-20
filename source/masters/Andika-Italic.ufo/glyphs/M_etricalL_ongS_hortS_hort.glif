@@ -5,8 +5,8 @@
   <outline>
     <contour>
       <point x="243" y="905" type="line"/>
-      <point x="2078" y="905" type="line"/>
-      <point x="2114" y="1045" type="line"/>
+      <point x="2008" y="905" type="line"/>
+      <point x="2044" y="1045" type="line"/>
       <point x="279" y="1045" type="line"/>
     </contour>
     <contour>
@@ -48,10 +48,4 @@
       <point x="1930" y="576"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
-    </dict>
-  </lib>
 </glyph>

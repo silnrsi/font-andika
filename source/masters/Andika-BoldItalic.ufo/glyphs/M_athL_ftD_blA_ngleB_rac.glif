@@ -1,31 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="MathLftDblAngleBrac" format="2">
-  <advance width="1307"/>
+  <advance width="1248"/>
   <unicode hex="27EA"/>
   <outline>
     <contour>
-      <point x="1026" y="-210" type="line"/>
+      <point x="1066" y="-210" type="line"/>
       <point x="809" y="712" type="line"/>
       <point x="809" y="588" type="line"/>
       <point x="1494" y="1510" type="line"/>
       <point x="1234" y="1510" type="line"/>
       <point x="595" y="650" type="line"/>
-      <point x="806" y="-210" type="line"/>
+      <point x="846" y="-210" type="line"/>
     </contour>
     <contour>
-      <point x="596" y="-210" type="line"/>
+      <point x="636" y="-210" type="line"/>
       <point x="379" y="712" type="line"/>
       <point x="379" y="588" type="line"/>
       <point x="1064" y="1510" type="line"/>
       <point x="804" y="1510" type="line"/>
       <point x="165" y="650" type="line"/>
-      <point x="376" y="-210" type="line"/>
+      <point x="416" y="-210" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
-    </dict>
-  </lib>
 </glyph>

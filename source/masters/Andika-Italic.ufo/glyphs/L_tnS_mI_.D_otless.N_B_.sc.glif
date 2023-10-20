@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmI.Dotless.NB.sc" format="2">
-  <advance width="610"/>
-  <anchor x="204" y="0" name="H"/>
-  <anchor x="181" y="-84" name="L"/>
-  <anchor x="394" y="0" name="O"/>
-  <anchor x="718" y="1003" name="R"/>
-  <anchor x="555" y="1279" name="U"/>
+  <advance width="615"/>
+  <anchor x="250" y="0" name="H"/>
+  <anchor x="227" y="-84" name="L"/>
+  <anchor x="440" y="0" name="O"/>
+  <anchor x="764" y="1003" name="R"/>
+  <anchor x="601" y="1279" name="U"/>
   <outline>
     <component base="LtnSmI.NB.sc"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

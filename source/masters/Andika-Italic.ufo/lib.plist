@@ -29,13 +29,9 @@
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3151</string>
+  <string>3222</string>
   <key>com.schriftgestaltung.customName</key>
   <string>Italic</string>
-  <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
-  <array>
-    <string>HOUOIO/LtnCapI.NB O/Space/LtnCapIEgAlef/LtnCapIEgAlef.NB/LtnCapUEgAlef/LtnCapJStrk/Space O/LtnCapIStrk O/LtnCapI.NB O/LtnCapIStrk.NB O/Space/LtnSmO.sc/LtnSmIStrk.sc/LtnSmO.sc/LtnSmIStrk.NB.sc/LtnSmO.sc/LtnSmU.sc/LtnSmO.sc/LtnSmH.sc/LtnSmO.sc/LtnSmI.NB.sc/LtnSmO.sc/LtnSmIEgAlef.sc/LtnSmIEgAlef.NB.sc/LtnSmUEgAlef.sc/LtnSmJStrk.sc/LtnSmO.sc/LtnSmKStrk.sc/LtnSmO.sc/LtnSmPStrk.sc</string>
-  </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>

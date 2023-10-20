@@ -29,11 +29,7 @@
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3151</string>
-  <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
-  <array>
-    <string>ihHbilOBOLOUOJOIO/LtnCapI.NB O/Space O/LtnCapIEgAlef O/LtnCapIEgAlef.NB O/LtnCapUEgAlef O/LtnCapJStrk OIO/LtnCapIStrk O/LtnCapI.NB O/LtnCapIStrk.NB O/LtnSmU.sc/LtnSmO.sc/LtnSmI.NB.sc/LtnSmO.sc/LtnSmIEgAlef.NB.sc/LtnSmO.sc/LtnSmUEgAlef.sc/LtnSmO.sc/LtnSmJStrk.sc/LtnSmO.sc/LtnSmKStrk.sc/LtnSmO.sc/LtnSmPStrk.sc/LtnSmO.sc/LtnSmIStrk.sc/LtnSmO.sc/LtnSmI.NB.sc/LtnSmO.sc/LtnSmIStrk.NB.sc/LtnSmO.sc</string>
-  </array>
+  <string>3222</string>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>

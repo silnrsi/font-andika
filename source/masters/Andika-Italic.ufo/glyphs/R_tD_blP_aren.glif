@@ -6,10 +6,4 @@
     <component base="RtParen" xOffset="-50"/>
     <component base="RtParen" xOffset="320"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
-    </dict>
-  </lib>
 </glyph>

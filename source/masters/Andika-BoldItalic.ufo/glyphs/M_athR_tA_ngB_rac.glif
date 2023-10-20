@@ -1,22 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="MathRtAngBrac" format="2">
-  <advance width="930"/>
+  <advance width="960"/>
   <unicode hex="27E9"/>
   <outline>
     <contour>
-      <point x="-159" y="-210" type="line"/>
-      <point x="115" y="-210" type="line"/>
-      <point x="929" y="650" type="line"/>
-      <point x="543" y="1510" type="line"/>
-      <point x="309" y="1510" type="line"/>
-      <point x="725" y="588" type="line"/>
-      <point x="715" y="712" type="line"/>
+      <point x="-61" y="-210" type="line"/>
+      <point x="213" y="-210" type="line"/>
+      <point x="1027" y="650" type="line"/>
+      <point x="601" y="1510" type="line"/>
+      <point x="367" y="1510" type="line"/>
+      <point x="823" y="588" type="line"/>
+      <point x="813" y="712" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
-    </dict>
-  </lib>
 </glyph>
