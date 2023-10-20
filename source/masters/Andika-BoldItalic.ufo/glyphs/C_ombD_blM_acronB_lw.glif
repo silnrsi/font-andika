@@ -2,6 +2,7 @@
 <glyph name="CombDblMacronBlw" format="2">
   <unicode hex="035F"/>
   <anchor x="-185" y="-500" name="L"/>
+  <anchor x="120" y="1100" name="U"/>
   <outline>
     <contour>
       <point x="636" y="-366" type="line"/>

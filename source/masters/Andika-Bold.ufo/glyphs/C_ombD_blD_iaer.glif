@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombDblDiaer" format="2">
   <unicode hex="F17A"/>
-  <anchor x="0" y="1530" name="U"/>
+  <anchor x="-4" y="-100" name="L"/>
+  <anchor x="0" y="1600" name="U"/>
   <outline>
     <contour>
       <point x="70" y="1385" type="curve" smooth="yes"/>
