@@ -644,6 +644,32 @@
 		LtnSmJCircum.sc LtnSmJCrossedTail LtnSmJCrossedTail.sc LtnSmJStrk
 		LtnSmJStrk.sc ModCapJ
 	</class>
+	<class name="c_nobar" fixed="0">
+		LtnCapI.NB LtnCapIAcute.NB LtnCapIBreve.NB LtnCapICaron.NB
+		LtnCapICircum.NB LtnCapIDblGrave.NB LtnCapIDiaer.NB LtnCapIDiaerAcute.NB
+		LtnCapIDotAbv.NB LtnCapIDotBlw.NB LtnCapIEgAlef.NB LtnCapIGrave.NB
+		LtnCapIHookAbv.NB LtnCapIInvBreve.NB LtnCapIMacron.NB LtnCapIOgonek.NB
+		LtnCapIOgonek.NB.RetroHook LtnCapIStrk.NB LtnCapITilde.NB LtnCapITildeBlw.NB
+		LtnSmI.Dotless.NB.sc LtnSmI.NB.sc LtnSmIAcute.NB.sc LtnSmIBreve.NB.sc
+		LtnSmICaron.NB.sc LtnSmICircum.NB.sc LtnSmIDblGrave.NB.sc LtnSmIDiaer.NB.sc
+		LtnSmIDiaerAcute.NB.sc LtnSmIDotAbv.NB.sc LtnSmIDotBlw.Dotless.NB.sc LtnSmIDotBlw.NB.sc
+		LtnSmIEgAlef.NB.sc LtnSmIGrave.NB.sc LtnSmIHookAbv.NB.sc LtnSmIInvBreve.NB.sc
+		LtnSmIMacron.NB.sc LtnSmIOgonek.NB.RetroHook.sc LtnSmIOgonek.NB.sc LtnSmIStrk.Dotless.NB.sc
+		LtnSmIStrk.NB.sc LtnSmITilde.NB.sc LtnSmITildeBlw.NB.sc
+	</class>
+	<class name="cno_nobar" fixed="0">
+		LtnCapI LtnCapIAcute LtnCapIBreve LtnCapICaron
+		LtnCapICircum LtnCapIDblGrave LtnCapIDiaer LtnCapIDiaerAcute
+		LtnCapIDotAbv LtnCapIDotBlw LtnCapIEgAlef LtnCapIGrave
+		LtnCapIHookAbv LtnCapIInvBreve LtnCapIMacron LtnCapIOgonek
+		LtnCapIOgonek.RetroHook LtnCapIStrk LtnCapITilde LtnCapITildeBlw
+		LtnSmI.Dotless.sc LtnSmI.sc LtnSmIAcute.sc LtnSmIBreve.sc
+		LtnSmICaron.sc LtnSmICircum.sc LtnSmIDblGrave.sc LtnSmIDiaer.sc
+		LtnSmIDiaerAcute.sc LtnSmIDotAbv.sc LtnSmIDotBlw.Dotless.sc LtnSmIDotBlw.sc
+		LtnSmIEgAlef.sc LtnSmIGrave.sc LtnSmIHookAbv.sc LtnSmIInvBreve.sc
+		LtnSmIMacron.sc LtnSmIOgonek.RetroHook.sc LtnSmIOgonek.sc LtnSmIStrk.Dotless.sc
+		LtnSmIStrk.sc LtnSmITilde.sc LtnSmITildeBlw.sc
+	</class>
 	<class name="cno_c2sc" fixed="0">
 		CyCapA CyCapABreve CyCapADiaer CyCapAbkhasChe
 		CyCapAbkhasCheDesc CyCapAbkhasDze CyCapAbkhasHa CyCapAleutKa
