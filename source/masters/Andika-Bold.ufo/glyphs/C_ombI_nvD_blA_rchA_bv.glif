@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombInvDblArchAbv" format="2">
   <unicode hex="1AC7"/>
-  <anchor x="-590" y="1060" name="L"/>
   <anchor x="-580" y="1465" name="U"/>
   <anchor x="-590" y="1100" name="_U"/>
   <outline>
