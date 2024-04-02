@@ -5,16 +5,22 @@
   <anchor x="-580" y="-100" name="_L"/>
   <outline>
     <contour>
-      <point x="-650" y="-320" type="line"/>
-      <point x="-650" y="-436"/>
-      <point x="-552" y="-540"/>
-      <point x="-415" y="-540" type="curve"/>
-      <point x="-415" y="-430" type="line"/>
-      <point x="-473" y="-430"/>
-      <point x="-530" y="-387"/>
-      <point x="-530" y="-320" type="curve"/>
-      <point x="-530" y="-105" type="line"/>
-      <point x="-650" y="-105" type="line"/>
+      <point x="-650" y="-396" type="line" smooth="yes"/>
+      <point x="-650" y="-485"/>
+      <point x="-584" y="-540"/>
+      <point x="-517" y="-540" type="curve" smooth="yes"/>
+      <point x="-475" y="-540"/>
+      <point x="-432" y="-530"/>
+      <point x="-396" y="-505" type="curve"/>
+      <point x="-409" y="-390" type="line"/>
+      <point x="-424" y="-406"/>
+      <point x="-456" y="-421"/>
+      <point x="-485" y="-421" type="curve" smooth="yes"/>
+      <point x="-516" y="-421"/>
+      <point x="-530" y="-397"/>
+      <point x="-530" y="-332" type="curve" smooth="yes"/>
+      <point x="-530" y="-150" type="line"/>
+      <point x="-650" y="-150" type="line"/>
     </contour>
   </outline>
 </glyph>
