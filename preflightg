@@ -28,6 +28,6 @@ echo "-----Syncing glyph orders, psnames, and other metadata to other UFOs..."
 psfsyncmasters -q source/AndikaRoman.designspace source/AndikaItalic.designspace
 
 # echo "-----Updating woff metadata file..."
-# psfmakewoffmetadata -q -n "Andika" -i "org.sil.fonts" source/masters/Andika-Regular.ufo
+# psfmakewoffmetadata -q -n "andika" -i "org.sil.fonts" source/masters/Andika-Regular.ufo
 
 echo "-----Preflight completed!"
