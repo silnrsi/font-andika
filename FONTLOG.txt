@@ -611,8 +611,8 @@ Characters added to support Unicode versions 7.0-13.0, including feature support
 be sure to add your name (N), email (E), web-address (W) and description
 (D). This list is sorted by last name in alphabetical order.)
 
-N: Jon Coblentz, Don Collingsworth, Sharon Correll, Lorna Evans,
-Bob Hallissy, Eric Hays, Martin Hosken, Jonathan Kew, Julie Remington,
+N: Jon Coblentz, Don Collingsworth, Sharon Correll, Lorna Evans, Bob Hallissy,
+Eric Hays, Martin Hosken, David Raymond, Julie Remington, Becca Spalinger,
 Alan Ward
 E: https://software.sil.org/andika/about/contact/
 W: https://software.sil.org/andika/

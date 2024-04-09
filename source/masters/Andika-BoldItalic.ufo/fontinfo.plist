@@ -15,7 +15,7 @@
   <key>italicAngle</key>
   <integer>-14</integer>
   <key>openTypeHeadCreated</key>
-  <string>2024/04/02 15:09:08</string>
+  <string>2024/04/09 11:50:34</string>
   <key>openTypeHeadFlags</key>
   <array>
     <integer>0</integer>
@@ -31,7 +31,7 @@
   <key>openTypeNameDescription</key>
   <string>Literacy font family for languages that use Latin and Cyrillic scripts</string>
   <key>openTypeNameDesigner</key>
-  <string>Victor Gaultney, Annie Olsen, Julie Remington, Don Collingsworth, Eric Hays, Becca Hirsbrunner</string>
+  <string>Victor Gaultney, Annie Olsen, Jon Coblentz, Don Collingsworth, Sharon Correll, Lorna Evans, Bob Hallissy, Eric Hays, Martin Hosken, David Raymond, Julie Remington, Becca Spalinger, Pablo Ugerman, Alan Ward</string>
   <key>openTypeNameDesignerURL</key>
   <string>http://scripts.sil.org/</string>
   <key>openTypeNameLicense</key>
@@ -244,6 +244,46 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <integer>6</integer>
   <key>versionMinor</key>
   <integer>902</integer>
+  <key>woffMetadataCredits</key>
+  <dict>
+    <key>credits</key>
+    <array>
+      <dict>
+        <key>name</key>
+        <string>Jon Coblentz, Don Collingsworth, Sharon Correll, Lorna Evans, Bob Hallissy, Eric Hays, Martin Hosken, David Raymond, Julie Remington, Becca Spalinger, Alan Ward</string>
+        <key>role</key>
+        <string>SIL designers and font engineers</string>
+        <key>url</key>
+        <string>https://software.sil.org/wstech/</string>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Victor Gaultney, Annie Olsen</string>
+        <key>role</key>
+        <string>Original designers</string>
+        <key>url</key>
+        <string>https://software.sil.org/wstech/</string>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Pablo Ugerman</string>
+        <key>role</key>
+        <string>Assistance with Andika Bold</string>
+      </dict>
+    </array>
+  </dict>
+  <key>woffMetadataDescription</key>
+  <dict>
+    <key>text</key>
+    <array>
+      <dict>
+        <key>text</key>
+        <string>Andika is a sans-serif font family designed and optimized especially for literacy use. It supports almost the complete range of Unicode characters for these scripts, including a comprehensive range of diacritics and a large set of symbols useful for linguistics and literacy work.</string>
+      </dict>
+    </array>
+    <key>url</key>
+    <string>https://software.sil.org/andika/history</string>
+  </dict>
   <key>xHeight</key>
   <integer>1040</integer>
 </dict>
