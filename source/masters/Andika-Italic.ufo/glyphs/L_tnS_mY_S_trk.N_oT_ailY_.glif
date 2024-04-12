@@ -2,6 +2,7 @@
 <glyph name="LtnSmYStrk.NoTailY" format="2">
   <advance width="1030"/>
   <anchor x="710" y="-100" name="L"/>
+  <anchor x="358" y="-460" name="O"/>
   <anchor x="650" y="1100" name="U"/>
   <outline>
     <contour>

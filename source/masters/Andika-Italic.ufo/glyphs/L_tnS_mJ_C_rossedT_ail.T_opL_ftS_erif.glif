@@ -2,6 +2,7 @@
 <glyph name="LtnSmJCrossedTail.TopLftSerif" format="2">
   <advance width="815"/>
   <anchor x="275" y="-500" name="L"/>
+  <anchor x="475" y="-410" name="O"/>
   <anchor x="760" y="1100" name="U"/>
   <outline>
     <contour>

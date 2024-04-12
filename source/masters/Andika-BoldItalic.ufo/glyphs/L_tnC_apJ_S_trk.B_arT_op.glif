@@ -2,6 +2,7 @@
 <glyph name="LtnCapJStrk.BarTop" format="2">
   <advance width="1165"/>
   <anchor x="345" y="-100" name="L"/>
+  <anchor x="615" y="0" name="O"/>
   <anchor x="1012" y="1530" name="U"/>
   <outline>
     <contour>

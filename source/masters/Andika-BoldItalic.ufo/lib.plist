@@ -29,12 +29,13 @@
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3251</string>
+  <string>3257</string>
   <key>com.schriftgestaltung.customName</key>
   <string>Italic</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>o/CombCaronBlw o/CombSnakeBlw o/CombBreveBlw o/CombInvDblArchBlw/GrSmOmega o/CombLtnSmRBlw o/CombUpArrwBlw o/CombPlusSgnBlw o/CombSeagullBlw o/CombVertLineBlw/LtnSmIota o/CombOpnMrkBlw o/CombDblOpnMrkBlw</string>
+    <string>j/LtnSmJ.Dotless/LtnSmDotlessJStrk/LtnSmDotlessJStrkHook.DblSerif/LtnSmDotlessJStrkHook/LtnSmJStrk/LtnSmJCrossedTail/LtnSmJCrossedTail.Dotless/LtnSmJ.TopLftSerif/LtnSmJStrk.TopLftSerif/LtnSmDotlessJ.TopLftSerif/LtnSmJCrossedTail.TopLftSerif/LtnSmDotlessJStrk.TopLftSerif/LtnSmJCrossedTail.Dotless.TopLftSerif/LtnSmCapJ J/CyCapJe/LtnCapJStrk/LtnCapJCrossedTail/LtnCapJ.BarTop/LtnCapJStrk.BarTop/LtnCapJCrossedTail.BarTop/Space/CombOgonek 
+y/CySmU/LtnSmYStrk/LtnSmYHook.RtHook/LtnSmYLoop/LtnSmY.NoTailY/LtnSmYStrk.NoTailY/LtnSmYHook.NoTailY Y/LtnCapYStrk/CyCapStraightUStrk/LtnCapYHook/LtnCapYHook.RtHook/LtnCapYLoop/Space/Space/CombOgonek</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

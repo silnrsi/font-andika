@@ -2,6 +2,7 @@
 <glyph name="LtnCapJCrossedTail.BarTop" format="2">
   <advance width="1043"/>
   <anchor x="355" y="-100" name="L"/>
+  <anchor x="553" y="0" name="O"/>
   <anchor x="912" y="1530" name="U"/>
   <outline>
     <contour>

@@ -2,6 +2,7 @@
 <glyph name="LtnSmJCircum.BarTop" format="2">
   <advance width="695"/>
   <anchor x="-45" y="-500" name="L"/>
+  <anchor x="257" y="-410" name="O"/>
   <anchor x="656" y="1635" name="U"/>
   <outline>
     <component base="LtnSmJ.Dotless"/>
@@ -10,7 +11,7 @@
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

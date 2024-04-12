@@ -2,6 +2,7 @@
 <glyph name="LtnSmJ.Dotless" format="2">
   <advance width="603"/>
   <anchor x="-60" y="-500" name="L"/>
+  <anchor x="208" y="-410" name="O"/>
   <anchor x="530" y="1100" name="U"/>
   <outline>
     <contour>
