@@ -765,6 +765,7 @@ y/CySmU/LtnSmYStrk/LtnSmYHook.RtHook/LtnSmYLoop/LtnSmY.NoTailY/LtnSmYStrk.NoTail
     <string>LtnSmCCurl</string>
     <string>LtnSupSmCCurl</string>
     <string>LtnStretchedCCurl</string>
+    <string>CopSmEie</string>
     <string>LtnSmOpnO</string>
     <string>LtnSmOpnO.TopSerif</string>
     <string>LtnSupSmOpnO</string>
@@ -4864,6 +4865,8 @@ y/CySmU/LtnSmYStrk/LtnSmYHook.RtHook/LtnSmYLoop/LtnSmY.NoTailY/LtnSmYStrk.NoTail
     <string>compComma</string>
     <key>CopCapEie</key>
     <string>uni2C88</string>
+    <key>CopSmEie</key>
+    <string>uni2C89</string>
     <key>CopyleftSgn</key>
     <string>u1F12F</string>
     <key>CopyrightSgn</key>
