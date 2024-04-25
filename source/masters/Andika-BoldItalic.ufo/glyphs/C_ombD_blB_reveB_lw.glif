@@ -4,21 +4,6 @@
   <anchor x="-235" y="-850" name="L"/>
   <anchor x="120" y="1100" name="U"/>
   <outline>
-    <contour>
-      <point x="-1193" y="-595" type="line"/>
-      <point x="-980" y="-764"/>
-      <point x="-642" y="-813"/>
-      <point x="-262" y="-813" type="curve" smooth="yes"/>
-      <point x="117" y="-813"/>
-      <point x="449" y="-764"/>
-      <point x="736" y="-595" type="curve"/>
-      <point x="725" y="-417" type="line"/>
-      <point x="493" y="-546"/>
-      <point x="151" y="-595"/>
-      <point x="-228" y="-595" type="curve" smooth="yes"/>
-      <point x="-608" y="-595"/>
-      <point x="-916" y="-546"/>
-      <point x="-1094" y="-417" type="curve"/>
-    </contour>
+    <component base="CombDblBreve" xOffset="-580" yOffset="-2510"/>
   </outline>
 </glyph>

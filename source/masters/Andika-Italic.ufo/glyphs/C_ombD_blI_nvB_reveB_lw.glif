@@ -4,6 +4,6 @@
   <anchor x="-181" y="-850" name="L"/>
   <anchor x="120" y="1100" name="U"/>
   <outline>
-    <component base="CombDblInvBreve" xOffset="-530" yOffset="-2366"/>
+    <component base="CombDblInvBreve" xOffset="-550" yOffset="-2510"/>
   </outline>
 </glyph>

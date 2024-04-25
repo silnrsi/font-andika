@@ -2,13 +2,13 @@
 <glyph name="CombDblMacron" format="2">
   <unicode hex="035E"/>
   <anchor x="-60" y="-100" name="L"/>
-  <anchor x="302" y="1450" name="U"/>
+  <anchor x="432" y="1950" name="U"/>
   <outline>
     <contour>
-      <point x="992" y="1215" type="line"/>
-      <point x="1029" y="1362" type="line"/>
-      <point x="-470" y="1362" type="line"/>
-      <point x="-507" y="1215" type="line"/>
+      <point x="1151" y="1730" type="line"/>
+      <point x="1189" y="1880" type="line"/>
+      <point x="-311" y="1880" type="line"/>
+      <point x="-349" y="1730" type="line"/>
     </contour>
   </outline>
 </glyph>

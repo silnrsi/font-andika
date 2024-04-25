@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombDblCircum" format="2">
   <unicode hex="1DCD"/>
-  <anchor x="-60" y="-100" name="L"/>
-  <anchor x="418" y="2035" name="U"/>
+  <anchor x="-86" y="-100" name="L"/>
+  <anchor x="482" y="2165" name="U"/>
   <outline>
     <contour>
-      <point x="-499" y="1548" type="line"/>
-      <point x="397" y="1833" type="line"/>
-      <point x="1150" y="1548" type="line"/>
-      <point x="1350" y="1548" type="line"/>
-      <point x="496" y="1970" type="line"/>
-      <point x="326" y="1970" type="line"/>
-      <point x="-699" y="1548" type="line"/>
+      <point x="-546" y="1670" type="line"/>
+      <point x="-226" y="1670" type="line"/>
+      <point x="451" y="1960" type="line"/>
+      <point x="984" y="1670" type="line"/>
+      <point x="1264" y="1670" type="line"/>
+      <point x="571" y="2100" type="line"/>
+      <point x="361" y="2100" type="line"/>
     </contour>
   </outline>
 </glyph>
