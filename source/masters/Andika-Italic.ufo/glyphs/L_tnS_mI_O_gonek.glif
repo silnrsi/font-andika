@@ -5,7 +5,7 @@
   <anchor x="235" y="0" name="H"/>
   <anchor x="283" y="-430" name="L"/>
   <anchor x="745" y="1000" name="R"/>
-  <anchor x="472" y="1100" name="U"/>
+  <anchor x="522" y="1530" name="U"/>
   <outline>
     <component base="LtnSmI"/>
     <component base="CombOgonek" xOffset="865"/>

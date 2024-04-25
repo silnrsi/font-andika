@@ -5,7 +5,7 @@
   <anchor x="150" y="-500" name="L"/>
   <anchor x="455" y="0" name="O"/>
   <anchor x="745" y="1000" name="R"/>
-  <anchor x="472" y="1100" name="U"/>
+  <anchor x="522" y="1530" name="U"/>
   <outline>
     <component base="LtnSmI"/>
     <component base="CombOgonek.RetroHook" xOffset="905"/>

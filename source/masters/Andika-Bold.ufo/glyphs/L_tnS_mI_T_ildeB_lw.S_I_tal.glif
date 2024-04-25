@@ -5,7 +5,7 @@
   <anchor x="320" y="-500" name="L"/>
   <anchor x="500" y="0" name="O"/>
   <anchor x="640" y="1000" name="R"/>
-  <anchor x="320" y="1100" name="U"/>
+  <anchor x="320" y="1530" name="U"/>
   <outline>
     <component base="LtnSmI.SItal"/>
     <component base="CombTildeBlw" xOffset="900"/>

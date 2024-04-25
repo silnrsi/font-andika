@@ -3,7 +3,7 @@
   <advance width="815"/>
   <anchor x="172" y="-500" name="L"/>
   <anchor x="477" y="-410" name="O"/>
-  <anchor x="770" y="1100" name="U"/>
+  <anchor x="790" y="1530" name="U"/>
   <outline>
     <component base="LtnSmJCrossedTail"/>
   </outline>
