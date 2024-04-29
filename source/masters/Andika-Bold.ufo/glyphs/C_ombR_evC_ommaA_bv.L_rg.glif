@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombRevCommaAbv.Lrg" format="2">
-  <anchor x="-575" y="1685" name="U"/>
+  <anchor x="-575" y="1815" name="U"/>
   <anchor x="-575" y="1100" name="_U"/>
   <outline>
-    <component base="CombRevCommaAbv"/>
+    <contour>
+      <point x="-397" y="1605" type="line" smooth="yes"/>
+      <point x="-397" y="1698"/>
+      <point x="-485" y="1790"/>
+      <point x="-587" y="1790" type="curve" smooth="yes"/>
+      <point x="-703" y="1790"/>
+      <point x="-803" y="1696"/>
+      <point x="-803" y="1556" type="curve" smooth="yes"/>
+      <point x="-803" y="1385"/>
+      <point x="-691" y="1239"/>
+      <point x="-538" y="1120" type="curve"/>
+      <point x="-397" y="1206" type="line"/>
+      <point x="-536" y="1343"/>
+      <point x="-579" y="1441"/>
+      <point x="-579" y="1507" type="curve"/>
+      <point x="-397" y="1507" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

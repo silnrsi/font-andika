@@ -29,16 +29,15 @@
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3303</string>
+  <string>3257</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>j/LtnSmJ.Dotless/LtnSmDotlessJStrk/LtnSmDotlessJStrkHook.DblSerif/LtnSmDotlessJStrkHook/LtnSmJStrk/LtnSmJCrossedTail/LtnSmJCrossedTail.Dotless/LtnSmJ.TopLftSerif/LtnSmJStrk.TopLftSerif/LtnSmDotlessJ.TopLftSerif/LtnSmJCrossedTail.TopLftSerif/LtnSmDotlessJStrk.TopLftSerif/LtnSmJCrossedTail.Dotless.TopLftSerif/LtnSmCapJ J/CyCapJe/LtnCapJStrk/LtnCapJCrossedTail/LtnCapJ.BarTop/LtnCapJStrk.BarTop/LtnCapJCrossedTail.BarTop/Space/CombOgonek 
-y/CySmU/LtnSmYStrk/LtnSmYHook.RtHook/LtnSmYLoop/LtnSmY.NoTailY/LtnSmYStrk.NoTailY/LtnSmYHook.NoTailY Y/LtnCapYStrk/CyCapStraightUStrk/LtnCapYHook/LtnCapYHook.RtHook/LtnCapYLoop/Space/Space/CombOgonek</string>
     <string>ôöõÖÕÔf/LtnSmF.SItal/LtnSmFDotAbv/LtnSmFDotAbv.SItal/LtnSmFPalHook/LtnSmFMiddleTilde/LtnSmFHookStrk l/LtnSmLDotBlwMacron/Space i/LtnSmI.SItal/SmRomNumOne/LtnSmIRetrHook/LtnSmIStrk/LtnSmIStrkRetrHook/Space j/LtnSmJStrk/LtnSmJCrossedTail 
 o/CombDblInvBreveBlw oo/CombDblBreveBlw oo/CombDblMacronBlw oo/CombDblRtArrwBlw oo/CombDblInvBreve oo/CombDblBreve oo/CombDblCircum oo/CombDblTilde oo/CombDblMacron oo/CombDblDiaer o
 g/CombDblInvBreveBlw gg/CombDblBreveBlw gg/CombDblMacronBlw gg/CombDblRtArrwBlw g/Space f/CombDblInvBreve f/Space f/CombDblBreve f/Space f/CombDblCircum f/Space f/CombDblTilde f/Space f/CombDblMacron f/Space f/CombDblDiaer f
 O/CombDblInvBreve OO/CombDblBreve OO/CombDblCircum OO/CombDblTilde OO/CombDblMacron OO/CombDblDiaer O
 </string>
+    <string>o/CombRevCommaAbv o/CombRevCommaAbv.Lrg k/ModApos/ModApos.Lrg o/CombTrndCommaAbv o/CombTrndCommaAbv.Lrg k</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

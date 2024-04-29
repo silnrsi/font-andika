@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombTrndCommaAbv.Lrg" format="2">
-  <anchor x="-572" y="1635" name="U"/>
+  <anchor x="-572" y="1745" name="U"/>
   <anchor x="-572" y="1100" name="_U"/>
   <outline>
-    <component base="CombTrndCommaAbv"/>
+    <component base="CombTrndCommaAbv" xScale="1.32" yScale="1.32" xOffset="177" yOffset="-368"/>
   </outline>
   <lib>
     <dict>
