@@ -29,7 +29,7 @@
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3257</string>
+  <string>3303</string>
   <key>com.schriftgestaltung.customName</key>
   <string>Italic</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
@@ -40,6 +40,14 @@ g/CombDblInvBreveBlw gg/CombDblBreveBlw gg/CombDblMacronBlw gg/CombDblRtArrwBlw 
 O/CombDblInvBreve OO/CombDblBreve OO/CombDblCircum OO/CombDblTilde OO/CombDblMacron OO/CombDblDiaer O
 </string>
     <string>o/CombRevCommaAbv o/CombRevCommaAbv.Lrg k/ModApos/ModApos.Lrg o/CombTrndCommaAbv o/CombTrndCommaAbv.Lrg k</string>
+    <string>l/CombDblInvBreve l/Space l/CombDblBreve l/Space l/CombDblCircum l/Space l/CombDblTilde l/Space l/CombDblMacron l/Space l/CombDblDiaer l
+O/CombDblInvBreve.mid OO/CombDblBreve.mid OO/CombDblCircum.mid OO/CombDblTilde.mid OO/CombDblMacron.mid OO/CombDblDiaer.mid O
+o/CombDblInvBreve.low oo/CombDblBreve.low oo/CombDblCircum.low oo/CombDblTilde.low oo/CombDblMacron.low oo/CombDblDiaer.low o
+o/CombDblInvBreveBlw.blwhigh oo/CombDblBreveBlw.blwhigh oo/CombDblMacronBlw.blwhigh oo/CombDblRtArrwBlw.blwhigh o
+g/CombDblInvBreveBlw gg/CombDblBreveBlw gg/CombDblMacronBlw gg/CombDblRtArrwBlw g/Space</string>
+    <string>/CombDblMacronBlw</string>
+    <string>/CombDblBreveBlw</string>
+    <string>/CombDblBreveBlw.blwhigh</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
@@ -134,7 +142,7 @@ O/CombDblInvBreve OO/CombDblBreve OO/CombDblCircum OO/CombDblTilde OO/CombDblMac
       <key>UAnchorMin</key>
       <integer>900</integer>
       <key>shiftX</key>
-      <integer>-125</integer>
+      <integer>-150</integer>
       <key>shiftY</key>
       <integer>-510</integer>
     </dict>
@@ -145,9 +153,9 @@ O/CombDblInvBreve OO/CombDblBreve OO/CombDblCircum OO/CombDblTilde OO/CombDblMac
       <key>UAnchorMin</key>
       <integer>1101</integer>
       <key>shiftX</key>
-      <integer>-15</integer>
+      <integer>-30</integer>
       <key>shiftY</key>
-      <integer>-80</integer>
+      <integer>-120</integer>
     </dict>
   </dict>
   <key>org.sil.lcg.toneLetters</key>
