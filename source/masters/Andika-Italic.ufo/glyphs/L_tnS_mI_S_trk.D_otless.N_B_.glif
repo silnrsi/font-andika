@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmIStrk.Dotless.NB" format="2">
+  <advance width="765"/>
+  <anchor x="332" y="0" name="H"/>
+  <anchor x="307" y="-100" name="L"/>
+  <anchor x="570" y="0" name="O"/>
+  <anchor x="850" y="1000" name="R"/>
+  <anchor x="607" y="1100" name="U"/>
+  <outline>
+    <component base="LtnSmIStrk.Dotless"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -4536,12 +4536,16 @@
   <string>L_tnS_mI_.glif</string>
   <key>LtnSmI.Dotless</key>
   <string>L_tnS_mI_.D_otless.glif</string>
+  <key>LtnSmI.Dotless.NB</key>
+  <string>L_tnS_mI_.D_otless.N_B_.glif</string>
   <key>LtnSmI.Dotless.NB.sc</key>
   <string>L_tnS_mI_.D_otless.N_B_.sc.glif</string>
   <key>LtnSmI.Dotless.SItal</key>
   <string>L_tnS_mI_.D_otless.S_I_tal.glif</string>
   <key>LtnSmI.Dotless.sc</key>
   <string>L_tnS_mI_.D_otless.sc.glif</string>
+  <key>LtnSmI.NB</key>
+  <string>L_tnS_mI_.N_B_.glif</string>
   <key>LtnSmI.NB.sc</key>
   <string>L_tnS_mI_.N_B_.sc.glif</string>
   <key>LtnSmI.SItal</key>
@@ -4552,6 +4556,8 @@
   <string>L_tnS_mI_.sc.glif</string>
   <key>LtnSmIAcute</key>
   <string>L_tnS_mI_A_cute.glif</string>
+  <key>LtnSmIAcute.NB</key>
+  <string>L_tnS_mI_A_cute.N_B_.glif</string>
   <key>LtnSmIAcute.NB.sc</key>
   <string>L_tnS_mI_A_cute.N_B_.sc.glif</string>
   <key>LtnSmIAcute.SItal</key>
@@ -4562,6 +4568,8 @@
   <string>L_tnS_mI_A_cute.sc.glif</string>
   <key>LtnSmIBreve</key>
   <string>L_tnS_mI_B_reve.glif</string>
+  <key>LtnSmIBreve.NB</key>
+  <string>L_tnS_mI_B_reve.N_B_.glif</string>
   <key>LtnSmIBreve.NB.sc</key>
   <string>L_tnS_mI_B_reve.N_B_.sc.glif</string>
   <key>LtnSmIBreve.SItal</key>
@@ -4572,6 +4580,8 @@
   <string>L_tnS_mI_B_reve.sc.glif</string>
   <key>LtnSmICaron</key>
   <string>L_tnS_mI_C_aron.glif</string>
+  <key>LtnSmICaron.NB</key>
+  <string>L_tnS_mI_C_aron.N_B_.glif</string>
   <key>LtnSmICaron.NB.sc</key>
   <string>L_tnS_mI_C_aron.N_B_.sc.glif</string>
   <key>LtnSmICaron.SItal</key>
@@ -4582,6 +4592,8 @@
   <string>L_tnS_mI_C_aron.sc.glif</string>
   <key>LtnSmICircum</key>
   <string>L_tnS_mI_C_ircum.glif</string>
+  <key>LtnSmICircum.NB</key>
+  <string>L_tnS_mI_C_ircum.N_B_.glif</string>
   <key>LtnSmICircum.NB.sc</key>
   <string>L_tnS_mI_C_ircum.N_B_.sc.glif</string>
   <key>LtnSmICircum.SItal</key>
@@ -4592,6 +4604,8 @@
   <string>L_tnS_mI_C_ircum.sc.glif</string>
   <key>LtnSmIDblGrave</key>
   <string>L_tnS_mI_D_blG_rave.glif</string>
+  <key>LtnSmIDblGrave.NB</key>
+  <string>L_tnS_mI_D_blG_rave.N_B_.glif</string>
   <key>LtnSmIDblGrave.NB.sc</key>
   <string>L_tnS_mI_D_blG_rave.N_B_.sc.glif</string>
   <key>LtnSmIDblGrave.SItal</key>
@@ -4602,6 +4616,8 @@
   <string>L_tnS_mI_D_blG_rave.sc.glif</string>
   <key>LtnSmIDiaer</key>
   <string>L_tnS_mI_D_iaer.glif</string>
+  <key>LtnSmIDiaer.NB</key>
+  <string>L_tnS_mI_D_iaer.N_B_.glif</string>
   <key>LtnSmIDiaer.NB.sc</key>
   <string>L_tnS_mI_D_iaer.N_B_.sc.glif</string>
   <key>LtnSmIDiaer.SItal</key>
@@ -4612,6 +4628,8 @@
   <string>L_tnS_mI_D_iaer.sc.glif</string>
   <key>LtnSmIDiaerAcute</key>
   <string>L_tnS_mI_D_iaerA_cute.glif</string>
+  <key>LtnSmIDiaerAcute.NB</key>
+  <string>L_tnS_mI_D_iaerA_cute.N_B_.glif</string>
   <key>LtnSmIDiaerAcute.NB.sc</key>
   <string>L_tnS_mI_D_iaerA_cute.N_B_.sc.glif</string>
   <key>LtnSmIDiaerAcute.SItal</key>
@@ -4622,6 +4640,8 @@
   <string>L_tnS_mI_D_iaerA_cute.sc.glif</string>
   <key>LtnSmIDotAbv</key>
   <string>L_tnS_mI_D_otA_bv.glif</string>
+  <key>LtnSmIDotAbv.NB</key>
+  <string>L_tnS_mI_D_otA_bv.N_B_.glif</string>
   <key>LtnSmIDotAbv.NB.sc</key>
   <string>L_tnS_mI_D_otA_bv.N_B_.sc.glif</string>
   <key>LtnSmIDotAbv.SItal</key>
@@ -4630,10 +4650,14 @@
   <string>L_tnS_mI_D_otA_bv.sc.glif</string>
   <key>LtnSmIDotBlw</key>
   <string>L_tnS_mI_D_otB_lw.glif</string>
+  <key>LtnSmIDotBlw.Dotless.NB</key>
+  <string>L_tnS_mI_D_otB_lw.D_otless.N_B_.glif</string>
   <key>LtnSmIDotBlw.Dotless.NB.sc</key>
   <string>L_tnS_mI_D_otB_lw.D_otless.N_B_.sc.glif</string>
   <key>LtnSmIDotBlw.Dotless.sc</key>
   <string>L_tnS_mI_D_otB_lw.D_otless.sc.glif</string>
+  <key>LtnSmIDotBlw.NB</key>
+  <string>L_tnS_mI_D_otB_lw.N_B_.glif</string>
   <key>LtnSmIDotBlw.NB.sc</key>
   <string>L_tnS_mI_D_otB_lw.N_B_.sc.glif</string>
   <key>LtnSmIDotBlw.SItal</key>
@@ -4644,12 +4668,16 @@
   <string>L_tnS_mI_D_otB_lw.sc.glif</string>
   <key>LtnSmIEgAlef</key>
   <string>L_tnS_mI_E_gA_lef.glif</string>
+  <key>LtnSmIEgAlef.NB</key>
+  <string>L_tnS_mI_E_gA_lef.N_B_.glif</string>
   <key>LtnSmIEgAlef.NB.sc</key>
   <string>L_tnS_mI_E_gA_lef.N_B_.sc.glif</string>
   <key>LtnSmIEgAlef.sc</key>
   <string>L_tnS_mI_E_gA_lef.sc.glif</string>
   <key>LtnSmIGrave</key>
   <string>L_tnS_mI_G_rave.glif</string>
+  <key>LtnSmIGrave.NB</key>
+  <string>L_tnS_mI_G_rave.N_B_.glif</string>
   <key>LtnSmIGrave.NB.sc</key>
   <string>L_tnS_mI_G_rave.N_B_.sc.glif</string>
   <key>LtnSmIGrave.SItal</key>
@@ -4660,6 +4688,8 @@
   <string>L_tnS_mI_G_rave.sc.glif</string>
   <key>LtnSmIHookAbv</key>
   <string>L_tnS_mI_H_ookA_bv.glif</string>
+  <key>LtnSmIHookAbv.NB</key>
+  <string>L_tnS_mI_H_ookA_bv.N_B_.glif</string>
   <key>LtnSmIHookAbv.NB.sc</key>
   <string>L_tnS_mI_H_ookA_bv.N_B_.sc.glif</string>
   <key>LtnSmIHookAbv.SItal</key>
@@ -4670,6 +4700,8 @@
   <string>L_tnS_mI_H_ookA_bv.sc.glif</string>
   <key>LtnSmIInvBreve</key>
   <string>L_tnS_mI_I_nvB_reve.glif</string>
+  <key>LtnSmIInvBreve.NB</key>
+  <string>L_tnS_mI_I_nvB_reve.N_B_.glif</string>
   <key>LtnSmIInvBreve.NB.sc</key>
   <string>L_tnS_mI_I_nvB_reve.N_B_.sc.glif</string>
   <key>LtnSmIInvBreve.SItal</key>
@@ -4680,6 +4712,8 @@
   <string>L_tnS_mI_I_nvB_reve.sc.glif</string>
   <key>LtnSmIMacron</key>
   <string>L_tnS_mI_M_acron.glif</string>
+  <key>LtnSmIMacron.NB</key>
+  <string>L_tnS_mI_M_acron.N_B_.glif</string>
   <key>LtnSmIMacron.NB.sc</key>
   <string>L_tnS_mI_M_acron.N_B_.sc.glif</string>
   <key>LtnSmIMacron.SItal</key>
@@ -4692,6 +4726,10 @@
   <string>L_tnS_mI_O_gonek.glif</string>
   <key>LtnSmIOgonek.Dotless</key>
   <string>L_tnS_mI_O_gonek.D_otless.glif</string>
+  <key>LtnSmIOgonek.NB</key>
+  <string>L_tnS_mI_O_gonek.N_B_.glif</string>
+  <key>LtnSmIOgonek.NB.RetroHook</key>
+  <string>L_tnS_mI_O_gonek.N_B_.R_etroH_ook.glif</string>
   <key>LtnSmIOgonek.NB.RetroHook.sc</key>
   <string>L_tnS_mI_O_gonek.N_B_.R_etroH_ook.sc.glif</string>
   <key>LtnSmIOgonek.NB.sc</key>
@@ -4716,12 +4754,16 @@
   <string>L_tnS_mI_S_trk.glif</string>
   <key>LtnSmIStrk.Dotless</key>
   <string>L_tnS_mI_S_trk.D_otless.glif</string>
+  <key>LtnSmIStrk.Dotless.NB</key>
+  <string>L_tnS_mI_S_trk.D_otless.N_B_.glif</string>
   <key>LtnSmIStrk.Dotless.NB.sc</key>
   <string>L_tnS_mI_S_trk.D_otless.N_B_.sc.glif</string>
   <key>LtnSmIStrk.Dotless.TailI</key>
   <string>L_tnS_mI_S_trk.D_otless.T_ailI_.glif</string>
   <key>LtnSmIStrk.Dotless.sc</key>
   <string>L_tnS_mI_S_trk.D_otless.sc.glif</string>
+  <key>LtnSmIStrk.NB</key>
+  <string>L_tnS_mI_S_trk.N_B_.glif</string>
   <key>LtnSmIStrk.NB.sc</key>
   <string>L_tnS_mI_S_trk.N_B_.sc.glif</string>
   <key>LtnSmIStrk.TailI</key>
@@ -4734,6 +4776,8 @@
   <string>L_tnS_mI_S_trkR_etrH_ook.D_otless.glif</string>
   <key>LtnSmITilde</key>
   <string>L_tnS_mI_T_ilde.glif</string>
+  <key>LtnSmITilde.NB</key>
+  <string>L_tnS_mI_T_ilde.N_B_.glif</string>
   <key>LtnSmITilde.NB.sc</key>
   <string>L_tnS_mI_T_ilde.N_B_.sc.glif</string>
   <key>LtnSmITilde.SItal</key>
@@ -4744,6 +4788,8 @@
   <string>L_tnS_mI_T_ilde.sc.glif</string>
   <key>LtnSmITildeBlw</key>
   <string>L_tnS_mI_T_ildeB_lw.glif</string>
+  <key>LtnSmITildeBlw.NB</key>
+  <string>L_tnS_mI_T_ildeB_lw.N_B_.glif</string>
   <key>LtnSmITildeBlw.NB.sc</key>
   <string>L_tnS_mI_T_ildeB_lw.N_B_.sc.glif</string>
   <key>LtnSmITildeBlw.SItal</key>

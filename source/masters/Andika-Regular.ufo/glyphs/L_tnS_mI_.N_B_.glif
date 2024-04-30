@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmI.NB" format="2">
+  <advance width="565"/>
+  <anchor x="292" y="0" name="H"/>
+  <anchor x="285" y="-100" name="L"/>
+  <anchor x="500" y="0" name="O"/>
+  <anchor x="555" y="1000" name="R"/>
+  <anchor x="282" y="1530" name="U"/>
+  <outline>
+    <component base="LtnSmI"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

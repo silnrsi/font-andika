@@ -3262,6 +3262,29 @@ O/CombDblInvBreve OO/CombDblBreve OO/CombDblCircum OO/CombDblTilde OO/CombDblMac
     <string>LtnSmITildeBlw.TailI</string>
     <string>LtnSmIDotBlw.TailI</string>
     <string>LtnSmIOgonek.TailI</string>
+    <string>LtnSmI.NB</string>
+    <string>LtnSmIAcute.NB</string>
+    <string>LtnSmIGrave.NB</string>
+    <string>LtnSmIDblGrave.NB</string>
+    <string>LtnSmICircum.NB</string>
+    <string>LtnSmIInvBreve.NB</string>
+    <string>LtnSmIBreve.NB</string>
+    <string>LtnSmICaron.NB</string>
+    <string>LtnSmITilde.NB</string>
+    <string>LtnSmIMacron.NB</string>
+    <string>LtnSmIDiaer.NB</string>
+    <string>LtnSmIDotAbv.NB</string>
+    <string>LtnSmIHookAbv.NB</string>
+    <string>LtnSmIEgAlef.NB</string>
+    <string>LtnSmITildeBlw.NB</string>
+    <string>LtnSmIDotBlw.NB</string>
+    <string>LtnSmIDotBlw.Dotless.NB</string>
+    <string>LtnSmIOgonek.NB</string>
+    <string>LtnSmIOgonek.NB.RetroHook</string>
+    <string>LtnSmIStrk.Dotless.NB</string>
+    <string>LtnSmIStrk.NB</string>
+    <string>LtnSmI.Dotless.NB</string>
+    <string>LtnSmIDiaerAcute.NB</string>
     <string>LtnCapI.NB</string>
     <string>LtnCapIAcute.NB</string>
     <string>LtnCapIGrave.NB</string>
@@ -8939,12 +8962,16 @@ O/CombDblInvBreve OO/CombDblBreve OO/CombDblCircum OO/CombDblTilde OO/CombDblMac
     <string>i</string>
     <key>LtnSmI.Dotless</key>
     <string>i.Dotless</string>
+    <key>LtnSmI.Dotless.NB</key>
+    <string>i.Dotless.NB</string>
     <key>LtnSmI.Dotless.NB.sc</key>
     <string>i.Dotless.NB.sc</string>
     <key>LtnSmI.Dotless.SItal</key>
     <string>i.Dotless.SItal</string>
     <key>LtnSmI.Dotless.sc</key>
     <string>i.Dotless.sc</string>
+    <key>LtnSmI.NB</key>
+    <string>i.NB</string>
     <key>LtnSmI.NB.sc</key>
     <string>i.NB.sc</string>
     <key>LtnSmI.SItal</key>
@@ -8955,6 +8982,8 @@ O/CombDblInvBreve OO/CombDblBreve OO/CombDblCircum OO/CombDblTilde OO/CombDblMac
     <string>i.sc</string>
     <key>LtnSmIAcute</key>
     <string>iacute</string>
+    <key>LtnSmIAcute.NB</key>
+    <string>iacute.NB</string>
     <key>LtnSmIAcute.NB.sc</key>
     <string>iacute.NB.sc</string>
     <key>LtnSmIAcute.SItal</key>
@@ -8965,6 +8994,8 @@ O/CombDblInvBreve OO/CombDblBreve OO/CombDblCircum OO/CombDblTilde OO/CombDblMac
     <string>iacute.sc</string>
     <key>LtnSmIBreve</key>
     <string>ibreve</string>
+    <key>LtnSmIBreve.NB</key>
+    <string>ibreve.NB</string>
     <key>LtnSmIBreve.NB.sc</key>
     <string>ibreve.NB.sc</string>
     <key>LtnSmIBreve.SItal</key>
@@ -8975,6 +9006,8 @@ O/CombDblInvBreve OO/CombDblBreve OO/CombDblCircum OO/CombDblTilde OO/CombDblMac
     <string>ibreve.sc</string>
     <key>LtnSmICaron</key>
     <string>uni01D0</string>
+    <key>LtnSmICaron.NB</key>
+    <string>uni01D0.NB</string>
     <key>LtnSmICaron.NB.sc</key>
     <string>uni01D0.NB.sc</string>
     <key>LtnSmICaron.SItal</key>
@@ -8985,6 +9018,8 @@ O/CombDblInvBreve OO/CombDblBreve OO/CombDblCircum OO/CombDblTilde OO/CombDblMac
     <string>uni01D0.sc</string>
     <key>LtnSmICircum</key>
     <string>icircumflex</string>
+    <key>LtnSmICircum.NB</key>
+    <string>icircumflex.NB</string>
     <key>LtnSmICircum.NB.sc</key>
     <string>icircumflex.NB.sc</string>
     <key>LtnSmICircum.SItal</key>
@@ -8995,6 +9030,8 @@ O/CombDblInvBreve OO/CombDblBreve OO/CombDblCircum OO/CombDblTilde OO/CombDblMac
     <string>icircumflex.sc</string>
     <key>LtnSmIDblGrave</key>
     <string>uni0209</string>
+    <key>LtnSmIDblGrave.NB</key>
+    <string>uni0209.NB</string>
     <key>LtnSmIDblGrave.NB.sc</key>
     <string>uni0209.NB.sc</string>
     <key>LtnSmIDblGrave.SItal</key>
@@ -9005,6 +9042,8 @@ O/CombDblInvBreve OO/CombDblBreve OO/CombDblCircum OO/CombDblTilde OO/CombDblMac
     <string>uni0209.sc</string>
     <key>LtnSmIDiaer</key>
     <string>idieresis</string>
+    <key>LtnSmIDiaer.NB</key>
+    <string>idieresis.NB</string>
     <key>LtnSmIDiaer.NB.sc</key>
     <string>idieresis.NB.sc</string>
     <key>LtnSmIDiaer.SItal</key>
@@ -9015,6 +9054,8 @@ O/CombDblInvBreve OO/CombDblBreve OO/CombDblCircum OO/CombDblTilde OO/CombDblMac
     <string>idieresis.sc</string>
     <key>LtnSmIDiaerAcute</key>
     <string>uni1E2F</string>
+    <key>LtnSmIDiaerAcute.NB</key>
+    <string>uni1E2F.NB</string>
     <key>LtnSmIDiaerAcute.NB.sc</key>
     <string>uni1E2F.NB.sc</string>
     <key>LtnSmIDiaerAcute.SItal</key>
@@ -9025,6 +9066,8 @@ O/CombDblInvBreve OO/CombDblBreve OO/CombDblCircum OO/CombDblTilde OO/CombDblMac
     <string>uni1E2F.sc</string>
     <key>LtnSmIDotAbv</key>
     <string>idotaccent</string>
+    <key>LtnSmIDotAbv.NB</key>
+    <string>idotaccent.NB</string>
     <key>LtnSmIDotAbv.NB.sc</key>
     <string>idotaccent.NB.sc</string>
     <key>LtnSmIDotAbv.SItal</key>
@@ -9033,10 +9076,14 @@ O/CombDblInvBreve OO/CombDblBreve OO/CombDblCircum OO/CombDblTilde OO/CombDblMac
     <string>idotaccent.sc</string>
     <key>LtnSmIDotBlw</key>
     <string>uni1ECB</string>
+    <key>LtnSmIDotBlw.Dotless.NB</key>
+    <string>uni1ECB.Dotless.NB</string>
     <key>LtnSmIDotBlw.Dotless.NB.sc</key>
     <string>uni1ECB.Dotless.NB.sc</string>
     <key>LtnSmIDotBlw.Dotless.sc</key>
     <string>uni1ECB.Dotless.sc</string>
+    <key>LtnSmIDotBlw.NB</key>
+    <string>uni1ECB.NB</string>
     <key>LtnSmIDotBlw.NB.sc</key>
     <string>uni1ECB.NB.sc</string>
     <key>LtnSmIDotBlw.SItal</key>
@@ -9047,12 +9094,16 @@ O/CombDblInvBreve OO/CombDblBreve OO/CombDblCircum OO/CombDblTilde OO/CombDblMac
     <string>uni1ECB.sc</string>
     <key>LtnSmIEgAlef</key>
     <string>uniA7BD</string>
+    <key>LtnSmIEgAlef.NB</key>
+    <string>uniA7BD.NB</string>
     <key>LtnSmIEgAlef.NB.sc</key>
     <string>uniA7BD.NB.sc</string>
     <key>LtnSmIEgAlef.sc</key>
     <string>uniA7BD.sc</string>
     <key>LtnSmIGrave</key>
     <string>igrave</string>
+    <key>LtnSmIGrave.NB</key>
+    <string>igrave.NB</string>
     <key>LtnSmIGrave.NB.sc</key>
     <string>igrave.NB.sc</string>
     <key>LtnSmIGrave.SItal</key>
@@ -9063,6 +9114,8 @@ O/CombDblInvBreve OO/CombDblBreve OO/CombDblCircum OO/CombDblTilde OO/CombDblMac
     <string>igrave.sc</string>
     <key>LtnSmIHookAbv</key>
     <string>uni1EC9</string>
+    <key>LtnSmIHookAbv.NB</key>
+    <string>uni1EC9.NB</string>
     <key>LtnSmIHookAbv.NB.sc</key>
     <string>uni1EC9.NB.sc</string>
     <key>LtnSmIHookAbv.SItal</key>
@@ -9073,6 +9126,8 @@ O/CombDblInvBreve OO/CombDblBreve OO/CombDblCircum OO/CombDblTilde OO/CombDblMac
     <string>uni1EC9.sc</string>
     <key>LtnSmIInvBreve</key>
     <string>uni020B</string>
+    <key>LtnSmIInvBreve.NB</key>
+    <string>uni020B.NB</string>
     <key>LtnSmIInvBreve.NB.sc</key>
     <string>uni020B.NB.sc</string>
     <key>LtnSmIInvBreve.SItal</key>
@@ -9083,6 +9138,8 @@ O/CombDblInvBreve OO/CombDblBreve OO/CombDblCircum OO/CombDblTilde OO/CombDblMac
     <string>uni020B.sc</string>
     <key>LtnSmIMacron</key>
     <string>imacron</string>
+    <key>LtnSmIMacron.NB</key>
+    <string>imacron.NB</string>
     <key>LtnSmIMacron.NB.sc</key>
     <string>imacron.NB.sc</string>
     <key>LtnSmIMacron.SItal</key>
@@ -9095,6 +9152,10 @@ O/CombDblInvBreve OO/CombDblBreve OO/CombDblCircum OO/CombDblTilde OO/CombDblMac
     <string>iogonek</string>
     <key>LtnSmIOgonek.Dotless</key>
     <string>iogonek.Dotless</string>
+    <key>LtnSmIOgonek.NB</key>
+    <string>iogonek.NB</string>
+    <key>LtnSmIOgonek.NB.RetroHook</key>
+    <string>iogonek.NB.RetroHook</string>
     <key>LtnSmIOgonek.NB.RetroHook.sc</key>
     <string>iogonek.NB.RetroHook.sc</string>
     <key>LtnSmIOgonek.NB.sc</key>
@@ -9119,12 +9180,16 @@ O/CombDblInvBreve OO/CombDblBreve OO/CombDblCircum OO/CombDblTilde OO/CombDblMac
     <string>uni0268</string>
     <key>LtnSmIStrk.Dotless</key>
     <string>uni0268.Dotless</string>
+    <key>LtnSmIStrk.Dotless.NB</key>
+    <string>uni0268.Dotless.NB</string>
     <key>LtnSmIStrk.Dotless.NB.sc</key>
     <string>uni0268.Dotless.NB.sc</string>
     <key>LtnSmIStrk.Dotless.TailI</key>
     <string>uni0268.Dotless.TailI</string>
     <key>LtnSmIStrk.Dotless.sc</key>
     <string>uni0268.Dotless.sc</string>
+    <key>LtnSmIStrk.NB</key>
+    <string>uni0268.NB</string>
     <key>LtnSmIStrk.NB.sc</key>
     <string>uni0268.NB.sc</string>
     <key>LtnSmIStrk.TailI</key>
@@ -9137,6 +9202,8 @@ O/CombDblInvBreve OO/CombDblBreve OO/CombDblCircum OO/CombDblTilde OO/CombDblMac
     <string>u1DF1A.Dotless</string>
     <key>LtnSmITilde</key>
     <string>itilde</string>
+    <key>LtnSmITilde.NB</key>
+    <string>itilde.NB</string>
     <key>LtnSmITilde.NB.sc</key>
     <string>itilde.NB.sc</string>
     <key>LtnSmITilde.SItal</key>
@@ -9147,6 +9214,8 @@ O/CombDblInvBreve OO/CombDblBreve OO/CombDblCircum OO/CombDblTilde OO/CombDblMac
     <string>itilde.sc</string>
     <key>LtnSmITildeBlw</key>
     <string>uni1E2D</string>
+    <key>LtnSmITildeBlw.NB</key>
+    <string>uni1E2D.NB</string>
     <key>LtnSmITildeBlw.NB.sc</key>
     <string>uni1E2D.NB.sc</string>
     <key>LtnSmITildeBlw.SItal</key>
