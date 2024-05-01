@@ -116,9 +116,11 @@
 		</value>
 		<value name="Large bowl" tag="Lrg">
 			<cmd name="encode" args="0264 uni0264.LrgBowl" />
+			<!-- cmd name="encode" args="10791 u10791.LrgBowl" / -->
 		</value>
 		<value name="Small gamma" tag="Gma">
 			<cmd name="encode" args="0264 uni0264.GammaStyle" />
+			<cmd name="encode" args="10791 u10791.GammaStyle" />
 		</value>
 	</feature>
 	<feature name="Capital H stroke" value="Standard (horiz stroke)" tag="LgHStrk">
@@ -128,6 +130,50 @@
 		<value name="Vertical stroke" tag="Vrt">
 			<cmd name="encode" args="0127 hbar.VertStrk" />
 			<cmd name="encode" args="0126 Hbar.VertStrk" />
+		</value>
+	</feature>
+	<feature name="No bar I" value="Default" tag="NoBarI">
+		<value name="Default" tag="Dflt">
+			<cmd name="null" args="null" />
+		</value>
+		<value name="Barless" tag="T">
+			<cmd name="encode" args="0069 i.NB" />
+			<cmd name="encode" args="00ED iacute.NB" />
+			<cmd name="encode" args="00EC igrave.NB" />
+			<cmd name="encode" args="0209 uni0209.NB" />
+			<cmd name="encode" args="00EE icircumflex.NB" />
+			<cmd name="encode" args="020B uni020B.NB" />
+			<cmd name="encode" args="012D ibreve.NB" />
+			<cmd name="encode" args="01D0 uni01D0.NB" />
+			<cmd name="encode" args="0129 itilde.NB" />
+			<cmd name="encode" args="012B imacron.NB" />
+			<cmd name="encode" args="00EF idieresis.NB" />
+			<cmd name="encode" args="1EC9 uni1EC9.NB" />
+			<cmd name="encode" args="A7BD uniA7BD.NB" />
+			<cmd name="encode" args="1E2D uni1E2D.NB" />
+			<cmd name="encode" args="1ECB uni1ECB.NB" />
+			<cmd name="encode" args="012F iogonek.NB" />
+			<cmd name="encode" args="0268 uni0268.NB" />
+			<cmd name="encode" args="1E2F uni1E2F.NB" />
+			<cmd name="encode" args="0049 I.NB" />
+			<cmd name="encode" args="00CD Iacute.NB" />
+			<cmd name="encode" args="00CC Igrave.NB" />
+			<cmd name="encode" args="0208 uni0208.NB" />
+			<cmd name="encode" args="00CE Icircumflex.NB" />
+			<cmd name="encode" args="020A uni020A.NB" />
+			<cmd name="encode" args="012C Ibreve.NB" />
+			<cmd name="encode" args="01CF uni01CF.NB" />
+			<cmd name="encode" args="0128 Itilde.NB" />
+			<cmd name="encode" args="012A Imacron.NB" />
+			<cmd name="encode" args="00CF Idieresis.NB" />
+			<cmd name="encode" args="1E2E uni1E2E.NB" />
+			<cmd name="encode" args="0130 Idotaccent.NB" />
+			<cmd name="encode" args="1EC8 uni1EC8.NB" />
+			<cmd name="encode" args="A7BC uniA7BC.NB" />
+			<cmd name="encode" args="1E2C uni1E2C.NB" />
+			<cmd name="encode" args="1ECA uni1ECA.NB" />
+			<cmd name="encode" args="012E Iogonek.NB" />
+			<cmd name="encode" args="0197 uni0197.NB" />
 		</value>
 	</feature>
 	<feature name="Lowercase i" value="Standard (no tail)" tag="SmITail">
@@ -444,6 +490,8 @@
 		<value name="Large" tag="Lg">
 			<cmd name="encode" args="A78B uniA78B.Lrg" />
 			<cmd name="encode" args="A78C uniA78C.Lrg" />
+			<cmd name="encode" args="0312 uni0312.Lrg" />
+			<cmd name="encode" args="0314 uni02314.Lrg" />
 			<cmd name="encode" args="02BC uni02BC.Lrg" />
 		</value>
 	</feature>
@@ -1776,6 +1824,66 @@
 		<test select="ModAp-Lg SmCp-T">
 			<cmd name="encode" args="A78C uniA78C.Lrg.sc" />
 		</test>
+		<test select="NoBarI-T Ognk-Strt">
+			<cmd name="encode" args="012F iogonek.NB.RetroHook" />
+			<cmd name="encode" args="012E Iogonek.NB.RetroHook" />
+		</test>
+		<test select="NoBarI-T SlntItlc-T">
+			<cmd name="encode" args="0069 i.SItal" />
+			<cmd name="encode" args="00ED iacute.SItal" />
+			<cmd name="encode" args="00EC igrave.SItal" />
+			<cmd name="encode" args="0209 uni0209.SItal" />
+			<cmd name="encode" args="00EE icircumflex.SItal" />
+			<cmd name="encode" args="020B uni020B.SItal" />
+			<cmd name="encode" args="012D ibreve.SItal" />
+			<cmd name="encode" args="01D0 uni01D0.SItal" />
+			<cmd name="encode" args="0129 itilde.SItal" />
+			<cmd name="encode" args="012B imacron.SItal" />
+			<cmd name="encode" args="00EF idieresis.SItal" />
+			<cmd name="encode" args="1EC9 uni1EC9.SItal" />
+			<cmd name="encode" args="1E2D uni1E2D.SItal" />
+			<cmd name="encode" args="1ECB uni1ECB.SItal" />
+			<cmd name="encode" args="1E2F uni1E2F.SItal" />
+		</test>
+		<test select="NoBarI-T SmCp-T">
+			<cmd name="encode" args="0069 i.NB.sc" />
+			<cmd name="encode" args="00ED iacute.NB.sc" />
+			<cmd name="encode" args="00EC igrave.NB.sc" />
+			<cmd name="encode" args="0209 uni0209.NB.sc" />
+			<cmd name="encode" args="00EE icircumflex.NB.sc" />
+			<cmd name="encode" args="020B uni020B.NB.sc" />
+			<cmd name="encode" args="012D ibreve.NB.sc" />
+			<cmd name="encode" args="01D0 uni01D0.NB.sc" />
+			<cmd name="encode" args="0129 itilde.NB.sc" />
+			<cmd name="encode" args="012B imacron.NB.sc" />
+			<cmd name="encode" args="00EF idieresis.NB.sc" />
+			<cmd name="encode" args="1E2F uni1E2F.NB.sc" />
+			<cmd name="encode" args="1EC9 uni1EC9.NB.sc" />
+			<cmd name="encode" args="A7BD uniA7BD.NB.sc" />
+			<cmd name="encode" args="1E2D uni1E2D.NB.sc" />
+			<cmd name="encode" args="1ECB uni1ECB.NB.sc" />
+			<cmd name="encode" args="012F iogonek.NB.sc" />
+			<cmd name="encode" args="0268 uni0268.NB.sc" />
+		</test>
+		<test select="NoBarI-T SmITail-CrvTl">
+			<cmd name="encode" args="0069 i.TailI" />
+			<cmd name="encode" args="00ED iacute.TailI" />
+			<cmd name="encode" args="00EC igrave.TailI" />
+			<cmd name="encode" args="0209 uni0209.TailI" />
+			<cmd name="encode" args="00EE icircumflex.TailI" />
+			<cmd name="encode" args="020B uni020B.TailI" />
+			<cmd name="encode" args="012D ibreve.TailI" />
+			<cmd name="encode" args="01D0 uni01D0.TailI" />
+			<cmd name="encode" args="0129 itilde.TailI" />
+			<cmd name="encode" args="012B imacron.TailI" />
+			<cmd name="encode" args="00EF idieresis.TailI" />
+			<cmd name="encode" args="1EC9 uni1EC9.TailI" />
+			<cmd name="encode" args="1E2D uni1E2D.TailI" />
+			<cmd name="encode" args="1ECB uni1ECB.TailI" />
+			<cmd name="encode" args="012F iogonek.TailI" />
+			<cmd name="encode" args="0268 uni0268.TailI" />
+			<cmd name="encode" args="1E2F uni1E2F.TailI" />
+		</test>
 		<test select="Ognk-Strt SlntItlc-T">
 			<cmd name="encode" args="0105 aogonek.SngStory.RetroHook" />
 		</test>
@@ -2281,6 +2389,65 @@
 			<cmd name="encode" args="1EB5 uni1EB5.VN.sc" />
 			<cmd name="encode" args="1EB3 uni1EB3.VN.sc" />
 		</test>
+		<test select="NoBarI-T Ognk-Strt SmCp-T">
+			<cmd name="encode" args="012F iogonek.NB.RetroHook.sc" />
+		</test>
+		<test select="NoBarI-T Ognk-Strt SmITail-CrvTl">
+			<cmd name="encode" args="012F iogonek.TailI.RetroHook" />
+		</test>
+		<test select="NoBarI-T SlntItlc-T SmCp-T">
+			<cmd name="encode" args="0069 i.NB.sc" />
+			<cmd name="encode" args="00ED iacute.NB.sc" />
+			<cmd name="encode" args="00EC igrave.NB.sc" />
+			<cmd name="encode" args="0209 uni0209.NB.sc" />
+			<cmd name="encode" args="00EE icircumflex.NB.sc" />
+			<cmd name="encode" args="020B uni020B.NB.sc" />
+			<cmd name="encode" args="012D ibreve.NB.sc" />
+			<cmd name="encode" args="01D0 uni01D0.NB.sc" />
+			<cmd name="encode" args="0129 itilde.NB.sc" />
+			<cmd name="encode" args="012B imacron.NB.sc" />
+			<cmd name="encode" args="00EF idieresis.NB.sc" />
+			<cmd name="encode" args="1E2F uni1E2F.NB.sc" />
+			<cmd name="encode" args="1EC9 uni1EC9.NB.sc" />
+			<cmd name="encode" args="1E2D uni1E2D.NB.sc" />
+			<cmd name="encode" args="1ECB uni1ECB.NB.sc" />
+		</test>
+		<test select="NoBarI-T SlntItlc-T SmITail-CrvTl">
+			<cmd name="encode" args="0069 i.TailI" />
+			<cmd name="encode" args="00ED iacute.TailI" />
+			<cmd name="encode" args="00EC igrave.TailI" />
+			<cmd name="encode" args="0209 uni0209.TailI" />
+			<cmd name="encode" args="00EE icircumflex.TailI" />
+			<cmd name="encode" args="020B uni020B.TailI" />
+			<cmd name="encode" args="012D ibreve.TailI" />
+			<cmd name="encode" args="01D0 uni01D0.TailI" />
+			<cmd name="encode" args="0129 itilde.TailI" />
+			<cmd name="encode" args="012B imacron.TailI" />
+			<cmd name="encode" args="00EF idieresis.TailI" />
+			<cmd name="encode" args="1EC9 uni1EC9.TailI" />
+			<cmd name="encode" args="1E2D uni1E2D.TailI" />
+			<cmd name="encode" args="1ECB uni1ECB.TailI" />
+			<cmd name="encode" args="1E2F uni1E2F.TailI" />
+		</test>
+		<test select="NoBarI-T SmCp-T SmITail-CrvTl">
+			<cmd name="encode" args="0069 i.NB.sc" />
+			<cmd name="encode" args="00ED iacute.NB.sc" />
+			<cmd name="encode" args="00EC igrave.NB.sc" />
+			<cmd name="encode" args="0209 uni0209.NB.sc" />
+			<cmd name="encode" args="00EE icircumflex.NB.sc" />
+			<cmd name="encode" args="020B uni020B.NB.sc" />
+			<cmd name="encode" args="012D ibreve.NB.sc" />
+			<cmd name="encode" args="01D0 uni01D0.NB.sc" />
+			<cmd name="encode" args="0129 itilde.NB.sc" />
+			<cmd name="encode" args="012B imacron.NB.sc" />
+			<cmd name="encode" args="00EF idieresis.NB.sc" />
+			<cmd name="encode" args="1E2F uni1E2F.NB.sc" />
+			<cmd name="encode" args="1EC9 uni1EC9.NB.sc" />
+			<cmd name="encode" args="1E2D uni1E2D.NB.sc" />
+			<cmd name="encode" args="1ECB uni1ECB.NB.sc" />
+			<cmd name="encode" args="012F iogonek.NB.sc" />
+			<cmd name="encode" args="0268 uni0268.NB.sc" />
+		</test>
 		<test select="Ognk-Strt SlntItlc-T SmCp-T">
 			<cmd name="encode" args="0105 aogonek.SngStory.RetroHook.sc" />
 		</test>
@@ -2412,6 +2579,26 @@
 			<cmd name="encode" args="1EB1 uni1EB1.VN.sc" />
 			<cmd name="encode" args="1EB5 uni1EB5.VN.sc" />
 			<cmd name="encode" args="1EB3 uni1EB3.VN.sc" />
+		</test>
+		<test select="NoBarI-T Ognk-Strt SmCp-T SmITail-CrvTl">
+			<cmd name="encode" args="012F iogonek.NB.RetroHook.sc" />
+		</test>
+		<test select="NoBarI-T SlntItlc-T SmCp-T SmITail-CrvTl">
+			<cmd name="encode" args="0069 i.NB.sc" />
+			<cmd name="encode" args="00ED iacute.NB.sc" />
+			<cmd name="encode" args="00EC igrave.NB.sc" />
+			<cmd name="encode" args="0209 uni0209.NB.sc" />
+			<cmd name="encode" args="00EE icircumflex.NB.sc" />
+			<cmd name="encode" args="020B uni020B.NB.sc" />
+			<cmd name="encode" args="012D ibreve.NB.sc" />
+			<cmd name="encode" args="01D0 uni01D0.NB.sc" />
+			<cmd name="encode" args="0129 itilde.NB.sc" />
+			<cmd name="encode" args="012B imacron.NB.sc" />
+			<cmd name="encode" args="00EF idieresis.NB.sc" />
+			<cmd name="encode" args="1E2F uni1E2F.NB.sc" />
+			<cmd name="encode" args="1EC9 uni1EC9.NB.sc" />
+			<cmd name="encode" args="1E2D uni1E2D.NB.sc" />
+			<cmd name="encode" args="1ECB uni1ECB.NB.sc" />
 		</test>
 		<test select="DSA-T Lit-F Ognk-Strt SlntItlc-T SmCp-T">
 			<cmd name="encode" args="0105 aogonek.RetroHook.sc" />

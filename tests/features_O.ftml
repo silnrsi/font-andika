@@ -25,12 +25,25 @@
       <style feats="'cv31' 1, 'smcp' 1" name="cv31_1_smcp_1"/>
       <style feats="'cv31' 1, 'smcp' 1, 'ss05' 1" name="cv31_1_smcp_1_ss05_1"/>
       <style feats="'cv31' 1, 'ss05' 1" name="cv31_1_ss05_1"/>
+      <style feats="'cv34' 1" name="cv34_1"/>
+      <style feats="'cv34' 1, 'cv35' 1" name="cv34_1_cv35_1"/>
+      <style feats="'cv34' 1, 'cv35' 1, 'smcp' 1" name="cv34_1_cv35_1_smcp_1"/>
+      <style feats="'cv34' 1, 'smcp' 1" name="cv34_1_smcp_1"/>
+      <style feats="'cv35' 1" name="cv35_1"/>
+      <style feats="'cv35' 1, 'smcp' 1" name="cv35_1_smcp_1"/>
+      <style feats="'cv37' 1" name="cv37_1"/>
       <style feats="'cv46' 1" name="cv46_1"/>
       <style feats="'cv46' 1, 'smcp' 1" name="cv46_1_smcp_1"/>
       <style feats="'cv62' 1" name="cv62_1"/>
       <style feats="'cv62' 1, 'smcp' 1" name="cv62_1_smcp_1"/>
       <style feats="'cv62' 2" name="cv62_2"/>
       <style feats="'cv62' 2, 'smcp' 1" name="cv62_2_smcp_1"/>
+      <style feats="'cv67' 1" name="cv67_1"/>
+      <style feats="'cv67' 1, 'cv68' 1" name="cv67_1_cv68_1"/>
+      <style feats="'cv67' 1, 'cv68' 1, 'smcp' 1" name="cv67_1_cv68_1_smcp_1"/>
+      <style feats="'cv67' 1, 'smcp' 1" name="cv67_1_smcp_1"/>
+      <style feats="'cv68' 1" name="cv68_1"/>
+      <style feats="'cv68' 1, 'smcp' 1" name="cv68_1_smcp_1"/>
       <style feats="'cv75' 1" name="cv75_1"/>
       <style feats="'cv75' 1, 'smcp' 1" name="cv75_1_smcp_1"/>
       <style feats="'cv75' 1, 'smcp' 1, 'ss01' 1" name="cv75_1_smcp_1_ss01_1"/>
@@ -254,9 +267,70 @@ U+0069" stylename="cv31_1">
       <string>fi\u000328 ffi\u000328</string>
     </test>
   </testgroup>
-  <testgroup label="cv34"/>
-  <testgroup label="cv35"/>
-  <testgroup label="cv37"/>
+  <testgroup label="cv34">
+    <test label="U+006A
+U+0135
+U+01F0
+U+0237
+U+0249
+U+025F
+U+029D">
+      <comment>LtnSmJ LtnSmJCircum LtnSmJCaron LtnSmDotlessJ LtnSmJStrk LtnSmDotlessJStrk LtnSmJCrossedTail</comment>
+      <string>j\u000328\u000135\u000328\u0001F0\u000328\u000237\u000328\u000249\u000328\u00025F\u000328\u00029D\u000328</string>
+    </test>
+    <test label="U+006A
+U+0135
+U+01F0
+U+0237
+U+0249
+U+025F
+U+029D" stylename="cv34_1">
+      <comment>LtnSmJ LtnSmJCircum LtnSmJCaron LtnSmDotlessJ LtnSmJStrk LtnSmDotlessJStrk LtnSmJCrossedTail</comment>
+      <string>j\u000328\u000135\u000328\u0001F0\u000328\u000237\u000328\u000249\u000328\u00025F\u000328\u00029D\u000328</string>
+    </test>
+  </testgroup>
+  <testgroup label="cv35">
+    <test label="U+004A
+U+006A
+U+0134
+U+0135
+U+0248
+U+0249
+U+029D
+U+1D0A">
+      <comment>LtnCapJ LtnSmJ LtnCapJCircum LtnSmJCircum LtnCapJStrk LtnSmJStrk LtnSmJCrossedTail LtnSmCapJ</comment>
+      <string>J\u000328j\u000328\u000134\u000328\u000135\u000328\u000248\u000328\u000249\u000328\u00029D\u000328\u001D0A\u000328</string>
+    </test>
+    <test label="U+004A
+U+006A
+U+0134
+U+0135
+U+0248
+U+0249
+U+029D
+U+1D0A" stylename="cv35_1">
+      <comment>LtnCapJ LtnSmJ LtnCapJCircum LtnSmJCircum LtnCapJStrk LtnSmJStrk LtnSmJCrossedTail LtnSmCapJ</comment>
+      <string>J\u000328j\u000328\u000134\u000328\u000135\u000328\u000248\u000328\u000249\u000328\u00029D\u000328\u001D0A\u000328</string>
+    </test>
+    <test label="U+A7B2">
+      <comment>LtnCapJCrossedTail</comment>
+      <string>\u00A7B2\u000328</string>
+    </test>
+    <test label="U+A7B2" stylename="cv35_1">
+      <comment>LtnCapJCrossedTail</comment>
+      <string>\u00A7B2\u000328</string>
+    </test>
+  </testgroup>
+  <testgroup label="cv37">
+    <test label="U+0284">
+      <comment>LtnSmDotlessJStrkHook</comment>
+      <string>\u000284\u000328</string>
+    </test>
+    <test label="U+0284" stylename="cv37_1">
+      <comment>LtnSmDotlessJStrkHook</comment>
+      <string>\u000284\u000328</string>
+    </test>
+  </testgroup>
   <testgroup label="cv39"/>
   <testgroup label="cv43"/>
   <testgroup label="cv44"/>
@@ -291,8 +365,58 @@ U+0069" stylename="cv31_1">
       <string>\u00028B\u000328</string>
     </test>
   </testgroup>
-  <testgroup label="cv67"/>
-  <testgroup label="cv68"/>
+  <testgroup label="cv67">
+    <test label="U+0079
+U+00FD
+U+00FF
+U+0177
+U+01B4
+U+0233
+U+024F">
+      <comment>LtnSmY LtnSmYAcute LtnSmYDiaer LtnSmYCircum LtnSmYHook.RtHook LtnSmYMacron LtnSmYStrk</comment>
+      <string>y\u000328\u0000FD\u000328\u0000FF\u000328\u000177\u000328\u0001B4\u000328\u000233\u000328\u00024F\u000328</string>
+    </test>
+    <test label="U+0079
+U+00FD
+U+00FF
+U+0177
+U+01B4
+U+0233
+U+024F" stylename="cv67_1">
+      <comment>LtnSmY LtnSmYAcute LtnSmYDiaer LtnSmYCircum LtnSmYHook.RtHook LtnSmYMacron LtnSmYStrk</comment>
+      <string>y\u000328\u0000FD\u000328\u0000FF\u000328\u000177\u000328\u0001B4\u000328\u000233\u000328\u00024F\u000328</string>
+    </test>
+    <test label="U+1E8F
+U+1E99
+U+1EF3
+U+1EF5
+U+1EF7
+U+1EF9">
+      <comment>LtnSmYDotAbv LtnSmYRingAbv LtnSmYGrave LtnSmYDotBlw LtnSmYHookAbv LtnSmYTilde</comment>
+      <string>\u001E8F\u000328\u001E99\u000328\u001EF3\u000328\u001EF5\u000328\u001EF7\u000328\u001EF9\u000328</string>
+    </test>
+    <test label="U+1E8F
+U+1E99
+U+1EF3
+U+1EF5
+U+1EF7
+U+1EF9" stylename="cv67_1">
+      <comment>LtnSmYDotAbv LtnSmYRingAbv LtnSmYGrave LtnSmYDotBlw LtnSmYHookAbv LtnSmYTilde</comment>
+      <string>\u001E8F\u000328\u001E99\u000328\u001EF3\u000328\u001EF5\u000328\u001EF7\u000328\u001EF9\u000328</string>
+    </test>
+  </testgroup>
+  <testgroup label="cv68">
+    <test label="U+01B3
+U+01B4">
+      <comment>LtnCapYHook.RtHook LtnSmYHook.RtHook</comment>
+      <string>\u0001B3\u000328\u0001B4\u000328</string>
+    </test>
+    <test label="U+01B3
+U+01B4" stylename="cv68_1">
+      <comment>LtnCapYHook.RtHook LtnSmYHook.RtHook</comment>
+      <string>\u0001B3\u000328\u0001B4\u000328</string>
+    </test>
+  </testgroup>
   <testgroup label="cv69"/>
   <testgroup label="cv70"/>
   <testgroup label="cv71"/>
@@ -1100,9 +1224,54 @@ U+0069" stylename="cv31_1_ss05_1">
       <string>fi\u000328 ffi\u000328</string>
     </test>
   </testgroup>
-  <testgroup label="cv34 cv35"/>
-  <testgroup label="cv34 smcp"/>
-  <testgroup label="cv35 smcp"/>
+  <testgroup label="cv34 cv35">
+    <test label="U+006A
+U+0135
+U+0249
+U+029D">
+      <comment>LtnSmJ LtnSmJCircum LtnSmJStrk LtnSmJCrossedTail</comment>
+      <string>j\u000328\u000135\u000328\u000249\u000328\u00029D\u000328</string>
+    </test>
+    <test label="U+006A
+U+0135
+U+0249
+U+029D" stylename="cv34_1_cv35_1">
+      <comment>LtnSmJ LtnSmJCircum LtnSmJStrk LtnSmJCrossedTail</comment>
+      <string>j\u000328\u000135\u000328\u000249\u000328\u00029D\u000328</string>
+    </test>
+  </testgroup>
+  <testgroup label="cv34 smcp">
+    <test label="U+006A
+U+0135
+U+0249
+U+029D">
+      <comment>LtnSmJ LtnSmJCircum LtnSmJStrk LtnSmJCrossedTail</comment>
+      <string>j\u000328\u000135\u000328\u000249\u000328\u00029D\u000328</string>
+    </test>
+    <test label="U+006A
+U+0135
+U+0249
+U+029D" stylename="cv34_1_smcp_1">
+      <comment>LtnSmJ LtnSmJCircum LtnSmJStrk LtnSmJCrossedTail</comment>
+      <string>j\u000328\u000135\u000328\u000249\u000328\u00029D\u000328</string>
+    </test>
+  </testgroup>
+  <testgroup label="cv35 smcp">
+    <test label="U+006A
+U+0135
+U+0249
+U+029D">
+      <comment>LtnSmJ LtnSmJCircum LtnSmJStrk LtnSmJCrossedTail</comment>
+      <string>j\u000328\u000135\u000328\u000249\u000328\u00029D\u000328</string>
+    </test>
+    <test label="U+006A
+U+0135
+U+0249
+U+029D" stylename="cv35_1_smcp_1">
+      <comment>LtnSmJ LtnSmJCircum LtnSmJStrk LtnSmJCrossedTail</comment>
+      <string>j\u000328\u000135\u000328\u000249\u000328\u00029D\u000328</string>
+    </test>
+  </testgroup>
   <testgroup label="cv39 cv77"/>
   <testgroup label="cv39 smcp"/>
   <testgroup label="cv39 ss05"/>
@@ -1142,10 +1311,65 @@ U+0069" stylename="cv31_1_ss05_1">
       <string>\u00028B\u000328</string>
     </test>
   </testgroup>
-  <testgroup label="cv67 cv68"/>
+  <testgroup label="cv67 cv68">
+    <test label="U+01B4">
+      <comment>LtnSmYHook.RtHook</comment>
+      <string>\u0001B4\u000328</string>
+    </test>
+    <test label="U+01B4" stylename="cv67_1_cv68_1">
+      <comment>LtnSmYHook.RtHook</comment>
+      <string>\u0001B4\u000328</string>
+    </test>
+  </testgroup>
   <testgroup label="cv67 cv76"/>
-  <testgroup label="cv67 smcp"/>
-  <testgroup label="cv68 smcp"/>
+  <testgroup label="cv67 smcp">
+    <test label="U+0079
+U+00FD
+U+00FF
+U+0177
+U+01B4
+U+0233
+U+024F
+U+1E8F">
+      <comment>LtnSmY LtnSmYAcute LtnSmYDiaer LtnSmYCircum LtnSmYHook.RtHook LtnSmYMacron LtnSmYStrk LtnSmYDotAbv</comment>
+      <string>y\u000328\u0000FD\u000328\u0000FF\u000328\u000177\u000328\u0001B4\u000328\u000233\u000328\u00024F\u000328\u001E8F\u000328</string>
+    </test>
+    <test label="U+0079
+U+00FD
+U+00FF
+U+0177
+U+01B4
+U+0233
+U+024F
+U+1E8F" stylename="cv67_1_smcp_1">
+      <comment>LtnSmY LtnSmYAcute LtnSmYDiaer LtnSmYCircum LtnSmYHook.RtHook LtnSmYMacron LtnSmYStrk LtnSmYDotAbv</comment>
+      <string>y\u000328\u0000FD\u000328\u0000FF\u000328\u000177\u000328\u0001B4\u000328\u000233\u000328\u00024F\u000328\u001E8F\u000328</string>
+    </test>
+    <test label="U+1EF3
+U+1EF5
+U+1EF7
+U+1EF9">
+      <comment>LtnSmYGrave LtnSmYDotBlw LtnSmYHookAbv LtnSmYTilde</comment>
+      <string>\u001EF3\u000328\u001EF5\u000328\u001EF7\u000328\u001EF9\u000328</string>
+    </test>
+    <test label="U+1EF3
+U+1EF5
+U+1EF7
+U+1EF9" stylename="cv67_1_smcp_1">
+      <comment>LtnSmYGrave LtnSmYDotBlw LtnSmYHookAbv LtnSmYTilde</comment>
+      <string>\u001EF3\u000328\u001EF5\u000328\u001EF7\u000328\u001EF9\u000328</string>
+    </test>
+  </testgroup>
+  <testgroup label="cv68 smcp">
+    <test label="U+01B4">
+      <comment>LtnSmYHook.RtHook</comment>
+      <string>\u0001B4\u000328</string>
+    </test>
+    <test label="U+01B4" stylename="cv68_1_smcp_1">
+      <comment>LtnSmYHook.RtHook</comment>
+      <string>\u0001B4\u000328</string>
+    </test>
+  </testgroup>
   <testgroup label="cv69 smcp"/>
   <testgroup label="cv70 smcp"/>
   <testgroup label="cv75 smcp">
@@ -2144,13 +2368,37 @@ U+0069" stylename="cv31_1_smcp_1_ss05_1">
       <string>fi\u000328 ffi\u000328</string>
     </test>
   </testgroup>
-  <testgroup label="cv34 cv35 smcp"/>
+  <testgroup label="cv34 cv35 smcp">
+    <test label="U+006A
+U+0135
+U+0249
+U+029D">
+      <comment>LtnSmJ LtnSmJCircum LtnSmJStrk LtnSmJCrossedTail</comment>
+      <string>j\u000328\u000135\u000328\u000249\u000328\u00029D\u000328</string>
+    </test>
+    <test label="U+006A
+U+0135
+U+0249
+U+029D" stylename="cv34_1_cv35_1_smcp_1">
+      <comment>LtnSmJ LtnSmJCircum LtnSmJStrk LtnSmJCrossedTail</comment>
+      <string>j\u000328\u000135\u000328\u000249\u000328\u00029D\u000328</string>
+    </test>
+  </testgroup>
   <testgroup label="cv39 cv77 smcp"/>
   <testgroup label="cv39 smcp ss05"/>
   <testgroup label="cv51 cv52 smcp"/>
   <testgroup label="cv56 cv57 smcp"/>
   <testgroup label="cv56 cv77 smcp"/>
-  <testgroup label="cv67 cv68 smcp"/>
+  <testgroup label="cv67 cv68 smcp">
+    <test label="U+01B4">
+      <comment>LtnSmYHook.RtHook</comment>
+      <string>\u0001B4\u000328</string>
+    </test>
+    <test label="U+01B4" stylename="cv67_1_cv68_1_smcp_1">
+      <comment>LtnSmYHook.RtHook</comment>
+      <string>\u0001B4\u000328</string>
+    </test>
+  </testgroup>
   <testgroup label="cv75 smcp ss01">
     <test label="U+1EA5
 U+1EA7
