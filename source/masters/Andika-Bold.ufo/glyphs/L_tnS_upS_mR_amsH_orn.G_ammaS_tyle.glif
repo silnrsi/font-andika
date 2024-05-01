@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSupSmRamsHorn.GammaStyle" format="2">
+  <advance width="777"/>
+  <anchor x="397" y="615" name="L"/>
+  <anchor x="782" y="1330" name="R"/>
+  <anchor x="397" y="1395" name="U"/>
+  <outline>
+    <contour>
+      <point x="572" y="1343" type="line"/>
+      <point x="484" y="1241"/>
+      <point x="425" y="1182"/>
+      <point x="340" y="1088" type="curve" smooth="yes"/>
+      <point x="229" y="962"/>
+      <point x="176" y="904"/>
+      <point x="176" y="842" type="curve" smooth="yes"/>
+      <point x="176" y="748"/>
+      <point x="257" y="664"/>
+      <point x="397" y="664" type="curve" smooth="yes"/>
+      <point x="537" y="664"/>
+      <point x="618" y="748"/>
+      <point x="618" y="842" type="curve" smooth="yes"/>
+      <point x="618" y="907"/>
+      <point x="568" y="960"/>
+      <point x="453" y="1088" type="curve" smooth="yes"/>
+      <point x="395" y="1152"/>
+      <point x="305" y="1234"/>
+      <point x="222" y="1343" type="curve"/>
+      <point x="12" y="1343" type="line"/>
+      <point x="160" y="1171"/>
+      <point x="258" y="1080"/>
+      <point x="326" y="1011" type="curve" smooth="yes"/>
+      <point x="424" y="911"/>
+      <point x="446" y="886"/>
+      <point x="446" y="842" type="curve" smooth="yes"/>
+      <point x="446" y="826"/>
+      <point x="428" y="800"/>
+      <point x="397" y="800" type="curve" smooth="yes"/>
+      <point x="366" y="800"/>
+      <point x="348" y="826"/>
+      <point x="348" y="842" type="curve" smooth="yes"/>
+      <point x="348" y="885"/>
+      <point x="376" y="918"/>
+      <point x="466" y="1010" type="curve" smooth="yes"/>
+      <point x="525" y="1069"/>
+      <point x="629" y="1171"/>
+      <point x="782" y="1343" type="curve"/>
+    </contour>
+  </outline>
+</glyph>
