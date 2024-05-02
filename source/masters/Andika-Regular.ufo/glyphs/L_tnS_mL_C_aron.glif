@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmLCaron" format="2">
-  <advance width="735"/>
+  <advance width="655"/>
   <unicode hex="013E"/>
   <anchor x="290" y="0" name="H"/>
   <anchor x="290" y="-100" name="L"/>
@@ -19,10 +19,10 @@
       <point x="375" y="475" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="550" y="1600" type="line"/>
-      <point x="485" y="1170" type="line"/>
-      <point x="605" y="1170" type="line"/>
-      <point x="735" y="1600" type="line"/>
+      <point x="475" y="1110" type="line"/>
+      <point x="595" y="1110" type="line"/>
+      <point x="705" y="1600" type="line"/>
+      <point x="520" y="1600" type="line"/>
     </contour>
   </outline>
 </glyph>

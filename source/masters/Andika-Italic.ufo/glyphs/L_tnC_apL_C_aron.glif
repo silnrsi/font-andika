@@ -4,9 +4,25 @@
   <unicode hex="013D"/>
   <anchor x="532" y="0" name="H"/>
   <anchor x="507" y="-100" name="L"/>
+  <anchor x="641" y="887" name="R_"/>
   <anchor x="700" y="1530" name="U"/>
   <outline>
     <component base="LtnCapL" xOffset="-60"/>
-    <component base="CombCommaAbvRt" xOffset="451" yOffset="-113"/>
+    <contour>
+      <point x="674" y="1080" type="curve"/>
+      <point x="794" y="1080" type="line"/>
+      <point x="880" y="1242"/>
+      <point x="962" y="1406"/>
+      <point x="1026" y="1570" type="curve"/>
+      <point x="831" y="1570" type="line"/>
+      <point x="792" y="1409"/>
+      <point x="738" y="1244"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
 </glyph>

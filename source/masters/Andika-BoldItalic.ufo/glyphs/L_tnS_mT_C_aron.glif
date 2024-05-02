@@ -41,10 +41,14 @@
       <point x="220" y="995" type="line"/>
     </contour>
     <contour>
-      <point x="1049" y="1584" type="line"/>
-      <point x="888" y="1158" type="line"/>
-      <point x="1068" y="1158" type="line"/>
-      <point x="1294" y="1584" type="line"/>
+      <point x="814" y="1095" type="curve"/>
+      <point x="994" y="1095" type="line"/>
+      <point x="1080" y="1257"/>
+      <point x="1162" y="1421"/>
+      <point x="1226" y="1585" type="curve"/>
+      <point x="971" y="1585" type="line"/>
+      <point x="932" y="1424"/>
+      <point x="878" y="1259"/>
     </contour>
   </outline>
 </glyph>

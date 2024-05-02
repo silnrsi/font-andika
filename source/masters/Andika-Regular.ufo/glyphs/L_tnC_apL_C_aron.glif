@@ -7,6 +7,17 @@
   <anchor x="592" y="1530" name="U"/>
   <outline>
     <component base="LtnCapL"/>
-    <component base="CombCommaAbvRt" xOffset="540" yOffset="-115"/>
+    <contour>
+      <point x="545" y="1110" type="line"/>
+      <point x="665" y="1110" type="line"/>
+      <point x="775" y="1600" type="line"/>
+      <point x="590" y="1600" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
 </glyph>
