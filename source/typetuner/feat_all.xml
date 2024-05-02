@@ -1444,14 +1444,6 @@
 			<cmd name="encode" args="A723 uniA723.sc" />
 		</value>
 	</feature>
-	<feature name="Old style proportial figures" value="Default" tag="OSF">
-		<value name="Default" tag="Dflt">
-			<cmd name="null" args="null" />
-		</value>
-		<value name="Old style figures" tag="T">
-			<cmd name="null" args="null" />
-		</value>
-	</feature>
 	<feature name="Kayan diacritics" value="Standard (stacked)" tag="Kayan">
 		<value name="Standard (stacked)" tag="Dflt">
 			<cmd name="null" args="null" />
