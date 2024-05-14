@@ -3,12 +3,35 @@
   <advance width="2050"/>
   <unicode hex="21AE"/>
   <outline>
-    <component base="LftRtArrw"/>
+    <contour>
+      <point x="1915" y="665" type="line"/>
+      <point x="1915" y="785" type="line"/>
+      <point x="1340" y="1050" type="line"/>
+      <point x="1305" y="950" type="line"/>
+      <point x="1710" y="780" type="line"/>
+      <point x="340" y="780" type="line"/>
+      <point x="745" y="950" type="line"/>
+      <point x="710" y="1045" type="line"/>
+      <point x="135" y="785" type="line"/>
+      <point x="135" y="665" type="line"/>
+      <point x="710" y="405" type="line"/>
+      <point x="745" y="500" type="line"/>
+      <point x="340" y="670" type="line"/>
+      <point x="1710" y="670" type="line"/>
+      <point x="1305" y="500" type="line"/>
+      <point x="1340" y="405" type="line"/>
+    </contour>
+    <contour>
+      <point x="1157" y="1113" type="line"/>
+      <point x="787" y="383" type="line"/>
+      <point x="889" y="328" type="line"/>
+      <point x="1259" y="1063" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

@@ -61,6 +61,7 @@ Ve/LtnSmLCaron ká/Space Bi/LtnSmLCaron ak/Space podnikate/LtnSmLCaron ]
 /LtnCapLCaron O/Space/LtnCapLCaron S/Space/LtnCapLCaron/LtnCapSCaron/Space/LtnCapLCaron T/Space/LtnCapLCaron U/Space/LtnCapLCaron Ú/Space/LtnCapLCaron VALVELT
 /LtnCapLCaron ahko</string>
     <string>O/LtnCapACirc A/LtnSmACirc gf/LtnSmAlpha ao/LtnCapAtDep/LtnSmAtDep</string>
+    <string>/LftArrwStrk/LftRtArrw/LftRtArrwStrk 12/DwnArrwhd 3+=/XOR/Space 123/UpArrwhd/NAND 7/NOR 4</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
