@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LftSqrBrac.sc" format="2">
+  <advance width="728"/>
+  <outline>
+    <contour>
+      <point x="461" y="-223" type="line"/>
+      <point x="495" y="-100" type="line"/>
+      <point x="261" y="-100" type="line"/>
+      <point x="641" y="1301" type="line"/>
+      <point x="875" y="1301" type="line"/>
+      <point x="908" y="1424" type="line"/>
+      <point x="504" y="1424" type="line"/>
+      <point x="56" y="-223" type="line"/>
+    </contour>
+  </outline>
+</glyph>
