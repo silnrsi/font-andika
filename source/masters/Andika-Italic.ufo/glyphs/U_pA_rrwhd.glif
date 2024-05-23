@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="UpArrwhd" format="2">
-  <advance width="899"/>
+  <advance width="1080"/>
   <unicode hex="2227"/>
   <outline>
     <contour>
-      <point x="723" y="154"/>
-      <point x="764" y="185" type="curve"/>
-      <point x="649" y="1140" type="line"/>
-      <point x="607" y="1122"/>
-      <point x="535" y="1083"/>
-      <point x="494" y="1052" type="curve"/>
-      <point x="-56" y="142" type="line"/>
-      <point x="-32" y="115" type="line"/>
-      <point x="-2" y="128"/>
-      <point x="61" y="158"/>
-      <point x="96" y="185" type="curve"/>
-      <point x="568" y="975" type="line"/>
-      <point x="518" y="975" type="line"/>
-      <point x="620" y="142" type="line"/>
-      <point x="648" y="115" type="line"/>
-      <point x="698" y="136"/>
+      <point x="112" y="285" type="line"/>
+      <point x="243" y="285" type="line"/>
+      <point x="802" y="1098" type="line"/>
+      <point x="708" y="1098" type="line"/>
+      <point x="861" y="285" type="line"/>
+      <point x="992" y="285" type="line"/>
+      <point x="823" y="1150" type="line"/>
+      <point x="713" y="1150" type="line"/>
     </contour>
   </outline>
 </glyph>
