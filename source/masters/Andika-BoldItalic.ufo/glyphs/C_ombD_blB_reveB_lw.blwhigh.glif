@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombDblBreveBlw.blwhigh" format="2">
   <anchor x="-118" y="-504" name="L"/>
-  <anchor x="120" y="1100" name="U"/>
+  <anchor x="200" y="1510" name="U"/>
   <outline>
     <component base="CombDblBreve" xOffset="-480" yOffset="-2130"/>
   </outline>

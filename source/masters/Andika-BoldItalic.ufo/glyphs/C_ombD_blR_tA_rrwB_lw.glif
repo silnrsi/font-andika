@@ -2,7 +2,7 @@
 <glyph name="CombDblRtArrwBlw" format="2">
   <unicode hex="0362"/>
   <anchor x="-310" y="-1000" name="L"/>
-  <anchor x="120" y="1100" name="U"/>
+  <anchor x="200" y="1510" name="U"/>
   <outline>
     <contour>
       <point x="653" y="-860" type="line"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombDblCircum.low" format="2">
-  <anchor x="-86" y="-100" name="L"/>
+  <anchor x="-160" y="-500" name="L"/>
   <anchor x="332" y="1655" name="U"/>
   <outline>
     <component base="CombDblCircum" xOffset="-150" yOffset="-510"/>
