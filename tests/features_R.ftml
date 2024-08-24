@@ -4,8 +4,12 @@
   <head>
     <fontscale>200</fontscale>
     <fontsrc label="AR">url(../results/Andika-Regular.ttf)</fontsrc>
+    <fontsrc label="AM">url(../results/Andika-Medium.ttf)</fontsrc>
+    <fontsrc label="AS">url(../results/Andika-SemiBold.ttf)</fontsrc>
     <fontsrc label="AB">url(../results/Andika-Bold.ttf)</fontsrc>
     <fontsrc label="AI">url(../results/Andika-Italic.ttf)</fontsrc>
+    <fontsrc label="AMI">url(../results/Andika-MediumItalic.ttf)</fontsrc>
+    <fontsrc label="ASI">url(../results/Andika-SemiBoldItalic.ttf)</fontsrc>
     <fontsrc label="ABI">url(../results/Andika-BoldItalic.ttf)</fontsrc>
     <fontsrc label="AR6">url(../references/v6101/Andika-Regular.ttf)</fontsrc>
     <fontsrc label="AB6">url(../references/v6101/Andika-Bold.ttf)</fontsrc>
