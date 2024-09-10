@@ -39,7 +39,7 @@ Our font announcements are also available through X (formerly Twitter) [\@silfon
 
 ## Supporting the project
 
-These fonts are provided at no cost. However, they are expensive to produce and maintain. Please consider donating to SIL’s font development efforts to support future development. Go to [SIL’s Give Direct page](https://give.sil.org/give/485238/#!/donation/checkout). **Thank you!** 
+These fonts are provided at no cost. However, they are expensive to produce and maintain. Please consider donating to SIL’s font development efforts to support future development. Go to [SIL’s Give Direct page](https://give.sil.org/give/485238). **Thank you!** 
 
 ## About SIL International
 
