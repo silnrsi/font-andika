@@ -1,0 +1,33 @@
+\begin[class=fontproof]{document}
+\bidi-off
+\setTestFont[size="18pt"]
+
+%%%%% GROUPS
+
+% Latin groups
+\patterngroup[name="latincaps"]{ABCDEFGHIJKLMNOPQRSTUVWXYZ}
+\patterngroup[name="latinlc"]{abcdefghijklmnopqrstuvwxyz}
+\patterngroup[name="latinext"]{ıßÆæŒœØøÐðÞþﬁﬂ}
+\patterngroup[name="latincombcaps"]{ÄÅÀÃÂÁÇÉÊËÈÍÎÏÌÑÖÕÓÔÒŠÜÚÛÙŸÝŽ}
+\patterngroup[name="latincomblc"]{áàâäãåçéèêëíìîïñóòôöõšúùûüÿýž}
+
+% Math
+\patterngroup[name="numerals"]{1234567890}
+\patterngroup[name="supnumsfracs"]{⁄¹²³⁴½¼¾}
+\patterngroup[name="math"]{+−÷×±<>≤≥=≠≈∞#\%‰°√}
+
+% General
+\patterngroup[name="punctuation"]{.,:;!?¿¡…}
+\patterngroup[name="centers"]{-–—÷‐‑­‒―•·‧∙¬~}
+\patterngroup[name="quotes"]{"'“”‘’‚„`}
+\patterngroup[name="barspairs"]{\\/|¦\{\}[]()‹›«»}
+\patterngroup[name="sym"]{µ∂∑∏π∫Ω∆ƒ$¢£¥¤€¶§&@◊†‡©®*^™ªº_␣}
+\patterngroup[name="spacingdiac"]{ˆ˜¯˘˙˚¸˝˛ˇ}
+\patterngroup[name="spaces"]{            }
+
+%%%%% TESTS
+
+\subsection{MISC}
+\proof[size="36pt"]{o˘o}
+
+\end{document}
