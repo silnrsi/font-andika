@@ -2,7 +2,7 @@
 <glyph name="CombDblInvBreve" format="2">
   <unicode hex="0361"/>
   <anchor x="0" y="-500" name="L"/>
-  <anchor x="0" y="2150" name="U"/>
+  <anchor x="0" y="2180" name="U"/>
   <outline>
     <contour>
       <point x="-870" y="1740" type="line"/>

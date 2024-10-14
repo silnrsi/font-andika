@@ -2,7 +2,7 @@
 <glyph name="CombDblBreveBlw" format="2">
   <unicode hex="035C"/>
   <anchor x="-255" y="-960" name="L"/>
-  <anchor x="200" y="1510" name="U"/>
+  <anchor x="220" y="1610" name="U"/>
   <outline>
     <component base="CombDblBreve" xOffset="-610" yOffset="-2650"/>
   </outline>

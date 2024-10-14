@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombDblMacronBlw.ulow" format="2">
   <anchor x="-255" y="-883" name="L"/>
-  <anchor x="120" y="1100" name="U"/>
+  <anchor x="130" y="1150" name="U"/>
   <outline>
     <component base="CombDblMacron" xOffset="-610" yOffset="-2600"/>
   </outline>
