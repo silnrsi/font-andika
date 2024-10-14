@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombDblInvBreveBlw" format="2">
   <unicode hex="1DFC"/>
-  <anchor x="-181" y="-850" name="L"/>
+  <anchor x="-231" y="-890" name="L"/>
   <anchor x="200" y="1510" name="U"/>
   <outline>
-    <component base="CombDblInvBreve" xOffset="-550" yOffset="-2510"/>
+    <component base="CombDblInvBreve" xOffset="-570" yOffset="-2630"/>
   </outline>
 </glyph>

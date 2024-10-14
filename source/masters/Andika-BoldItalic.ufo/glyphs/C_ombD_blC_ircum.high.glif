@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombDblCircum.high" format="2">
   <anchor x="-160" y="-500" name="L"/>
-  <anchor x="442" y="2065" name="U"/>
+  <anchor x="562" y="2725" name="U"/>
   <outline>
-    <component base="CombDblCircum" xOffset="-30" yOffset="-100"/>
+    <component base="CombDblCircum" xOffset="90" yOffset="450"/>
   </outline>
   <lib>
     <dict>

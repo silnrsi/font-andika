@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombDblRtArrwBlw.blwlow.ulow" format="2">
-  <anchor x="-210" y="-600" name="L"/>
+  <anchor x="-386" y="-1447" name="L"/>
   <anchor x="200" y="1510" name="U"/>
   <outline>
-    <component base="CombDblRtArrwBlw" xOffset="100" yOffset="400"/>
+    <component base="CombDblRtArrwBlw" xOffset="-60" yOffset="-450"/>
   </outline>
   <lib>
     <dict>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombDblMacronBlw.blwlow.ulow" format="2">
-  <anchor x="-125" y="-360" name="L"/>
+  <anchor x="-343" y="-1361" name="L"/>
   <anchor x="200" y="1510" name="U"/>
   <outline>
-    <component base="CombDblMacron" xOffset="-500" yOffset="-2040"/>
+    <component base="CombDblMacron" xOffset="-630" yOffset="-3120"/>
   </outline>
   <lib>
     <dict>

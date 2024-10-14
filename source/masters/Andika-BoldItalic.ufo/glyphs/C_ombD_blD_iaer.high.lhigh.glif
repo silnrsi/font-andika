@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombDblDiaer.high.lhigh" format="2">
   <anchor x="-160" y="-500" name="L"/>
-  <anchor x="378" y="1968" name="U"/>
+  <anchor x="478" y="2578" name="U"/>
   <outline>
-    <component base="CombDblDiaer" xOffset="-30" yOffset="-100"/>
+    <component base="CombDblDiaer" xOffset="90" yOffset="450"/>
   </outline>
   <lib>
     <dict>

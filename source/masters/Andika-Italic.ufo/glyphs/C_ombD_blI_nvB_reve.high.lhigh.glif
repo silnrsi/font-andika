@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombDblInvBreve.high.lhigh" format="2">
   <anchor x="-160" y="-500" name="L"/>
-  <anchor x="430" y="1950" name="U"/>
+  <anchor x="520" y="2600" name="U"/>
   <outline>
-    <component base="CombDblInvBreve" xOffset="-30" yOffset="-100"/>
+    <component base="CombDblInvBreve" xOffset="90" yOffset="450"/>
   </outline>
   <lib>
     <dict>

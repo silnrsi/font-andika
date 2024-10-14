@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombDblMacronBlw.umid" format="2">
-  <anchor x="0" y="-700" name="L"/>
+  <anchor x="0" y="-850" name="L"/>
   <anchor x="0" y="1390" name="U"/>
   <outline>
-    <component base="CombDblMacron" yOffset="-2400"/>
+    <component base="CombDblMacron" yOffset="-2600"/>
   </outline>
 </glyph>

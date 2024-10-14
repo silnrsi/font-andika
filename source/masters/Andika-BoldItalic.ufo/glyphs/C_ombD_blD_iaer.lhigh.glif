@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombDblDiaer.lhigh" format="2">
   <anchor x="-90" y="-100" name="L"/>
-  <anchor x="408" y="2068" name="U"/>
+  <anchor x="408" y="2168" name="U"/>
   <outline>
     <component base="CombDblDiaer"/>
   </outline>

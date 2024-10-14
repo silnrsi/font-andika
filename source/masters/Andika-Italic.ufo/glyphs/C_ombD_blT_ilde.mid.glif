@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombDblTilde.mid" format="2">
   <anchor x="-160" y="-500" name="L"/>
-  <anchor x="393" y="1860" name="U"/>
+  <anchor x="393" y="1990" name="U"/>
   <outline>
     <component base="CombDblTilde" xOffset="-30" yOffset="-100"/>
   </outline>

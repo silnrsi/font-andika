@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombDblRtArrwBlw" format="2">
   <unicode hex="0362"/>
-  <anchor x="0" y="-1000" name="L"/>
+  <anchor x="0" y="-1030" name="L"/>
   <anchor x="0" y="1510" name="U"/>
   <outline>
     <contour>
-      <point x="920" y="-860" type="line"/>
-      <point x="920" y="-740" type="line"/>
-      <point x="345" y="-480" type="line"/>
-      <point x="300" y="-595" type="line"/>
-      <point x="615" y="-725" type="line"/>
-      <point x="-920" y="-725" type="line"/>
-      <point x="-920" y="-875" type="line"/>
-      <point x="615" y="-875" type="line"/>
-      <point x="300" y="-1005" type="line"/>
-      <point x="345" y="-1120" type="line"/>
+      <point x="920" y="-910" type="line"/>
+      <point x="920" y="-790" type="line"/>
+      <point x="345" y="-530" type="line"/>
+      <point x="300" y="-645" type="line"/>
+      <point x="615" y="-775" type="line"/>
+      <point x="-920" y="-775" type="line"/>
+      <point x="-920" y="-925" type="line"/>
+      <point x="615" y="-925" type="line"/>
+      <point x="300" y="-1055" type="line"/>
+      <point x="345" y="-1170" type="line"/>
     </contour>
   </outline>
 </glyph>
