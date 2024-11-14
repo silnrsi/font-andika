@@ -1,7 +1,8 @@
+# Andika [![Build Status](http://build.palaso.org/app/rest/builds/buildType:Fonts_AndikaSix/statusIcon)](http://build.palaso.org/viewType.html?buildTypeId=Fonts_AndikaSix&guest=1)
 
-# Andika [![Build Status](http://build.palaso.org/app/rest/builds/buildType:Fonts_Andika/statusIcon)](http://build.palaso.org/viewType.html?buildTypeId=Fonts_Andika&guest=1)
+This is Andika Six, a separate branch of Andika.
 
-This project is intended to provide a free and open font family for all current languages and writing systems that use Latin, Cyrillic, and Greek scripts. It supports almost the complete range of Unicode characters for these scripts, including a comprehensive range of diacritics and a large set of symbols useful for linguistics and literacy work. Smart font routines automatically adjust the position of diacritics to support and optimize arbitrary base+diacritic combinations. This project uses a UFO-based design and production workflow, with all sources in open formats and a completely open-source build toolkit. 
+This project is intended to provide a free and open font family for all current languages and writing systems that use Latin, Cyrillic, and Greek scripts. It supports almost the complete range of Unicode characters for these scripts, including a comprehensive range of diacritics and a large set of symbols useful for linguistics and literacy work. Smart font routines automatically adjust the position of diacritics to support and optimize arbitrary base+diacritic combinations. This project uses a UFO-based design and production workflow, with all sources in open formats and a completely open-source build toolkit.
 
 To download the fonts visit the [Andika downloads page](https://software.sil.org/andika/download/) or the [Github releases page](https://github.com/silnrsi/font-andika/releases).
 
@@ -9,7 +10,7 @@ For more information on using and developing the fonts see the full project docu
 
 - *local HTML* - Download the release or source package and open the file `documentation/index.html` in a browser
 - *local PDF* - Download the release or source package and open the file `documentation/pdf/index.pdf`
-- *Web site* - Visit the [Andika web site](https://software.sil.org/andika) 
+- *Web site* - Visit the [Andika web site](https://software.sil.org/andika)
 
 For a complete list of changes in this version see the [FONTLOG.txt](FONTLOG.txt).
 
