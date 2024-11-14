@@ -2,7 +2,7 @@
 <glyph name="CySmDe" format="2">
   <advance width="1255"/>
   <unicode hex="0434"/>
-  <anchor x="615" y="-100" name="L"/>
+  <anchor x="615" y="-500" name="L"/>
   <anchor x="747" y="1100" name="U"/>
   <outline>
     <contour>
