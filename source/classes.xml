@@ -1819,7 +1819,8 @@
 		CyCapGheDescDep CyCapGheMiddleHook CyCapGheStrkDesc CyCapGheStrkHook
 		CyCapHaHook CyCapHaHookDep CyCapKaHook CyCapKhakasChe
 		CyCapTeDesc CyCapZeDesc CySmAbkhasCheDesc CySmAbkhasDze
-		CySmAbkhasDze.RevSigmaStyle CySmDje CySmDzhe CySmElHook
+		CySmAbkhasDze.RevSigmaStyle CySmDe CySmDe.Serb CySmDeCheLig
+		CySmDeZheLig CySmDje CySmDzhe CySmElHook
 		CySmElHookDep CySmElTail CySmEnHook CySmEnLftHook
 		CySmEr CySmEsDesc CySmGheDesc CySmGheDescDep
 		CySmGheMiddleHook CySmGheStrkDesc CySmGheStrkDesc.SItal CySmGheStrkHook
@@ -2022,8 +2023,7 @@
 		CySmADiaer CySmAbkhasHa CySmAleutKa CySmBarredO
 		CySmBarredODiaer CySmBashkirKa CySmBe CySmBe.Serb
 		CySmByelorusUkrainI CySmByelorusUkrainI.Dotless CySmCapEl CySmChe
-		CySmCheDesc CySmCheDiaer CySmCheVertStrk CySmDe
-		CySmDe.Serb CySmDeCheLig CySmDeZheLig CySmDze
+		CySmCheDesc CySmCheDiaer CySmCheVertStrk CySmDze
 		CySmE CySmE.MongolStyle CySmEDiaer CySmEl
 		CySmElDesc CySmElMiddleHook CySmEm CySmEmTail
 		CySmEn CySmEnDesc CySmEnMiddleHook CySmEnTail
