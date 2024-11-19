@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata version="1.0">
-  <uniqueid id="org.sil.fonts.Andika.6.101" />
+  <uniqueid id="org.sil.fonts.andikasix.6.201" />
   <vendor name="SIL International" url="http://www.sil.org/" />
   <credits>
     <credit
-      name="Jon Coblentz, Don Collingsworth, Sharon Correll, Lorna Evans,Bob Hallissy, Eric Hays, Martin Hosken, Jonathan Kew, Julie Remington,Alan Ward"
+      name="Jon Coblentz, Don Collingsworth, Sharon Correll, Lorna Evans,Bob Hallissy, Eric Hays, Martin Hosken, Jonathan Kew, Julie Remington, Alan Ward"
       url="https://software.sil.org/andika/"
       role="SIL designers and font engineers"
     />
@@ -413,7 +413,7 @@
   </license>
   <copyright>
     <text lang="en">
-      Copyright (c) 2004-2021 SIL International
+      Copyright (c) 2004-2024 SIL International
     </text>
   </copyright>
   <trademark>
