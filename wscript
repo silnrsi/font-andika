@@ -11,7 +11,7 @@ familyname = APPNAME
 DEBPKG = 'fonts-sil-andika-six'
 
 # Get VERSION and BUILDLABEL from Regular UFO; must be first function call:
-getufoinfo('source/' + familyname + '-Regular' + '.ufo')
+getufoinfo('source/' + 'Andika' + '-Regular' + '.ufo')
 
 ftmlTest('tools/ftml-smith.xsl')
 
@@ -32,7 +32,6 @@ for dspace in ('Roman', 'Italic'):
 #                target = process('${DS:FILENAME_BASE}.ttf', 
 #                    cmd('psfchangettfglyphnames ${SRC} ${DEP} ${TGT}', ['${DS:FILE}'])),
                 target = process('${DS:FILENAME_BASE}.ttf', *cmds),
-                instances = ['Andika Regular'] if '--quick' in opts else None,
 #                ap = 'source/${DS:FILENAME_BASE}_ap.xml',
 #                classes = 'source/${DS:FAMILYNAME_NOSPC}_classes.xml', # fails for Gentium Book
                 classes = 'source/classes.xml',
