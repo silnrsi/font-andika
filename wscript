@@ -6,9 +6,9 @@ DOCDIR = ["documentation", "web"]
 
 STANDARDS = 'references/v6101'
 
-APPNAME = 'Andika'
+APPNAME = 'AndikaSix'
 familyname = APPNAME
-DEBPKG = 'fonts-sil-andika'
+DEBPKG = 'fonts-sil-andika-six'
 
 # Get VERSION and BUILDLABEL from Regular UFO; must be first function call:
 getufoinfo('source/' + familyname + '-Regular' + '.ufo')
@@ -28,7 +28,7 @@ cmds.append(cmd('${TTFAUTOHINT} -n -W ${DEP} ${TGT}'))
 for dspace in ('Roman', 'Italic'):
 #for dspace in ('Roman',):
 #for dspace in ('Italic',):
-    designspace('source/' + familyname + dspace + '.designspace',
+    designspace('source/' + 'Andika' + dspace + '.designspace',
 #                target = process('${DS:FILENAME_BASE}.ttf', 
 #                    cmd('psfchangettfglyphnames ${SRC} ${DEP} ${TGT}', ['${DS:FILE}'])),
                 target = process('${DS:FILENAME_BASE}.ttf', *cmds),
