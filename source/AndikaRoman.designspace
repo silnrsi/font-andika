@@ -36,7 +36,7 @@
         </source>
     </sources>
     <instances>
-        <instance familyname="Andika" filename="Andika-Regular.ufo" name="Andika Regular" stylemapfamilyname="Andika" stylemapstylename="regular" stylename="Regular">
+        <instance familyname="Andika Six" filename="AndikaSix-Regular.ufo" name="Andika Six Regular" stylemapfamilyname="Andika Six" stylemapstylename="regular" stylename="Regular">
             <location>
                 <dimension name="weight" xvalue="400.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -45,7 +45,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Andika" filename="Andika-Bold.ufo" name="Andika Bold" stylemapfamilyname="Andika" stylemapstylename="bold" stylename="Bold">
+        <instance familyname="Andika Six" filename="AndikaSix-Bold.ufo" name="Andika Six Bold" stylemapfamilyname="Andika Six" stylemapstylename="bold" stylename="Bold">
             <location>
                 <dimension name="weight" xvalue="700.000000" />
                 <dimension name="width" xvalue="100.000000" />
