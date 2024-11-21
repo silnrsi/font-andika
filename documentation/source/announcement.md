@@ -2,7 +2,7 @@ Release 6.200 - New features and additional character support
 
 This release is focused on adding features and 300+ glyphs, including support for over 180 additional characters mostly from Unicode 14 and 15. It does not include significant changes to line spacing, glyph widths, or kerning that might cause document reflow or layout changes—except for minor improvements to the size and weight of superscript, subscript, and modifier letters.
 
-Both desktop and web fonts are provided in a single, all-platforms package on the [Download page](http://software.sil.org/andika/download). Special-purpose fonts are available from a [dedicated page](https://software.sil.org/lcgfonts/download/).
+Both desktop and web fonts are provided in a single, all-platforms package on the [Download page](https://software.sil.org/andika/download). Special-purpose fonts are available from a [dedicated page](https://software.sil.org/lcgfonts/download/).
 
 The next major version (7) will address some complex pending issues and features and may include substantial changes to line spacing, glyph metrics, kerning, and even font family structure. If you have any requests for future versions please contact us as soon as possible. 
 
