@@ -7,7 +7,7 @@
   <key>capHeight</key>
   <integer>1485</integer>
   <key>copyright</key>
-  <string>Copyright (c) 2004-2024 SIL International</string>
+  <string>Copyright (c) 2004-2024 SIL Global</string>
   <key>descender</key>
   <integer>-800</integer>
   <key>familyName</key>
@@ -33,7 +33,7 @@
   <key>openTypeNameDesignerURL</key>
   <string>http://scripts.sil.org/</string>
   <key>openTypeNameLicense</key>
-  <string>Copyright (c) 2004-2024 SIL International (http://www.sil.org/) with Reserved Font Names "Andika" and "SIL".
+  <string>Copyright (c) 2004-2024 SIL Global (http://www.sil.org/) with Reserved Font Names "Andika" and "SIL".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://openfontlicense.org
 
@@ -79,7 +79,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNameLicenseURL</key>
   <string>http://openfontlicense.org</string>
   <key>openTypeNameManufacturer</key>
-  <string>SIL International</string>
+  <string>SIL Global</string>
   <key>openTypeNameManufacturerURL</key>
   <string>http://www.sil.org/</string>
   <key>openTypeNamePreferredFamilyName</key>
@@ -87,7 +87,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Bold</string>
   <key>openTypeNameUniqueID</key>
-  <string>SIL International: Andika Bold: 2024</string>
+  <string>SIL Global: Andika Bold: 2024</string>
   <key>openTypeNameVersion</key>
   <string>Version 6.902</string>
   <key>openTypeOS2CodePageRanges</key>
@@ -236,7 +236,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>styleName</key>
   <string>Bold</string>
   <key>trademark</key>
-  <string>Andika is a trademark of SIL International.</string>
+  <string>Andika is a trademark of SIL Global.</string>
   <key>unitsPerEm</key>
   <integer>2048</integer>
   <key>versionMajor</key>
