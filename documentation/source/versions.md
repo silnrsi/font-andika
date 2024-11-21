@@ -15,7 +15,7 @@ The latest version of the fonts is always available from the [Andika download pa
 
 This font package is also available in the [SIL software repository for Ubuntu](https://packages.sil.org/). Users can subscribe to this software repository and get current versions and updates automatically.
 
-Andika is also available through the [TypeTuner Web](https://scripts.sil.org/ttw/fonts2go.cgi) service, which allows you to choose among the smart font features and download a font with those features preset. TThis enables them to work in many applications that do not fully support OpenType.
+Andika is also available through the [TypeTuner Web](https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi) service, which allows you to choose among the smart font features and download a font with those features preset. TThis enables them to work in many applications that do not fully support OpenType.
 
 ## Special-purpose modified variants
 
