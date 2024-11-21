@@ -36,7 +36,7 @@ Meaning — ‘Write!’
 
 #### *Why does the font have some Greek characters, but not all?*
 
-Although Andika includes some Greek characters, it is not intended to provide general support for the Greek language. The Greek characters that are included are there to support various notational systems (linguistic, logical, mathematical). Other fonts, such as [Gentium Plus](https://software.sil.org/gentium), provide complete Greek script support. 
+Although Andika includes some Greek characters, it is not intended to provide general support for the Greek language. The Greek characters that are included are there to support various notational systems (linguistic, logical, mathematical). Other fonts, such as [Gentium](https://software.sil.org/gentium), provide complete Greek script support. 
 
 #### *Will you add full Greek script support?*
 
