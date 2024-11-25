@@ -1,6 +1,6 @@
 ---
 title: Andika - Design
-fontversion: 6.200
+fontversion: 7.000
 ---
 
 Andika is a sans serif, Unicode-compliant font designed especially for literacy use, taking into account the needs of beginning readers. The focus is on clear, easy-to-perceive letterforms that will not be readily confused with one another. 
@@ -22,7 +22,7 @@ Type samples showing an inventory of some of the unusual glyphs and features can
 
 A sample from one page is shown below. 
 
-![Andika Sample - Precomposed Latin Diacritics](assets/images/AndikaTypeSample.png){.fullsize}
+![Andika Sample - Precomposed Latin Diacritics](../assets/images/AndikaTypeSample.png){.fullsize}
 <!-- PRODUCT SITE IMAGE SRC https://software.sil.org/andika/wp-content/uploads/sites/19/2015/12/AndikaTypeSample.png -->
 <figcaption>Andika Sample - Precomposed Latin Diacritics</figcaption>
 

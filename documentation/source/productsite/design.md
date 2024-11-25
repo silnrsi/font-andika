@@ -18,11 +18,11 @@ Type samples showing an inventory of some of the unusual glyphs and features can
 
 A sample from one page is shown below. 
 
-<img class='fullsize' alt='Andika Sample - Precomposed Latin Diacritics' src='http://software.sil.org/andika/wp-content/uploads/sites/19/2015/12/AndikaTypeSample.png' />
+<img class='fullsize' alt='Andika Sample - Precomposed Latin Diacritics' src='https://software.sil.org/andika/wp-content/uploads/sites/19/2015/12/AndikaTypeSample.png' />
 [caption]<em>Andika Sample - Precomposed Latin Diacritics</em>[/caption]
 
 For a complete list of characters included in Andika, see [Character Set Support](charset).
 
-SIL International is the creator of the Andika fonts, and is the owner of all proprietary rights therein.
+SIL Global is the creator of the Andika fonts, and is the owner of all proprietary rights therein.
 
-*Andika* is a trademark of SIL International.
+*Andika* is a trademark of SIL Global.
