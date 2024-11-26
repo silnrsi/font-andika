@@ -5,28 +5,56 @@ Font Names "Andika" and "SIL". This Font Software is licensed under the SIL
 Open Font License, Version 1.1 (https://openfontlicense.org).
 */
 
-/* use Andika - Regular in .woff format */
+/* use Andika - Regular in .woff2 format */
 @font-face {
   font-family: AndikaW;
+  font-weight: 400;
   src: url(Andika-Regular.woff2);
 }
-/* use Andika - Italic in .woff2 format */
+/* use Andika - Medium in .woff2 format */
 @font-face {
   font-family: AndikaW;
-  font-style: italic;
-  src: url(Andika-Italic.woff2);
+  font-weight: 500;
+  src: url(Andika-Medium.woff2);
+}
+/* use Andika - SemiBold in .woff2 format */
+@font-face {
+  font-family: AndikaW;
+  font-weight: 600;
+  src: url(Andika-SemiBold.woff2);
 }
 /* use Andika - Bold in .woff2 format */
 @font-face {
 	font-family: AndikaW;
-	font-weight: bold;
+  font-weight: 700;
 	src: url(Andika-Bold.woff2);
 }
-/* use Andika - Bold Italic in .woff2 format */
+/* use Andika - Italic in .woff2 format */
+@font-face {
+  font-family: AndikaW;
+  font-weight: 400;
+  font-style: italic;
+  src: url(Andika-Italic.woff2);
+}
+/* use Andika - MediumItalic in .woff2 format */
+@font-face {
+  font-family: AndikaW;
+  font-weight: 500;
+  font-style: italic;
+  src: url(Andika-MediumItalic.woff2);
+}
+/* use Andika - SemiBoldItalic in .woff2 format */
+@font-face {
+  font-family: AndikaW;
+  font-weight: 600;
+  font-style: italic;
+  src: url(Andika-SemiBoldItalic.woff2);
+}
+/* use Andika - BoldItalic in .woff2 format */
 @font-face {
 	font-family: AndikaW;
-	font-weight: bold;
-	font-style: italic;
+  font-weight: 700;
+  font-style: italic;
 	src: url(Andika-BoldItalic.woff2);
 }
 
