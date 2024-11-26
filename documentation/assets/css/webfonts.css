@@ -9,9 +9,19 @@ Open Font License, Version 1.1 (https://openfontlicense.org).
     src: url("../../../web/Andika-Regular.woff2") format("woff2");
 }
 @font-face {
+    font-family: Andika-B;
+    src: url("../../../web/Andika-Bold.woff2") format("woff2");
+}
+@font-face {
     font-family: Andika-I;
     src: url("../../../web/Andika-Italic.woff2") format("woff2");
 }
+@font-face {
+    font-family: Andika-BI;
+    src: url("../../../web/Andika-BoldItalic.woff2") format("woff2");
+}
 
 .andika-R { font-family: Andika-R; }
+.andika-B { font-family: Andika-B; }
 .andika-I { font-family: Andika-I; }
+.andika-BI { font-family: Andika-BI; }
