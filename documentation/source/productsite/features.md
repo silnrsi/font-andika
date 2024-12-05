@@ -3,8 +3,6 @@ Andika is an OpenType-enabled font family that supports the Latin and Cyrillic s
 
 These OpenType features are primarily specified using four-letter tags (e.g. 'cv17'), although some applications may provide a direct way to control certain common features such as small caps. For more information on how to access OpenType features in specific environments and applications, see [Using Font Features](https://software.sil.org/fonts/features).
 
-*Please note that Graphite support has been removed in the current release, but continues to be available in the version 5 fonts. See our [Previous Versions archive](https://software.sil.org/andika/download/previous-versions).*
-
 This page uses web fonts (WOFF2) to demonstrate font features and should display correctly in all modern browsers. For a more concise example of how to use Andika as a web font see *Andika-webfont-example.html* in the font package *web* folder. For detailed information, see [Using SIL Fonts on Web Pages](https://software.sil.org/fonts/webfonts).
 
 *If this document is not displaying correctly a PDF version is also provided in the documentation/pdf folder of the release package.*
@@ -15,12 +13,12 @@ This page uses web fonts (WOFF2) to demonstrate font features and should display
 
 #### Small caps from lowercase
 
-<span class='affects'>Affects: all lowercase letters with capital equivalents</span>
+<span class='affects'>Affects: all lowercase letters with capital equivalents and some bracketing punctuation</span>
 
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
-Standard   | <span class='andika-R normal'>a ... z</span> (all letters with capital equivalents) | `smcp=0`
-Small caps | <span class='andika-smcp-1-R normal'>a ... z</span> (all letters with capital equivalents) | `smcp=1`
+Standard   | <span class='andika-R normal'>a ... z</span> (all letters with capital equivalents) ( ) [ ] { } | `smcp=0`
+Small caps | <span class='andika-smcp-1-R normal'>a ... z</span> (all letters with capital equivalents) ( ) [ ] { } | `smcp=1`
 
 #### Small caps from capitals
 
@@ -108,6 +106,15 @@ Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard        | <span class='andika-R normal'>Ħ</span> | `cv28=0`
 Vertical stroke | <span class='andika-cv28-1-R normal'>Ħ</span> | `cv28=1`
+
+#### I
+
+<span class='affects'>Affects: U+0049</span>
+
+Feature | Sample                      | Feature setting
+------- | --------------------------- | -------
+Standard | <span class='andika-R normal'>I</span> | `cv30=0`
+No Bars  | <span class='andika-cv30-1-R normal'>I</span> | `cv30=1`
 
 #### i
 
@@ -294,13 +301,13 @@ Large bowl | <span class='andika-cv19-1-R normal'>ʓ</span> | `cv19=1`
 
 #### rams horn
 
-<span class='affects'>Affects: U+0264</span>
+<span class='affects'>Affects: U+0264 U+10791</span>
 
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
-Standard    | <span class='andika-R normal'>ɤ</span> | `cv25=0`
-Large bowl  | <span class='andika-cv25-1-R normal'>ɤ</span> | `cv25=1`
-Small gamma | <span class='andika-cv25-2-R normal'>ɤ</span> | `cv25=2`
+Standard    | <span class='andika-R normal'>ɤ 𐞑</span> | `cv25=0`
+Large bowl  | <span class='andika-cv25-1-R normal'>ɤ 𐞑</span> | `cv25=1`
+Small gamma | <span class='andika-cv25-2-R normal'>ɤ 𐞑</span> | `cv25=2`
 
 #### Clicks
 
@@ -351,12 +358,12 @@ Global-style | <span class='andika-cv77-1-R normal'>ď Ľ ľ ť</span> | `cv77=1
 
 #### Modifier apostrophe
 
-<span class='affects'>Affects: U+02BC U+A78B U+A78C</span>
+<span class='affects'>Affects: U+02BC U+0312 U+0314 U+A78B U+A78C</span>
 
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
-Standard | <span class='andika-R normal'>ʼ Ꞌ ꞌ</span> | `cv70=0`
-Large    | <span class='andika-cv70-1-R normal'>ʼ Ꞌ ꞌ</span> | `cv70=1`
+Standard | <span class='andika-R normal'>ʼ  ̒  ̔ Ꞌ ꞌ</span> | `cv70=0`
+Large    | <span class='andika-cv70-1-R normal'>ʼ  ̒  ̔ Ꞌ ꞌ</span> | `cv70=1`
 
 #### Modifier colon
 
@@ -431,7 +438,7 @@ Macedonian | <span class='andika-I normal' lang='mk'>б г д п т ѓ</span> | 
 
 #### Serbian and Macedonian Cyrillic alternates
 
-*This feature provides an alternate way to activate the Serbian and Macedonian forms in applications that do not support language-specific features.*
+*This feature provides an alternate way to activate the Serbian and Macedonian forms in applications that do not support language-specific features. It cannot, however, be used to explicitly turn off these forms in text tagged as being in the Serbian or Macedonian languages.*
 
 <span class='affects'>Affects: U+0431 U+0433 U+0434 U+043F U+0442 U+0453</span>
 
@@ -564,6 +571,7 @@ Barred   | <span class='andika-cv07-1-R normal'>7 ⁷ ₇ ⅐ ⅞</span> | `cv07
 [font id='andika-cv13-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv13 1']
 [font id='andika-cv17-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv17 1']
 [font id='andika-cv28-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv28 1']
+[font id='andika-cv30-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv30 1']
 [font id='andika-cv31-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv31 1']
 [font id='andika-cv35-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv35 1']
 [font id='andika-cv34-1' face='Andika-Regular' italic='Andika-Italic' size='150%' feats='cv34 1']
