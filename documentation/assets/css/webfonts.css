@@ -9,6 +9,14 @@ Open Font License, Version 1.1 (https://openfontlicense.org).
     src: url("../../../web/Andika-Regular.woff2") format("woff2");
 }
 @font-face {
+    font-family: Andika-M;
+    src: url("../../../web/Andika-Medium.woff2") format("woff2");
+}
+@font-face {
+    font-family: Andika-SB;
+    src: url("../../../web/Andika-SemiBold.woff2") format("woff2");
+}
+@font-face {
     font-family: Andika-B;
     src: url("../../../web/Andika-Bold.woff2") format("woff2");
 }
@@ -17,11 +25,23 @@ Open Font License, Version 1.1 (https://openfontlicense.org).
     src: url("../../../web/Andika-Italic.woff2") format("woff2");
 }
 @font-face {
+    font-family: Andika-MI;
+    src: url("../../../web/Andika-MediumItalic.woff2") format("woff2");
+}
+@font-face {
+    font-family: Andika-SBI;
+    src: url("../../../web/Andika-SemiBoldItalic.woff2") format("woff2");
+}
+@font-face {
     font-family: Andika-BI;
     src: url("../../../web/Andika-BoldItalic.woff2") format("woff2");
 }
 
 .andika-R { font-family: Andika-R; }
+.andika-M { font-family: Andika-M; }
+.andika-SB { font-family: Andika-SB; }
 .andika-B { font-family: Andika-B; }
 .andika-I { font-family: Andika-I; }
+.andika-MI { font-family: Andika-MI; }
+.andika-SBI { font-family: Andika-SBI; }
 .andika-BI { font-family: Andika-BI; }
