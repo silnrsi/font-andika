@@ -113,12 +113,12 @@ Vertical stroke | <span class='andika-R normal' style='font-feature-settings: "c
 
 #### I
 
-<span class='affects'>Affects: U+0049</span>
+<span class='affects'>Affects: U+0049 U+00CC U+00CD U+00CE U+00CF U+0128 U+012A U+012C U+012E U+0130 U+0197 U+01CF U+0208 U+020A U+1E2C U+1E2E U+1EC8 U+1ECA U+A7BC and related small caps</span>
 
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
-Standard | <span class='andika-R normal'>I</span> | `cv30=0`
-No Bars  | <span class='andika-R normal' style='font-feature-settings: "cv30" 1'>I</span> | `cv30=1`
+Standard | <span class='andika-R normal'>I Ì Í Î Ï Ĩ Ī Ĭ Į İ Ɨ Ǐ Ȉ Ȋ Ḭ Ḯ Ỉ Ị Ꞽ</span> | `cv30=0`
+Barless  | <span class='andika-R normal' style='font-feature-settings: "cv30" 1'>I Ì Í Î Ï Ĩ Ī Ĭ Į İ Ɨ Ǐ Ȉ Ȋ Ḭ Ḯ Ỉ Ị Ꞽ</span> | `cv30=1`
 
 #### i
 
