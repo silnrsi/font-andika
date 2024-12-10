@@ -546,14 +546,14 @@ Feature | Sample                      | Feature setting
 Standard | <span class='andika-R normal'>4 ¼ ¾ ⁴ ₄ ⅘</span> | `cv04=0`
 Open     | <span class='andika-R normal' style='font-feature-settings: "cv04" 1'>4 ¼ ¾ ⁴ ₄ ⅘</span> | `cv04=1`
 
-#### 6 and 9
+#### 6
 
-<span class='affects'>Affects: U+0036 U+0039 U+2076 U+2079 U+2086 U+2089 U+2151 U+2159 U+215A</span>
+<span class='affects'>Affects: U+0036 U+2076 U+2086 U+2159 U+215A</span>
 
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
-Standard      | <span class='andika-R normal'>6 9 ⁶ ⁹ ₆ ₉ ⅑ ⅙ ⅚</span> | `cv06=0`
-Diagonal stem | <span class='andika-R normal' style='font-feature-settings: "cv06" 1'>6 9 ⁶ ⁹ ₆ ₉ ⅑ ⅙ ⅚</span> | `cv06=1`
+Standard      | <span class='andika-R normal'>6 ⁶ ₆ ⅙ ⅚</span> | `cv06=0`
+Diagonal stem | <span class='andika-R normal' style='font-feature-settings: "cv06" 1'>6 ⁶ ₆ ⅙ ⅚</span> | `cv06=1`
 
 #### 7
 
@@ -563,6 +563,15 @@ Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard | <span class='andika-R normal'>7 ⁷ ₇ ⅐ ⅞</span> | `cv07=0`
 Barred   | <span class='andika-R normal' style='font-feature-settings: "cv07" 1'>7 ⁷ ₇ ⅐ ⅞</span> | `cv07=1`
+
+#### 9
+
+<span class='affects'>Affects: U+0039 U+2079 U+2089 U+2151</span>
+
+Feature | Sample                      | Feature setting
+------- | --------------------------- | -------
+Standard      | <span class='andika-R normal'>9 ⁹ ₉ ⅑</span> | `cv09=0`
+Diagonal stem | <span class='andika-R normal' style='font-feature-settings: "cv09" 1'>9 ⁹ ₉ ⅑</span> | `cv09=1`
 
 <!-- PRODUCT SITE ONLY
 [font id='andika' face='Andika-Regular' italic='Andika-Italic' size='150%']

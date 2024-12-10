@@ -3,7 +3,7 @@ title: Andika - Version History
 fontversion: 7.000
 ---
 
-### N Jan 2025 (SIL WSTech Team) Gentium version 7.000
+### N Jan 2025 (SIL WSTech Team) Andika version 7.000
 
 ***Note that this is a major upgrade with significant changes to family structure and glyph metrics. Please read the following carefully to understand how the changes may affect you.***
 
@@ -25,7 +25,7 @@ fontversion: 7.000
 
 - Kerning has now been added and covers the full range of alphabetic symbols, including small caps. **Warning: Because of the addition of extensive kerning, line, paragraph, and page lengths may be different from v6.2.**
 
-- New OpenType features added to control alternate 6 and 9 separately
+- The OpenType feature for alternate versions of 6 and 9 with diagonal stems has been split into two separate features. The previously existing feature (`cv06`) now only affects the numeral 6. A new feature (`cv09`) affects only the numeral 9.
 
 - New Opentype feature added to remove bars on capital I (`cv30`)
 

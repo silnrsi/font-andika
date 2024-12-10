@@ -39,6 +39,10 @@ Kerning has now been add to cover the full range of alphabetic symbols, includin
 
 **Warning: Because of the addition of extensive kerning, line, paragraph, and page lengths may be different from v6.2.**
 
+### Diagonal 6 & 9 feature split into two
+
+The OpenType feature for alternate versions of 6 and 9 with diagonal stems has been split into two separate features. The previously existing feature (`cv06`) now only affects the numeral 6. A new feature (`cv09`) affects only the numeral 9. See the [Feature list](features.md).
+
 ### Additional character support including Unicode 16
 
 Support has been added for 29 additional characters, some of which were introduced in Unicode 16. For a full list see [Version history](history.md).
