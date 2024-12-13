@@ -2,11 +2,11 @@
 <glyph name="LtnCapLambda" format="2">
   <advance width="1320"/>
   <unicode hex="A7DA"/>
-  <anchor x="650" y="-100" name="L"/>
-  <anchor x="843" y="0" name="O"/>
-  <anchor x="650" y="1530" name="U"/>
+  <anchor x="650" y="1560" name="L"/>
+  <anchor x="457" y="1460" name="O"/>
+  <anchor x="650" y="-70" name="U"/>
   <outline>
-    <component base="LtnCapY"/>
+    <component base="LtnCapY" xScale="-1" yScale="-1" xOffset="1300" yOffset="1460"/>
   </outline>
   <lib>
     <dict>
