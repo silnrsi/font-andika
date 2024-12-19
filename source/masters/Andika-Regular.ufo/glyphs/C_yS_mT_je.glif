@@ -1,11 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CySmTje" format="2">
-  <advance width="1345"/>
+  <advance width="1375"/>
   <unicode hex="1C8A"/>
   <anchor x="645" y="-100" name="L"/>
   <anchor x="645" y="1100" name="U"/>
   <outline>
-    <component base="CySmHardSgn"/>
+    <contour>
+      <point x="880" y="-10" type="curve" smooth="yes"/>
+      <point x="1158" y="-10"/>
+      <point x="1290" y="122"/>
+      <point x="1290" y="345" type="curve" smooth="yes"/>
+      <point x="1290" y="520"/>
+      <point x="1150" y="645"/>
+      <point x="865" y="645" type="curve" smooth="yes"/>
+      <point x="625" y="645" type="line"/>
+      <point x="625" y="910" type="line"/>
+      <point x="440" y="905" type="line"/>
+      <point x="440" y="320" type="line" smooth="yes"/>
+      <point x="440" y="182"/>
+      <point x="440" y="56"/>
+      <point x="430" y="0" type="curve"/>
+      <point x="539" y="-7"/>
+      <point x="739" y="-10"/>
+    </contour>
+    <contour>
+      <point x="870" y="125" type="curve" smooth="yes"/>
+      <point x="792" y="125"/>
+      <point x="693" y="126"/>
+      <point x="625" y="130" type="curve"/>
+      <point x="625" y="505" type="line"/>
+      <point x="865" y="505" type="line" smooth="yes"/>
+      <point x="998" y="505"/>
+      <point x="1110" y="463"/>
+      <point x="1110" y="330" type="curve" smooth="yes"/>
+      <point x="1110" y="199"/>
+      <point x="1020" y="125"/>
+    </contour>
+    <contour>
+      <point x="65" y="875" type="line"/>
+      <point x="1000" y="875" type="line"/>
+      <point x="1000" y="1020" type="line"/>
+      <point x="65" y="1020" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
