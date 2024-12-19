@@ -2,6 +2,7 @@
 <glyph name="ModLowAcuteAccent" format="2">
   <advance width="580"/>
   <unicode hex="02CF"/>
+  <anchor x="248" y="-645" name="L"/>
   <outline>
     <contour>
       <point x="350" y="-120" type="line"/>
