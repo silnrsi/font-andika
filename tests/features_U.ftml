@@ -33,6 +33,10 @@
       <style feats="'cv07' 1, 'subs' 1" name="cv07_1_subs_1"/>
       <style feats="'cv07' 1, 'subs' 1, 'sups' 1" name="cv07_1_subs_1_sups_1"/>
       <style feats="'cv07' 1, 'sups' 1" name="cv07_1_sups_1"/>
+      <style feats="'cv09' 1" name="cv09_1"/>
+      <style feats="'cv09' 1, 'subs' 1" name="cv09_1_subs_1"/>
+      <style feats="'cv09' 1, 'subs' 1, 'sups' 1" name="cv09_1_subs_1_sups_1"/>
+      <style feats="'cv09' 1, 'sups' 1" name="cv09_1_sups_1"/>
       <style feats="'cv10' 1" name="cv10_1"/>
       <style feats="'cv10' 1, 'subs' 1" name="cv10_1_subs_1"/>
       <style feats="'cv10' 1, 'subs' 1, 'sups' 1" name="cv10_1_subs_1_sups_1"/>
@@ -234,22 +238,16 @@ U+2084" stylename="cv04_1">
   </testgroup>
   <testgroup label="cv06">
     <test label="U+0036
-U+0039
 U+2076
-U+2079
-U+2086
-U+2089">
-      <comment>DigitSix DigitNine SupSix SupNine SubSix SubNine</comment>
-      <string>6\u00030D9\u00030D\u002076\u00030D\u002079\u00030D\u002086\u00030D\u002089\u00030D</string>
+U+2086">
+      <comment>DigitSix SupSix SubSix</comment>
+      <string>6\u00030D\u002076\u00030D\u002086\u00030D</string>
     </test>
     <test label="U+0036
-U+0039
 U+2076
-U+2079
-U+2086
-U+2089" stylename="cv06_1">
-      <comment>DigitSix DigitNine SupSix SupNine SubSix SubNine</comment>
-      <string>6\u00030D9\u00030D\u002076\u00030D\u002079\u00030D\u002086\u00030D\u002089\u00030D</string>
+U+2086" stylename="cv06_1">
+      <comment>DigitSix SupSix SubSix</comment>
+      <string>6\u00030D\u002076\u00030D\u002086\u00030D</string>
     </test>
   </testgroup>
   <testgroup label="cv07">
@@ -264,6 +262,20 @@ U+2077
 U+2087" stylename="cv07_1">
       <comment>DigitSeven SupSeven SubSeven</comment>
       <string>7\u00030D\u002077\u00030D\u002087\u00030D</string>
+    </test>
+  </testgroup>
+  <testgroup label="cv09">
+    <test label="U+0039
+U+2079
+U+2089">
+      <comment>DigitNine SupNine SubNine</comment>
+      <string>9\u00030D\u002079\u00030D\u002089\u00030D</string>
+    </test>
+    <test label="U+0039
+U+2079
+U+2089" stylename="cv09_1">
+      <comment>DigitNine SupNine SubNine</comment>
+      <string>9\u00030D\u002079\u00030D\u002089\u00030D</string>
     </test>
   </testgroup>
   <testgroup label="cv10">
@@ -1986,6 +1998,7 @@ U+0039" stylename="sups_1">
   <testgroup label="cv01 cv04"/>
   <testgroup label="cv01 cv06"/>
   <testgroup label="cv01 cv07"/>
+  <testgroup label="cv01 cv09"/>
   <testgroup label="cv01 cv10"/>
   <testgroup label="cv01 subs">
     <test label="U+0031">
@@ -2028,27 +2041,23 @@ U+0039" stylename="sups_1">
     </test>
   </testgroup>
   <testgroup label="cv06 subs">
-    <test label="U+0036
-U+0039">
-      <comment>DigitSix DigitNine</comment>
-      <string>6\u00030D9\u00030D</string>
+    <test label="U+0036">
+      <comment>DigitSix</comment>
+      <string>6\u00030D</string>
     </test>
-    <test label="U+0036
-U+0039" stylename="cv06_1_subs_1">
-      <comment>DigitSix DigitNine</comment>
-      <string>6\u00030D9\u00030D</string>
+    <test label="U+0036" stylename="cv06_1_subs_1">
+      <comment>DigitSix</comment>
+      <string>6\u00030D</string>
     </test>
   </testgroup>
   <testgroup label="cv06 sups">
-    <test label="U+0036
-U+0039">
-      <comment>DigitSix DigitNine</comment>
-      <string>6\u00030D9\u00030D</string>
+    <test label="U+0036">
+      <comment>DigitSix</comment>
+      <string>6\u00030D</string>
     </test>
-    <test label="U+0036
-U+0039" stylename="cv06_1_sups_1">
-      <comment>DigitSix DigitNine</comment>
-      <string>6\u00030D9\u00030D</string>
+    <test label="U+0036" stylename="cv06_1_sups_1">
+      <comment>DigitSix</comment>
+      <string>6\u00030D</string>
     </test>
   </testgroup>
   <testgroup label="cv07 subs">
@@ -2069,6 +2078,26 @@ U+0039" stylename="cv06_1_sups_1">
     <test label="U+0037" stylename="cv07_1_sups_1">
       <comment>DigitSeven</comment>
       <string>7\u00030D</string>
+    </test>
+  </testgroup>
+  <testgroup label="cv09 subs">
+    <test label="U+0039">
+      <comment>DigitNine</comment>
+      <string>9\u00030D</string>
+    </test>
+    <test label="U+0039" stylename="cv09_1_subs_1">
+      <comment>DigitNine</comment>
+      <string>9\u00030D</string>
+    </test>
+  </testgroup>
+  <testgroup label="cv09 sups">
+    <test label="U+0039">
+      <comment>DigitNine</comment>
+      <string>9\u00030D</string>
+    </test>
+    <test label="U+0039" stylename="cv09_1_sups_1">
+      <comment>DigitNine</comment>
+      <string>9\u00030D</string>
     </test>
   </testgroup>
   <testgroup label="cv10 subs">
@@ -4054,15 +4083,13 @@ U+0039" stylename="subs_1_sups_1">
     </test>
   </testgroup>
   <testgroup label="cv06 subs sups">
-    <test label="U+0036
-U+0039">
-      <comment>DigitSix DigitNine</comment>
-      <string>6\u00030D9\u00030D</string>
+    <test label="U+0036">
+      <comment>DigitSix</comment>
+      <string>6\u00030D</string>
     </test>
-    <test label="U+0036
-U+0039" stylename="cv06_1_subs_1_sups_1">
-      <comment>DigitSix DigitNine</comment>
-      <string>6\u00030D9\u00030D</string>
+    <test label="U+0036" stylename="cv06_1_subs_1_sups_1">
+      <comment>DigitSix</comment>
+      <string>6\u00030D</string>
     </test>
   </testgroup>
   <testgroup label="cv07 subs sups">
@@ -4073,6 +4100,16 @@ U+0039" stylename="cv06_1_subs_1_sups_1">
     <test label="U+0037" stylename="cv07_1_subs_1_sups_1">
       <comment>DigitSeven</comment>
       <string>7\u00030D</string>
+    </test>
+  </testgroup>
+  <testgroup label="cv09 subs sups">
+    <test label="U+0039">
+      <comment>DigitNine</comment>
+      <string>9\u00030D</string>
+    </test>
+    <test label="U+0039" stylename="cv09_1_subs_1_sups_1">
+      <comment>DigitNine</comment>
+      <string>9\u00030D</string>
     </test>
   </testgroup>
   <testgroup label="cv10 subs sups">
