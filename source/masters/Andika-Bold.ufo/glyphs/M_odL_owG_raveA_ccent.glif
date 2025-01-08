@@ -2,8 +2,8 @@
 <glyph name="ModLowGraveAccent" format="2">
   <advance width="640"/>
   <unicode hex="02CE"/>
-  <anchor x="278" y="-645" name="L"/>
+  <anchor x="278" y="-615" name="L"/>
   <outline>
-    <component base="CombGraveBlw" xOffset="928"/>
+    <component base="CombGraveBlw" xOffset="928" yOffset="30"/>
   </outline>
 </glyph>

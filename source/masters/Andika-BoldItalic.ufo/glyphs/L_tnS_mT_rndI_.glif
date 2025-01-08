@@ -2,9 +2,10 @@
 <glyph name="LtnSmTrndI" format="2">
   <advance width="620"/>
   <unicode hex="1D09"/>
-  <anchor x="145" y="-530" name="L"/>
+  <anchor x="161" y="-500" name="L"/>
   <anchor x="470" y="1100" name="U"/>
   <outline>
+    <component base="CombDotBlw" xOffset="926"/>
     <contour>
       <point x="154" y="0" type="curve"/>
       <point x="438" y="0" type="line"/>
@@ -29,19 +30,11 @@
       <point x="207" y="291"/>
       <point x="158" y="135"/>
     </contour>
-    <contour>
-      <point x="165" y="-534" type="curve" smooth="yes"/>
-      <point x="283" y="-534"/>
-      <point x="375" y="-441"/>
-      <point x="375" y="-331" type="curve" smooth="yes"/>
-      <point x="375" y="-249"/>
-      <point x="317" y="-187"/>
-      <point x="231" y="-187" type="curve" smooth="yes"/>
-      <point x="111" y="-187"/>
-      <point x="20" y="-282"/>
-      <point x="20" y="-393" type="curve" smooth="yes"/>
-      <point x="20" y="-473"/>
-      <point x="78" y="-534"/>
-    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
 </glyph>

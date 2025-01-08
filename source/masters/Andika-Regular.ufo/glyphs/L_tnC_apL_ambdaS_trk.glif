@@ -8,10 +8,10 @@
   <outline>
     <component base="LtnCapLambda"/>
     <contour>
-      <point x="376" y="891" type="line"/>
-      <point x="986" y="1191" type="line"/>
-      <point x="926" y="1341" type="line"/>
-      <point x="306" y="1036" type="line"/>
+      <point x="175" y="684" type="line"/>
+      <point x="1123" y="734" type="line"/>
+      <point x="1123" y="885" type="line"/>
+      <point x="175" y="835" type="line"/>
     </contour>
   </outline>
   <lib>
