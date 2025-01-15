@@ -1,4 +1,4 @@
-# Copyright (c) 2007-2024 SIL Global  (https://www.sil.org)
+# Copyright (c) 2007-2025 SIL Global  (https://www.sil.org)
 # Released under the MIT License (https://opensource.org/licenses/MIT)
 
 #Script to create a template for the TypeTuner feat_all.xml file for our Roman fonts.
@@ -238,6 +238,8 @@ my %nm_to_tag = (
 	'Four' => 'Dig4',
 	'Digit Six and Nine alternates' => 'Dig69',
 	'Six and Nine' => 'Dig69',
+	'Six' => 'Dig6',
+	'Nine' => 'Dig9',
 	'Curved stem' => 'F',
 	'Diagonal stem' => 'T',
 	'Diagonal stems' => 'T',
@@ -287,8 +289,10 @@ my %nm_to_tag = (
 	'Side by side' => 'T',
 	'Capital I' => 'LgI',
 	'Barless' => 'Barless',
-	'Old style figures' => 'OSF',
-	'Old style' => 'T',
+	'Proportional oldstyle figures' => 'OSF', #for v7 fonts
+	'Oldstyle' => 'T', #for v7 fonts
+	'Old style figures' => 'OSF', #replaced above for v7 fonts
+	'Old style' => 'T', #replaced above for v7 fonts
 	'Line spacing' => 'LnSpc',
 	'Loose' => 'Ls',
 	'Imported' => 'Im',
@@ -360,6 +364,8 @@ my %featset_to_suffix = (
 	'Dig1-T' => '\.NoBase',
 	'Dig4-Opn' => '\.Open',
 	'Dig69-T' => '\.Diag',
+	'Dig6-T' => '\.Diag',
+	'Dig9-T' => '\.Diag',
 	'Dig7-T' => '\.Bar',
 	'Zro-T' => '\.Slash',
 	'LgDHk-Lc' => '\.TopBar',
@@ -382,6 +388,7 @@ my %featset_to_suffix = (
 # Chinantec tones negates low profile diacritics
 # small caps negate the lower case tail variants
 my %reduced_featsets = (
+	'BetaSerif-T SmCp-T' => 'SmCp-T',
 	'Click-T SmCp-T' => 'SmCp-T',
 	'CapQ-T SmQTail-T' => 'SmQTail-T', # lower case glyph not affected by Capital Q alternate
 	'Caron-T SmCp-T' => 'SmCp-T',
@@ -833,13 +840,13 @@ sub OT_Feats_get($\%)
 	if ($family_nm ne 'andika' and !$opt_a) 
 	{
 		push(@{$feats->{' ids'}}, 'onum');
-		$feats->{'onum'}{'name'} = 'Old style figures';
-		$feats->{'onum'}{'tag'} = Tag_lookup('Old style figures', %nm_to_tag);
+		$feats->{'onum'}{'name'} = 'Proportional oldstyle figures';
+		$feats->{'onum'}{'tag'} = Tag_lookup('Proportional oldstyle figures', %nm_to_tag);
 		$feats->{'onum'}{'default'} = 0;
 		$feats->{'onum'}{'settings'}{' ids'} = [0, 1];
 		$feats->{'onum'}{'settings'}{0}{'name'} = 'Default';
 		$feats->{'onum'}{'settings'}{0}{'tag'} = 'Dflt';
-		$feats->{'onum'}{'settings'}{1}{'name'} = 'Old style';
+		$feats->{'onum'}{'settings'}{1}{'name'} = 'Oldstyle';
 		$feats->{'onum'}{'settings'}{1}{'tag'} = Tag_lookup('True', %nm_to_tag);
 	}
 
@@ -1582,8 +1589,9 @@ sub Features_output($\%\%\%\%)
 END
 	}
 
-	### output line spacing feature
-	unless ($opt_g)
+	### output line spacing feature - no longer supported in v7 of fonts
+	# unless ($opt_g)
+	if (0)
 	{
 		my $line_gap_tag = Tag_lookup('Line spacing', %nm_to_tag);
 		my $tight_tag = Tag_lookup('Tight', %nm_to_tag);
