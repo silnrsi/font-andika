@@ -33,19 +33,15 @@
 			<cmd name="encode" args="2158 uni2158.Open" />
 		</value>
 	</feature>
-	<feature name="Six and Nine" value="Standard (curved stems)" tag="Dig69">
-		<value name="Standard (curved stems)" tag="Dflt">
+	<feature name="Six" value="Standard (curved stem)" tag="Dig6">
+		<value name="Standard (curved stem)" tag="Dflt">
 			<cmd name="null" args="null" />
 		</value>
-		<value name="Diagonal stems" tag="T">
+		<value name="Diagonal stem" tag="T">
 			<cmd name="encode" args="0036 six.Diag" />
 			<cmd name="encode" args="2086 uni2086.Diag" />
 			<cmd name="encode" args="2076 uni2076.Diag" />
-			<cmd name="encode" args="0039 nine.Diag" />
-			<cmd name="encode" args="2089 uni2089.Diag" />
-			<cmd name="encode" args="2079 uni2079.Diag" />
 			<cmd name="encode" args="2159 uni2159.Diag" />
-			<cmd name="encode" args="2151 uni2151.Diag" />
 			<cmd name="encode" args="215A uni215A.Diag" />
 		</value>
 	</feature>
@@ -59,6 +55,17 @@
 			<cmd name="encode" args="2077 uni2077.Bar" />
 			<cmd name="encode" args="2150 uni2150.Bar" />
 			<cmd name="encode" args="215E seveneighths.Bar" />
+		</value>
+	</feature>
+	<feature name="Nine" value="Standard (curved stem)" tag="Dig9">
+		<value name="Standard (curved stem)" tag="Dflt">
+			<cmd name="null" args="null" />
+		</value>
+		<value name="Diagonal stem" tag="T">
+			<cmd name="encode" args="0039 nine.Diag" />
+			<cmd name="encode" args="2089 uni2089.Diag" />
+			<cmd name="encode" args="2079 uni2079.Diag" />
+			<cmd name="encode" args="2151 uni2151.Diag" />
 		</value>
 	</feature>
 	<feature name="Zero" value="Standard (no slash)" tag="Zro">
@@ -1459,21 +1466,6 @@
 			<cmd name="lookup_add" args="GSUB {ccmp_DFLT_dflt} {kayan_sub}" />
 		</value>
 	</feature>
-	<feature name="Line spacing" value="Normal" tag="LnSpc">
-		
-		<value name="Normal" tag="Nrml">
-			<cmd name="null" args="2500 800" />
-		</value>
-		<value name="Tight" tag="Tght">
-			<cmd name="line_gap" args="2100 550" />
-		</value>
-		<value name="Loose" tag="Ls">
-			<cmd name="line_gap" args="2900 1100" />
-		</value>
-		<value name="Imported" tag="Im">
-			<cmd name="line_metrics_scaled" args="null" />
-		</value>
-	</feature>
 	<interactions>
 		<test select="BarBwl-T DSG-T">
 			<cmd name="encode" args="01E5 uni01E5.BarBowl" />
@@ -1682,12 +1674,14 @@
 		<test select="Dig1-T Dig4-Opn">
 			<cmd name="encode" args="00BC onequarter.NoBase.Open" />
 		</test>
-		<test select="Dig1-T Dig69-T">
+		<test select="Dig1-T Dig6-T">
 			<cmd name="encode" args="2159 uni2159.NoBase.Diag" />
-			<cmd name="encode" args="2151 uni2151.NoBase.Diag" />
 		</test>
 		<test select="Dig1-T Dig7-T">
 			<cmd name="encode" args="2150 uni2150.NoBase.Bar" />
+		</test>
+		<test select="Dig1-T Dig9-T">
+			<cmd name="encode" args="2151 uni2151.NoBase.Diag" />
 		</test>
 		<test select="Dig1-T Zro-T">
 			<cmd name="encode" args="2152 uni2152.NoBase.Slash" />
