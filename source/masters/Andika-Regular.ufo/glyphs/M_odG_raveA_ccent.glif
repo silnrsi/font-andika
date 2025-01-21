@@ -2,7 +2,7 @@
 <glyph name="ModGraveAccent" format="2">
   <advance width="580"/>
   <unicode hex="02CB"/>
-  <anchor x="280" y="1635" name="U"/>
+  <anchor x="390" y="1635" name="U"/>
   <outline>
     <component base="CombGrave" xOffset="940"/>
   </outline>

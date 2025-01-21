@@ -29,7 +29,7 @@
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3337</string>
+  <string>3316</string>
   <key>com.schriftgestaltung.customName</key>
   <string>Italic</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
@@ -228,7 +228,7 @@ c/ModApos/LtnSmCAcute/ModApos c/RtSglQuotMrk/LtnSmCAcute/RtSglQuotMrk c/CombLftA
     <string>/LtnSmLambda/LtnSmLambdaStrk/LtnCapLambda/LtnCapLambdaStrk/CyCapStraightUStrk/LtnCapLStrk/LtnCapSFullDiagStrk/LtnSmSFullDiagStrk/LtnCapCStrk/LtnSmCStrk/LtnCapTDiagStrk/LtnSmTDiagStrk/LtnCapVDiagStrk/LtnSmVDiagStrk 
 T/CyCapDje/CyCapTje/CySmTje/CySmHardSgn/CySmNje/CyCapYat/CySmYat/CyCapKomiTje/CySmKomiTje 
 x/LtnSmLTrnd/LtnSmTrndI/LtnSmLDotBlw n/ModSmTurnedH/ModSmX/ModSmTrndI/ModSmR s/SupplDownwardsAncora 
-´/ModAcuteAccent/ModLowAcuteAccent/Space `/ModGraveAccent/ModLowGraveAccent</string>
+´/ModAcuteAccent/ModLowAcuteAccent/Space `/ModGraveAccent/ModLowGraveAccent/Space/Space/Space/CombAcute/Space/Space/CombGrave</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

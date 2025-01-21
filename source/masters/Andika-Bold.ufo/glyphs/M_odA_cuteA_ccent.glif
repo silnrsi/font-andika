@@ -2,7 +2,7 @@
 <glyph name="ModAcuteAccent" format="2">
   <advance width="640"/>
   <unicode hex="02CA"/>
-  <anchor x="280" y="1635" name="U"/>
+  <anchor x="160" y="1635" name="U"/>
   <outline>
     <component base="CombAcute" xOffset="760"/>
   </outline>

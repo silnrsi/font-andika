@@ -2,7 +2,7 @@
 <glyph name="AcuteAccent" format="2">
   <advance width="560"/>
   <unicode hex="00B4"/>
-  <anchor x="528" y="1635" name="U"/>
+  <anchor x="469" y="1635" name="U"/>
   <outline>
     <contour>
       <point x="591" y="1568" type="line"/>
