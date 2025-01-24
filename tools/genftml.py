@@ -98,10 +98,10 @@ for test in test_lst:
         style += 'I' if fn.find('BoldItalic') != -1 else ''
         arg_lst.extend(["-s", "../results/{}={}{}".format(fn, family, style)])
     # TODO: kludgy way to add columns for other fonts, assumes tests/reference folder
-    arg_lst.extend(["-s", "../references/v6101/Andika-Regular.ttf=AR6"])
-    arg_lst.extend(["-s", "../references/v6101/Andika-Bold.ttf=AB6"])
-    arg_lst.extend(["-s", "../references/v6101/Andika-Italic.ttf=AI6"])
-    arg_lst.extend(["-s", "../references/v6101/Andika-BoldItalic.ttf=ABI6"])
+    arg_lst.extend(["-s", "../references/v6200/Andika-Regular.ttf=AR6"])
+    arg_lst.extend(["-s", "../references/v6200/Andika-Bold.ttf=AB6"])
+    arg_lst.extend(["-s", "../references/v6200/Andika-Italic.ttf=AI6"])
+    arg_lst.extend(["-s", "../references/v6200/Andika-BoldItalic.ttf=ABI6"])
     sys.argv = [psfgenftml.__file__]
     sys.argv.extend(arg_lst)
     psfgenftml.cmd()

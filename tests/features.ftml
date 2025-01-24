@@ -3,14 +3,14 @@
 <ftml version="1.0">
   <head>
     <fontscale>200</fontscale>
-    <fontsrc label="AR">url(../results/Andika-Regular.ttf)</fontsrc>
-    <fontsrc label="AB">url(../results/Andika-Bold.ttf)</fontsrc>
-    <fontsrc label="AI">url(../results/Andika-Italic.ttf)</fontsrc>
-    <fontsrc label="ABI">url(../results/Andika-BoldItalic.ttf)</fontsrc>
-    <fontsrc label="AR6">url(../references/v6101/Andika-Regular.ttf)</fontsrc>
-    <fontsrc label="AB6">url(../references/v6101/Andika-Bold.ttf)</fontsrc>
-    <fontsrc label="AI6">url(../references/v6101/Andika-Italic.ttf)</fontsrc>
-    <fontsrc label="ABI6">url(../references/v6101/Andika-BoldItalic.ttf)</fontsrc>
+    <fontsrc label="AR">url(../results/AndikaSix-Regular.ttf)</fontsrc>
+    <fontsrc label="AB">url(../results/AndikaSix-Bold.ttf)</fontsrc>
+    <fontsrc label="AI">url(../results/AndikaSix-Italic.ttf)</fontsrc>
+    <fontsrc label="ABI">url(../results/AndikaSix-BoldItalic.ttf)</fontsrc>
+    <fontsrc label="AR6">url(../references/v6200/Andika-Regular.ttf)</fontsrc>
+    <fontsrc label="AB6">url(../references/v6200/Andika-Bold.ttf)</fontsrc>
+    <fontsrc label="AI6">url(../references/v6200/Andika-Italic.ttf)</fontsrc>
+    <fontsrc label="ABI6">url(../references/v6200/Andika-BoldItalic.ttf)</fontsrc>
     <styles>
       <style lang="cnr" name="cnr"/>
       <style feats="'cv01' 1" name="cv01_1"/>
