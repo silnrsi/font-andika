@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmNLftHook.LCStyle" format="2">
-  <advance width="1218"/>
-  <anchor x="595" y="-100" name="L"/>
-  <anchor x="880" y="1100" name="U"/>
+<glyph name="LtnSmNLftHook.UCStyle" format="2">
+  <advance width="1314"/>
+  <anchor x="735" y="-100" name="L"/>
+  <anchor x="650" y="1100" name="U"/>
   <outline>
     <component base="LtnSmNLftHook"/>
   </outline>
