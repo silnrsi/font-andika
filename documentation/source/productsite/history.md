@@ -21,6 +21,9 @@
 
 - Kerning has now been added and covers the full range of alphabetic symbols, including small caps. **Warning: Because of the addition of extensive kerning, line, paragraph, and page lengths may be different from v6.2.**
 
+- The default form for capital N with left hook has been changed to the lowercase style to match the capital Eng. The related feature (`cv44`) has been changed to substitute the uppercase style form.
+    - U+019D LATIN CAPITAL LETTER N WITH LEFT HOOK
+
 - The OpenType feature for alternate versions of 6 and 9 with diagonal stems has been split into two separate features. The previously existing feature (`cv06`) now only affects the numeral 6. A new feature (`cv09`) affects only the numeral 9.
 
 - New Opentype feature added to remove bars on capital I (`cv30`)
