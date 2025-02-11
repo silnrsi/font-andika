@@ -1,7 +1,11 @@
 ---
 title: Andika - Version History
-fontversion: 6.200
+fontversion: 6.210
 ---
+
+### XX Feb 2025 (SIL WSTech Team) Andika Six version 6.210
+
+This release is a renamed version of Andika 6.200. Only the font name has changed.
 
 ### 1 Feb 2023 (SIL WSTech Team) Andika version 6.200
 

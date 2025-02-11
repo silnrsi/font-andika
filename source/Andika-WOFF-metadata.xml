@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata version="1.0">
-  <uniqueid id="org.sil.fonts.andikasix.6.201" />
-  <vendor name="SIL International" url="http://www.sil.org/" />
+  <uniqueid id="org.sil.fonts.andikasix.6.210" />
+  <vendor name="SIL Global" url="http://www.sil.org/" />
   <credits>
     <credit
       name="Jon Coblentz, Don Collingsworth, Sharon Correll, Lorna Evans,Bob Hallissy, Eric Hays, Martin Hosken, Jonathan Kew, Julie Remington, Alan Ward"
@@ -40,7 +40,7 @@
       
       The OFL prohibits the use of Reserved Font Names "Andika" and "SIL" in
       the name of any font that is derived from the Original Version of Andika.
-      However, SIL International (the Copyright Holder) grants through
+      However, SIL Global (the Copyright Holder) grants through
       this separate written agreement the right to use the Reserved Font Names
       in any Modified Version of this font created by using TypeTuner as long
       as the feature information contained in the Original Version is used,
@@ -61,6 +61,10 @@
       
       (This should list both major and minor changes, most recent first.)
       
+      ### XX Feb 2025 (SIL WSTech Team) Andika Six version 6.210
+
+      This release is a renamed version of Andika 6.200. Only the font name has changed.
+
       ### 9 Feb 2022 (SIL WSTech Team) Andika version 6.101
 
       This is a maintenance release primarily focused on making the v6 fonts available on *TypeTuner Web*.
@@ -366,7 +370,7 @@
   </description>
   <license url="http://scripts.sil.org/OFL" id="org.sil.ofl.1.1">
     <text lang="en">
-      Copyright (c) 2004-2021 SIL International (http://www.sil.org/) with Reserved Font Names "Andika" and "SIL".
+      Copyright (c) 2004-2025 SIL Global (http://www.sil.org/) with Reserved Font Names "Andika" and "SIL".
       
       This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
       
@@ -413,10 +417,10 @@
   </license>
   <copyright>
     <text lang="en">
-      Copyright (c) 2004-2024 SIL International
+      Copyright (c) 2004-2025 SIL Global
     </text>
   </copyright>
   <trademark>
-    <text lang="en">Andika is a trademark of SIL International.</text>
+    <text lang="en">Andika is a trademark of SIL Global.</text>
   </trademark>
 </metadata>

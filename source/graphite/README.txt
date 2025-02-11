@@ -5,7 +5,7 @@ Andika v5.000
 This file describes the Graphite source files included with the Andika font family. This information should be distributed along with the Andika fonts and any derivative works.
 
 These files are from the Andika project (https://software.sil.org/andika/).
-Copyright (c) 2004-2021 SIL International (http://www.sil.org/) with Reserved
+Copyright (c) 2004-2025 SIL Global (http://www.sil.org/) with Reserved
 Font Names "Andika" and "SIL". This Font Software is licensed under the SIL
 Open Font License, Version 1.1 (http://scripts.sil.org/OFL).
             

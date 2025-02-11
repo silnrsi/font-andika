@@ -1,6 +1,6 @@
 ---
 title: Andika - Design
-fontversion: 6.200
+fontversion: 6.210
 ---
 
 Andika is a sans serif, Unicode-compliant font designed especially for literacy use, taking into account the needs of beginning readers. The focus is on clear, easy-to-perceive letterforms that will not be readily confused with one another. 
@@ -28,6 +28,6 @@ A sample from one page is shown below.
 
 For a complete list of characters included in Andika, see [Character Set Support](charset.md).
 
-SIL International is the creator of the Andika fonts, and is the owner of all proprietary rights therein.
+SIL Global is the creator of the Andika fonts, and is the owner of all proprietary rights therein.
 
-*Andika* is a trademark of SIL International.
+*Andika* is a trademark of SIL Global.

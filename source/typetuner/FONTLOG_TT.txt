@@ -27,7 +27,7 @@ addresses those issues.
 
 The OFL prohibits the use of Reserved Font Names "Andika" and "SIL" in
 the name of any font that is derived from the Original Version of Andika.
-However, SIL International (the Copyright Holder) grants through
+However, SIL Global (the Copyright Holder) grants through
 this separate written agreement the right to use the Reserved Font Names
 in any Modified Version of this font created by using TypeTuner as long
 as the feature information contained in the Original Version is used, 
@@ -53,6 +53,10 @@ Reserved Font Names and would have to be named something like
 - Tuned and delivered by SIL TypeTuner (http://scripts.sil.org/ttw/fonts2go.cgi)
 
 - See included xml file for details of feature changes
+
+### XX Feb 2025 (SIL WSTech Team) Andika Six version 6.210
+
+This release is a renamed version of Andika 6.200. Only the font name has changed.
 
 ### 1 Feb 2023 (SIL WSTech Team) Andika version 6.200
 
@@ -634,7 +638,7 @@ E: https://software.sil.org/andika/about/contact/
 W: https://software.sil.org/andika/
 D: Assistance with Andika Bold
 
-The Andika SIL project is maintained by SIL International, a global,
+The Andika project is maintained by SIL Global, a global,
 faith-based nonprofit that works with local communities around the world
 to develop language solutions that expand possibilities for a better life.
 

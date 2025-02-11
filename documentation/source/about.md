@@ -1,6 +1,6 @@
 ---
-title: Andika - About
-fontversion: 6.200
+title: Andika Six - About
+fontversion: 6.210
 ---
 
 ## About this project
@@ -41,9 +41,9 @@ Our font announcements are also available through Twitter [\@silfonts](https://t
 
 These fonts are provided at no cost. However they are expensive to produce and maintain. Please consider donating to SIL’s font development efforts to support future development. Go to [SIL’s Give Direct page](https://donate.givedirect.org/?cid=13536&n=206909) and designate your gift for _Scripts & Fonts_. **Thank you!** 
 
-## About SIL International
+## About SIL Global
 
-[SIL International](https://www.sil.org/) is a global, faith-based nonprofit that works with local communities around the world to develop language solutions that expand possibilities for a better life. 
+[SIL Global](https://www.sil.org/) is a global, faith-based nonprofit that works with local communities around the world to develop language solutions that expand possibilities for a better life. 
 
 We are involved in approximately 1,350 active language projects in 104 countries. These projects impact more than 1.1 billion people within 1,600 local communities. SIL’s work brings together more than 4,300 staff from 89 countries who work alongside thousands more local partners and community volunteers worldwide. Our services are available without regard to religious belief, political ideology, gender, race or ethnic background.
 

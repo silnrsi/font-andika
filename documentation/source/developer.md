@@ -1,6 +1,6 @@
 ---
 title: Andika - Developer information
-fontversion: 6.200
+fontversion: 6.210
 ---
 
 ## Welcome font developers!
@@ -40,4 +40,4 @@ Here are a few examples of contributions that would be welcomed (some more than 
 
 Because we want to be able to guarantee a high level of quality for our fonts, we will review submissions carefully. Contributions will need to cover all the weights and styles of the family and in some cases all four font projects. Please don’t be discouraged if we do not include a submission due to quality or incompleteness, or if we ask you to make specific revisions. 
 
-To enable us to accept contributions in a way that honors your contribution and respects your copyright while preserving long-term flexibility for open source licensing, you would also need to agree to the **SIL International Contributor License Agreement for Font Software (v1.0)** prior to sending us your contribution. To read more about this requirement and find out how to submit the required form, please visit the [CLA information page](https://software.sil.org/fontcla).
+To enable us to accept contributions in a way that honors your contribution and respects your copyright while preserving long-term flexibility for open source licensing, you would also need to agree to the **SIL Global Contributor License Agreement for Font Software (v1.1)** prior to sending us your contribution. To read more about this requirement and find out how to submit the required form, please visit the [CLA information page](https://software.sil.org/fontcla).
