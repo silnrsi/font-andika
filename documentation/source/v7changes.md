@@ -21,7 +21,7 @@ The new intermediate weights in this extended, axis-based family can be confusin
 
 ### No Compact versions
 
-The v7 fonts do not have *Compact* variants. If you *Compact* fonts, and your application does not allow explicit control over line spacing, you can continue to use the [v6.2 Andika Compact fonts](https://software.sil.org/lcgfonts/download/), which remain available. **If you need any of the new v7 features or characters, but also need them supported in a compact version please [contact us](https://software.sil.org/andika/about/contact/). We continue to recommend that you set line spacing explicitly in your document styles and preferences, and adjust it as needed for your particular situation.**
+The v7 fonts do not have *Compact* variants. If you need compact line spacing, and your application does not allow explicit line spacing control, you can continue to use the [v6.2 Andika Compact fonts](https://software.sil.org/lcgfonts/download/), which remain available. **If you need any of the new v7 features or characters, but also need them supported in a compact version please [contact us](https://software.sil.org/andika/about/contact/). We continue to recommend that you set line spacing explicitly in your document styles and preferences, and adjust it as needed for your particular situation.**
 
 TypeTuner Web no longer offers line spacing alternatives for the v7 fonts (Normal, Tight, Loose). If you need Tight or Loose variants the v6.2 fonts remain available and support line spacing alternatives.
 

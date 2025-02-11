@@ -628,7 +628,7 @@ E: https://software.sil.org/andika/about/contact/
 W: https://software.sil.org/andika/
 D: Assistance with Andika Bold
 
-The Andika SIL project is maintained by SIL Global, a global,
+The Andika project is maintained by SIL Global, a global,
 faith-based nonprofit that works with local communities around the world
 to develop language solutions that expand possibilities for a better life.
 
