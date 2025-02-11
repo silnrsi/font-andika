@@ -1,8 +1,8 @@
 FONTLOG
-Andika
-======
+Andika Six
+==========
 
-This file provides detailed information on the Andika family of fonts.
+This file provides detailed information on the Andika Six family of fonts.
 This information should be distributed along with the Andika fonts and
 any derivative works.
 
