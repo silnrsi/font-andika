@@ -1,5 +1,5 @@
 ---
-title: Andika - Developer information
+title: Andika Six - Developer information
 fontversion: 6.210
 ---
 

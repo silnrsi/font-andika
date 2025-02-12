@@ -1,5 +1,5 @@
 ---
-title: Andika - Documentation
+title: Andika Six - Documentation
 fontversion: 6.210
 ---
 

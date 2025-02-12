@@ -1,5 +1,5 @@
 ---
-title: Andika - Font Features
+title: Andika Six - Font Features
 fontversion: 6.210
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Andika - Character Set Support
+title: Andika Six - Character Set Support
 fontversion: 6.210
 ---
 

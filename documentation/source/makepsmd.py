@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 '''Process font documentation .md files for use on product sites '''
-__url__ = 'http://github.com/silnrsi/fontdocs'
-__copyright__ = 'Copyright (c) 2021-2025 SIL Global (http://www.sil.org)'
-__license__ = 'Released under the MIT License (http://opensource.org/licenses/MIT)'
+__url__ = 'https://github.com/silnrsi/fontdocs'
+__copyright__ = 'Copyright (c) 2021-2025 SIL Global (https://www.sil.org)'
+__license__ = 'Released under the MIT License (https://opensource.org/licenses/MIT)'
 __author__ = 'Victor Gaultney'
 
 import re
@@ -58,13 +58,14 @@ def doit(args):
     temptext = mdimagecap.sub(r"[caption]<em>\1</em>[/caption]", temptext)
 
     # replace local links with site references
-    temptext = temptext.replace(".md","")
+    mdlink = re.compile(r"\((?!https://)(?P<path>[^()]*).md\)")
+    temptext = mdlink.sub(r"(\g<path>)",temptext)
 
     # replace links to external markdown files
     temptext = temptext.replace(".rawmd",".md")
 
     # replace escaped @ in link texts
-    temptext = temptext.replace("[\@","[@")
+    temptext = temptext.replace(r"[\@",r"[@")
 
     # make a list of new classes needed for font shortcode
     # separate searches for spans with 1, 2, or 3 settings

@@ -1,5 +1,5 @@
 ---
-title: Andika - Design
+title: Andika Six - Design
 fontversion: 6.210
 ---
 
@@ -22,7 +22,7 @@ Type samples showing an inventory of some of the unusual glyphs and features can
 
 A sample from one page is shown below. 
 
-![Andika Sample - Precomposed Latin Diacritics](assets/images/AndikaTypeSample.png){.fullsize}
+![Andika Sample - Precomposed Latin Diacritics](../assets/images/AndikaTypeSample.png){.fullsize}
 <!-- PRODUCT SITE IMAGE SRC http://software.sil.org/andika/wp-content/uploads/sites/19/2015/12/AndikaTypeSample.png -->
 <figcaption>Andika Sample - Precomposed Latin Diacritics</figcaption>
 
