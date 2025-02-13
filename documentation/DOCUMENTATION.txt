@@ -1,6 +1,6 @@
 DOCUMENTATION
-Andika
-======
+Andika Six
+==========
 
 The documentation for this project is listed in index.html.
 
