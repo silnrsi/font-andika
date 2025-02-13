@@ -1,5 +1,5 @@
 
-### XX Feb 2025 (SIL WSTech Team) Andika Six version 6.210
+### 13 Feb 2025 (SIL WSTech Team) Andika Six version 6.210
 
 This release is a renamed version of Andika 6.200. Only the font name has changed.
 
