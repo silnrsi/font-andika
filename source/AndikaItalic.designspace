@@ -45,7 +45,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Andika" filename="AndikaSix-BoldItalic.ufo" name="Andika Six Bold Italic" stylemapfamilyname="Andika Six" stylemapstylename="bold italic" stylename="Bold Italic">
+        <instance familyname="Andika Six" filename="AndikaSix-BoldItalic.ufo" name="Andika Six Bold Italic" stylemapfamilyname="Andika Six" stylemapstylename="bold italic" stylename="Bold Italic">
             <location>
                 <dimension name="weight" xvalue="700.000000" />
                 <dimension name="width" xvalue="100.000000" />
