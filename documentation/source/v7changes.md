@@ -7,6 +7,8 @@ fontversion: 7.000
 
 Andika version 7 is a major release with many new additions, enhancements, and improvements. This is a summary of the most notable changes and what you need to know if you have been using earlier versions. **Please read this carefully to understand the major changes.** For further details on these changes, particularly regarding individual characters, see [Version history](history.md).
 
+The changes in this version could have a significant effect on line, paragraph, and page lengths due to added kerning. Because of this we have released a font that reproduces the exact metrics and behavior of Andika v6.200—*Andika Six*—that can be installed at the same time as the newest Andika (v7 and beyond). Andika v7 is still the best font for most people to use. But if you have documents prepared with Andika v6.200 and need to preserve the spacing, you can install Andika Six, change the doc to use it instead of Andika, and avoid any issues with reflow. Then you can use Andika v7 for new documents and benefit from the many improvements in this and future versions. See the [Andika Six announcement](https://software.sil.org/andika/andika-six-release-6-210-a-renamed-version-of-andika-6-200/) for more details on downloading and using Andika Six.
+
 ## Family structure
 
 ### Additional intermediate weights
@@ -33,9 +35,9 @@ Note that even in version 7 the special-purpose alternates can be manually prese
 
 ## New features and character support
 
-### Greatly enhanced kerning
+### New kerning
 
-Kerning has now been add to cover the full range of alphabetic symbols, including small caps. To make this practically useful for a wide range of languages the letters have been clustered into overly generalized groups. This enables the kerning to apply to more combinations, but does not allow for careful fine-tuning. The expanded kerning may not be ideal in all cases, and may still require manual adjustment, but it should provide improved spacing compared with previous versions. It is very possible that we have made some mistakes in this massive kerning effort, so please [contact us](https://software.sil.org/andika/about/contact/) if you encounter any combinations whose spacing has been made worse than in v6.2.
+Kerning has now been add to cover the full range of alphabetic symbols, including small caps. To make this practically useful for a wide range of languages the letters have been clustered into overly generalized groups. This enables the kerning to apply to more combinations, but does not allow for careful fine-tuning. The generalized kerning may not be ideal in all cases, and may still require manual adjustment, but it should provide improved spacing compared with previous versions. It is very possible that we have made some mistakes in this massive kerning effort, so please [contact us](https://software.sil.org/andika/about/contact/) if you encounter any combinations whose spacing has been made worse than in v6.2.
 
 **Warning: Because of the addition of extensive kerning, line, paragraph, and page lengths may be different from v6.2.**
 

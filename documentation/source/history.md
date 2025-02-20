@@ -23,7 +23,7 @@ fontversion: 7.000
 
 #### New features and enhancements
 
-- Kerning has now been added and covers the full range of alphabetic symbols, including small caps. **Warning: Because of the addition of extensive kerning, line, paragraph, and page lengths may be different from v6.2.**
+- Kerning has now been added and covers the full range of alphabetic symbols, including small caps. **Warning: Because of the addition of extensive kerning, line, paragraph, and page lengths may be different from v6.2.** If this affects you the [Andika Six font family](https://software.sil.org/andika/andika-six-release-6-210-a-renamed-version-of-andika-6-200/) may be helpful.
 
 - The default form for capital N with left hook has been changed to the lowercase style to match the capital Eng. The related feature (`cv44`) has been changed to substitute the uppercase style form.
     - U+019D LATIN CAPITAL LETTER N WITH LEFT HOOK
