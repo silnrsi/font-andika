@@ -52,7 +52,7 @@ In the past, special *subset* versions of Andika version 5 were created for spec
 
 ## Previous versions archive
 
-Previous versions remain available from our [Previous Versions archive](https://software.sil.org/andika/download/previous-versions).
+Previous versions remain available from our [Previous versions archive](https://software.sil.org/andika/download/previous-versions).
 
 ## Change history
 
