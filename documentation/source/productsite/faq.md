@@ -34,6 +34,10 @@ Andika means ‘Write!’ in Swahili and is pronounced ahn-DEE-kah.
 
 Improvements to both these fonts and industry font technology has reduced the need for *Compact* versions. If tight or loose line spacing is needed the best solution is to use the standard fonts and explicitly set the line spacing in your application. If the application does not allow user-specified line spacing the [v6.2 Compact fonts remain available](https://software.sil.org/lcgfonts/download/). Please also contact the app developer to request that they give users better control over line spacing.
 
+#### *Is there a guide to the many versions of Andika and its variants?*
+
+Yes! See the [Versions](versions) page.
+
 #### *Why does my application not show the Bold weight in font menus and dialogs?*
 
 Some applications will list all the weights but leave out Bold. To access the Bold you need to choose Regular and turn on Bold using the application’s UI controls such as a “B” button. See our [Font Help Guide on Axis-Based Font Families](https://software.sil.org/fonts/axis-based-fonts/) for more information.
