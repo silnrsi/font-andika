@@ -29,7 +29,7 @@
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3316</string>
+  <string>3337</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>ngjnqjn/LtnSmARetrHook jn
@@ -226,7 +226,9 @@ c/ModApos/LtnSmCAcute/ModApos c/RtSglQuotMrk/LtnSmCAcute/RtSglQuotMrk c/CombLftA
     <string>/LtnSmLambda/LtnSmLambdaStrk Y/LtnCapLambda/LtnCapLambdaStrk/CyCapStraightUStrk/LtnCapLStrk/LtnCapSFullDiagStrk/LtnSmSFullDiagStrk/LtnCapCStrk/LtnSmCStrk/LtnCapTDiagStrk/LtnSmTDiagStrk/LtnCapVDiagStrk/LtnSmVDiagStrk 
 T/CyCapDje/CyCapTje/CySmTje/CySmHardSgn/CySmNje/CyCapYat/CySmYat/CyCapKomiTje/CySmKomiTje 
 x/LtnSmLTrnd/LtnSmTrndI/LtnSmLDotBlw n/ModSmTurnedH/ModSmX/ModSmTrndI/ModSmR xs/SupplDownwardsAncora/KayahLiSignCwi/CombDblInvBreve 
-´/ModAcuteAccent/ModLowAcuteAccent/Space `/ModGraveAccent/ModLowGraveAccent/Space/Space/Space/CombAcute/Space/Space/CombGrave</string>
+´/ModAcuteAccent/ModLowAcuteAccent/Space `/ModGraveAccent/ModLowGraveAccent/Space/Space/Space/CombAcute/Space/Space/CombGrave 
+x/SglHighRev9QuotMrk x/ModTurnedComma x/ModTurnedComma.Lrg x/ModRevComma x/ModRevComma.Lrg x/ModApos x/ModApos.Lrg x/DblHighRev9QuotMrk x/ModDblApos x
+x/CombTrndCommaAbv x/CombTrndCommaAbv.Lrg x/CombRevCommaAbv x/CombRevCommaAbv.Lrg</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
