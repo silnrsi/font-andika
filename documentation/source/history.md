@@ -33,6 +33,8 @@ fontversion: 7.000
 - New Opentype feature added to remove bars on capital I (`cv30`)
 
 - Additions to Modifier Apostrophe feature (`cv70`)
+    - U+02BB MODIFIER LETTER TURNED COMMA
+    - U+02BD MODIFIER LETTER REVERSED COMMA
     - U+0312 COMBINING TURNED COMMA ABOVE
     - U+0314 COMBINING REVERSED COMMA ABOVE
 
