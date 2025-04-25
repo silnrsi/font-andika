@@ -408,6 +408,7 @@
     <string>LtnInvGlottalStopStrk</string>
     <string>LtnSmA</string>
     <string>LtnSmA.2StorySItal</string>
+    <string>LtnSmA.SngStory</string>
     <string>LtnSmAADigraph</string>
     <string>LtnSmADotBlw</string>
     <string>LtnSmADotBlw.2StorySItal</string>
@@ -471,7 +472,6 @@
   <array>
     <string>CySmABreve</string>
     <string>CySmADiaer</string>
-    <string>LtnSmA.SngStory</string>
     <string>LtnSmAAcute</string>
     <string>LtnSmAAcute.2StorySItal</string>
     <string>LtnSmAAcute.SngStory</string>
@@ -2134,6 +2134,7 @@
     <string>CySmQa</string>
     <string>CySmSchwa</string>
     <string>CySmUkrainIe</string>
+    <string>LtnSmA.SngStory</string>
     <string>LtnSmADotBlw.SngStory</string>
     <string>LtnSmAOgonek.SngStory</string>
     <string>LtnSmAOgonek.SngStory.RetroHook</string>
@@ -2242,7 +2243,6 @@
     <string>CySmIo</string>
     <string>CySmODiaer</string>
     <string>CySmSchwaDiaer</string>
-    <string>LtnSmA.SngStory</string>
     <string>LtnSmAAcute.SngStory</string>
     <string>LtnSmABreve.SngStory</string>
     <string>LtnSmABreveAcute.SngStory</string>
