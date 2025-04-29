@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmDCaron.Caron" format="2">
-  <advance width="1319"/>
+  <advance width="1187"/>
   <anchor x="545" y="0" name="H"/>
   <anchor x="520" y="-100" name="L"/>
   <anchor x="1380" y="1000" name="R"/>
@@ -12,7 +12,7 @@
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>
