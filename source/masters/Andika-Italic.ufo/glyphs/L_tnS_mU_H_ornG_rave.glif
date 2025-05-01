@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmUHornGrave" format="2">
-  <advance width="1395"/>
+  <advance width="1366"/>
   <unicode hex="1EEB"/>
   <anchor x="504" y="-100" name="L"/>
   <anchor x="938" y="1635" name="U"/>

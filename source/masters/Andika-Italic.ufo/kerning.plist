@@ -379,6 +379,15 @@
     <key>public.kern2.RSmRoundDiac</key>
     <integer>-50</integer>
   </dict>
+  <key>public.kern1.LSmHorn</key>
+  <dict>
+    <key>public.kern2.RSmRound</key>
+    <integer>-120</integer>
+    <key>public.kern2.RSmRoundDesc</key>
+    <integer>-120</integer>
+    <key>public.kern2.RSmRoundDiac</key>
+    <integer>-120</integer>
+  </dict>
   <key>public.kern1.LSmRound</key>
   <dict>
     <key>public.kern2.RModApos</key>
@@ -427,7 +436,7 @@
   <key>public.kern1.LSmTopF</key>
   <dict>
     <key>public.kern2.RBracket</key>
-    <integer>-1</integer>
+    <integer>40</integer>
     <key>public.kern2.RModApos</key>
     <integer>110</integer>
     <key>public.kern2.RQuote</key>

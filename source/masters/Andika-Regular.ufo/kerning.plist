@@ -457,6 +457,21 @@
     <key>public.kern2.RSmRoundDiac</key>
     <integer>-50</integer>
   </dict>
+  <key>public.kern1.LSmHorn</key>
+  <dict>
+    <key>public.kern2.RSmCurve</key>
+    <integer>-80</integer>
+    <key>public.kern2.RSmCurveDesc</key>
+    <integer>-80</integer>
+    <key>public.kern2.RSmCurveDiac</key>
+    <integer>-80</integer>
+    <key>public.kern2.RSmRound</key>
+    <integer>-110</integer>
+    <key>public.kern2.RSmRoundDesc</key>
+    <integer>-110</integer>
+    <key>public.kern2.RSmRoundDiac</key>
+    <integer>-110</integer>
+  </dict>
   <key>public.kern1.LSmRound</key>
   <dict>
     <key>public.kern2.RModApos</key>
