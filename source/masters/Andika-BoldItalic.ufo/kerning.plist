@@ -17,6 +17,12 @@
     <integer>-20</integer>
     <key>public.kern2.RCapTopT</key>
     <integer>-170</integer>
+    <key>public.kern2.RModApos</key>
+    <integer>-280</integer>
+    <key>public.kern2.RQuote</key>
+    <integer>-380</integer>
+    <key>public.kern2.RRelease</key>
+    <integer>-190</integer>
     <key>public.kern2.RSmDiagV</key>
     <integer>-30</integer>
     <key>public.kern2.RSmDiagY</key>
@@ -50,6 +56,12 @@
     <integer>-100</integer>
     <key>public.kern2.RCapTopT</key>
     <integer>-200</integer>
+    <key>public.kern2.RModApos</key>
+    <integer>-260</integer>
+    <key>public.kern2.RQuote</key>
+    <integer>-300</integer>
+    <key>public.kern2.RRelease</key>
+    <integer>-170</integer>
     <key>public.kern2.RSmDiagV</key>
     <integer>-70</integer>
     <key>public.kern2.RSmDiagY</key>
@@ -63,6 +75,8 @@
     <integer>-1</integer>
     <key>public.kern2.RCapTopS</key>
     <integer>-1</integer>
+    <key>public.kern2.RPunctBase</key>
+    <integer>-150</integer>
     <key>public.kern2.RSmCurve</key>
     <integer>-30</integer>
     <key>public.kern2.RSmCurveDesc</key>
@@ -88,6 +102,8 @@
     <integer>-1</integer>
     <key>public.kern2.RCapTopS</key>
     <integer>-1</integer>
+    <key>public.kern2.RPunctBase</key>
+    <integer>-80</integer>
     <key>public.kern2.RSmCurve</key>
     <integer>-30</integer>
     <key>public.kern2.RSmCurveDesc</key>
@@ -127,6 +143,8 @@
   <dict>
     <key>public.kern2.RCapDiagA</key>
     <integer>-90</integer>
+    <key>public.kern2.RPunctBase</key>
+    <integer>-170</integer>
     <key>public.kern2.RSmDiagTrndV</key>
     <integer>-70</integer>
     <key>public.kern2.RSmRound</key>
@@ -144,6 +162,8 @@
     <integer>-1</integer>
     <key>public.kern2.RCapTopS</key>
     <integer>-1</integer>
+    <key>public.kern2.RPunctBase</key>
+    <integer>-130</integer>
     <key>public.kern2.RSmCurve</key>
     <integer>-130</integer>
     <key>public.kern2.RSmCurveDesc</key>
@@ -161,13 +181,100 @@
     <key>public.kern2.RSmSerifDesc</key>
     <integer>-130</integer>
   </dict>
+  <key>public.kern1.LModApos</key>
+  <dict>
+    <key>public.kern2.RCapDiagA</key>
+    <integer>-220</integer>
+    <key>public.kern2.RPunctBase</key>
+    <integer>-230</integer>
+    <key>public.kern2.RSmCurve</key>
+    <integer>-20</integer>
+    <key>public.kern2.RSmCurveDesc</key>
+    <integer>-20</integer>
+    <key>public.kern2.RSmCurveDiac</key>
+    <integer>-20</integer>
+    <key>public.kern2.RSmDiagTrndV</key>
+    <integer>-170</integer>
+    <key>public.kern2.RSmRound</key>
+    <integer>-110</integer>
+    <key>public.kern2.RSmRoundDesc</key>
+    <integer>-110</integer>
+    <key>public.kern2.RSmRoundDiac</key>
+    <integer>-110</integer>
+  </dict>
+  <key>public.kern1.LPunctBase</key>
+  <dict>
+    <key>public.kern2.RCapDiagV</key>
+    <integer>-130</integer>
+    <key>public.kern2.RCapDiagW</key>
+    <integer>-30</integer>
+    <key>public.kern2.RCapTopT</key>
+    <integer>-90</integer>
+    <key>public.kern2.RQuote</key>
+    <integer>-310</integer>
+    <key>public.kern2.RSmDiagV</key>
+    <integer>-60</integer>
+    <key>public.kern2.RSmDiagY</key>
+    <integer>-10</integer>
+  </dict>
+  <key>public.kern1.LQuote</key>
+  <dict>
+    <key>public.kern2.RCapDiagA</key>
+    <integer>-250</integer>
+    <key>public.kern2.RPunctBase</key>
+    <integer>-300</integer>
+    <key>public.kern2.RSmCurve</key>
+    <integer>-10</integer>
+    <key>public.kern2.RSmCurveDesc</key>
+    <integer>-10</integer>
+    <key>public.kern2.RSmCurveDiac</key>
+    <integer>-10</integer>
+    <key>public.kern2.RSmDiagTrndV</key>
+    <integer>-210</integer>
+    <key>public.kern2.RSmRound</key>
+    <integer>-110</integer>
+    <key>public.kern2.RSmRoundDesc</key>
+    <integer>-110</integer>
+    <key>public.kern2.RSmRoundDiac</key>
+    <integer>-110</integer>
+  </dict>
+  <key>public.kern1.LSmCurve</key>
+  <dict>
+    <key>public.kern2.RModApos</key>
+    <integer>-70</integer>
+    <key>public.kern2.RQuote</key>
+    <integer>-90</integer>
+    <key>public.kern2.RRelease</key>
+    <integer>-220</integer>
+  </dict>
+  <key>public.kern1.LSmCurveDiac</key>
+  <dict>
+    <key>public.kern2.RModApos</key>
+    <integer>-50</integer>
+    <key>public.kern2.RQuote</key>
+    <integer>-90</integer>
+    <key>public.kern2.RRelease</key>
+    <integer>-50</integer>
+  </dict>
   <key>public.kern1.LSmDesc</key>
   <dict>
+    <key>public.kern2.RModApos</key>
+    <integer>-30</integer>
+    <key>public.kern2.RQuote</key>
+    <integer>-30</integer>
+    <key>public.kern2.RRelease</key>
+    <integer>-220</integer>
     <key>public.kern2.RSmDescJ</key>
     <integer>210</integer>
   </dict>
   <key>public.kern1.LSmDescDiac</key>
   <dict>
+    <key>public.kern2.RModApos</key>
+    <integer>-30</integer>
+    <key>public.kern2.RQuote</key>
+    <integer>-30</integer>
+    <key>public.kern2.RRelease</key>
+    <integer>-30</integer>
     <key>public.kern2.RSmDescJ</key>
     <integer>210</integer>
   </dict>
@@ -197,16 +304,28 @@
   </dict>
   <key>public.kern1.LSmDiagR</key>
   <dict>
+    <key>public.kern2.RPunctBase</key>
+    <integer>-120</integer>
+    <key>public.kern2.RRelease</key>
+    <integer>-100</integer>
     <key>public.kern2.RSmDiagTrndV</key>
     <integer>-10</integer>
   </dict>
   <key>public.kern1.LSmDiagRDiac</key>
   <dict>
+    <key>public.kern2.RPunctBase</key>
+    <integer>-120</integer>
     <key>public.kern2.RSmDiagTrndV</key>
     <integer>-10</integer>
   </dict>
   <key>public.kern1.LSmDiagTrndV</key>
   <dict>
+    <key>public.kern2.RModApos</key>
+    <integer>-170</integer>
+    <key>public.kern2.RQuote</key>
+    <integer>-170</integer>
+    <key>public.kern2.RRelease</key>
+    <integer>-130</integer>
     <key>public.kern2.RSmDiagV</key>
     <integer>-40</integer>
     <key>public.kern2.RSmDiagY</key>
@@ -214,16 +333,30 @@
   </dict>
   <key>public.kern1.LSmDiagV</key>
   <dict>
+    <key>public.kern2.RPunctBase</key>
+    <integer>-80</integer>
+    <key>public.kern2.RRelease</key>
+    <integer>-120</integer>
     <key>public.kern2.RSmDiagTrndV</key>
     <integer>-40</integer>
   </dict>
   <key>public.kern1.LSmDiagVDiac</key>
   <dict>
+    <key>public.kern2.RPunctBase</key>
+    <integer>-80</integer>
+    <key>public.kern2.RRelease</key>
+    <integer>-100</integer>
     <key>public.kern2.RSmDiagTrndV</key>
     <integer>-40</integer>
   </dict>
   <key>public.kern1.LSmDiagX</key>
   <dict>
+    <key>public.kern2.RModApos</key>
+    <integer>-10</integer>
+    <key>public.kern2.RQuote</key>
+    <integer>-30</integer>
+    <key>public.kern2.RRelease</key>
+    <integer>-170</integer>
     <key>public.kern2.RSmRound</key>
     <integer>-60</integer>
     <key>public.kern2.RSmRoundDesc</key>
@@ -233,6 +366,12 @@
   </dict>
   <key>public.kern1.LSmDiagXDiac</key>
   <dict>
+    <key>public.kern2.RModApos</key>
+    <integer>-10</integer>
+    <key>public.kern2.RQuote</key>
+    <integer>-30</integer>
+    <key>public.kern2.RRelease</key>
+    <integer>-20</integer>
     <key>public.kern2.RSmRound</key>
     <integer>-60</integer>
     <key>public.kern2.RSmRoundDesc</key>
@@ -240,10 +379,59 @@
     <key>public.kern2.RSmRoundDiac</key>
     <integer>-60</integer>
   </dict>
+  <key>public.kern1.LSmRound</key>
+  <dict>
+    <key>public.kern2.RModApos</key>
+    <integer>-200</integer>
+    <key>public.kern2.RQuote</key>
+    <integer>-200</integer>
+    <key>public.kern2.RRelease</key>
+    <integer>-240</integer>
+  </dict>
+  <key>public.kern1.LSmRoundDiac</key>
+  <dict>
+    <key>public.kern2.RModApos</key>
+    <integer>-20</integer>
+    <key>public.kern2.RQuote</key>
+    <integer>-60</integer>
+    <key>public.kern2.RRelease</key>
+    <integer>-1</integer>
+  </dict>
+  <key>public.kern1.LSmRoundE</key>
+  <dict>
+    <key>public.kern2.RModApos</key>
+    <integer>-80</integer>
+    <key>public.kern2.RQuote</key>
+    <integer>-130</integer>
+    <key>public.kern2.RRelease</key>
+    <integer>-220</integer>
+  </dict>
+  <key>public.kern1.LSmRoundEDiac</key>
+  <dict>
+    <key>public.kern2.RModApos</key>
+    <integer>-10</integer>
+    <key>public.kern2.RQuote</key>
+    <integer>-30</integer>
+    <key>public.kern2.RRelease</key>
+    <integer>-1</integer>
+  </dict>
+  <key>public.kern1.LSmSerif</key>
+  <dict>
+    <key>public.kern2.RModApos</key>
+    <integer>-60</integer>
+    <key>public.kern2.RQuote</key>
+    <integer>-80</integer>
+    <key>public.kern2.RRelease</key>
+    <integer>-210</integer>
+  </dict>
   <key>public.kern1.LSmTopF</key>
   <dict>
     <key>public.kern2.RBracket</key>
     <integer>-1</integer>
+    <key>public.kern2.RModApos</key>
+    <integer>100</integer>
+    <key>public.kern2.RQuote</key>
+    <integer>80</integer>
   </dict>
 </dict>
 </plist>
