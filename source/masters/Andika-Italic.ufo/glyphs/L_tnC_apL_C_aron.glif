@@ -2,21 +2,21 @@
 <glyph name="LtnCapLCaron" format="2">
   <advance width="1060"/>
   <unicode hex="013D"/>
-  <anchor x="532" y="0" name="H"/>
-  <anchor x="507" y="-100" name="L"/>
-  <anchor x="641" y="887" name="R_"/>
-  <anchor x="700" y="1530" name="U"/>
+  <anchor x="592" y="0" name="H"/>
+  <anchor x="567" y="-100" name="L"/>
+  <anchor x="701" y="887" name="R_"/>
+  <anchor x="760" y="1530" name="U"/>
   <outline>
-    <component base="LtnCapL" xOffset="-60"/>
+    <component base="LtnCapL"/>
     <contour>
-      <point x="674" y="1080" type="curve"/>
-      <point x="794" y="1080" type="line"/>
-      <point x="880" y="1242"/>
-      <point x="962" y="1406"/>
-      <point x="1026" y="1570" type="curve"/>
-      <point x="831" y="1570" type="line"/>
-      <point x="792" y="1409"/>
-      <point x="738" y="1244"/>
+      <point x="734" y="1080" type="curve"/>
+      <point x="854" y="1080" type="line"/>
+      <point x="940" y="1242"/>
+      <point x="1022" y="1406"/>
+      <point x="1086" y="1570" type="curve"/>
+      <point x="891" y="1570" type="line"/>
+      <point x="852" y="1409"/>
+      <point x="798" y="1244"/>
     </contour>
   </outline>
   <lib>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmDCaron" format="2">
-  <advance width="1480"/>
+  <advance width="1475"/>
   <unicode hex="010F"/>
   <anchor x="530" y="0" name="H"/>
   <anchor x="540" y="-100" name="L"/>
