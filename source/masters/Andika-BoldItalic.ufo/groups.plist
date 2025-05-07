@@ -975,6 +975,7 @@
   <array>
     <string>LtnSmCHook</string>
     <string>LtnSmGHook</string>
+    <string>LtnSmQHook</string>
   </array>
   <key>public.kern1.LSmHookV</key>
   <array>
@@ -1341,7 +1342,6 @@
     <string>LtnSmLngSDotAbv</string>
     <string>LtnSmLngSHighStrk</string>
     <string>LtnSmPHook.BowlHook</string>
-    <string>LtnSmQHook</string>
     <string>LtnSmTeshDigraph</string>
     <string>LtnSmTeshRetrHook</string>
   </array>
