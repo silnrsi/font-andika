@@ -2,10 +2,46 @@ lookup kern_ctx {
     lookupflag 0;
     # Regular 
     ifinfo(styleName, "(?<!Italic)$") {
-    # pos @public.kern1.LCapDiagV' -70 @public.kern2.RSmCurve @_U;
+    pos @public.kern1.LCapDiagV' -60 @public.kern2.RSmCurve @_U;
+    pos @public.kern1.LCapDiagV' -60 @public.kern2.RSmCurveDesc @_U;
+    pos @public.kern1.LCapDiagV' -60 @public.kern2.RSmRound @_U;
+    pos @public.kern1.LCapDiagV' -60 @public.kern2.RSmRoundDesc @_U;
+    pos @public.kern1.LCapDiagW' -45 @public.kern2.RSmCurve @_U;
+    pos @public.kern1.LCapDiagW' -45 @public.kern2.RSmCurveDesc @_U;
+    pos @public.kern1.LCapTopT' -85 @public.kern2.RSmRound @_U;
+    pos @public.kern1.LCapTopT' -85 @public.kern2.RSmRoundDesc @_U;
+    pos @public.kern1.LModApos' -70 @public.kern2.RSmCurve @_U;
+    pos @public.kern1.LModApos' -70 @public.kern2.RSmCurveDesc @_U;
+    pos @public.kern1.LModApos' -70 @public.kern2.RSmRound @_U;
+    pos @public.kern1.LModApos' -70 @public.kern2.RSmRoundDesc @_U;
+    pos @public.kern1.LSmDescHook' 120 @public.kern2.RSmCurve @_L;
+    pos @public.kern1.LSmDescHook' 120 @public.kern2.RSmRound @_L;
+    pos @public.kern1.LSmDescHook' 120 @public.kern2.RSmAsc @_L;
+    pos @public.kern1.LSmDescHook' 120 @public.kern2.RSmBar @_L;
+    pos @public.kern1.LSmDescHook' 120 @public.kern2.RSmSerif @_L;
+    pos @public.kern1.LSmDescHook' 120 @public.kern2.RSmDiagV @_L;
+    pos @public.kern1.LSmDescHook' 120 @public.kern2.RSmDiagTrndV @_L;
     }
     # Italic
     ifinfo(styleName, "(?<=Italic)$") {
-    # pos @public.kern1.LCapDiagV' -80 @public.kern2.RSmCurve @_U;
+    pos @public.kern1.LCapDiagV' -15 @public.kern2.RSmCurve @_U;
+    pos @public.kern1.LCapDiagV' -15 @public.kern2.RSmCurveDesc @_U;
+    pos @public.kern1.LCapDiagV' -35 @public.kern2.RSmRound @_U;
+    pos @public.kern1.LCapDiagV' -35 @public.kern2.RSmRoundDesc @_U;
+    pos @public.kern1.LCapDiagW' -15 @public.kern2.RSmCurve @_U;
+    pos @public.kern1.LCapDiagW' -15 @public.kern2.RSmCurveDesc @_U;
+    pos @public.kern1.LCapTopT' -75 @public.kern2.RSmRound @_U;
+    pos @public.kern1.LCapTopT' -75 @public.kern2.RSmRoundDesc @_U;
+    pos @public.kern1.LModApos' -15 @public.kern2.RSmCurve @_U;
+    pos @public.kern1.LModApos' -15 @public.kern2.RSmCurveDesc @_U;
+    pos @public.kern1.LModApos' -45 @public.kern2.RSmRound @_U;
+    pos @public.kern1.LModApos' -45 @public.kern2.RSmRoundDesc @_U;
+    pos @public.kern1.LSmDescHook' 120 @public.kern2.RSmCurve @_L;
+    pos @public.kern1.LSmDescHook' 120 @public.kern2.RSmRound @_L;
+    pos @public.kern1.LSmDescHook' 120 @public.kern2.RSmAsc @_L;
+    pos @public.kern1.LSmDescHook' 120 @public.kern2.RSmBar @_L;
+    pos @public.kern1.LSmDescHook' 120 @public.kern2.RSmSerif @_L;
+    pos @public.kern1.LSmDescHook' 120 @public.kern2.RSmDiagV @_L;
+    pos @public.kern1.LSmDescHook' 120 @public.kern2.RSmDiagTrndV @_L;
     }
 } kern_ctx;
