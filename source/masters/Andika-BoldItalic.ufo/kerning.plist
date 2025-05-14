@@ -73,8 +73,6 @@
     <integer>-120</integer>
     <key>public.kern2.RCapRound</key>
     <integer>-1</integer>
-    <key>public.kern2.RCapTopS</key>
-    <integer>-1</integer>
     <key>public.kern2.RPunctBase</key>
     <integer>-150</integer>
     <key>public.kern2.RSmCurve</key>
@@ -98,10 +96,6 @@
   <dict>
     <key>public.kern2.RCapDiagA</key>
     <integer>-60</integer>
-    <key>public.kern2.RCapRound</key>
-    <integer>-1</integer>
-    <key>public.kern2.RCapTopS</key>
-    <integer>-1</integer>
     <key>public.kern2.RPunctBase</key>
     <integer>-80</integer>
     <key>public.kern2.RSmCurve</key>
@@ -192,8 +186,6 @@
     <key>public.kern2.RCapDiagA</key>
     <integer>-100</integer>
     <key>public.kern2.RCapRound</key>
-    <integer>-1</integer>
-    <key>public.kern2.RCapTopS</key>
     <integer>-1</integer>
     <key>public.kern2.RPunctBase</key>
     <integer>-130</integer>
