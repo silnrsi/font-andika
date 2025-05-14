@@ -2,7 +2,7 @@
 <glyph name="LtnSmTHook.RtHook" format="2">
   <advance width="835"/>
   <anchor x="475" y="-100" name="L"/>
-  <anchor x="475" y="1635" name="U"/>
+  <anchor x="475" y="1565" name="U"/>
   <outline>
     <component base="LtnSmTHook"/>
   </outline>

@@ -3,7 +3,7 @@
   <advance width="1200"/>
   <anchor x="825" y="-100" name="L"/>
   <anchor x="402" y="-410" name="O"/>
-  <anchor x="722" y="1100" name="U"/>
+  <anchor x="662" y="1100" name="U"/>
   <outline>
     <component base="LtnSmYHook.RtHook"/>
   </outline>
