@@ -334,6 +334,8 @@
   <dict>
     <key>public.kern2.RBracket</key>
     <integer>120</integer>
+    <key>public.kern2.RSlash</key>
+    <integer>420</integer>
     <key>public.kern2.RSmAscDesc</key>
     <integer>130</integer>
     <key>public.kern2.RSmBarDesc</key>

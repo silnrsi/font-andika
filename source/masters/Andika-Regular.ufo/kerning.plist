@@ -370,6 +370,8 @@
   <dict>
     <key>public.kern2.RBracket</key>
     <integer>80</integer>
+    <key>public.kern2.RSlash</key>
+    <integer>240</integer>
     <key>public.kern2.RSmAscDesc</key>
     <integer>90</integer>
     <key>public.kern2.RSmBarDesc</key>
