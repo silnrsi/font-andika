@@ -74,7 +74,7 @@
     <key>public.kern2.RCapDiagA</key>
     <integer>-140</integer>
     <key>public.kern2.RCapRound</key>
-    <integer>-30</integer>
+    <integer>-10</integer>
     <key>public.kern2.RCapTopS</key>
     <integer>-30</integer>
     <key>public.kern2.RPunctBase</key>
@@ -130,7 +130,7 @@
   <key>public.kern1.LCapDiagX</key>
   <dict>
     <key>public.kern2.RCapRound</key>
-    <integer>-90</integer>
+    <integer>-80</integer>
   </dict>
   <key>public.kern1.LCapHook</key>
   <dict>
@@ -281,7 +281,7 @@
     <key>public.kern2.RQuote</key>
     <integer>-310</integer>
     <key>public.kern2.RSmDiagV</key>
-    <integer>-160</integer>
+    <integer>-150</integer>
     <key>public.kern2.RSmDiagY</key>
     <integer>-50</integer>
   </dict>
@@ -418,7 +418,7 @@
   <key>public.kern1.LSmDiagV</key>
   <dict>
     <key>public.kern2.RPunctBase</key>
-    <integer>-160</integer>
+    <integer>-150</integer>
     <key>public.kern2.RQuote</key>
     <integer>-50</integer>
     <key>public.kern2.RRelease</key>

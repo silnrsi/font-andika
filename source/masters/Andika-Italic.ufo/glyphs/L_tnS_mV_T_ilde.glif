@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmVTilde" format="2">
-  <advance width="941"/>
+  <advance width="961"/>
   <unicode hex="1E7D"/>
   <anchor x="359" y="0" name="H"/>
   <anchor x="350" y="-100" name="L"/>

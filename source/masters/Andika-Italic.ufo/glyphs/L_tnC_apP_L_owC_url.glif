@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnCapPLowCurl" format="2">
-  <advance width="1425"/>
+  <advance width="1455"/>
   <unicode hex="A752"/>
   <anchor x="752" y="-100" name="L"/>
   <anchor x="1159" y="1530" name="U"/>

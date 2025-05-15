@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnCapThornLowStrk" format="2">
-  <advance width="1255"/>
+  <advance width="1274"/>
   <unicode hex="A766"/>
   <anchor x="553" y="-100" name="L"/>
   <anchor x="960" y="1530" name="U"/>

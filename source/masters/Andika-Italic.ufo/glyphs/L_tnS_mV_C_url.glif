@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmVCurl" format="2">
-  <advance width="1070"/>
+  <advance width="1090"/>
   <unicode hex="2C74"/>
   <anchor x="485" y="0" name="H"/>
   <anchor x="475" y="-100" name="L"/>

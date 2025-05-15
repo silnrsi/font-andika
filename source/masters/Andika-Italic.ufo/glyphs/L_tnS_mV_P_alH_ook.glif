@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmVPalHook" format="2">
-  <advance width="941"/>
+  <advance width="961"/>
   <unicode hex="1D8C"/>
   <anchor x="410" y="-500" name="L"/>
   <anchor x="621" y="1100" name="U"/>

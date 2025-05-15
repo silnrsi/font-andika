@@ -31,11 +31,11 @@
   <key>public.kern1.LCapBaseR</key>
   <dict>
     <key>public.kern2.RCapDiagV</key>
-    <integer>-80</integer>
+    <integer>-100</integer>
     <key>public.kern2.RCapDiagW</key>
     <integer>-50</integer>
     <key>public.kern2.RCapTopT</key>
-    <integer>-60</integer>
+    <integer>-80</integer>
   </dict>
   <key>public.kern1.LCapBaseU</key>
   <dict>
@@ -53,7 +53,7 @@
     <key>public.kern2.RCapDiagW</key>
     <integer>-120</integer>
     <key>public.kern2.RCapRound</key>
-    <integer>-100</integer>
+    <integer>-90</integer>
     <key>public.kern2.RCapTopT</key>
     <integer>-200</integer>
     <key>public.kern2.RModApos</key>
@@ -118,7 +118,7 @@
   <key>public.kern1.LCapDiagX</key>
   <dict>
     <key>public.kern2.RCapRound</key>
-    <integer>-100</integer>
+    <integer>-90</integer>
   </dict>
   <key>public.kern1.LCapHook</key>
   <dict>
@@ -164,22 +164,22 @@
     <key>public.kern2.RCapDiagX</key>
     <integer>-40</integer>
     <key>public.kern2.RCapTopT</key>
-    <integer>-50</integer>
+    <integer>-80</integer>
   </dict>
   <key>public.kern1.LCapTopP</key>
   <dict>
     <key>public.kern2.RCapDiagA</key>
-    <integer>-80</integer>
+    <integer>-100</integer>
     <key>public.kern2.RPunctBase</key>
     <integer>-250</integer>
     <key>public.kern2.RSmDiagTrndV</key>
     <integer>-70</integer>
     <key>public.kern2.RSmRound</key>
-    <integer>-10</integer>
+    <integer>-20</integer>
     <key>public.kern2.RSmRoundDesc</key>
-    <integer>-10</integer>
+    <integer>-20</integer>
     <key>public.kern2.RSmRoundDiac</key>
-    <integer>-10</integer>
+    <integer>-20</integer>
   </dict>
   <key>public.kern1.LCapTopT</key>
   <dict>
@@ -404,11 +404,11 @@
     <key>public.kern2.RRelease</key>
     <integer>-170</integer>
     <key>public.kern2.RSmRound</key>
-    <integer>-50</integer>
-    <key>public.kern2.RSmRoundDesc</key>
     <integer>-30</integer>
+    <key>public.kern2.RSmRoundDesc</key>
+    <integer>-10</integer>
     <key>public.kern2.RSmRoundDiac</key>
-    <integer>-50</integer>
+    <integer>-30</integer>
   </dict>
   <key>public.kern1.LSmDiagXDiac</key>
   <dict>
@@ -419,11 +419,11 @@
     <key>public.kern2.RRelease</key>
     <integer>-90</integer>
     <key>public.kern2.RSmRound</key>
-    <integer>-50</integer>
-    <key>public.kern2.RSmRoundDesc</key>
     <integer>-30</integer>
+    <key>public.kern2.RSmRoundDesc</key>
+    <integer>-10</integer>
     <key>public.kern2.RSmRoundDiac</key>
-    <integer>-50</integer>
+    <integer>-30</integer>
   </dict>
   <key>public.kern1.LSmHookC</key>
   <dict>

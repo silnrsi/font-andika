@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmYOgonek.NoTailY.RetroHook" format="2">
-  <advance width="1130"/>
-  <anchor x="325" y="-740" name="L"/>
-  <anchor x="1280" y="1000" name="R"/>
-  <anchor x="700" y="1100" name="U"/>
+  <advance width="1078"/>
+  <anchor x="273" y="-740" name="L"/>
+  <anchor x="1228" y="1000" name="R"/>
+  <anchor x="648" y="1100" name="U"/>
   <outline>
     <component base="LtnSmYOgonek.RetroHook"/>
   </outline>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmVHook.StraightLft" format="2">
-  <advance width="981"/>
+  <advance width="1005"/>
   <anchor x="401" y="0" name="H"/>
   <anchor x="361" y="-100" name="L"/>
   <anchor x="591" y="0" name="O"/>

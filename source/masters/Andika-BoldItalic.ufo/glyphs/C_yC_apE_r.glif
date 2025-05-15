@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CyCapEr" format="2">
-  <advance width="1255"/>
+  <advance width="1274"/>
   <unicode hex="0420"/>
   <anchor x="600" y="-100" name="L"/>
   <anchor x="970" y="1530" name="U"/>

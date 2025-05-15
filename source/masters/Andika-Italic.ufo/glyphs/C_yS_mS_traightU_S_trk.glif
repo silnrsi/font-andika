@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CySmStraightUStrk" format="2">
-  <advance width="1090"/>
+  <advance width="1070"/>
   <unicode hex="04B1"/>
   <anchor x="385" y="-535" name="L"/>
   <anchor x="670" y="1100" name="U"/>
