@@ -7578,7 +7578,7 @@
     </test>
     <test label="U+1DF01">
       <comment>LtnSmRevScriptG</comment>
-      <string>\u01DF01\u000329 \u01DF01\u000315 \u01DF01\u00030D</string>
+      <string>\u01DF01\u000327 \u01DF01\u000329 \u01DF01\u000315 \u01DF01\u00030D</string>
     </test>
     <test label="U+1DF02">
       <comment>LtnSmCapTurnedG</comment>
