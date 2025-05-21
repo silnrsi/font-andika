@@ -10,6 +10,7 @@ fontversion: 7.000
 #### Family structure
 
 - There are additional intermediate weights. Previously existing weights in both families have not changed. Here is a list, with retained weights in **bold** and new weights in *italic*. The CSS values for the weights within each family are in parentheses. Italic faces follow a similar structure and correspondence.
+
     - **Andika Regular** (400)
     - *Andika Medium* (500)
     - *Andika SemiBold* (600)
@@ -23,7 +24,7 @@ fontversion: 7.000
 
 #### New features and enhancements
 
-- Kerning has now been added and covers the full range of alphabetic symbols, including small caps. **Warning: Because of the addition of extensive kerning, line, paragraph, and page lengths may be different from v6.2.** If this affects you the [Andika Six font family](https://software.sil.org/andika/andika-six-release-6-210-a-renamed-version-of-andika-6-200/) may be helpful.
+- Kerning has now been added and covers the full range of alphabetic symbols except for small caps (which will be included in a future update). **Warning: Because of the addition of extensive kerning, line, paragraph, and page lengths may be different from v6.2.** If this affects you the [Andika Six font family](https://software.sil.org/andika/andika-six-release-6-210-a-renamed-version-of-andika-6-200/) may be helpful.
 
 - The default form for capital N with left hook has been changed to the lowercase style to match the capital Eng. The related feature (`cv44`) has been changed to substitute the uppercase style form.
     - U+019D LATIN CAPITAL LETTER N WITH LEFT HOOK
