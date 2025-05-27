@@ -16,7 +16,7 @@ The changes in this version could have a significant effect on line, paragraph, 
 Andika now has additional intermediate weights. Previously existing weights have not changed. The CSS values for the weights within each family are in parentheses. Italic faces follow a similar structure and correspondence.
 
 ![New v7 weights](../assets/images/weights.png){.fullsize}
-<!-- PRODUCT SITE IMAGE SRC https://software.sil.org/andika/wp-content/uploads/sites/20/2015/12/Gentium_design_balance.png -->
+<!-- PRODUCT SITE IMAGE SRC https://software.sil.org/andika/wp-content/uploads/sites/19/2025/05/weights.png -->
 
 The new intermediate weights in this extended, axis-based family can be confusing for applications that still assume families should have only four members (Regular, Italic, Bold, Bold Italic). This is the case for Microsoft Word and some older Windows applications. For details on how to use the intermediate weights in these applications, see [Using Axis-Based Font Families](https://software.sil.org/fonts/axis-based-fonts/).
 
@@ -41,7 +41,7 @@ Kerning has now been added to cover the full range of alphabetic symbols except 
 **Warning: Because of the addition of extensive kerning, line, paragraph, and page lengths may be different from v6.2.**
 
 ![New kerning](../assets/images/kerning.png){.fullsize}
-<!-- PRODUCT SITE IMAGE SRC https://software.sil.org/andika/wp-content/uploads/sites/20/2015/12/Gentium_design_balance.png -->
+<!-- PRODUCT SITE IMAGE SRC https://software.sil.org/andika/wp-content/uploads/sites/19/2025/05/kerning.png -->
 
 ### Capital N Left Hook default changed to lowercase style
 

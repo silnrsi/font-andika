@@ -1,5 +1,5 @@
 
-### N Jan 2025 (SIL WSTech Team) Andika version 7.000
+### 2 Jun 2025 (SIL WSTech Team) Andika version 7.000
 
 ***Note that this is a major upgrade with significant changes to family structure and glyph metrics. Please read the following carefully to understand how the changes may affect you.***
 
