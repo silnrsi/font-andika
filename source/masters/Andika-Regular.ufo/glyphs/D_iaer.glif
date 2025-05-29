@@ -2,8 +2,6 @@
 <glyph name="Diaer" format="2">
   <advance width="680"/>
   <unicode hex="00A8"/>
-  <anchor x="340" y="1505" name="U"/>
-  <anchor x="340" y="1100" name="_U"/>
   <outline>
     <contour>
       <point x="420" y="1345" type="curve" smooth="yes"/>
