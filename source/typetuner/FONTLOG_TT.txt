@@ -48,7 +48,7 @@ Reserved Font Names and would have to be named something like
 
 (This should list both major and minor changes, most recent first.)
 
-### %DATE% (SIL TypeTuner) Tuned version of Andika version 6.200
+### %DATE% (SIL TypeTuner) Tuned version of Andika version 7.000
 
 - Tuned and delivered by SIL TypeTuner (https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi)
 
