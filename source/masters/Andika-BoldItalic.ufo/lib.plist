@@ -29,7 +29,7 @@
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3337</string>
+  <string>3436</string>
   <key>com.schriftgestaltung.customName</key>
   <string>Italic</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
@@ -274,6 +274,8 @@ x/LtnSmLTrnd/LtnSmTrndI/LtnSmLDotBlw n/ModSmTurnedH/ModSmX/ModSmTrndI/ModSmR s/S
 x/SglHighRev9QuotMrk x/ModTurnedComma x/ModTurnedComma.Lrg x/ModRevComma x/ModRevComma.Lrg x/ModApos x/ModApos.Lrg x/DblHighRev9QuotMrk x/ModDblApos x
 x/CombTrndCommaAbv x/CombTrndCommaAbv.Lrg x/CombRevCommaAbv x/CombRevCommaAbv.Lrg 
 </string>
+    <string>?/LtnCapGlottalStop ejë/LtnSmGlottalStop re/Space/LtnCapGlottalStop O/LtnGlottalStop f/LtnSmGlottalStop o
+BCDG/LtnGlottalStop/LtnCapGlottalStop/LtnSmGlottalStop o?OPQRSI</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
