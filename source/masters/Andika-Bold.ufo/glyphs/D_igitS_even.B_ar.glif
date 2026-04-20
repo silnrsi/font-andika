@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="DigitSeven.Bar" format="2">
-  <advance width="1200"/>
-  <anchor x="600" y="-100" name="L"/>
-  <anchor x="600" y="1530" name="U"/>
+  <advance width="1240"/>
+  <anchor x="625" y="-100" name="L"/>
+  <anchor x="625" y="1530" name="U"/>
   <outline>
     <contour>
       <point x="235" y="0" type="curve"/>
@@ -27,4 +27,10 @@
       <point x="265" y="830" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

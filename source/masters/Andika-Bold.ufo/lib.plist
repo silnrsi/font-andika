@@ -288,6 +288,7 @@ x/CombTrndCommaAbv x/CombTrndCommaAbv.Lrg x/CombRevCommaAbv x/CombRevCommaAbv.Lr
 </string>
     <string>?/LtnCapGlottalStop ejëre/Space/LtnCapGlottalStop O/LtnGlottalStop f/LtnSmGlottalStop o
 BCDG/LtnGlottalStop/LtnCapGlottalStop/LtnSmGlottalStop o?OPQRSI</string>
+    <string>0/DigitZero.Slash 1/DigitOne.NoBase 234/DigitFour.Open 56/DigitSix.Diag 7/DigitSeven.Bar 89/DigitNine.Diag</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
