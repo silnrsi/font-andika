@@ -1,6 +1,6 @@
 ref_fonts = [
-    "../references/v6200/Andika-Regular.ttf=AR6",
-    "../references/v6200/Andika-Bold.ttf=AB6",
-    "../references/v6200/Andika-Italic.ttf=AI6",
-    "../references/v6200/Andika-BoldItalic.ttf=ABI6",
+    "../references/v7000/Andika-Regular.ttf=AR7",
+    "../references/v7000/Andika-Bold.ttf=AB7",
+    "../references/v7000/Andika-Italic.ttf=AI7",
+    "../references/v7000/Andika-BoldItalic.ttf=ABI7",
 ]
