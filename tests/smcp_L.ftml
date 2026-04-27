@@ -2349,7 +2349,7 @@ U+A793
 U+A794
 U+A797
 U+A799">
-      <comment>LtnSmInsularS LtnSmInsularT LtnSmSaltillo LtnSmNDesc LtnSmCBar LtnSmCPalHook LtnSmBLftMidHook LtnSmFHookStrk</comment>
+      <comment>LtnSmInsularS LtnSmInsularT LtnSmSaltillo LtnSmNDesc LtnSmCBar LtnSmCPalHook LtnSmBLftMidHook LtnSmFStrk</comment>
       <string>\u00A785\u000329\u00A787\u000329\u00A78C\u000329\u00A791\u000329\u00A793\u000329\u00A794\u000329\u00A797\u000329\u00A799\u000329</string>
     </test>
     <test label="U+A785
@@ -2360,7 +2360,7 @@ U+A793
 U+A794
 U+A797
 U+A799" stylename="smcp_1">
-      <comment>LtnSmInsularS LtnSmInsularT LtnSmSaltillo LtnSmNDesc LtnSmCBar LtnSmCPalHook LtnSmBLftMidHook LtnSmFHookStrk</comment>
+      <comment>LtnSmInsularS LtnSmInsularT LtnSmSaltillo LtnSmNDesc LtnSmCBar LtnSmCPalHook LtnSmBLftMidHook LtnSmFStrk</comment>
       <string>\u00A785\u000329\u00A787\u000329\u00A78C\u000329\u00A791\u000329\u00A793\u000329\u00A794\u000329\u00A797\u000329\u00A799\u000329</string>
     </test>
     <test label="U+A784
@@ -2371,7 +2371,7 @@ U+A792
 U+A7C4
 U+A796
 U+A798">
-      <comment>LtnCapInsularS LtnCapInsularT LtnCapSaltillo LtnCapNDesc LtnCapCBar LtnCapCPalHook LtnCapBLftMidHook LtnCapFHookStrk</comment>
+      <comment>LtnCapInsularS LtnCapInsularT LtnCapSaltillo LtnCapNDesc LtnCapCBar LtnCapCPalHook LtnCapBLftMidHook LtnCapFStrk</comment>
       <string>\u00A784\u000329\u00A786\u000329\u00A78B\u000329\u00A790\u000329\u00A792\u000329\u00A7C4\u000329\u00A796\u000329\u00A798\u000329</string>
     </test>
     <test label="U+A7A1
@@ -3953,7 +3953,7 @@ U+A796
 U+A798
 U+A7A0
 U+A7A2">
-      <comment>LtnCapSaltillo LtnCapTurnedH LtnCapNDesc LtnCapCBar LtnCapBLftMidHook LtnCapFHookStrk LtnCapGDiagStrk LtnCapKDiagStrk</comment>
+      <comment>LtnCapSaltillo LtnCapTurnedH LtnCapNDesc LtnCapCBar LtnCapBLftMidHook LtnCapFStrk LtnCapGDiagStrk LtnCapKDiagStrk</comment>
       <string>\u00A78B\u000329\u00A78D\u000329\u00A790\u000329\u00A792\u000329\u00A796\u000329\u00A798\u000329\u00A7A0\u000329\u00A7A2\u000329</string>
     </test>
     <test label="U+A78B
@@ -3964,7 +3964,7 @@ U+A796
 U+A798
 U+A7A0
 U+A7A2" stylename="c2sc_1">
-      <comment>LtnCapSaltillo LtnCapTurnedH LtnCapNDesc LtnCapCBar LtnCapBLftMidHook LtnCapFHookStrk LtnCapGDiagStrk LtnCapKDiagStrk</comment>
+      <comment>LtnCapSaltillo LtnCapTurnedH LtnCapNDesc LtnCapCBar LtnCapBLftMidHook LtnCapFStrk LtnCapGDiagStrk LtnCapKDiagStrk</comment>
       <string>\u00A78B\u000329\u00A78D\u000329\u00A790\u000329\u00A792\u000329\u00A796\u000329\u00A798\u000329\u00A7A0\u000329\u00A7A2\u000329</string>
     </test>
     <test label="U+A7A4
