@@ -3,12 +3,12 @@
 <ftml version="1.0">
   <head>
     <fontscale>200</fontscale>
-    <fontsrc label="ARv7">url(../results/Andika-Regular.ttf)</fontsrc>
-    <fontsrc label="ABv7">url(../results/Andika-Bold.ttf)</fontsrc>
-    <fontsrc label="AIv7">url(../results/Andika-Italic.ttf)</fontsrc>
-    <fontsrc label="ABIv7">url(../results/Andika-BoldItalic.ttf)</fontsrc>
-    <fontsrc label="ARv62">url(../references/v6200/Andika-Regular.ttf)</fontsrc>
-    <fontsrc label="AIv62">url(../references/v6200/Andika-Italic.ttf)</fontsrc>
+    <fontsrc label="AR">url(../results/Andika-Regular.ttf)</fontsrc>
+    <fontsrc label="AB">url(../results/Andika-Bold.ttf)</fontsrc>
+    <fontsrc label="AI">url(../results/Andika-Italic.ttf)</fontsrc>
+    <fontsrc label="ABI">url(../results/Andika-BoldItalic.ttf)</fontsrc>
+    <fontsrc label="ARv7">url(../references/v7000/Andika-Regular.ttf)</fontsrc>
+    <fontsrc label="AIv7">url(../references/v7000/Andika-Italic.ttf)</fontsrc>
     <title>Bridging diacritics</title>
   </head>
   <testgroup label="Experimental combos (only the first and last are expected to fully center)">
