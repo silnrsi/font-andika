@@ -275,7 +275,7 @@ x/SglHighRev9QuotMrk x/ModTurnedComma x/ModTurnedComma.Lrg x/ModRevComma x/ModRe
 x/CombTrndCommaAbv x/CombTrndCommaAbv.Lrg x/CombRevCommaAbv x/CombRevCommaAbv.Lrg 
 </string>
     <string>?/LtnCapGlottalStop ejë/LtnSmGlottalStop re/Space/LtnCapGlottalStop O/LtnGlottalStop f/LtnSmGlottalStop o
-BCDG/LtnGlottalStop/LtnCapGlottalStop/LtnSmGlottalStop o?OPQRSI</string>
+BCDG/LtnGlottalStop H/LtnCapGlottalStop HTHPH/LtnSmGlottalStop o?OPQRSI</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
