@@ -29,7 +29,7 @@
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3436</string>
+  <string>3530</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>ngjnqjn/LtnSmARetrHook jn
@@ -290,6 +290,7 @@ x/CombTrndCommaAbv x/CombTrndCommaAbv.Lrg x/CombRevCommaAbv x/CombRevCommaAbv.Lr
 /DotOperator/DigitZero.Slash/DigitOne.NoBase/DigitFour.Open/DigitSix.Diag/DigitSeven.Bar/DigitNine.Diag</string>
     <string>l1´/LtnSmAlpha ndngnqn/LtnSmOi nonjngmx
 HQHOH/LtnCapOi H/LtnCapScriptG HCH</string>
+    <string>lo/CombLtnSmD o/CombNumSgn o/CombSharp o/CombFlat o/CombZigZagAbv óo/CombDblArchBlw o/CombDblArchAbv o/CombSeagullBlw o/CombSeagullAbv/Space</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

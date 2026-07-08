@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombSharp" format="2">
   <unicode hex="1AD9"/>
-  <anchor x="-221" y="1635" name="U"/>
+  <anchor x="-171" y="1885" name="U"/>
   <anchor x="-355" y="1100" name="_U"/>
   <outline>
-    <component base="CombVertLineAbv"/>
+    <contour>
+      <point x="-405" y="1127" type="line"/>
+      <point x="-236" y="1806" type="line"/>
+      <point x="-316" y="1806" type="line"/>
+      <point x="-485" y="1127" type="line"/>
+    </contour>
+    <contour>
+      <point x="-192" y="1180" type="line"/>
+      <point x="-23" y="1859" type="line"/>
+      <point x="-103" y="1858" type="line"/>
+      <point x="-272" y="1179" type="line"/>
+    </contour>
+    <contour>
+      <point x="-476" y="1607" type="line"/>
+      <point x="-501" y="1506" type="line"/>
+      <point x="31" y="1634" type="line"/>
+      <point x="56" y="1735" type="line"/>
+    </contour>
+    <contour>
+      <point x="-539" y="1352" type="line"/>
+      <point x="-564" y="1251" type="line"/>
+      <point x="-32" y="1379" type="line"/>
+      <point x="-7" y="1480" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
