@@ -271,7 +271,6 @@ c/ModApos/LtnSmCAcute/ModApos c/RtSglQuotMrk/LtnSmCAcute/RtSglQuotMrk c/CombLftA
 HQHOH/LtnCapOi HH/LtnCapScriptG HCHG</string>
     <string>lo/CombLtnSmD o/CombNumSgn o/CombSharp o/CombFlat o/CombZigZagAbv óo/CombDblArchBlw o/CombDblArchAbv o/CombSeagullBlw o/CombSeagullAbv 
 /LtnCapLambda/LtnCapLambdaStrk/GrSmLamda/LtnSmLambda/LtnSmLambdaStrk yaq/ModSmW íl/LtnSmLambda al/LtnSmLambdaStrk kfuxl/LtnSmTurnedV k</string>
-    <string>/CombCommaAbv</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
