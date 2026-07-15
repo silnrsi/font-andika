@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmGPalHook" format="2">
+  <advance width="1490"/>
+  <anchor x="378" y="-500" name="L"/>
+  <anchor x="778" y="1100" name="U"/>
+  <outline>
+    <component base="LtnSmGPalHook.SngBowl"/>
+  </outline>
+</glyph>
