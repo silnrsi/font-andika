@@ -1665,19 +1665,19 @@
 		LtnSmZSwashTail.sc LtnWynn.sc LtnSmCPalHook.sc LtnSmChi.sc
 		LtnSmCuatrillo.sc LtnSmCuatrilloComma.sc LtnSmIDotBlw.Dotless.NB.sc LtnSmIDotBlw.NB.sc
 		LtnSmIOgonek.NB.RetroHook.sc LtnSmIOgonek.NB.sc LtnSmITildeBlw.NB.sc LtnSmSHook.sc
-		CySmSemisoftSgn LtnCapMHook LtnCapMHookDep NoBreakSpace
-		LtnInvGlottalStopStrk LtnSmCHook LtnSmGHook LtnSmPHook.BowlHook
-		LtnSmQHook LtnSmCapIOverSmSchwa LtnSmT LtnSmTCaron
-		LtnSmTCedilla LtnSmTCircumBlw LtnSmTCommaBlw LtnSmTCurl
-		LtnSmTDiagStrk LtnSmTDotBlw LtnSmTLineBlw LtnSmTMidLftHook
-		LtnSmTMiddleTilde LtnSmTMiddleTildeDep LtnSmTPalHook LtnSmTRetrHook
-		LtnSmTStrk LtnSmTcDigraphCurl LtnSmTsDigraph LtnSmTsHook
-		LtnSmTum LtnSmTzDigraph LtnSmUpsilonOverSmSchwa LtnSmVisigothicZ
-		LtnSmHDotAbv LtnSmMHook.sc LtnSmT.NoTailT LtnSmTCaron.NoTailT
-		LtnSmTCedilla.NoTailT LtnSmTCircumBlw.NoTailT LtnSmTCommaBlw.NoTailT LtnSmTDiagStrk.NoTailT
-		LtnSmTDotBlw.NoTailT LtnSmTLineBlw.NoTailT LtnSmTMidLftHook.NoTailT LtnSmTMiddleTilde.NoTailT
-		LtnSmTPalHook.NoTailT LtnSmTStrk.NoTailT LtnSmTcDigraphCurl.NoTailT LtnSmTsDigraph.NoTailT
-		LtnSmTsHook.NoTailT LtnSmTzDigraph.NoTailT LtnSmVHook.StraightLftHighHook
+		CySmSemisoftSgn InvExclamationMrk LtnCapMHook LtnCapMHookDep
+		NoBreakSpace LtnInvGlottalStopStrk LtnSmCHook LtnSmGHook
+		LtnSmPHook.BowlHook LtnSmQHook LtnSmCapIOverSmSchwa LtnSmT
+		LtnSmTCaron LtnSmTCedilla LtnSmTCircumBlw LtnSmTCommaBlw
+		LtnSmTCurl LtnSmTDiagStrk LtnSmTDotBlw LtnSmTLineBlw
+		LtnSmTMidLftHook LtnSmTMiddleTilde LtnSmTMiddleTildeDep LtnSmTPalHook
+		LtnSmTRetrHook LtnSmTStrk LtnSmTcDigraphCurl LtnSmTsDigraph
+		LtnSmTsHook LtnSmTum LtnSmTzDigraph LtnSmUpsilonOverSmSchwa
+		LtnSmVisigothicZ LtnSmHDotAbv LtnSmMHook.sc LtnSmT.NoTailT
+		LtnSmTCaron.NoTailT LtnSmTCedilla.NoTailT LtnSmTCircumBlw.NoTailT LtnSmTCommaBlw.NoTailT
+		LtnSmTDiagStrk.NoTailT LtnSmTDotBlw.NoTailT LtnSmTLineBlw.NoTailT LtnSmTMidLftHook.NoTailT
+		LtnSmTMiddleTilde.NoTailT LtnSmTPalHook.NoTailT LtnSmTStrk.NoTailT LtnSmTcDigraphCurl.NoTailT
+		LtnSmTsDigraph.NoTailT LtnSmTsHook.NoTailT LtnSmTzDigraph.NoTailT LtnSmVHook.StraightLftHighHook
 	</class>
 	<class name="c_takes_low_diac" fixed="0">
 		CySmA CySmAbkhasCheDesc CySmAbkhasDze CySmAbkhasDze.RevSigmaStyle
@@ -1935,51 +1935,51 @@
 		LtnSmTRetrHook LtnSmTeshDigraph LtnSmTeshDigraph.NoTailT LtnSmTeshPalHook
 		LtnSmTeshPalHook.NoTailT LtnSmTresillo LtnSmTrndDelta LtnSmTrndI
 		LtnSmTurnedRHook LtnSmTurnedRLngLegHook LtnSmTurnedRLngLegHookDep LtnSmTurnedRPalHook
-		LtnSmTurnedT LtnSmTzDigraph LtnSmTzDigraph.NoTailT LtnSmUDiaerBlw
-		LtnSmUDotBlw LtnSmUHornDotBlw LtnSmUOgonek LtnSmUOgonek.RetroHook
-		LtnSmUTildeBlw LtnSmUm LtnSmVDotBlw LtnSmVDotBlw.SItal
-		LtnSmVPalHook LtnSmVPalHookDep LtnSmVYDigraph LtnSmVend
-		LtnSmVisigothicZ LtnSmWDotBlw LtnSmXPalHook LtnSmXPalHookDep
-		LtnSmYDotBlw LtnSmYDotBlw.NoTailY LtnSmYogh LtnSmZDesc
-		LtnSmZDescDep LtnSmZDotBlw LtnSmZDotBlw.SItal LtnSmZHook
-		LtnSmZPalHook LtnSmZPalHookDep LtnSmZSwashTail LtnSmZSwashTailDep
-		LtnStretchedC LtnWynn TripleVertBar CombDblBreveBlw
-		CombDblBreveBlw.ulow CombDblBreveBlw.umid CombDblBreveBlw.blwhigh CombDblBreveBlw.blwhigh.ulow
-		CombDblBreveBlw.blwhigh.umid LtnStretchedCCurl CombDblInvBreveBlw CombDblInvBreveBlw.ulow
-		CombDblInvBreveBlw.umid CombDblInvBreveBlw.blwhigh CombDblInvBreveBlw.blwhigh.ulow CombDblInvBreveBlw.blwhigh.umid
-		CombDblMacronBlw CombDblMacronBlw.ulow CombDblMacronBlw.umid CombDblMacronBlw.blwhigh
-		CombDblMacronBlw.blwhigh.ulow CombDblMacronBlw.blwhigh.umid LtnCapARingBlw LtnSmARingBlw
-		LtnSmARingBlw.2StorySItal LtnSmARingBlw.SngStory CombDblRtArrwBlw.blwhigh CombDblRtArrwBlw.blwhigh.ulow
-		CombDblRtArrwBlw.blwhigh.umid LtnCapBLineBlw LtnCapDLineBlw LtnCapKLineBlw
-		LtnCapLLineBlw LtnCapNLineBlw LtnCapRLineBlw LtnCapTLineBlw
-		LtnCapZLineBlw LtnSmBLineBlw LtnSmDLineBlw LtnSmHLineBlw
-		LtnSmKLineBlw LtnSmLLineBlw LtnSmLLineBlw.SItal LtnSmLLineBlw.TailL
-		LtnSmNLineBlw LtnSmRLineBlw LtnSmTLineBlw LtnSmTLineBlw.NoTailT
-		LtnSmTzDigraph.sc LtnSmZLineBlw LtnSmZLineBlw.SItal LtnSmThornLowStrk
-		LtnCapAOgonek LtnCapEOgonek LtnCapIOgonek LtnCapIOgonek.NB
-		LtnCapOOgonek LtnCapOOgonekMacron LtnSmAOgonek LtnSmAOgonek.2StorySItal
-		LtnSmAOgonek.SngStory LtnSmAOgonek.SngStory.sc LtnSmAOgonek.sc LtnSmIOgonek
-		LtnSmIOgonek.Dotless LtnSmIOgonek.NB LtnSmIOgonek.NB.sc LtnSmIOgonek.TailI
-		CyCapQa LtnCapQ LtnCapQ.DiagTail LtnCapQDiagStrk
-		LtnCapQStrk CySmAbkhasCheDesc.sc CySmDzhe.sc CySmElHook.sc
-		CySmElTail.sc CySmEnHook.sc CySmEnLftHook.sc CySmEsDesc.sc
-		CySmGheDesc.sc CySmGheMiddleHook.sc CySmGheStrkDesc.sc CySmGheStrkHook.sc
-		CySmHaHook.sc CySmKaHook.sc CySmKhakasChe.sc CySmTeDesc.sc
-		CySmZeDesc.sc LtnSmAYDigraph.sc LtnSmCapSmRHookTail LtnSmEng.UCStyle.sc
-		LtnSmEng.sc LtnSmEzh.sc LtnSmEzhCaron.sc LtnSmEzhRev.sc
-		LtnSmFHook.sc LtnSmFStrk.sc LtnSmHeng.sc LtnSmInsularF.sc
-		LtnSmInsularR.sc LtnSmInsularS.sc LtnSmIs.sc LtnSmMHook.sc
-		LtnSmNLftHook.UCStyle.sc LtnSmNLftHook.sc LtnSmNLngRtLeg.sc LtnSmQDiagStrk.DiagTail.sc
-		LtnSmQHookTail.sc LtnSmQStrk.DiagTail.sc LtnSmRHookTail.sc LtnSmRumRotunda.sc
-		LtnSmSSwashTail.sc LtnSmTRetrHook.sc LtnSmVYDigraph.sc LtnSmVend.sc
-		LtnSmVisigothicZ.sc LtnSmZDesc.sc LtnSmZHook.sc LtnSmZPalHook.sc
-		LtnSmZSwashTail.sc LtnWynn.sc CySmEf CySmStraightU
-		CySmStraightUStrk GrSmGamma LtnSmG LtnSmG.BarBowl
-		LtnSmGAcute LtnSmGBreve LtnSmGCaron LtnSmGCedilla
-		LtnSmGCircum LtnSmGDotAbv LtnSmGMacron LtnSmGPalHook
-		LtnSmGStrk LtnSmPhi LtnSmQPDigraph LtnSmQPDigraphDep
-		CySmQa.sc LtnSmQ.DiagTail.sc LtnSmQ.sc LtnSmQDiagStrk.sc
-		LtnSmQStrk.sc LtnCapAtDep LtnCapEt LtnCapYogh
+		LtnSmTzDigraph LtnSmTzDigraph.NoTailT LtnSmUDiaerBlw LtnSmUDotBlw
+		LtnSmUHornDotBlw LtnSmUOgonek LtnSmUOgonek.RetroHook LtnSmUTildeBlw
+		LtnSmUm LtnSmVDotBlw LtnSmVDotBlw.SItal LtnSmVPalHook
+		LtnSmVPalHookDep LtnSmVYDigraph LtnSmVend LtnSmVisigothicZ
+		LtnSmWDotBlw LtnSmXPalHook LtnSmXPalHookDep LtnSmYDotBlw
+		LtnSmYDotBlw.NoTailY LtnSmYogh LtnSmZDesc LtnSmZDescDep
+		LtnSmZDotBlw LtnSmZDotBlw.SItal LtnSmZHook LtnSmZPalHook
+		LtnSmZPalHookDep LtnSmZSwashTail LtnSmZSwashTailDep LtnStretchedC
+		LtnWynn TripleVertBar CombDblBreveBlw CombDblBreveBlw.ulow
+		CombDblBreveBlw.umid CombDblBreveBlw.blwhigh CombDblBreveBlw.blwhigh.ulow CombDblBreveBlw.blwhigh.umid
+		LtnStretchedCCurl CombDblInvBreveBlw CombDblInvBreveBlw.ulow CombDblInvBreveBlw.umid
+		CombDblInvBreveBlw.blwhigh CombDblInvBreveBlw.blwhigh.ulow CombDblInvBreveBlw.blwhigh.umid CombDblMacronBlw
+		CombDblMacronBlw.ulow CombDblMacronBlw.umid CombDblMacronBlw.blwhigh CombDblMacronBlw.blwhigh.ulow
+		CombDblMacronBlw.blwhigh.umid LtnCapARingBlw LtnSmARingBlw LtnSmARingBlw.2StorySItal
+		LtnSmARingBlw.SngStory CombDblRtArrwBlw.blwhigh CombDblRtArrwBlw.blwhigh.ulow CombDblRtArrwBlw.blwhigh.umid
+		LtnCapBLineBlw LtnCapDLineBlw LtnCapKLineBlw LtnCapLLineBlw
+		LtnCapNLineBlw LtnCapRLineBlw LtnCapTLineBlw LtnCapZLineBlw
+		LtnSmBLineBlw LtnSmDLineBlw LtnSmHLineBlw LtnSmKLineBlw
+		LtnSmLLineBlw LtnSmLLineBlw.SItal LtnSmLLineBlw.TailL LtnSmNLineBlw
+		LtnSmRLineBlw LtnSmTLineBlw LtnSmTLineBlw.NoTailT LtnSmTzDigraph.sc
+		LtnSmZLineBlw LtnSmZLineBlw.SItal LtnSmThornLowStrk LtnCapAOgonek
+		LtnCapEOgonek LtnCapIOgonek LtnCapIOgonek.NB LtnCapOOgonek
+		LtnCapOOgonekMacron LtnSmAOgonek LtnSmAOgonek.2StorySItal LtnSmAOgonek.SngStory
+		LtnSmAOgonek.SngStory.sc LtnSmAOgonek.sc LtnSmIOgonek LtnSmIOgonek.Dotless
+		LtnSmIOgonek.NB LtnSmIOgonek.NB.sc LtnSmIOgonek.TailI CyCapQa
+		LtnCapQ LtnCapQ.DiagTail LtnCapQDiagStrk LtnCapQStrk
+		CySmAbkhasCheDesc.sc CySmDzhe.sc CySmElHook.sc CySmElTail.sc
+		CySmEnHook.sc CySmEnLftHook.sc CySmEsDesc.sc CySmGheDesc.sc
+		CySmGheMiddleHook.sc CySmGheStrkDesc.sc CySmGheStrkHook.sc CySmHaHook.sc
+		CySmKaHook.sc CySmKhakasChe.sc CySmTeDesc.sc CySmZeDesc.sc
+		LtnSmAYDigraph.sc LtnSmCapSmRHookTail LtnSmEng.UCStyle.sc LtnSmEng.sc
+		LtnSmEzh.sc LtnSmEzhCaron.sc LtnSmEzhRev.sc LtnSmFHook.sc
+		LtnSmFStrk.sc LtnSmHeng.sc LtnSmInsularF.sc LtnSmInsularR.sc
+		LtnSmInsularS.sc LtnSmIs.sc LtnSmMHook.sc LtnSmNLftHook.UCStyle.sc
+		LtnSmNLftHook.sc LtnSmNLngRtLeg.sc LtnSmQDiagStrk.DiagTail.sc LtnSmQHookTail.sc
+		LtnSmQStrk.DiagTail.sc LtnSmRHookTail.sc LtnSmRumRotunda.sc LtnSmSSwashTail.sc
+		LtnSmTRetrHook.sc LtnSmVYDigraph.sc LtnSmVend.sc LtnSmVisigothicZ.sc
+		LtnSmZDesc.sc LtnSmZHook.sc LtnSmZPalHook.sc LtnSmZSwashTail.sc
+		LtnWynn.sc CySmEf CySmStraightU CySmStraightUStrk
+		GrSmGamma LtnSmG LtnSmG.BarBowl LtnSmGAcute
+		LtnSmGBreve LtnSmGCaron LtnSmGCedilla LtnSmGCircum
+		LtnSmGDotAbv LtnSmGMacron LtnSmGPalHook LtnSmGStrk
+		LtnSmPhi LtnSmQPDigraph LtnSmQPDigraphDep CySmQa.sc
+		LtnSmQ.DiagTail.sc LtnSmQ.sc LtnSmQDiagStrk.sc LtnSmQStrk.sc
+		InvExclamationMrk LtnCapAtDep LtnCapEt LtnCapYogh
 		LtnCapVisigothicZ LtnInvGlottalStopCurl LtnSmSCurl LtnSmABreveDotBlw.SngStory.sc
 		LtnSmABreveDotBlw.sc LtnSmACircumDotBlw.SngStory.sc LtnSmACircumDotBlw.sc LtnSmADotBlw.SngStory.sc
 		LtnSmADotBlw.sc LtnSmAOgonek.RetroHook.sc LtnSmAOgonek.SngStory.RetroHook.sc LtnSmBDotBlw.sc
@@ -2008,8 +2008,8 @@
 		LtnSmTeshRetrHook LtnSmTeshRetrHook.NoTailT LtnSmIDotBlw.Dotless.NB.sc LtnSmIDotBlw.NB.sc
 		LtnSmIOgonek.NB.RetroHook.sc LtnSmITildeBlw.NB.sc LtnSmNCurl LtnSmPMiddleTilde
 		LtnSmTDiagStrk.NoTailT LtnSmTcDigraphCurl LtnSmTcDigraphCurl.NoTailT LtnSmZCurl
-		LtnSmTsHook.NoTailT LtnSmTurnedT.NoTailT LtnSmYLoop LtnSmYOgonek
-		LtnSmYOgonek.NoTailY LtnSmYOgonek.NoTailY.RetroHook LtnSmYOgonek.RetroHook
+		LtnSmTsHook.NoTailT LtnSmTurnedT LtnSmTurnedT.NoTailT LtnSmYLoop
+		LtnSmYOgonek LtnSmYOgonek.NoTailY LtnSmYOgonek.NoTailY.RetroHook LtnSmYOgonek.RetroHook
 	</class>
 	<class name="c_takes_belowhigh_diac" fixed="0">
 		CombDblBreve.lhigh CombDblBreve.low.lhigh CombDblBreve.mid.lhigh CombDblCircum.lhigh
