@@ -2,6 +2,7 @@
 <glyph name="MetricalBreve" format="2">
   <advance width="1075"/>
   <unicode hex="23D1"/>
+  <anchor x="655" y="860" name="U"/>
   <outline>
     <contour>
       <point x="1110" y="810" type="curve"/>

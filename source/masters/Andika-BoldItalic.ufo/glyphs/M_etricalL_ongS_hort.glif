@@ -2,6 +2,7 @@
 <glyph name="MetricalLongShort" format="2">
   <advance width="1075"/>
   <unicode hex="23D2"/>
+  <anchor x="705" y="1150" name="U"/>
   <outline>
     <contour>
       <point x="213" y="900" type="line"/>

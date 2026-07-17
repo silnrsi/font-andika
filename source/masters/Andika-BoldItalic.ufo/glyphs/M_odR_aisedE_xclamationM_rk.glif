@@ -2,6 +2,8 @@
 <glyph name="ModRaisedExclamationMrk" format="2">
   <advance width="550"/>
   <unicode hex="A71D"/>
+  <anchor x="325" y="615" name="L"/>
+  <anchor x="601" y="1673" name="U"/>
   <outline>
     <component base="ExclamationMrk" xScale="0.7" yScale="0.65" xOffset="98" yOffset="673"/>
   </outline>

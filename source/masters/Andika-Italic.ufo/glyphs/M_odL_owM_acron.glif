@@ -2,6 +2,7 @@
 <glyph name="ModLowMacron" format="2">
   <advance width="730"/>
   <unicode hex="02CD"/>
+  <anchor x="345" y="-70" name="U"/>
   <outline>
     <contour>
       <point x="-98" y="-314" type="line"/>

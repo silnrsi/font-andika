@@ -2,6 +2,8 @@
 <glyph name="ModRaisedInvExclamationMrk" format="2">
   <advance width="550"/>
   <unicode hex="A71E"/>
+  <anchor x="265" y="355" name="L"/>
+  <anchor x="541" y="1413" name="U"/>
   <outline>
     <component base="InvExclamationMrk" xScale="0.7" yScale="0.65" xOffset="119" yOffset="673"/>
   </outline>

@@ -2,6 +2,8 @@
 <glyph name="ModLowInvExclamationMrk" format="2">
   <advance width="550"/>
   <unicode hex="A71F"/>
+  <anchor x="55" y="-635" name="L"/>
+  <anchor x="311" y="423" name="U"/>
   <outline>
     <contour>
       <point x="137" y="59" type="line"/>
