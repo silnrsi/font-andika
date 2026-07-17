@@ -2,6 +2,7 @@
 <glyph name="ModSmS" format="2">
   <advance width="710"/>
   <unicode hex="02E2"/>
+  <anchor x="456" y="680" name="H"/>
   <anchor x="476" y="615" name="L"/>
   <anchor x="662" y="1395" name="U"/>
   <outline>
@@ -44,6 +45,9 @@
       <point x="690" y="1205"/>
       <point x="766" y="1177"/>
       <point x="813" y="1145" type="curve"/>
+    </contour>
+    <contour>
+      <point x="451" y="664" type="move"/>
     </contour>
   </outline>
 </glyph>

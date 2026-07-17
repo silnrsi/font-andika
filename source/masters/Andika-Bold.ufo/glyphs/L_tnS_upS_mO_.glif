@@ -2,6 +2,7 @@
 <glyph name="LtnSupSmO" format="2">
   <advance width="803"/>
   <unicode hex="1D52"/>
+  <anchor x="397" y="680" name="H"/>
   <anchor x="397" y="615" name="L"/>
   <anchor x="597" y="680" name="O"/>
   <anchor x="875" y="1316" name="R"/>
