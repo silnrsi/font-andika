@@ -3,6 +3,7 @@
   <advance width="945"/>
   <unicode hex="015F"/>
   <anchor x="275" y="-520" name="L"/>
+  <anchor x="730" y="0" name="O"/>
   <anchor x="710" y="1100" name="U"/>
   <outline>
     <component base="LtnSmS"/>

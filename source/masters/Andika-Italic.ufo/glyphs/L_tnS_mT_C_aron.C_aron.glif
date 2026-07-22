@@ -3,6 +3,7 @@
   <advance width="815"/>
   <anchor x="455" y="0" name="H"/>
   <anchor x="410" y="-100" name="L"/>
+  <anchor x="640" y="0" name="O"/>
   <anchor x="1025" y="1000" name="R"/>
   <anchor x="694" y="1895" name="U"/>
   <outline>
