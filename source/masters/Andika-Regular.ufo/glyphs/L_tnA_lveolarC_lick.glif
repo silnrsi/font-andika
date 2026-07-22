@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnAlveolarClick" format="2">
-  <advance width="855"/>
+  <advance width="915"/>
   <unicode hex="01C2"/>
   <anchor x="437" y="-500" name="L"/>
   <anchor x="437" y="1635" name="U"/>
   <outline>
     <contour>
-      <point x="515" y="-490" type="line"/>
-      <point x="515" y="1600" type="line"/>
-      <point x="360" y="1600" type="line"/>
-      <point x="360" y="-490" type="line"/>
+      <point x="535" y="-490" type="line"/>
+      <point x="535" y="1600" type="line"/>
+      <point x="380" y="1600" type="line"/>
+      <point x="380" y="-490" type="line"/>
     </contour>
     <contour>
-      <point x="95" y="645" type="line"/>
-      <point x="760" y="645" type="line"/>
-      <point x="760" y="800" type="line"/>
+      <point x="95" y="655" type="line"/>
+      <point x="820" y="655" type="line"/>
+      <point x="820" y="800" type="line"/>
       <point x="95" y="800" type="line"/>
     </contour>
     <contour>
-      <point x="95" y="305" type="line"/>
-      <point x="760" y="305" type="line"/>
-      <point x="760" y="460" type="line"/>
+      <point x="95" y="315" type="line"/>
+      <point x="820" y="315" type="line"/>
+      <point x="820" y="460" type="line"/>
       <point x="95" y="460" type="line"/>
     </contour>
   </outline>

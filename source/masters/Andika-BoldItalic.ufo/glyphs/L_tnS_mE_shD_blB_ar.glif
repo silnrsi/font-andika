@@ -7,16 +7,16 @@
   <outline>
     <component base="LtnSmEsh"/>
     <contour>
-      <point x="154" y="867" type="line"/>
-      <point x="889" y="867" type="line"/>
-      <point x="941" y="1075" type="line"/>
-      <point x="206" y="1075" type="line"/>
+      <point x="124" y="883" type="line"/>
+      <point x="929" y="883" type="line"/>
+      <point x="979" y="1086" type="line"/>
+      <point x="174" y="1086" type="line"/>
     </contour>
     <contour>
-      <point x="65" y="511" type="line"/>
-      <point x="800" y="511" type="line"/>
-      <point x="852" y="719" type="line"/>
-      <point x="117" y="719" type="line"/>
+      <point x="35" y="500" type="line"/>
+      <point x="840" y="500" type="line"/>
+      <point x="890" y="703" type="line"/>
+      <point x="85" y="703" type="line"/>
     </contour>
   </outline>
   <lib>
