@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombCaron.narrow" format="2">
+  <anchor x="-231" y="1635" name="U"/>
+  <anchor x="-320" y="1100" name="_U"/>
+  <outline>
+    <contour>
+      <point x="-664" y="1568" type="line"/>
+      <point x="-409" y="1147" type="line"/>
+      <point x="-239" y="1147" type="line"/>
+      <point x="185" y="1568" type="line"/>
+      <point x="35" y="1568" type="line"/>
+      <point x="-307" y="1294" type="line"/>
+      <point x="-514" y="1568" type="line"/>
+    </contour>
+  </outline>
+</glyph>
