@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmCapGHook" format="2">
-  <advance width="1210"/>
+  <advance width="1209"/>
   <unicode hex="029B"/>
   <anchor x="612" y="-100" name="L"/>
   <anchor x="612" y="1100" name="U"/>
@@ -38,22 +38,22 @@
       <point x="1079" y="108" type="curve"/>
     </contour>
     <contour>
-      <point x="1205" y="1080" type="curve"/>
-      <point x="1247" y="1267" type="line"/>
-      <point x="1196" y="1298"/>
-      <point x="1120" y="1315"/>
-      <point x="1055" y="1315" type="curve" smooth="yes"/>
-      <point x="893" y="1315"/>
-      <point x="787" y="1185"/>
-      <point x="787" y="1018" type="curve" smooth="yes"/>
-      <point x="787" y="869" type="line"/>
-      <point x="992" y="869" type="line"/>
-      <point x="992" y="987" type="line" smooth="yes"/>
-      <point x="992" y="1074"/>
-      <point x="1033" y="1119"/>
-      <point x="1085" y="1119" type="curve" smooth="yes"/>
-      <point x="1133" y="1119"/>
-      <point x="1164" y="1106"/>
+      <point x="992" y="853" type="line"/>
+      <point x="992" y="1059" type="line"/>
+      <point x="992" y="1204"/>
+      <point x="1020" y="1247"/>
+      <point x="1106" y="1247" type="curve" smooth="yes"/>
+      <point x="1155" y="1247"/>
+      <point x="1208" y="1222"/>
+      <point x="1251" y="1182" type="curve"/>
+      <point x="1309" y="1410" type="line"/>
+      <point x="1250" y="1448"/>
+      <point x="1157" y="1480"/>
+      <point x="1083" y="1480" type="curve" smooth="yes"/>
+      <point x="886" y="1480"/>
+      <point x="772" y="1342"/>
+      <point x="772" y="1070" type="curve" smooth="yes"/>
+      <point x="772" y="936" type="line"/>
     </contour>
   </outline>
 </glyph>
