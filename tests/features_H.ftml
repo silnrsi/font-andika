@@ -662,57 +662,57 @@ U+0201" stylename="ss01_1">
     </test>
     <test label="U+0203
 U+0227
-U+1E01
-U+1E21">
-      <comment>LtnSmAInvBreve.SngStory LtnSmADotAbv.SngStory LtnSmARingBlw.SngStory LtnSmGMacron.SngBowl</comment>
-      <string>\u000203\u000327\u000227\u000327\u001E01\u000327\u001E21\u000327</string>
+U+1E01">
+      <comment>LtnSmAInvBreve.SngStory LtnSmADotAbv.SngStory LtnSmARingBlw.SngStory</comment>
+      <string>\u000203\u000327\u000227\u000327\u001E01\u000327</string>
     </test>
     <test label="U+0203
 U+0227
-U+1E01
-U+1E21" stylename="ss01_1">
-      <comment>LtnSmAInvBreve.SngStory LtnSmADotAbv.SngStory LtnSmARingBlw.SngStory LtnSmGMacron.SngBowl</comment>
-      <string>\u000203\u000327\u000227\u000327\u001E01\u000327\u001E21\u000327</string>
+U+1E01" stylename="ss01_1">
+      <comment>LtnSmAInvBreve.SngStory LtnSmADotAbv.SngStory LtnSmARingBlw.SngStory</comment>
+      <string>\u000203\u000327\u000227\u000327\u001E01\u000327</string>
     </test>
-    <test label="U+1E9A
+    <test label="U+1E21
+U+1E9A
 U+1EA1
 U+1EA3
 U+1EA5
 U+1EA7
 U+1EA9
-U+1EAB
-U+1EAD">
-      <comment>LtnSmARtHalfRing.SngStory LtnSmADotBlw.SngStory LtnSmAHookAbv.SngStory LtnSmACircumAcute.SngStory LtnSmACircumGrave.SngStory LtnSmACircumHookAbv.SngStory LtnSmACircumTilde.SngStory LtnSmACircumDotBlw.SngStory</comment>
-      <string>\u001E9A\u000327\u001EA1\u000327\u001EA3\u000327\u001EA5\u000327\u001EA7\u000327\u001EA9\u000327\u001EAB\u000327\u001EAD\u000327</string>
+U+1EAB">
+      <comment>LtnSmGMacron.SngBowl LtnSmARtHalfRing.SngStory LtnSmADotBlw.SngStory LtnSmAHookAbv.SngStory LtnSmACircumAcute.SngStory LtnSmACircumGrave.SngStory LtnSmACircumHookAbv.SngStory LtnSmACircumTilde.SngStory</comment>
+      <string>\u001E21\u000327\u001E9A\u000327\u001EA1\u000327\u001EA3\u000327\u001EA5\u000327\u001EA7\u000327\u001EA9\u000327\u001EAB\u000327</string>
     </test>
-    <test label="U+1E9A
+    <test label="U+1E21
+U+1E9A
 U+1EA1
 U+1EA3
 U+1EA5
 U+1EA7
 U+1EA9
-U+1EAB
-U+1EAD" stylename="ss01_1">
-      <comment>LtnSmARtHalfRing.SngStory LtnSmADotBlw.SngStory LtnSmAHookAbv.SngStory LtnSmACircumAcute.SngStory LtnSmACircumGrave.SngStory LtnSmACircumHookAbv.SngStory LtnSmACircumTilde.SngStory LtnSmACircumDotBlw.SngStory</comment>
-      <string>\u001E9A\u000327\u001EA1\u000327\u001EA3\u000327\u001EA5\u000327\u001EA7\u000327\u001EA9\u000327\u001EAB\u000327\u001EAD\u000327</string>
+U+1EAB" stylename="ss01_1">
+      <comment>LtnSmGMacron.SngBowl LtnSmARtHalfRing.SngStory LtnSmADotBlw.SngStory LtnSmAHookAbv.SngStory LtnSmACircumAcute.SngStory LtnSmACircumGrave.SngStory LtnSmACircumHookAbv.SngStory LtnSmACircumTilde.SngStory</comment>
+      <string>\u001E21\u000327\u001E9A\u000327\u001EA1\u000327\u001EA3\u000327\u001EA5\u000327\u001EA7\u000327\u001EA9\u000327\u001EAB\u000327</string>
     </test>
-    <test label="U+1EAF
+    <test label="U+1EAD
+U+1EAF
 U+1EB1
 U+1EB3
 U+1EB5
 U+1EB7
 U+2C65">
-      <comment>LtnSmABreveAcute.SngStory LtnSmABreveGrave.SngStory LtnSmABreveHookAbv.SngStory LtnSmABreveTilde.SngStory LtnSmABreveDotBlw.SngStory LtnSmAStrk.SngStory</comment>
-      <string>\u001EAF\u000327\u001EB1\u000327\u001EB3\u000327\u001EB5\u000327\u001EB7\u000327\u002C65\u000327</string>
+      <comment>LtnSmACircumDotBlw.SngStory LtnSmABreveAcute.SngStory LtnSmABreveGrave.SngStory LtnSmABreveHookAbv.SngStory LtnSmABreveTilde.SngStory LtnSmABreveDotBlw.SngStory LtnSmAStrk.SngStory</comment>
+      <string>\u001EAD\u000327\u001EAF\u000327\u001EB1\u000327\u001EB3\u000327\u001EB5\u000327\u001EB7\u000327\u002C65\u000327</string>
     </test>
-    <test label="U+1EAF
+    <test label="U+1EAD
+U+1EAF
 U+1EB1
 U+1EB3
 U+1EB5
 U+1EB7
 U+2C65" stylename="ss01_1">
-      <comment>LtnSmABreveAcute.SngStory LtnSmABreveGrave.SngStory LtnSmABreveHookAbv.SngStory LtnSmABreveTilde.SngStory LtnSmABreveDotBlw.SngStory LtnSmAStrk.SngStory</comment>
-      <string>\u001EAF\u000327\u001EB1\u000327\u001EB3\u000327\u001EB5\u000327\u001EB7\u000327\u002C65\u000327</string>
+      <comment>LtnSmACircumDotBlw.SngStory LtnSmABreveAcute.SngStory LtnSmABreveGrave.SngStory LtnSmABreveHookAbv.SngStory LtnSmABreveTilde.SngStory LtnSmABreveDotBlw.SngStory LtnSmAStrk.SngStory</comment>
+      <string>\u001EAD\u000327\u001EAF\u000327\u001EB1\u000327\u001EB3\u000327\u001EB5\u000327\u001EB7\u000327\u002C65\u000327</string>
     </test>
     <test label="U+A7BB">
       <comment>LtnSmAEgAlef.SngStory</comment>
