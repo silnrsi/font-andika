@@ -1,17 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmSakhaYat" format="2">
-  <advance width="2300"/>
+  <advance width="1720"/>
   <unicode hex="AB60"/>
-  <anchor x="1755" y="-100" name="L"/>
-  <anchor x="1780" y="1100" name="U"/>
+  <anchor x="835" y="-100" name="L"/>
+  <anchor x="860" y="1100" name="U"/>
   <outline>
-    <component base="CySmPe"/>
-    <component base="CySmSoftSgn" xOffset="1205"/>
+    <contour>
+      <point x="805" y="0" type="line"/>
+      <point x="914" y="-7"/>
+      <point x="1084" y="-10"/>
+      <point x="1225" y="-10" type="curve" smooth="yes"/>
+      <point x="1503" y="-10"/>
+      <point x="1635" y="122"/>
+      <point x="1635" y="345" type="curve" smooth="yes"/>
+      <point x="1635" y="520"/>
+      <point x="1495" y="645"/>
+      <point x="1210" y="645" type="curve" smooth="yes"/>
+      <point x="1000" y="645" type="line"/>
+      <point x="1000" y="1020" type="line"/>
+      <point x="170" y="1020" type="line"/>
+      <point x="170" y="0" type="line"/>
+      <point x="355" y="0" type="line"/>
+      <point x="355" y="875" type="line"/>
+      <point x="805" y="875" type="line"/>
+    </contour>
+    <contour>
+      <point x="1000" y="130" type="curve"/>
+      <point x="1000" y="505" type="line"/>
+      <point x="1210" y="505" type="line" smooth="yes"/>
+      <point x="1343" y="505"/>
+      <point x="1455" y="463"/>
+      <point x="1455" y="330" type="curve" smooth="yes"/>
+      <point x="1455" y="199"/>
+      <point x="1365" y="125"/>
+      <point x="1215" y="125" type="curve" smooth="yes"/>
+      <point x="1137" y="125"/>
+      <point x="1068" y="126"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

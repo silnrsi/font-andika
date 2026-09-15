@@ -37,6 +37,7 @@
     <string>lo/CombLtnSmD o/CombNumSgn o/CombSharp o/CombFlat o/CombZigZagAbv óo/CombDblArchBlw o/CombDblArchAbv o/CombSeagullBlw o/CombSeagullAbv 
 /LtnCapLambda/LtnCapLambdaStrk/GrSmLamda/LtnSmLambda/LtnSmLambdaStrk yaq/ModSmW íl/LtnSmLambda al/LtnSmLambdaStrk kfuxl/LtnSmTurnedV k</string>
     <string>/LtnSmBHook/LtnSmBLftHook n/LtnRevEshLoop n/LtnSmTurnedHFishhook n/LtnSmULeftHook n/LtnSmLMidLftHook un</string>
+    <string>/CySmYat/LtnSmSakhaYat/LtnSmIotifiedE/LtnSmOpnOe/LtnSmUo</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
@@ -8864,7 +8865,7 @@
     <key>LtnSmDShortStrk</key>
     <string>uniA7C8</string>
     <key>LtnSmDShortStrk.sc</key>
-    <string>uniA7C7.sc</string>
+    <string>uniA7C8.sc</string>
     <key>LtnSmDTail</key>
     <string>uni0256</string>
     <key>LtnSmDTail.sc</key>
@@ -10610,7 +10611,7 @@
     <key>LtnSmSShortStrk</key>
     <string>uniA7CA</string>
     <key>LtnSmSShortStrk.sc</key>
-    <string>uniA7C9.sc</string>
+    <string>uniA7CA.sc</string>
     <key>LtnSmSSwashTail</key>
     <string>uni023F</string>
     <key>LtnSmSSwashTail.sc</key>
