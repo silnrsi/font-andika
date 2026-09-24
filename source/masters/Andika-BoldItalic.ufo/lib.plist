@@ -2133,8 +2133,6 @@
     <string>LtnSmSdwysDiaerU</string>
     <string>LtnSmVHook</string>
     <string>ModSmVHook</string>
-    <string>ModSmVHook.StraightLft</string>
-    <string>ModSmVHook.StraightLftHighHook</string>
     <string>GrSmMu</string>
     <string>LtnSmUpsilon</string>
     <string>LtnSupSmUpsilon</string>
@@ -2191,6 +2189,8 @@
     <string>ModSmVRtHook</string>
     <string>LtnSmVHook.StraightLft</string>
     <string>LtnSmVHook.StraightLftHighHook</string>
+    <string>ModSmVHook.StraightLftHighHook</string>
+    <string>ModSmVHook.StraightLft</string>
     <string>CySmIzhitsa</string>
     <string>LtnSmVCurl</string>
     <string>LtnSmVDiagStrk</string>
@@ -3464,7 +3464,6 @@
     <string>LtnSmLCaron.Caron.TailL</string>
     <string>LtnSmLHighBar.TailL</string>
     <string>LtnSmLMidLftHook.TailL</string>
-    <string>ModSmLBelt.TailL</string>
     <string>LtnSmL.TailL</string>
     <string>ModSmL.TailL</string>
     <string>LtnSmLAcute.TailL</string>
@@ -3482,6 +3481,8 @@
     <string>LtnSmLMiddleTilde.TailL</string>
     <string>LtnSmLStrk.TailL</string>
     <string>LtnSmLBelt.TailL</string>
+    <string>ModSmLBelt.TailL</string>
+    <string>LtnSmLBeltPalHook.TailL</string>
     <string>LtnSmLFishhook.TailL</string>
     <string>LtnSmQStrk.Point</string>
     <string>LtnSmQDiagStrk.Point</string>
@@ -3497,7 +3498,6 @@
     <string>LtnSubSmT.NoTailT</string>
     <string>LtnSmTCaron.Caron.NoTailT</string>
     <string>LtnSmTMidLftHook.NoTailT</string>
-    <string>LtnSmLBeltPalHook.TailL</string>
     <string>LtnSmT.NoTailT</string>
     <string>LtnSupSmT.NoTailT</string>
     <string>CombLtnSmT.NoTailT</string>
