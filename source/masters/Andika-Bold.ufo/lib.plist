@@ -2380,6 +2380,7 @@
     <string>CySmCheDesc</string>
     <string>CySmKhakasChe</string>
     <string>CySmDeCheLig</string>
+    <string>GrSmPsi</string>
     <string>CyCapStraightU</string>
     <string>LtnSmCapY</string>
     <string>LtnSupSmCapY</string>
@@ -6734,6 +6735,8 @@
     <string>phi</string>
     <key>GrSmPi</key>
     <string>pi</string>
+    <key>GrSmPsi</key>
+    <string>psi</string>
     <key>GrSmRho</key>
     <string>rho</string>
     <key>GrSmSigma</key>
