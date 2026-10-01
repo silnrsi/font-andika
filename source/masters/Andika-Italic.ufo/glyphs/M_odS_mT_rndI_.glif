@@ -6,7 +6,7 @@
   <anchor x="717" y="1310" name="R"/>
   <anchor x="441" y="1395" name="U"/>
   <outline>
-    <component base="CombDotBlw" xScale="0.66342" yScale="0.66342" xOffset="742" yOffset="675"/>
+    <component base="CombDotBlw" xScale="0.6634" yScale="0.6634" xOffset="742" yOffset="675"/>
     <contour>
       <point x="253" y="680" type="curve"/>
       <point x="386" y="680" type="line"/>

@@ -1188,6 +1188,7 @@
     <string>LtnSmLambdaStrk</string>
     <string>LtnSmNCurl</string>
     <string>LtnSmRumRotunda</string>
+    <string>LtnSmSakhaYat</string>
     <string>LtnSmTurnedV</string>
     <string>LtnSmTurnedW</string>
     <string>LtnSmTurnedY</string>
@@ -1387,6 +1388,7 @@
     <string>LtnSmTurnedAlpha</string>
     <string>LtnSmTurnedE</string>
     <string>LtnSmTurnedRMiddleTilde</string>
+    <string>LtnSmUo</string>
     <string>LtnSmVHook</string>
   </array>
   <key>public.kern1.LSmRoundDiac</key>
@@ -1445,7 +1447,9 @@
     <string>LtnSmEOgonek.RetroHook</string>
     <string>LtnSmEStrk</string>
     <string>LtnSmETildeBlw</string>
+    <string>LtnSmIotifiedE</string>
     <string>LtnSmLigOe</string>
+    <string>LtnSmOpnOe</string>
     <string>LtnSmUe</string>
   </array>
   <key>public.kern1.LSmRoundEDiac</key>
@@ -2517,6 +2521,7 @@
     <string>LtnSmOpnERetrHook</string>
     <string>LtnSmOpnO</string>
     <string>LtnSmOpnO.TopSerif</string>
+    <string>LtnSmOpnOe</string>
     <string>LtnSmRevC</string>
     <string>LtnSmRevCMiddleDot</string>
     <string>LtnSmS</string>
@@ -3175,6 +3180,7 @@
     <string>LtnSmCapZ</string>
     <string>LtnSmEt</string>
     <string>LtnSmInsularT</string>
+    <string>LtnSmIotifiedE</string>
     <string>LtnSmKra</string>
     <string>LtnSmM</string>
     <string>LtnSmMAcute</string>
@@ -3218,6 +3224,7 @@
     <string>LtnSmRevOpnE</string>
     <string>LtnSmRum</string>
     <string>LtnSmRumRotunda</string>
+    <string>LtnSmSakhaYat</string>
     <string>LtnSmTrndOpnE</string>
     <string>LtnSmTurnedA</string>
     <string>LtnSmTurnedA.2StorySItal</string>
@@ -3254,6 +3261,7 @@
     <string>LtnSmUTilde</string>
     <string>LtnSmUTildeAcute</string>
     <string>LtnSmUe</string>
+    <string>LtnSmUo</string>
     <string>LtnSmUpsilon</string>
     <string>LtnSmUpsilonStrk</string>
     <string>LtnSmVHook</string>

@@ -34,8 +34,7 @@
   <string>Italic</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>lo/CombLtnSmD o/CombNumSgn o/CombSharp o/CombFlat o/CombZigZagAbv óo/CombDblArchBlw o/CombDblArchAbv o/CombSeagullBlw o/CombSeagullAbv 
-/LtnCapLambda/LtnCapLambdaStrk/GrSmLamda/LtnSmLambda/LtnSmLambdaStrk yaq/ModSmW íl/LtnSmLambda al/LtnSmLambdaStrk kfuxl/LtnSmTurnedV k</string>
+    <string>lo/CombLtnSmD o/CombNumSgn o/CombSharp o/CombFlat o/CombZigZagAbv óo/CombDblArchBlw o/CombDblArchAbv o/CombSeagullBlw o/CombSeagullAbv</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
