@@ -335,15 +335,13 @@ U+1E3D" stylename="cv39_1">
       <comment>LtnSmLDotBlw LtnSmLDotBlwMacron LtnSmLLineBlw LtnSmLCircumBlw</comment>
       <string>\u001E37\u000327\u001E39\u000327\u001E3B\u000327\u001E3D\u000327</string>
     </test>
-    <test label="U+1DF11
-U+1DF26">
-      <comment>LtnSmLFishhook LtnSmLMidLftHook</comment>
-      <string>\u01DF11\u000327\u01DF26\u000327</string>
+    <test label="U+1DF26">
+      <comment>LtnSmLMidLftHook</comment>
+      <string>\u01DF26\u000327</string>
     </test>
-    <test label="U+1DF11
-U+1DF26" stylename="cv39_1">
-      <comment>LtnSmLFishhook LtnSmLMidLftHook</comment>
-      <string>\u01DF11\u000327\u01DF26\u000327</string>
+    <test label="U+1DF26" stylename="cv39_1">
+      <comment>LtnSmLMidLftHook</comment>
+      <string>\u01DF26\u000327</string>
     </test>
     <test label="U+0066
 U+006C
@@ -367,13 +365,15 @@ U+006C" stylename="cv39_1">
   <testgroup label="cv43"/>
   <testgroup label="cv44"/>
   <testgroup label="cv46">
-    <test label="U+0254">
-      <comment>LtnSmOpnO</comment>
-      <string>\u000254\u000327</string>
+    <test label="U+0254
+U+1DF42">
+      <comment>LtnSmOpnO LtnSmOpnOBarred</comment>
+      <string>\u000254\u000327\u01DF42\u000327</string>
     </test>
-    <test label="U+0254" stylename="cv46_1">
-      <comment>LtnSmOpnO</comment>
-      <string>\u000254\u000327</string>
+    <test label="U+0254
+U+1DF42" stylename="cv46_1">
+      <comment>LtnSmOpnO LtnSmOpnOBarred</comment>
+      <string>\u000254\u000327\u01DF42\u000327</string>
     </test>
   </testgroup>
   <testgroup label="cv47"/>
