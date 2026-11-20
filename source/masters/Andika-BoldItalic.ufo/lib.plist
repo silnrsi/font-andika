@@ -35,6 +35,7 @@
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>lo/CombLtnSmD o/CombNumSgn o/CombSharp o/CombFlat o/CombZigZagAbv óo/CombDblArchBlw o/CombDblArchAbv o/CombSeagullBlw o/CombSeagullAbv</string>
+    <string>Ø/LtnSmAStrk.2StorySItal/LtnCapAStrk/LtnCapCStrk/LtnCapEStrk</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
